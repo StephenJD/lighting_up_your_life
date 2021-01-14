@@ -3,7 +3,6 @@ title: "Site Structure"
 
 ---
 
-### Site Structure
 see https://gohugo.io/content-management/sections/
 
 1/. Organize content in the content folder/
