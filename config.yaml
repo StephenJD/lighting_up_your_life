@@ -1,0 +1,58 @@
+---
+title: "Life For Liberia"
+baseURL: "https://life-for-liberia.netlify.app/"
+theme: "zen"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Stephen Dolley"
+  url: "https://life-for-liberia.netlify.app/"
+#avatar: "path/to/some-image.jpg"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "sjdolley@gmail.com"
+  copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
+  description: "Teaching Resources for Disciplemaking Churches" # Used in meta tags and JSON-LD
+  dateformat: "2 January, 2006"
+  #favicon: "apple-touch-icon.png" # Relative path to favicon in json feed, no leading slash.
+  feedlinks: false # Show feed links in the footer.
+  #footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  #icon: "apple-touch-icon.png" # Relative path to icon in json feed and JSON-LD, no leading slash.
+  #image: "apple-touch-icon.png" # Relative path to site image in JSON-LD, no leading slash.
+  imageMaxWidth: 400 # Max width for images added via figure shortcode.
+  jquery: true              # Add jQuery
+  #languageDir: ""           # Set ltr or rtl, defaults to ltr.
+  logo: false               # Show the logo.
+  mainSections:             # The sections you want to have listed on the front page.
+    - "section1"            # Default to the section with most content if not set.
+    - "section2"            # Set to empty if no section should be listed.
+  #microUsername: ""         # Your micro.blog username.
+  mobileMenu: true          # Turn on a mobile menu on small screens.
+  poweredby: false          # Show powered by hugo in footer
+  related: true            # Show related post under a "See also" section, default false.
+  searchLimit: 20           # Max number of search hits, default 20.
+  sidebar: true             # Show a sidebar to the right
+  submitted: true           # Show author and date information for a post.
+  
+  podcast:
+    title:                  # * Feed title, defaults to site title (iTunes).
+    description:            # * Feed description/summary, defaults to  site description (iTunes).
+    image:                  # * Feed image, place inside assets directory (iTunes).
+    category:
+      name:                 # * Feed category (iTunes).

@@ -1,0 +1,12 @@
+{{ define "main" -}}
+<main class="main layout__main">
+{{ partial "breadcrumbs-path.html" . }}
+<h1 class="title">{{ .Title }}</h1>
+{{ $paginator := .Paginate (.Pages) -}}
+{{ range $paginator.Pages -}}
+<p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+{{ end -}}
+
+{{ partial "pagination.html" . }}
+</main>
+{{ end }}
