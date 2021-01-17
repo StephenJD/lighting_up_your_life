@@ -1,5 +1,0 @@
----
-title: "Growth Groups"
----
-
-content

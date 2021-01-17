@@ -1,19 +1,24 @@
-{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{- define "main" -}}
 
-{{ define "main" -}}
-<main class="main layout__main">
-<article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
-<div class="content">
-{{ .Content }}
-</div>
-</article>
-
-{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-{{ $paginator := .Paginate $pages -}}
-{{ range $paginator.Pages -}}
-{{ .Render "summary"}}
-{{ end -}}
-
-{{ partial "pagination.html" . }}
-</main>
+{{/* Check that user fully installed Wowchemy. */}}
+{{ if not (isset site.Params "theme") }}
+  {{ errorf "Please complete the installation of Wowchemy by following the steps at https://wowchemy.com/docs/install/" }}
 {{ end }}
+
+{{/* Deprecation warnings */}}
+
+{{/* v4.5: Address changed from string to map. */}}
+{{ if isset site.Params "address" }}
+{{ if eq (reflect.IsMap site.Params.address) false }}
+  {{ errorf "Please upgrade the `address` field in `config/_default/params.toml`. Refer to all of the Breaking Changes in v4.5 at https://wowchemy.com/updates/v4.5.0/" }}
+{{ end }}
+{{ end }}
+
+{{/* Generate homepage. */}}
+{{ if eq .Type "book" }}
+  {{ partial "book_layout.html" . }}
+{{ else }}
+  {{ partial "widget_page.html" . }}
+{{ end }}
+
+{{- end -}}

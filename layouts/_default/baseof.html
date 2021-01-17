@@ -1,43 +1,53 @@
 <!DOCTYPE html>
-<html class="nojs" lang="{{ .Site.LanguageCode | default .Site.Language.Lang }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>{{ block "title" . }}{{ .Title }} – {{ .Site.Title }}{{ end }}</title>
-{{ partial "meta.html" . }}
-{{ partialCached "styles.html" . }}
-{{- block "head" . }}{{ end }}
-{{ partial "meta_json_ld.html" . }}
-{{ partial "scripts.html" . }}
-{{ partialCached "tracking.html" . }}
-</head>
+{{- $language_code := site.LanguageCode | default "en-us" -}}
+<html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
 
-<body class="{{ if .IsPage }}single-page{{ else }}list-page{{ end }}{{ if .IsHome }} front{{ end }}">
-<div class="page layout__page{{ if $.Param "sidebar" | default true }} layout__sidebar-second{{ end }}">
-<header class="header layout__header">
-{{ if $.Param "logo" | default true }}<a href="{{ "/" | relLangURL }}" title="Home" rel="home" class="header__logo"><img src="{{ "/images/logo.png" | relURL }}" alt="Home" class="header__logo-image"></a>{{ end }}
-<h1 class="header__site-name">
-<a href="{{ "/" | relLangURL }}" title="Home" class="header__site-link" rel="home"><span>{{ .Site.Title }}</span></a>
-</h1>
-<div class="region header__region">
-{{ if .Site.IsMultiLingual }}{{ partial "language-selector.html" . }}{{ end -}}
-</div>
-</header>
+{{ partial "site_head" . }}
 
-{{ partial "menu.html" . }}
+{{ $show_navbar := site.Params.main_menu.enable | default true }}
+{{- $highlight_active_link := site.Params.main_menu.highlight_active_link | default true -}}
+<body id="top" data-spy="scroll" {{ if $show_navbar }}data-offset="70"{{end}} data-target="{{ if or .IsHome (eq .Type "widget_page") | and $highlight_active_link }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{ if not (.Scratch.Get "light") }}dark{{end}} {{ if not $show_navbar }}no-navbar{{end}}">
 
-{{ block "main" . }}{{ end }}
+  {{/* Initialise Wowchemy. */}}
+  {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
+  {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
+  {{ $js_license := $js_license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md */\n" }}
+  {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
+  {{ $wcDarkLightEnabled := site.Params.day_night | default false }}
+  {{ $wcIsSiteThemeDark := not (.Scratch.Get "light") | default false }}
+  {{ $js_params := dict "wcDarkLightEnabled" $wcDarkLightEnabled "wcIsSiteThemeDark" $wcIsSiteThemeDark }}
+  {{ $js_bundle := resources.Get "js/wowchemy-init.js" | js.Build (dict "params" $js_params) }}
+  {{- if eq hugo.Environment "production" -}}
+    {{ $js_bundle = $js_bundle | minify }}
+  {{- end -}}
+  {{ $js_bundle := slice $js_bundle_head $js_bundle | resources.Concat "js/wowchemy-init.min.js" }}
+  {{- if eq hugo.Environment "production" -}}
+    {{- $js_bundle = $js_bundle | fingerprint "md5" -}}
+  {{- end -}}
+  <script src="{{ $js_bundle.RelPermalink }}"></script>
 
-{{ if $.Param "sidebar" }}{{ partial "sidebar.html" . }}{{ end -}}
+  {{ partial "search" . }}
 
-<footer class="footer layout__footer">
-{{ if $.Param "feedlinks" }}{{ partial "feedlinks.html" . }}{{ end -}}
-<p>{{ with $.Param "copyright" }}{{ . | markdownify }}{{ else }}<span>© {{ .Site.Title }}</span>{{ end }}</p>
-{{ with $.Param "footer" }}<p>{{ . | markdownify }}</p>{{ end }}
-{{ if $.Param "poweredby" }}<p>Powered by <a href="https://gohugo.io/">Hugo</a> and the <a href="https://github.com/frjo/hugo-theme-zen">Zen theme</a>.</p>{{ end }}
-</footer>
+  <div class="page-header">
+    {{ partial "navbar" . }}
+  </div>
 
-</div>
-{{ if $.Param "mobilemenu" }}{{ partial "mobilemenu.html" . }}{{ end -}}
+  <div class="page-body">
+    {{ block "main" . }}{{ end }}
+  </div>
+
+  <div class="page-footer">
+    {{/* Docs and Updates layouts include the site footer in a different location. */}}
+    {{ if not (in (slice "book" "docs" "updates") .Type) }}
+    <div class="container">
+      {{ partial "site_footer" . }}
+    </div>
+    {{ end }}
+  </div>
+
+  {{ partial "citation" . }}
+
+  {{ partial "site_js" . }}
+
 </body>
 </html>

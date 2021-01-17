@@ -1,3 +1,0 @@
----
-title: "Seven Signs Groups"
----

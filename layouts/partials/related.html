@@ -1,9 +1,0 @@
-<aside class="related layout__related">
-{{ $title := .Title }}
-<h3>{{ i18n "string_see_also" }}</h3>
-<ul>
-{{ range where .CurrentSection.Pages "Title" "!=" $title }}
-<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-{{ end }}
-</ul>
-</aside>

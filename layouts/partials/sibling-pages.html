@@ -1,9 +1,12 @@
 <aside class="related layout__related">
 {{ $title := .Title }}
-<h3>{{ i18n "string_see_also" }}</h3>
+{{ $otherCount := len (.CurrentSection.Pages) }}
+{{ if gt $otherCount 1 }}
+See also
 <ul>
 {{ range where .CurrentSection.Pages "Title" "!=" $title }}
 <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 {{ end }}
 </ul>
+{{ end }}
 </aside>
