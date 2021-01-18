@@ -5,16 +5,16 @@
 
 [[main]]
   name = "Blog"
-  url = "blog"
+  url = "blog/"
   weight = 30
   
 [[main]]
   name = "Practical Projects"
-  url = "practical-projects"
+  url = "practical-projects/"
   weight = 20
 
 [[main]]  
   name = "Teaching Materials"
-  url = "teaching-materials"
+  url = "teaching-materials/"
   weight = 10
  
