@@ -1,9 +1,9 @@
 {{ $current_page := . }}
-
+{{ $print_img := printf "%s/%s" "static/img//" "click-here-to-print.jpg" | relURL }}
 {{/* Check whether to show breadcrumb navigation. */}}
 {{ $breadcrumb_page_types := site.Params.breadcrumb.page_types | default dict }}
 {{ $show_breadcrumb := index $breadcrumb_page_types .Type | default false }}
-
+<link href="/static/css/print.css" media="print" rel="stylesheet" type="text/css" >
 <div class="container-fluid docs">
   <div class="row flex-xl-nowrap">
 
@@ -11,19 +11,25 @@
 
       <article class="article">
 
-        <div class="docs-article-container">
+        <div class="no-print">
           {{ if $show_breadcrumb }}
             {{ partial "breadcrumb" $current_page }}
           {{ end }}
+		</div>
 		 {{ partial "sibling-pages.html" . }}
 		 
           <h1>{{ .Title }}</h1>
+		  <p>{{$print_img}}</p>
+		  <p>{{"click-here-to-print.jpg" | relURL}}</p>
+		  <a href="javascript:window.print()"><img src="{{$print_img}}" alt="print this page" class="no-print" /></a>
 	{{/* Show ToC by default. */}}
     {{ if ne .Params.toc false }}
       <ul class="nav toc-top">
         <li>{{ i18n "on_this_page" }}</li>
       </ul>
+	  <div class="font-weight-bold">
       {{ .TableOfContents }}
+	  </div>
     {{ end }}
           <div class="article-style">
             {{ .Content }}

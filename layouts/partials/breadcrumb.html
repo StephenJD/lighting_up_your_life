@@ -1,5 +1,12 @@
+{{ $show_mobile_breadcrumb := site.Params.breadcrumb.show_mobile_breadcrumb | default false }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "showclass" "d-none d-md-flex" }}
+{{ if $show_mobile_breadcrumb }}
+	{{ $scratch.Set "showclass" "d-md-flex" }}
+{{ end }}
 {{ if not .IsHome }}
-  <nav class="d-none d-md-flex" aria-label="breadcrumb">
+
+  <nav class={{ $scratch.Get "showclass" }} aria-label="breadcrumb">
     <ol class="breadcrumb">
       {{ partial "breadcrumb_helper" . }}
       <li class="breadcrumb-item active" aria-current="page">

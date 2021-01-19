@@ -1,6 +1,8 @@
 ---
 title: "Growth Groups - A Simple Guide"
 type: book
+#type="text/css" 
+media: "print"
 ---
 
 Motto: **Love one another -- Go and make disciples**

@@ -131,7 +131,8 @@ plugins_js  = []
 
 # Breadcrumb navigation
 [breadcrumb]
-  page_types = {book = true}  
+  page_types = {book = true} 
+  show_mobile_breadcrumb = true
 
 # Table of Contents
 toc = {book = true}  
@@ -168,9 +169,6 @@ toc = {book = true}
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
   engine = 1
-  [search.wowchemy]
-	min_length = 1  # Only the matches whose length exceeds this value will be returned.
-	threshold = 0.3  # Where 0 requires a perfect match and 1 matches anything.
 	
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
