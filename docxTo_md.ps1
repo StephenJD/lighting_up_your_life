@@ -38,11 +38,3 @@ foreach($file in Get-ChildItem -Path $inPath -File -Recurse -Filter "*.docx") {
     $lines[0]=$lines[0].Insert(0,$contents) ;
     Set-Content $outFile -Value $lines
 }
-
-$ParmsAdd = @("add", ".")
-$ParmsCommit = @("commit","-m", "Upload new content")
-$ParmsPush = @("push", "origin", "main")
-$Git = "git"
-& $Git $ParmsAdd
-& $Git $ParmsCommit
-& $Git $ParmsPush
