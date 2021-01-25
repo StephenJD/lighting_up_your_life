@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Faith
 type: document-folder
 ---

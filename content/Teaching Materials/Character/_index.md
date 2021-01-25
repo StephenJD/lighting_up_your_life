@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Character
 type: document-folder
 ---

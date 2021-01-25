@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Leadership
 type: document-folder
 ---

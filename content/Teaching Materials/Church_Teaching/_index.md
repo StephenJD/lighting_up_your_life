@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Church_Teaching
 type: document-folder
 ---

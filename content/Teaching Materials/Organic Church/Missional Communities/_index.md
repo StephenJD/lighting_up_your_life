@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Missional Communities
 type: document-folder
 ---

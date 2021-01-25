@@ -131,11 +131,11 @@ plugins_js  = []
 
 # Breadcrumb navigation
 [breadcrumb]
-  page_types = {book = true} 
+  page_types = {document-folder = true, document = true}
   show_mobile_breadcrumb = true
 
 # Table of Contents
-toc = {book = true}  
+toc = {document = true}  
 
 ############################
 ## Comments
@@ -148,7 +148,7 @@ toc = {book = true}
   engine = 0
 
   # Which page types are commentable?
-  commentable = {book = false}
+  commentable = {document = false}
 
   # Configuration of Disqus.
   [comments.disqus]

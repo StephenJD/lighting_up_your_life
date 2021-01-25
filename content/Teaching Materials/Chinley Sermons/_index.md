@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Chinley Sermons
 type: document-folder
 ---

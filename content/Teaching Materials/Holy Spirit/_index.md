@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Holy Spirit
 type: document-folder
 ---

@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Love
 type: document-folder
 ---

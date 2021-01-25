@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Growth Groups
 type: document-folder
 ---

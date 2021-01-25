@@ -1,4 +1,4 @@
 ---
-title: Healing
+title: Salvation
 type: document-folder
 ---
