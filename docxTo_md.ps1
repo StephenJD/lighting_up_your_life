@@ -41,7 +41,7 @@ foreach($file in Get-ChildItem -Path $inPath -File -Recurse -Filter "*.docx") {
 
 $ParmsAdd = @("add", ".")
 $ParmsCommit = @("commit","-m", "Upload new content")
-$ParmsPush = @("push", "origin", "master")
+$ParmsPush = @("push", "origin", "main")
 $Git = "git"
 & $Git $ParmsAdd
 & $Git $ParmsCommit
