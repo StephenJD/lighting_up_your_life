@@ -133,6 +133,7 @@ plugins_js  = []
 [breadcrumb]
   page_types = {document-folder = true, document = true}
   show_mobile_breadcrumb = true
+  show_active = false
 
 # Table of Contents
 toc = {document = true}  
