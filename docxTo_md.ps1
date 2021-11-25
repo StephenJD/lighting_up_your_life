@@ -1,5 +1,5 @@
 #$inPath = $args[0]
-$inPath = "C:\Users\Stephen\Documents\Church_Teaching"
+$inPath = "C:\Users\Stephen\Documents\Church_Published"
 $outPath = Get-Location
 $outPath = Join-Path -Path $outPath -ChildPath "\content\Teaching Materials"
 $Command = "pandoc"
