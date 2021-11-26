@@ -89,10 +89,7 @@ function New-PDF($sourcePath, $destPath, $name){
     $parms = @("-f", $sourcePath, "-O", $file, "-T", "wdFormatPDF", "-OX", ".pdf")
     write-host "Created:" ($name + ".pdf")
     & $docxToPdfCmd $parms
-  } else {
-    $file = $false
   }
-  return $file
 }
 
 function Update-Website{
@@ -117,7 +114,7 @@ foreach($sourceDoc in Get-ChildItem -Path $sourceRootPath -File -Recurse -Filter
   
   # Create English .pdf files
   $englishPDFpath = $englishPDFfolder + $docFolder
-  New-Folder $englishPDFpath
+  $throwAway = New-Folder $englishPDFpath
   New-PDF $sourceDoc $englishPDFpath $docName    
 }
 Update-Website
