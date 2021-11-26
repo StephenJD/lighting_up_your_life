@@ -74,9 +74,11 @@ function New-mdFile($sourcePath, $destPath, $name){
   return $file
 }
 
-function Add-Title ($docPath, $docName){
-  $title = "title: " + $docName
-  $contents = "---`n" + $title + "`ntype: document`n---`n"
+function Add-Header ($docPath, $docName, $englishTitle){
+  $contents = "---`n title: " + $docName
+  $contents += "`ntranslationKey: " + $englishTitle
+  $contents += "`ntype: document"
+  $contents += "`n---`n"
   [System.Collections.ArrayList]$lines=Get-Content $docPath;
   $lines[0]=$lines[0].Insert(0,$contents) ;
   Set-Content $docPath -Value $lines
@@ -110,7 +112,7 @@ foreach($sourceDoc in Get-ChildItem -Path $sourceRootPath -File -Recurse -Filter
   $englishMDpath = $englishMDfolder + $docFolder
   New-mdFolder $englishMDpath
   $mdFile = New-mdFile $sourceDoc $englishMDpath $docName
-  if ($mdFile) {Add-Title $mdFile $docName}
+  if ($mdFile) {Add-Header $mdFile $docName $docName}
   
   # Create English .pdf files
   $englishPDFpath = $englishPDFfolder + $docFolder

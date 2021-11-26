@@ -5,9 +5,6 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-# Title of your site
-title = "Life For Liberia"
-
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://life-for-liberia.netlify.app/"
@@ -36,6 +33,23 @@ enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
+[languages]
+	[languages.en]
+		languageName = English
+		title = "Life For Liberia"
+		weight = 1
+		contentDir: content/english
+	[languages.fr]
+		languageName = French
+		title = "Life For Liberia"
+		weight = 2
+		contentDir: content/french
+	[languages.es]
+		languageName = Spanish
+		title = "Life For Liberia"
+		weight = 3
+		contentDir: content/spanish
+		
 [permalinks]
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
   authors = "/author/:slug/"

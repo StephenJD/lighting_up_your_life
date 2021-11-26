@@ -4,6 +4,13 @@
 {{ $breadcrumb_page_types := site.Params.breadcrumb.page_types | default dict }}
 {{ $show_breadcrumb := index $breadcrumb_page_types .Type | default false }}
 <link href="/static/css/print.css" media="print" rel="stylesheet" type="text/css" >
+{{ if .IsTranslated }}
+	<nav class="LangNav">
+	{{ range .Translations }}
+		<a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+	{{ end}}
+	</nav>
+{{ end }}
 <div class="container-fluid docs">
   <div class="row flex-xl-nowrap">
 
