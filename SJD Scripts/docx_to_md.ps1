@@ -1,4 +1,4 @@
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+#Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 #$sourceRootPath = $args[0]
 $sourceRootPath = "C:\Users\Stephen\Documents\Church_Published"
 $webRootPath = Get-Location
@@ -118,6 +118,6 @@ foreach($sourceDoc in Get-ChildItem -Path $sourceRootPath -File -Recurse -Filter
   # Create English .pdf files
   $englishPDFpath = $englishPDFfolder + $docFolder
   New-Folder $englishPDFpath
-  $mdFile = New-PDF $sourceDoc $englishPDFpath $docName    
+  New-PDF $sourceDoc $englishPDFpath $docName    
 }
 Update-Website
