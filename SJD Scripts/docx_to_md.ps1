@@ -93,7 +93,7 @@ function New-PDF($sourcePath, $destPath, $name){
 }
 
 function Update-Website{
-  $ParmsAdd = @("add", ".")
+  $ParmsAdd = @("add", "..")
   $ParmsCommit = @("commit","-m", "Upload new content")
   $ParmsPush = @("push", "origin", "main")
   $Git = "git"
