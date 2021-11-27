@@ -1,9 +1,6 @@
 ---
 title: How I came to believe in Healing
-type: document
----
----
-title: How I came to believe in Healing
+translationKey: How I came to believe in Healing
 type: document
 ---
 # How I came to believe in healing

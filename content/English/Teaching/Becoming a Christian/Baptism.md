@@ -1,5 +1,6 @@
 ---
 title: Baptism
+translationKey: Baptism
 type: document
 ---
 # Baptism

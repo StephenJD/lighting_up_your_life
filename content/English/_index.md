@@ -1,4 +1,4 @@
 ---
-title: English
+title: english
 type: document-folder
 ---

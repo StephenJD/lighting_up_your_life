@@ -1,9 +1,6 @@
 ---
 title: Recalibrating our Definitions
-type: document
----
----
-title: Recalibrating our Definitions
+translationKey: Recalibrating our Definitions
 type: document
 ---
 # Recalibrating our Definitions.

@@ -1,9 +1,6 @@
 ---
 title: Missional Communities - Quick Start Guide
-type: document
----
----
-title: Missional Communities - Quick Start Guide
+translationKey: Missional Communities - Quick Start Guide
 type: document
 ---
 # Missional Communities -- Quick-Start Guide

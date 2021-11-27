@@ -1,5 +1,6 @@
 ---
 title: How to Pray
+translationKey: How to Pray
 type: document
 ---
 # How to Pray

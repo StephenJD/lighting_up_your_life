@@ -1,9 +1,6 @@
 ---
 title: Elders and Apostles
-type: document
----
----
-title: Elders and Apostles
+translationKey: Elders and Apostles
 type: document
 ---
 ### Elders and Apostles

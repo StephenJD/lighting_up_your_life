@@ -1,9 +1,6 @@
 ---
 title: Ephesians 4 Ministries
-type: document
----
----
-title: Ephesians 4 Ministries
+translationKey: Ephesians 4 Ministries
 type: document
 ---
 # Ephesians 4 Ministries

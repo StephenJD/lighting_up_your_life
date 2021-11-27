@@ -94,6 +94,15 @@ function New-PDF($sourcePath, $destPath, $name){
   }
 }
 
+function New-Translation($sourcePath, $destPath, $name){
+  $file = $destPath + "\" + $name + ".pdf"
+  if (Test-FileNeedsUpdating $sourcePath $file) {
+    $sourcePath = $sourcePath.FullName
+    $parms = @("-f", $sourcePath, "-O", $file, "-T", "wdFormatPDF", "-OX", ".pdf")
+    write-host "Created:" ($name + ".pdf")
+    & $docxToPdfCmd $parms
+  }
+}
 function Update-Website{
   $ParmsAdd = @("add", "..")
   $ParmsCommit = @("commit","-m", "Upload new content")

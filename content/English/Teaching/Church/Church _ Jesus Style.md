@@ -1,9 +1,6 @@
 ---
 title: Church _ Jesus Style
-type: document
----
----
-title: Church _ Jesus Style
+translationKey: Church _ Jesus Style
 type: document
 ---
 **Church - Jesus Style**

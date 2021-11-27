@@ -1,9 +1,6 @@
 ---
 title: Growth Group Reminder Card
-type: document
----
----
-title: Growth Group Reminder Card
+translationKey: Growth Group Reminder Card
 type: document
 ---
 **Growth Group -- Two or three people listening to Jesus**

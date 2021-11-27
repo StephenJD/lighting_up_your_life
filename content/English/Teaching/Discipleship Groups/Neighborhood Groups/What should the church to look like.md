@@ -1,5 +1,6 @@
 ---
 title: What should the church to look like
+translationKey: What should the church to look like
 type: document
 ---
 # What should the church to look like?

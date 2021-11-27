@@ -1,9 +1,6 @@
 ---
 title: Listening To Jesus Conference
-type: document
----
----
-title: Listening To Jesus Conference
+translationKey: Listening To Jesus Conference
 type: document
 ---
 # Listening To Jesus Conference

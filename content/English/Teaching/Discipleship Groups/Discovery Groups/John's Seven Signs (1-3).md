@@ -1,5 +1,6 @@
 ---
 title: John's Seven Signs (1-3)
+translationKey: John's Seven Signs (1-3)
 type: document
 ---
 stirred up; while I am trying to get in, somebody else gets there

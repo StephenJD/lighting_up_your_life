@@ -1,9 +1,6 @@
 ---
 title: Leadership _ Jesus Style
-type: document
----
----
-title: Leadership _ Jesus Style
+translationKey: Leadership _ Jesus Style
 type: document
 ---
 # Leadership -- Jesus Style

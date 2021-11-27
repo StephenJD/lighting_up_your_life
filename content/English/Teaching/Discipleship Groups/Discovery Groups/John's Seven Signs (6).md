@@ -1,5 +1,6 @@
 ---
 title: John's Seven Signs (6)
+translationKey: John's Seven Signs (6)
 type: document
 ---
 **^31 ^**We know that God does not listen to sinners; he does listen to

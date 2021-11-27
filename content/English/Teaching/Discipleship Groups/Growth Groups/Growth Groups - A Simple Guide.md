@@ -1,5 +1,6 @@
 ---
 title: Growth Groups - A Simple Guide
+translationKey: Growth Groups - A Simple Guide
 type: document
 ---
 ## Growth Groups - A Simple Guide

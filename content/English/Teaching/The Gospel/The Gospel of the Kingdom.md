@@ -1,13 +1,6 @@
 ---
 title: The Gospel of the Kingdom
-type: document
----
----
-title: Baptism
-type: document
----
----
-title: The Gospel of the Kingdom
+translationKey: The Gospel of the Kingdom
 type: document
 ---
 # The Gospel of the Kingdom
