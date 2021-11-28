@@ -3,7 +3,7 @@
 {{/* Check whether to show breadcrumb navigation. */}}
 {{ $breadcrumb_page_types := site.Params.breadcrumb.page_types | default dict }}
 {{ $show_breadcrumb := index $breadcrumb_page_types .Type | default false }}
-
+{{ partial "allLanguages.html" }}
 {{/* partial "print-button.html" */}}
 <link href="/static/css/print.css" media="print" rel="stylesheet" type="text/css" >
 <div class="container-fluid docs">
