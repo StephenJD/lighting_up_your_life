@@ -87,6 +87,8 @@ def createHeader (englishTitle, type, language):
     translated = englishTitle
   contents = "---"
   contents += "\ntype: " + type
+  contents += "geometry: margin=2cm"
+  contents += "papersize: a4"
   contents += "\ntranslationKey: " + englishTitle  
   contents += "\ntitle: " + translated  
   contents += "\n---\n"
@@ -101,7 +103,7 @@ def createPDF(sourcePath, destPath, name):
     fromDocxParms = ("-f", sourcePath, "-O", file, "-T", "wdFormatPDF", "-OX", ".pdf")
     print("Created:", file)
     #subprocess.run([docxToPdfCmd, *fromDocxParms], shell=False)
-    subprocess.run([pandocCmd, *fromMD_Parms], shell=False)
+    subprocess.run([pandocCmd, *fromMD_Parms], shell=False) # very slow, and big page boarders
     #tempName.replace(sourcePath)
     tempPDF.replace(file)
 
