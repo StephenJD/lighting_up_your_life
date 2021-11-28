@@ -2,76 +2,76 @@
 type: document
 translationKey: John's Seven Signs (4-5)
 title: Les sept signes de Jean (4-5)---
-**^23Â ^**D'autres bateaux, qui venaient de Tibériade, arrivèrent à terre près du
-lieu où la foule avait mangé le pain après que le Seigneur eut donné
-merci. **^24Â ^**Quand la foule a vu que Jésus n'était pas là, ni son
-disciples, ils montèrent dans ces barques et allèrent à Capharnaüm, à la recherche de
+**^23Â ^**D'autres bateaux, qui venaient de TibÃ©riade, arrivÃ¨rent Ã  terre prÃ¨s du
+lieu oÃ¹ la foule avait mangÃ© le pain aprÃ¨s que le Seigneur eut donnÃ©
+Merci. **^24Â ^**Quand la foule a vu que JÃ©sus n'Ã©tait pas lÃ , ni son
+disciples, ils montÃ¨rent dans ces barques et allÃ¨rent Ã  CapharnaÃ¼m, Ã  la recherche de
 lui.
 
-**^25Â ^**Lorsque les gens trouvèrent Jésus de l'autre côté du lac, ils
-lui dit : « Maître, quand êtes-vous arrivé ici ?
+**^25Â ^**Lorsque les gens trouvÃ¨rent JÃ©sus de l'autre cÃ´tÃ© du lac, ils
+lui dit : Â« MaÃ®tre, quand Ãªtes-vous arrivÃ© ici ?
 
 *(Traduction des bonnes nouvelles)*\
-**Sept signes miraculeux de Jésus**
+**Sept signes miraculeux de JÃ©sus**
 
 Lisez une histoire par jour pendant 1 semaine.
 
 1. Que vous dit cette histoire sur les gens ?
 
-2. Que vous dit cette histoire à propos de Jésus ?
+2. Que vous dit cette histoire Ã  propos de JÃ©sus ?
 
 3. Que dit cette histoire sur vous ?
 
 4. Qui a besoin d'entendre cette histoire ?
 
-# Quatrième signe : Jean 6:1-14 Jésus nourrit cinq mille
+# QuatriÃ¨me signe : Jean 6:1-14 JÃ©sus nourrit cinq mille
 
-Après cela, Jésus traversa le lac de Galilée (ou le lac de Tibériade, comme il est
-aussi appelé).Â **^2Â ^**Une foule nombreuse le suivait, car ils avaient vu
-ses miracles de guérison des malades.Â **^3Â ^**Jésus monta une colline et s'assit
-avec ses disciples.Â **^4Â ^**Le temps de la fête de la Pâque était
-près.Â **^5Â ^**Jésus regarda autour de lui et vit qu'une grande foule arrivait
-à lui, alors il a demandé à Philippe, "Où pouvons-nous acheter assez de nourriture pour nourrir tous
-ces gens ?"Â (**^6Â ^**Il a dit cela pour tester Philip ; en fait, il a déjà
+AprÃ¨s cela, JÃ©sus traversa le lac de GalilÃ©e (ou le lac de TibÃ©riade, comme il est
+aussi appelÃ©). **^2Â ^**Une foule nombreuse le suivait, car ils avaient vu
+ses miracles de guÃ©rison des malades. **^3Â ^**JÃ©sus monta une colline et s'assit
+avec ses disciples. **^4Â ^**L'heure de la fÃªte de la PÃ¢que Ã©tait
+Ã  proximitÃ©. **^5Â ^** JÃ©sus regarda autour de lui et vit qu'une grande foule arrivait
+Ã  lui, alors il a demandÃ© Ã  Philippe, "OÃ¹ pouvons-nous acheter assez de nourriture pour nourrir tous
+ces gensÂ ?"Â (**^6Â ^**Il a dit cela pour tester PhilipÂ ; en fait, il a dÃ©jÃ 
 savait ce qu'il ferait.)
 
-**^7Â ^**Philip a répondu : "Pour que tout le monde en ait ne serait-ce qu'un peu, il faudrait
-prenez plus de deux cents pièces d'argent pour acheter assez de pain."
+**^7Â ^**Philip a rÃ©ponduÂ : "Pour que tout le monde en ait ne serait-ce qu'un peu, il faudrait
+prenez plus de deux cents piÃ¨ces d'argent pour acheter assez de pain."
 
-**^8Â ^**Un autre de ses disciples, Andrew, qui était Simon Peter\'s
-frère, a dit,Â **^9Â ^**"Il y a un garçon ici qui a cinq pains de
+**^8Â ^**Un autre de ses disciples, Andrew, qui Ã©tait Simon Peter\'s
+frÃ¨re, a dit,Â **^9Â ^**"Il y a un garÃ§on ici qui a cinq pains de
 pain d'orge et deux poissons. Mais ils ne seront certainement pas suffisants pour tous
 ces gens."
 
-**^10Â ^**« Faites asseoir les gens », leur dit Jésus. (Il y en avait beaucoup
-d'herbe là-bas.) Alors tout le peuple s'assit; il y avait environ cinq
-mille hommes.**^11Â ^**Jésus prit le pain, remercia Dieu, et
-distribué aux gens qui étaient assis là. Il a fait de même
-avec le poisson, et ils en avaient tous autant qu'ils voulaient.Â **^12Â ^**Quand
-ils étaient tous pleins, il dit à ses disciples : « Rassemblez les morceaux qui restent
-plus de; ne perdons pas un peu."Â **^13Â ^**Alors ils les rassemblèrent tous et
+**^10Â ^** Â«Â Faites asseoir les gensÂ Â», leur dit JÃ©sus. (Il y en avait beaucoup
+d'herbe lÃ -bas.) Alors tout le peuple s'assit; il y avait environ cinq
+mille hommes. **^11Â ^**JÃ©sus prit le pain, rendit grÃ¢ces Ã  Dieu et
+distribuÃ© aux gens qui Ã©taient assis lÃ . Il a fait de mÃªme
+avec le poisson, et ils en avaient tous autant qu'ils voulaient. **^12Â ^**Quand
+ils Ã©taient tous pleins, il dit Ã  ses disciples : Â« Rassemblez les morceaux qui restent
+plus de; ne perdons pas un peu."Â **^13Â ^**Alors ils les rassemblÃ¨rent tous et
 rempli douze paniers avec les morceaux qui restaient des cinq orges
-pains que le peuple avait mangés.
+pains que le peuple avait mangÃ©s.
 
-**^14Â ^**En voyant ce miracle que Jésus avait accompli, les gens là-bas
-dit: "C'est certainement le Prophète qui devait venir dans le monde!"
+**^14Â ^**En voyant ce miracle que JÃ©sus avait accompli, les gens lÃ -bas
+dit: "C'est certainement le ProphÃ¨te qui devait venir dans le monde!"
 
-# Cinquième signe : Jean 6:15-25 Jésus marche sur l'eau
+# CinquiÃ¨me signe : Jean 6:15-25 JÃ©sus marche sur l'eau
 
-**^15Â ^**Jésus savait qu'ils allaient venir le saisir pour
+**^15Â ^**JÃ©sus savait qu'ils allaient venir le saisir pour
 le faire roi par la force ; il repartit donc seul vers les collines.
 
-**^16Â ^**Le soir venu, les disciples de Jésus descendirent au
-lac,Â **^17Â ^** est monté dans un bateau et est retourné à travers le lac vers
-Capharnaüm. La nuit est venue, et Jésus n'était toujours pas venu à
-eux.Â **^18Â ^**À ce moment-là, un vent fort soufflait et remuait le
-l'eau. **^19Â ^**Les disciples avaient ramé environ trois ou quatre milles quand
-ils virent Jésus marchant sur l'eau, s'approchant de la barque, et ils furent
-terrifiés.**^20Â ^**"N'ayez pas peur," leur dit Jésus, "c'est
-Moi!"Â **^21Â ^**Puis ils l'ont volontairement emmené dans le bateau, et immédiatement
-le bateau a atteint la terre à l'endroit où ils se dirigeaient.
+**^16Â ^**Le soir venu, les disciples de JÃ©sus descendirent au
+lac,Â **^17Â ^** est montÃ© dans un bateau et est retournÃ© Ã  travers le lac vers
+CapharnaÃ¼m. La nuit est venue, et JÃ©sus n'Ã©tait toujours pas venu Ã 
+eux. **^18Â ^**Ã€ ce moment-lÃ , un vent fort soufflait et remuait le
+l'eau. **^19Â ^**Les disciples avaient ramÃ© environ trois ou quatre milles quand
+ils virent JÃ©sus marchant sur l'eau, s'approchant de la barque, et ils furent
+terrifiÃ©s.**^20Â ^**"N'ayez pas peur," leur dit JÃ©sus, "c'est
+Moi!"Â **^21Â ^**Puis ils l'ont volontairement emmenÃ© dans le bateau, et immÃ©diatement
+le bateau a atteint la terre Ã  l'endroit oÃ¹ ils se dirigeaient.
 
-**^22Â ^**Le lendemain, la foule qui était restée de l'autre côté de la
-lac s'est rendu compte qu'il n'y avait eu qu'un seul bateau là-bas. Ils savaient que
-Jésus n'y était pas allé avec ses disciples, mais qu'ils étaient partis
+**^22Â ^**Le lendemain, la foule qui Ã©tait restÃ©e de l'autre cÃ´tÃ© de la
+lac s'est rendu compte qu'il n'y avait eu qu'un seul bateau lÃ -bas. Ils savaient que
+JÃ©sus n'y Ã©tait pas allÃ© avec ses disciples, mais qu'ils Ã©taient partis
 sans lui.

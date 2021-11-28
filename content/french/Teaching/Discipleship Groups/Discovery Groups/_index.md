@@ -1,5 +1,5 @@
 ---
 type: document-folder
 translationKey: Discovery Groups
-title: Groupes Découverte
+title: Groupes DÃ©couverte
 ---

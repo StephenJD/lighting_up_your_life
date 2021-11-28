@@ -1,278 +1,278 @@
 ---
 type: document
 translationKey: How Church Buildings Cripple the Gospel
-title: Comment les bâtiments de l'église paralysent l'Évangile---
-# Comment les bâtiments de l'église paralysent l'Évangile
+title: Comment les bÃ¢timents de l'Ã©glise paralysent l'Ã‰vangile---
+# Comment les bÃ¢timents de l'Ã©glise paralysent l'Ã‰vangile
 
 ## Une histoire
 
-Un jour, un groupe de personnes est arrivé en ville. Certains que nous connaissions, mais la plupart étaient
-étrangers - et il y avait des blancs avec eux. Ils nous ont dit
-à propos de Jésus et guéri certains malades. Ils voyageaient de maison en
+Un jour, un groupe de personnes est arrivÃ© en ville. Certains que nous connaissions, mais la plupart Ã©taient
+Ã©trangers - et il y avait des blancs avec eux. Ils nous ont dit
+Ã  propos de JÃ©sus et guÃ©ri certains malades. Ils voyageaient de maison en
 maison puis de village en village baptisant ceux qui voulaient
-suivre Jésus. Nous avions besoin d'en savoir plus sur ce Jésus, alors ils nous ont exhortés
-venir à quelques réunions en ville. Pour commencer, nous nous sommes rencontrés dans un emprunt
-Bâtiment de l'église luthérienne.
+suivre JÃ©sus. Nous avions besoin d'en savoir plus sur ce JÃ©sus, alors ils nous ont exhortÃ©s
+venir Ã  quelques rÃ©unions en ville. Pour commencer, nous nous sommes rencontrÃ©s dans un emprunt
+BÃ¢timent de l'Ã©glise luthÃ©rienne.
 
-Ces missionnaires ont continué à nous rendre visite et bientôt ils ont obtenu des terres dans le
-ville et ont commencé à construire leur propre grand lieu de rencontre solide. Ce
-a augmenté étonnamment vite et ils ont payé tous les matériaux et
-fourni de la nourriture à ceux qui ont aidé à le construire. On suppose que le blanc
-les hommes payaient pour cela. Maintenant, nous avons un endroit sec et abrité qui
-nous pouvons tous nous réunir pour prier, chanter et entendre l'enseignement.
+Ces missionnaires ont continuÃ© Ã  nous rendre visite et bientÃ´t ils ont obtenu des terres dans le
+ville et ont commencÃ© Ã  construire leur propre grand lieu de rencontre solide. Ce
+a augmentÃ© Ã©tonnamment vite et ils ont payÃ© tous les matÃ©riaux et
+fourni de la nourriture Ã  ceux qui ont aidÃ© Ã  le construire. On suppose que le blanc
+les hommes payaient pour cela. Maintenant, nous avons un endroit sec et abritÃ© qui
+nous pouvons tous nous rÃ©unir pour prier, chanter et entendre l'enseignement.
 
-Mais nous avons un problème. Nous avons dit à nos voisins du
-villages au-delà de nous à propos de Jésus et veulent fonder plus d'églises. Mais nous
-n'avons pas l'argent pour construire des bâtiments d'église, et nous n'avons pas les
-hommes blancs pour nous aider. Et maintenant, nous voulons commencer les églises encore plus loin
-un champ. Mais les gens sont encore plus pauvres que nous ! Nous avons demandé au
-missionnaires pour construire des églises pour nous. Ils ont été aussi généreux que
+Mais nous avons un problÃ¨me. Nous avons dit Ã  nos voisins du
+villages au-delÃ  de nous Ã  propos de JÃ©sus et veulent fonder plus d'Ã©glises. Mais nous
+n'avons pas l'argent pour construire des bÃ¢timents d'Ã©glise, et nous n'avons pas les
+hommes blancs pour nous aider. Et maintenant, nous voulons commencer les Ã©glises encore plus loin
+un champ. Mais les gens sont encore plus pauvres que nous ! Nous avons demandÃ© au
+missionnaires pour construire des Ã©glises pour nous. Ils ont Ã©tÃ© aussi gÃ©nÃ©reux que
 ils le peuvent et nous donnent de l'argent de temps en temps, mais ce n'est pas suffisant
 construire quoi que ce soit. Nous ne savons pas quoi faire, alors nous regardons autour de nous
-pour voir s'il y a d'autres églises dans la région qui peuvent nous aider.
+pour voir s'il y a d'autres Ã©glises dans la rÃ©gion qui peuvent nous aider.
 
-Cet étage est imaginé, mais pourrait facilement être raconté par quelqu'un d'un
-village près de Ganglata.
+Cet Ã©tage est imaginÃ©, mais pourrait facilement Ãªtre racontÃ© par quelqu'un d'un
+village prÃ¨s de Ganglata.
 
 ## Une autre histoire
 
-Jésus lançait une campagne à l'échelle de la région ; il n'y avait pas de fin d'endroits
+JÃ©sus lanÃ§ait une campagne Ã  l'Ã©chelle de la rÃ©gion ; il n'y avait pas de fin d'endroits
 qu'il voulait que ses disciples s'adressent. Tout militant politique
-chargerait ses émissaires d'affiches, de tee-shirts et d'argent - le
-les candidats les mieux dotés en ressources ont le plus grand impact. Mais Jésus tourne ça
-sur sa tête :
+chargerait ses Ã©missaires d'affiches, de tee-shirts et d'argent - le
+les candidats les mieux dotÃ©s en ressources ont le plus grand impact. Mais JÃ©sus tourne Ã§a
+sur sa tÃªte :
 
-> Au fur et à mesure, proclamez ce message : « Le royaume des cieux est venu
-> près.' Guérissez les malades, ressuscitez les morts, purifiez les lépreux
-> et chasser les démons. Librement vous avez reçu ; donner librement. **"Ne pas
-> obtenez de l'or, de l'argent ou du cuivre à emporter avec vous dans vos ceintures --- non
-> sac pour le voyage ou chemise supplémentaire ou sandales ou un bâton**, pour le
+> Au fur et Ã  mesure, proclamez ce message : Â« Le royaume des cieux est venu
+> prÃ¨s.' GuÃ©rissez les malades, ressuscitez les morts, purifiez les lÃ©preux
+> et chasser les dÃ©mons. Librement vous avez reÃ§u ; donner librement. **"Ne pas
+> obtenez de l'or, de l'argent ou du cuivre Ã  emporter avec vous dans vos ceintures --- non
+> sac pour le voyage ou chemise supplÃ©mentaire ou sandales ou un bÃ¢ton**, pour le
 > l'ouvrier vaut son entretien. Quelle que soit la ville ou le village que vous entrez, recherchez
-> là pour quelqu'un de digne et restez chez lui jusqu'à ce que vous partiez
-> (Matthieu 10:7-11). Reste là, mangeant et buvant tout ce qu'ils donnent
-> vous, car l'ouvrier mérite son salaire (Luc 10:7)
+> lÃ  pour quelqu'un de digne et restez chez lui jusqu'Ã  ce que vous partiez
+> (Matthieu 10:7-11). Reste lÃ , mangeant et buvant tout ce qu'ils donnent
+> vous, car l'ouvrier mÃ©rite son salaire (Luc 10:7)
 
-Dans la campagne de Jésus, il dit de « donner gratuitement » et pourtant « ne rien prendre avec
-vous ». Ce paradoxe apparent est vraiment important : « Ne rien prendre et donner
+Dans la campagne de JÃ©sus, il dit de Â«Â donner gratuitementÂ Â» et pourtant Â«Â ne rien prendre avec
+vous Â». Ce paradoxe apparent est vraiment important : Â« Ne rien prendre et donner
 librement".
 
-## Ressources illimitées
+## Ressources illimitÃ©es
 
 Comparons maintenant ces deux histoires. Qu'est-ce que "l'homme de paix"
-expérience à l'époque de Jésus ?
+expÃ©rience Ã  l'Ã©poque de JÃ©sus ?
 
-- Deux personnes simplement habillées sont entrées dans mon village sans rien porter
+- Deux personnes simplement habillÃ©es sont entrÃ©es dans mon village sans rien porter
     avec eux.
 
-- Ils m'ont demandé s'ils pouvaient rester quelques jours chez moi.
+- Ils m'ont demandÃ© s'ils pouvaient rester quelques jours chez moi.
 
 ```{=html}
 <!-- -->
 ```
-- Ils ont apporté la guérison, la délivrance, le baptême et ont transformé des vies à
-    notre communauté.
+- Ils ont apportÃ© la guÃ©rison, la dÃ©livrance, le baptÃªme et ont transformÃ© des vies Ã 
+    notre communautÃ©.
 
 - Ils sont partis porter leur message dans un autre village.
 
-- J'y suis allé et j'ai fait la même chose...
+- J'y suis allÃ© et j'ai fait la mÃªme chose...
 
-Que ressent notre ami imaginaire à Ganglata ?
+Que ressent notre ami imaginaire Ã  Ganglata ?
 
-- Une équipe missionnaire bien dotée, avec ses propres voitures,
-    apportant leur propre nourriture et même leurs propres cuisiniers.
+- Une Ã©quipe missionnaire bien dotÃ©e, avec ses propres voitures,
+    apportant leur propre nourriture et mÃªme leurs propres cuisiniers.
 
-- Ils apportent le message de l'évangile avec guérison, délivrance, baptême et
-    des vies transformées.
+- Ils apportent le message de l'Ã©vangile avec guÃ©rison, dÃ©livrance, baptÃªme et
+    des vies transformÃ©es.
 
-- Une grande église bien financée monte.
+- Une grande Ã©glise bien financÃ©e monte.
 
 - Je n'ai pas les ressources pour le faire.
 
-Pouvez-vous voir le problème? Il est tout à fait naturel que les événements liés
-avec l'écoute de l'Evangile restent associés dans l'esprit des gens. Et celles
-les associations affectent la façon dont ils s'y prennent pour transmettre l'Évangile. Si la
-L'évangile est associé à des ressources matérielles, il est paralysé. Si ça
-s'associe à des hommes blancs ou à des églises, ou à des pasteursparalyser l'Évangile.
+Pouvez-vous voir le problÃ¨me? Il est tout Ã  fait naturel que les Ã©vÃ©nements liÃ©s
+avec l'Ã©coute de l'Evangile restent associÃ©s dans l'esprit des gens. Et celles
+les associations affectent la faÃ§on dont ils s'y prennent pour transmettre l'Ã‰vangile. Si la
+L'Ã©vangile est associÃ© Ã  des ressources matÃ©rielles, il est paralysÃ©. Si Ã§a
+s'associe Ã  des hommes blancs ou Ã  des Ã©glises, ou Ã  des pasteursparalyser l'Ã‰vangile.
 
-Les destinataires de l'Evangile ne doivent pas associer les ressources humaines à la
-Gospel. Les disciples sont riches au-delà de toute mesure avec une réserve infinie de
-cadeaux à offrir, mais notre approvisionnement ne dépend pas des ressources humaines
--- pas le nôtre ni celui de quelqu'un d'autre.
+Les destinataires de l'Evangile ne doivent pas associer les ressources humaines Ã  la
+Gospel. Les disciples sont riches au-delÃ  de toute mesure avec une rÃ©serve infinie de
+cadeaux Ã  offrir, mais notre approvisionnement ne dÃ©pend pas des ressources humaines
+-- pas le nÃ´tre ni celui de quelqu'un d'autre.
 
-Pour souligner ce point, Jésus demande spécifiquement aux disciples de
-dépendent de ceux qu'ils servent ; rester dans leurs maisons et manger
-leur nourriture. En termes humains, nous sommes censés dépendre de la
-générosité volontaire de ceux que nous servons ! Jésus est clair ; à la fois
-Récits évangéliques Il le répète en disant : « Un ouvrier est digne de
-son salaire" - ce qui signifie que ceux qui reçoivent l'Evangile doivent fournir
+Pour souligner ce point, JÃ©sus demande spÃ©cifiquement aux disciples de
+dÃ©pendent de ceux qu'ils servent ; rester dans leurs maisons et manger
+leur nourriture. En termes humains, nous sommes censÃ©s dÃ©pendre de la
+gÃ©nÃ©rositÃ© volontaire de ceux que nous servons ! JÃ©sus est clair ; Ã  la fois
+RÃ©cits Ã©vangÃ©liques Il le rÃ©pÃ¨te en disant : Â« Un ouvrier est digne de
+son salaire" - ce qui signifie que ceux qui reÃ§oivent l'Evangile doivent fournir
 pour ceux qui l'apportent.
 
-## D'où vient notre aide...
+## D'oÃ¹ vient notre aide...
 
-L'instruction "Ne prenez pas d'or, d'argent ou de cuivre à emporter avec
-vous dans vos ceintures --- pas de sac pour le voyage ou de chemise ou de sandales supplémentaires ou
-un bâton..." était si important pour Jésus parce qu'il va au cœur de
-notre confiance en Dieu. Vous souvenez-vous des cris des Psalmistes "Je lève les yeux
-à la montagne - d'où vient mon aide ? Mon aide vient du
-Seigneur..." (Ps 121). Jésus leur apprend à s'en remettre à Dieu pour
-ressources pour partir en mission. Nous le savons parce que Jésus se réfère à
-cette instruction bien plus tard dans Son ministère :
+L'instruction "Ne prenez pas d'or, d'argent ou de cuivre Ã  emporter avec
+vous dans vos ceintures --- pas de sac pour le voyage ou de chemise ou de sandales supplÃ©mentaires ou
+un bÃ¢ton..." Ã©tait si important pour JÃ©sus parce qu'il va au cÅ“ur de
+notre confiance en Dieu. Vous souvenez-vous des cris des Psalmistes "Je lÃ¨ve les yeux
+Ã  la montagne - d'oÃ¹ vient mon aide ? Mon aide vient du
+Seigneur..." (Ps 121). JÃ©sus leur apprend Ã  s'en remettre Ã  Dieu pour
+ressources pour partir en mission. Nous le savons parce que JÃ©sus se rÃ©fÃ¨re Ã 
+cette instruction bien plus tard dans Son ministÃ¨re :
 
-> Alors Jésus leur demanda : « Quand je vous ai envoyé sans bourse, sans sac ni sandales,
-> avez-vous manqué de quelque chose?" "Rien", ont-ils répondu (Luc 22:35).
+> Alors JÃ©sus leur demanda : Â« Quand je vous ai envoyÃ© sans bourse, sans sac ni sandales,
+> avez-vous manquÃ© de quelque chose?" "Rien", ont-ils rÃ©pondu (Luc 22:35).
 
-C'est le problème que Jésus essaie d'impressionner sur ses disciples lorsqu'il
-vient apporter l'Evangile à de nouveaux endroits : « Y avait-il quelque chose que vous vouliez
-tu avais emporté avec toi ? Vous êtes-vous retrouvé à dire « Si seulement nous avions
-tel ou tel notre mission aurait été tellement plus efficace » -- a fait
-il te manque quelque chose ? Avez-vous été gêné dans votre mission parce que vous êtes allé
+C'est le problÃ¨me que JÃ©sus essaie d'impressionner sur ses disciples lorsqu'il
+vient apporter l'Evangile Ã  de nouveaux endroits : Â« Y avait-il quelque chose que vous vouliez
+tu avais emportÃ© avec toi ? Vous Ãªtes-vous retrouvÃ© Ã  dire Â« Si seulement nous avions
+tel ou tel notre mission aurait Ã©tÃ© tellement plus efficace Â» -- a fait
+il te manque quelque chose ? Avez-vous Ã©tÃ© gÃªnÃ© dans votre mission parce que vous Ãªtes allÃ©
 les mains vides?"
 
-Jésus voulait que ses disciples apprennent de leur expérience afin qu'ils
-saurait que l'Evangile est une bonne nouvelle en soi. CA ne devrait pas être
-encombré de cadeaux; et la mission ne doit pas être encombrée
-stratégies de mission exigeantes en ressources.
+JÃ©sus voulait que ses disciples apprennent de leur expÃ©rience afin qu'ils
+saurait que l'Evangile est une bonne nouvelle en soi. CA ne devrait pas Ãªtre
+encombrÃ© de cadeaux; et la mission ne doit pas Ãªtre encombrÃ©e
+stratÃ©gies de mission exigeantes en ressources.
 
-## Implantation d'églises à coût zéro
+## Implantation d'Ã©glises Ã  coÃ»t zÃ©ro
 
-L'Evangile est trop précieux et trop facilement corrompu pour que nous risquions
-ignorant les instructions spécifiques de Jésus. Ce ne sont clairement pas de vrais bâtons
-et des sandales et des sacs d'argent dont Jésus s'occupe, mais ce qu'ils
-représenter. La propagation de l'Evangile ne doit pas être associée à
-richesse. L'implantation d'églises à coût zéro était l'idée de Jésus et le commandement de Jésus.
+L'Evangile est trop prÃ©cieux et trop facilement corrompu pour que nous risquions
+ignorant les instructions spÃ©cifiques de JÃ©sus. Ce ne sont clairement pas de vrais bÃ¢tons
+et des sandales et des sacs d'argent dont JÃ©sus s'occupe, mais ce qu'ils
+reprÃ©senter. La propagation de l'Evangile ne doit pas Ãªtre associÃ©e Ã 
+richesse. L'implantation d'Ã©glises Ã  coÃ»t zÃ©ro Ã©tait l'idÃ©e de JÃ©sus et le commandement de JÃ©sus.
 
-Ce modèle d'évangélisation et d'implantation d'églises est totalement biblique. Il est
-modèle de Jésus et celui suivi par les apôtres dans le Nouveau Testament.
-Ils ne sont pas allés avec des cadeaux pour les pauvres et de l'argent à mettre en place
-des lieux de rencontre. Au contraire, ils sont restés chez d'autres,
-se sont réunis dans des bâtiments empruntés et ont collecté de l'argent pour le donner à d'autres
-communautés confrontées à la famine. C'est le modèle biblique.
+Ce modÃ¨le d'Ã©vangÃ©lisation et d'implantation d'Ã©glises est totalement biblique. Il est
+modÃ¨le de JÃ©sus et celui suivi par les apÃ´tres dans le Nouveau Testament.
+Ils ne sont pas allÃ©s avec des cadeaux pour les pauvres et de l'argent Ã  mettre en place
+des lieux de rencontre. Au contraire, ils sont restÃ©s chez d'autres,
+se sont rÃ©unis dans des bÃ¢timents empruntÃ©s et ont collectÃ© de l'argent pour le donner Ã  d'autres
+communautÃ©s confrontÃ©es Ã  la famine. C'est le modÃ¨le biblique.
 
-Malheureusement, comme pour tant d'aspects de l'Évangile, les générations suivantes de
-Les chrétiens se sont éloignés du modèle de Jésus et ont fait les choses par eux-mêmes
-manière. Il est « naturel » de vouloir éviter d'être un fardeau pour toute communauté que nous
+Malheureusement, comme pour tant d'aspects de l'Ã‰vangile, les gÃ©nÃ©rations suivantes de
+Les chrÃ©tiens se sont Ã©loignÃ©s du modÃ¨le de JÃ©sus et ont fait les choses par eux-mÃªmes
+maniÃ¨re. Il est Â« naturel Â» de vouloir Ã©viter d'Ãªtre un fardeau pour toute communautÃ© que nous
 visite avec l'Evangile. Il est "naturel" de vouloir accepter des cadeaux en argent,
-nourriture et vêtements à donner. Il est "naturel" de vouloir notre propre rencontre
+nourriture et vÃªtements Ã  donner. Il est "naturel" de vouloir notre propre rencontre
 lieu afin que nous puissions rassembler les gens pour le culte et l'enseignement.
 
 Tous ces aspects "naturels" ont leur temps et leur place, mais quand
-nous les déplaçons, ils peuvent nuire à l'Évangile. C'est vital
-que nous écoutons et apprenons de Jésus.
+nous les dÃ©plaÃ§ons, ils peuvent nuire Ã  l'Ã‰vangile. C'est vital
+que nous Ã©coutons et apprenons de JÃ©sus.
 
 ## La charrette avant les chevaux
 
-Jésus dit :
+JÃ©sus dit :
 
-- Ne logez pas dans une maison d'hôtes, logez dans une maison de villageois.
+- Ne logez pas dans une maison d'hÃ´tes, logez dans une maison de villageois.
 
-- Ne vous étalez pas le fardeau de votre visite en séjournant chaque nuit dans un
-    maison différente.
+- Ne vous Ã©talez pas le fardeau de votre visite en sÃ©journant chaque nuit dans un
+    maison diffÃ©rente.
 
 - Ne payez pas pour votre propre nourriture - mangez ce qui vous est offert.
 
-- Ne prenez pas de cadeaux à offrir.
+- Ne prenez pas de cadeaux Ã  offrir.
 
-Paul a obéi à cela lorsqu'il a voyagé dans un nouvel endroit. Ensuite, s'il
-a fini par rester pendant une longue période, il a loué une maison et a payé sa
-propre manière de ne pas alourdir l'église naissante.
+Paul a obÃ©i Ã  cela lorsqu'il a voyagÃ© dans un nouvel endroit. Ensuite, s'il
+a fini par rester pendant une longue pÃ©riode, il a louÃ© une maison et a payÃ© sa
+propre maniÃ¨re de ne pas alourdir l'Ã©glise naissante.
 
-Les églises de Paul se réunissaient dans les synagogues, les cours des temples, les marchés --cours. Mettre en place un bâtiment pour une nouvelle église pour se réunir n'est pas
+Les Ã©glises de Paul se rÃ©unissaient dans les synagogues, les cours des temples, les marchÃ©s --cours. Mettre en place un bÃ¢timent pour une nouvelle Ã©glise pour se rÃ©unir n'est pas
 quelque chose que nous n'avons jamais lu dans le Nouveau Testament. C'est mettre la charrue
-avant le cheval. Un bâtiment **ne doit pas** être considéré comme *facilitant* un
-église. Si les gens commencent à penser qu'ils ont besoin d'un bâtiment pour avoir un
-l'église, alors vous paralysez l'Évangile.
+avant le cheval. Un bÃ¢timent **ne doit pas** Ãªtre considÃ©rÃ© comme *facilitant* un
+Ã©glise. Si les gens commencent Ã  penser qu'ils ont besoin d'un bÃ¢timent pour avoir un
+l'Ã©glise, alors vous paralysez l'Ã‰vangile.
 
-Si une mission dans une nouvelle zone construit son propre bâtiment trop tôt, elle
-risquer d'endommager l'Évangile. Voici quelques-uns des problèmes qui peuvent
+Si une mission dans une nouvelle zone construit son propre bÃ¢timent trop tÃ´t, elle
+risquer d'endommager l'Ã‰vangile. Voici quelques-uns des problÃ¨mes qui peuvent
 surgir dans l'esprit des gens :
 
 - J'ai besoin de pouvoir rassembler les gens pour leur dire comment
-    suivre Jésus.
+    suivre JÃ©sus.
 
-- Je ne peux pas commencer une nouvelle église dans un village voisin parce que nous le faisons
-    n'ont pas de bâtiment et ne peuvent pas se permettre d'en construire un.
+- Je ne peux pas commencer une nouvelle Ã©glise dans un village voisin parce que nous le faisons
+    n'ont pas de bÃ¢timent et ne peuvent pas se permettre d'en construire un.
 
-- Les bâtiments d'église sont une priorité plus élevée sur des ressources limitées que
-    nourrir les pauvres ou la santé ou l'éducation des enfants.
+- Les bÃ¢timents d'Ã©glise sont une prioritÃ© plus Ã©levÃ©e sur des ressources limitÃ©es que
+    nourrir les pauvres ou la santÃ© ou l'Ã©ducation des enfants.
 
-- Je dois avoir l'air de réussir si les gens vont prendre mon message
-    sérieusement.
+- Je dois avoir l'air de rÃ©ussir si les gens vont prendre mon message
+    sÃ©rieusement.
 
-Les églises commencent avec des gens, pas des bâtiments. Les églises grandissent avec les gens,
-pas des bâtiments. Les églises remplissent la Grande Commission avec les gens, pas
+Les Ã©glises commencent avec des gens, pas des bÃ¢timents. Les Ã©glises grandissent avec les gens,
+pas des bÃ¢timents. Les Ã©glises remplissent la Grande Commission avec les gens, pas
 immeubles.
 
-En raison de la tradition, les gens supposent qu'une église a besoin de sa propre
-imeuble. Mais cette façon de penser doit être corrigée. Israël voulait
-un roi pour qu'ils soient comme toutes les autres nations - mais c'était
-contre la volonté et l'ordre de Dieu pour la nation. Être comme tout le monde
-n'est pas ce à quoi l'Église est appelée !
+En raison de la tradition, les gens supposent qu'une Ã©glise a besoin de sa propre
+imeuble. Mais cette faÃ§on de penser doit Ãªtre corrigÃ©e. IsraÃ«l voulait
+un roi pour qu'ils soient comme toutes les autres nations - mais c'Ã©tait
+contre la volontÃ© et l'ordre de Dieu pour la nation. ÃŠtre comme tout le monde
+n'est pas ce Ã  quoi l'Ã‰glise est appelÃ©e !
 
 ## Un lieu de rencontre
 
-Les églises sont devenues associées aux bâtiments d'église et cela
-l'association a posé de nombreux problèmes. Le message de l'évangélisation a
-devenir \"Aller à l'église\...\" au lieu d'apporter la guérison et la délivrance
-dans les maisons des gens. Le discipolat est devenu \"Allez à l'église\" à la place
-d'écouter et d'obéir à Jésus dans nos maisons. L'implantation d'églises a
-devenir une question d'ériger des bâtiments au lieu de planter des groupes de
-disciples. Les bâtiments d'église sont utilisés pour donner aux églises un sentiment de
-identité et prestige -- \"Personne ne prendra votre église au sérieux si vous
-n\'avez pas votre propre bâtiment\...\".
+Les Ã©glises sont devenues associÃ©es aux bÃ¢timents d'Ã©glise et cela
+l'association a posÃ© de nombreux problÃ¨mes. Le message de l'Ã©vangÃ©lisation a
+devenir \"Aller Ã  l'Ã©glise\...\" au lieu d'apporter la guÃ©rison et la dÃ©livrance
+dans les maisons des gens. Le discipolat est devenu \"Allez Ã  l'Ã©glise\" Ã  la place
+d'Ã©couter et d'obÃ©ir Ã  JÃ©sus dans nos maisons. L'implantation d'Ã©glises a
+devenir une question d'Ã©riger des bÃ¢timents au lieu de planter des groupes de
+disciples. Les bÃ¢timents d'Ã©glise sont utilisÃ©s pour donner aux Ã©glises un sentiment de
+identitÃ© et prestige -- \"Personne ne prendra votre Ã©glise au sÃ©rieux si vous
+n\'avez pas votre propre bÃ¢timent\...\".
 
-Jésus a dit que nous devrions être une lumière posée sur une colline, pas cachée. Lorsque
-à la recherche d'un lieu pour rassembler les croyants pour le culte, la communion, le partage
-repas et l'enseignement, nous cherchons d'abord des bâtiments publics où les croyants
-sont facilement visibles par la communauté et où les non-membres peuvent facilement venir
-et voir ce qui se passe. Le premier choix serait une hutte à palabres ou
-zone de marché ou tout autre lieu ouvert et public. Peut-être une clinique ou
-l'école peut être utilisable, ou une maison avec un grand porche. Si aucun endroit n'est
-disponibles, nous vous recommandons d'approcher les leaders de la communauté et de leur proposer
-que la communauté érige un lieu de rencontre convenable que l'église puisse
+JÃ©sus a dit que nous devrions Ãªtre une lumiÃ¨re posÃ©e sur une colline, pas cachÃ©e. Lorsque
+Ã  la recherche d'un lieu pour rassembler les croyants pour le culte, la communion, le partage
+repas et l'enseignement, nous cherchons d'abord des bÃ¢timents publics oÃ¹ les croyants
+sont facilement visibles par la communautÃ© et oÃ¹ les non-membres peuvent facilement venir
+et voir ce qui se passe. Le premier choix serait une hutte Ã  palabres ou
+zone de marchÃ© ou tout autre lieu ouvert et public. Peut-Ãªtre une clinique ou
+l'Ã©cole peut Ãªtre utilisable, ou une maison avec un grand porche. Si aucun endroit n'est
+disponibles, nous vous recommandons d'approcher les leaders de la communautÃ© et de leur proposer
+que la communautÃ© Ã©rige un lieu de rencontre convenable que l'Ã©glise puisse
 partager.
 
-Une église basée sur des groupes de croissance peut croître et se multiplier et implanter une église
-sans jamais avoir son propre bâtiment. Les bâtiments doivent être considérés comme un luxe
-pour les communautés qui peuvent bien se le permettre plutôt que comme une nécessité pour
+Une Ã©glise basÃ©e sur des groupes de croissance peut croÃ®tre et se multiplier et implanter une Ã©glise
+sans jamais avoir son propre bÃ¢timent. Les bÃ¢timents doivent Ãªtre considÃ©rÃ©s comme un luxe
+pour les communautÃ©s qui peuvent bien se le permettre plutÃ´t que comme une nÃ©cessitÃ© pour
 mission.
 
-## Nourriture pour la pensée
+## Nourriture pour la pensÃ©e
 
-La tour de Babel est instructive quant à l'utilisation d'un bâtiment pour
-donner un sentiment d'appartenance aux églises :
+La tour de Babel est instructive quant Ã  l'utilisation d'un bÃ¢timent pour
+donner un sentiment d'appartenance aux Ã©glises :
 
 > Maintenant, le monde entier avait une langue et un discours commun \... Alors
-> ils dirent : « Allons, bâtissons-nous une ville, avec une tour qui
+> ils dirent : Â« Allons, bÃ¢tissons-nous une ville, avec une tour qui
 > atteint les cieux, afin que nous puissions nous faire un nom;
-> sinon nous serons dispersés sur toute la surface de la terre."
-> (Genèse 11:1,4)
+> sinon nous serons dispersÃ©s sur toute la surface de la terre."
+> (GenÃ¨se 11:1,4)
 
-Les gens étaient unis par une langue et une culture communes, mais sont devenus
-craignant qu'ils ne se dispersent. Ceci est très similaire à la
-situation d'une petite communauté de croyants dans une ville, ou à travers quelques
-villages voisins. Ils sont unis en Jésus ; ils \"en ont un
-langue\" -- l'Evangile. Mais ils peuvent désirer une marque plus tangible de
-identité pour essayer de les garder ensemble. C'est un désir humain naturel -
-c'est ce qui crée les communautés.
+Les gens Ã©taient unis par une langue et une culture communes, mais sont devenus
+craignant qu'ils ne se dispersent. Ceci est trÃ¨s similaire Ã  la
+situation d'une petite communautÃ© de croyants dans une ville, ou Ã  travers quelques
+villages voisins. Ils sont unis en JÃ©sus ; ils \"en ont un
+langue\" -- l'Evangile. Mais ils peuvent dÃ©sirer une marque plus tangible de
+identitÃ© pour essayer de les garder ensemble. C'est un dÃ©sir humain naturel -
+c'est ce qui crÃ©e les communautÃ©s.
 
-Mais l'histoire de Babel nous apprend que cette volonté de construire une ville (ou un
-lieu de réunion de l'église) peut provenir d'une crainte que sans le bâtiment
-les gens s'éloigneront; ils vont se disperser. Le bâtimentnom pour nous-mêmes\"). Mais Dieu n'était pas satisfait de ce plan et Il a mis
-un arrêt à ça :
+Mais l'histoire de Babel nous apprend que cette volontÃ© de construire une ville (ou un
+lieu de rÃ©union de l'Ã©glise) peut provenir d'une crainte que sans le bÃ¢timent
+les gens s'Ã©loigneront; ils vont se disperser. Le bÃ¢timentnom pour nous-mÃªmes\"). Mais Dieu n'Ã©tait pas satisfait de ce plan et Il a mis
+un arrÃªt Ã  Ã§a :
 
-> Mais le Seigneur descendit pour voir la ville et la tour où le peuple était
-> bâtiment. Le Seigneur a dit : « Si comme un seul peuple parlant la même langue
-> ils ont commencé à le faire, alors rien de ce qu'ils ont l'intention de faire ne sera
+> Mais le Seigneur descendit pour voir la ville et la tour oÃ¹ le peuple Ã©tait
+> bÃ¢timent. Le Seigneur a dit : Â« Si comme un seul peuple parlant la mÃªme langue
+> ils ont commencÃ© Ã  le faire, alors rien de ce qu'ils ont l'intention de faire ne sera
 > impossible pour eux. Viens, descendons et confondons leur langue
 > afin qu'ils ne se comprennent pas." Alors le Seigneur les dispersa
-> de là sur toute la terre, et ils cessèrent de construire la ville.
-> (Genèse 11:5-8)
+> de lÃ  sur toute la terre, et ils cessÃ¨rent de construire la ville.
+> (GenÃ¨se 11:5-8)
 
-Cela nous dit que lorsque les gens se réunissent et se mettent d'accord sur un projet
-ils peuvent y arriver -- même si ce n'est pas la volonté de Dieu ! Ces gens
-n'auraient pas dû essayer de se faire un nom, mais plutôt
-ils auraient dû adorer Dieu et dépendre de Lui.
+Cela nous dit que lorsque les gens se rÃ©unissent et se mettent d'accord sur un projet
+ils peuvent y arriver -- mÃªme si ce n'est pas la volontÃ© de Dieu ! Ces gens
+n'auraient pas dÃ» essayer de se faire un nom, mais plutÃ´t
+ils auraient dÃ» adorer Dieu et dÃ©pendre de Lui.
 
-Avant de commencer à ériger un bâtiment d'église, nous devons être sûrs que ce
-est la volonté de Dieu, et pas seulement notre propre réponse à la peur que sans un
-les gens du bâtiment ne nous prendront pas au sérieux.
+Avant de commencer Ã  Ã©riger un bÃ¢timent d'Ã©glise, nous devons Ãªtre sÃ»rs que ce
+est la volontÃ© de Dieu, et pas seulement notre propre rÃ©ponse Ã  la peur que sans un
+les gens du bÃ¢timent ne nous prendront pas au sÃ©rieux.

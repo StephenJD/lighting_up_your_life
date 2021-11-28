@@ -2,121 +2,121 @@
 type: document
 translationKey: John's Seven Signs (6)
 title: Les sept signes de Jean (6)---
-**^31Â ^**Nous savons que Dieu n'écoute pas les pécheurs ; il écoute
-des gens qui le respectent et font ce qu'il veut qu'ils fassent.Â **^32Â ^**Depuis
-le début du monde personne n'a jamais entendu parler de quelqu'un qui donne la vue
-à une personne aveugle-née.Â **^33Â ^**À moins que cet homme ne vienne de Dieu, il
+**^31Â ^**Nous savons que Dieu n'Ã©coute pas les pÃ©cheursÂ ; il Ã©coute
+des gens qui le respectent et font ce qu'il veut qu'ils fassent. **^32Â ^**Depuis
+le dÃ©but du monde personne n'a jamais entendu parler de quelqu'un qui donne la vue
+Ã  une personne aveugle de naissance. **^33Â ^** Ã€ moins que cet homme ne vienne de Dieu, il
 ne pas pouvoir faire quoi que ce soit."
 
-**^34Â ^**Ils répondirent : "Tu es né et tu as grandi dans le péché --- et tu
-essaient de nous instruire?" Et ils le chassèrent de la synagogue.
+**^34Â ^**Ils rÃ©pondirent : "Tu es nÃ© et tu as Ã©tÃ© Ã©levÃ© dans le pÃ©chÃ© --- et tu
+essaient de nous instruire?" Et ils le chassÃ¨rent de la synagogue.
 
-**^35Â ^**Quand Jésus a entendu ce qui s'était passé, il a trouvé l'homme et a demandé
-lui : « Croyez-vous au Fils de l'homme ?
+**^35Â ^**Quand JÃ©sus a entendu ce qui s'Ã©tait passÃ©, il a trouvÃ© l'homme et a demandÃ©
+lui : Â« Croyez-vous au Fils de l'homme ?
 
-**^36Â ^**L'homme répondit : « Dites-moi qui il est, monsieur, afin que je puisse
+**^36Â ^**L'homme rÃ©ponditÂ :Â Â«Â Dites-moi qui il est, monsieur, afin que je puisse
 crois en lui!"
 
-**^37Â ^**Jésus lui dit : "Tu l'as déjà vu, et il est le
+**^37Â ^**JÃ©sus lui dit : Â« Tu l'as dÃ©jÃ  vu, et il est le
 celui qui parle avec vous maintenant."
 
-**^38Â ^**"Je crois, Seigneur !" dit l'homme, et il s'agenouilla devant Jésus.
+**^38Â ^**"Je crois, SeigneurÂ !" dit l'homme, et il s'agenouilla devant JÃ©sus.
 
-**^39Â ^**Jésus a dit : "Je suis venu dans ce monde pour juger, afin que les aveugles
+**^39Â ^**JÃ©sus a ditÂ : "Je suis venu dans ce monde pour juger, afin que les aveugles
 devrait voir et ceux qui voient devraient devenir aveugles.
 
-**^40Â ^**Certains pharisiens qui étaient là avec lui l'entendirent dire cela et
-lui a demandé: "Vous ne voulez sûrement pas dire que nous sommes aveugles aussi?"
+**^40Â ^**Certains pharisiens qui Ã©taient lÃ  avec lui l'ont entendu dire cela et
+lui a demandÃ©: "Vous ne voulez sÃ»rement pas dire que nous sommes aveugles aussi?"
 
-**^41Â ^**Jésus répondit : « Si vous étiez aveugle, vous ne seriez pas
-coupable; mais puisque vous prétendez que vous pouvez voir, cela signifie que vous êtes
+**^41Â ^** JÃ©sus rÃ©ponditÂ :Â Â«Â Si vous Ã©tiez aveugle, vous ne seriez pas
+coupable; mais puisque vous prÃ©tendez que vous pouvez voir, cela signifie que vous Ãªtes
 toujours coupable."
 
 #
 
-# *(Traduction de la bonne nouvelle)* Sept signes miraculeux de Jésus
+# *(Traduction de la bonne nouvelle)* Sept signes miraculeux de JÃ©sus
 
-# Sixième signe : Jean 9 :1-41 Guérison de l'aveugle-né
+# SixiÃ¨me signe : Jean 9Â :1-41 GuÃ©rison de l'aveugle-nÃ©
 
-Alors que Jésus marchait, il vit un homme qui était né
-aveugle. **^2Â ^**Ses disciples lui demandèrent : "Maître, dont le péché l'a causé
-être né aveugle ? Était-ce son propre péché ou celui de ses parents ? »
+Alors que JÃ©sus marchait, il vit un homme qui Ã©tait nÃ©
+aveugle. **^2Â ^**Ses disciples lui demandÃ¨rentÂ : "MaÃ®tre, dont le pÃ©chÃ© l'a causÃ©
+Ãªtre nÃ© aveugle ? Ã‰tait-ce son propre pÃ©chÃ© ou celui de ses parentsÂ ?Â Â»
 
-**^3Â ^**Jésus répondit : « Son cécité n'a rien à voir avec ses péchés
-ou les péchés de ses parents. Il est aveugle pour que la puissance de Dieu puisse être vue à
-travailler en lui.Â **^4Â ^**Tant qu'il fait jour, nous devons faire le travail de lui
-qui m'a envoyé ; la nuit arrive quand personne ne peut travailler.Â **^5Â ^**Pendant que je suis dans
-le monde, je suis la lumière du monde."
+**^3Â ^**JÃ©sus rÃ©ponditÂ :Â Â«Â Son cÃ©citÃ© n'a rien Ã  voir avec ses pÃ©chÃ©s
+ou les pÃ©chÃ©s de ses parents. Il est aveugle pour que la puissance de Dieu puisse Ãªtre vue Ã 
+travailler en lui. **^4Â ^** Tant qu'il fait jour, nous devons faire le travail de lui
+qui m'a envoyÃ©Â ; la nuit arrive quand personne ne peut travailler. **^5Â ^**Pendant que je suis dans
+le monde, je suis la lumiÃ¨re du monde."
 
-**^6Â ^**Après avoir dit cela, Jésus a craché sur le sol et a fait de la boue
-avec la salive; il a frotté la boue sur les yeux de l'homme **^7Â ^** et a dit
-lui : « Va te laver le visage dans la piscine de Siloé. (Ce nom signifie
-"Envoyé.") Alors l'homme alla, se lava le visage, et revint en voyant.
+**^6Â ^**AprÃ¨s avoir dit cela, JÃ©sus a crachÃ© par terre et a fait de la boue
+avec la salive; il a frottÃ© la boue sur les yeux de l'hommeÂ **^7Â ^** et a dit
+lui : Â« Va te laver le visage dans la piscine de SiloÃ©. (Ce nom signifie
+"EnvoyÃ©.") Alors l'homme alla, se lava le visage, et revint en voyant.
 
 **^8Â ^**Ses voisins donc et les gens qui l'avaient vu mendier
-avant cela, a demandé: "N'est-ce pas l'homme qui avait l'habitude de s'asseoir et de mendier?"
+avant cela, a demandÃ©: "N'est-ce pas l'homme qui avait l'habitude de s'asseoir et de mendier?"
 
-**^9Â ^**Certains ont dit : « C'est lui », mais d'autres ont dit : « Non, il ne l'est pas ; il
+**^9Â ^**Â Certains ont ditÂ :Â Â«Â C'est luiÂ Â», mais d'autres ont ditÂ :Â Â«Â Non, il ne l'est pasÂ ; il
 lui ressemble tout simplement."
 
-Alors l'homme lui-même a dit: "Je suis l'homme."
+Alors l'homme lui-mÃªme a dit: "Je suis l'homme."
 
-**^10Â ^**"Comment voyez-vous maintenant ?" lui ont-ils demandé.
+**^10Â ^**"Comment voyez-vous maintenantÂ ?" lui ont-ils demandÃ©.
 
-**^11Â ^**Il a répondu : "L'homme appelé Jésus a fait de la boue, l'a frottée sur
-mes yeux, et m'a dit d'aller à Siloé et de me laver le visage. Alors je suis allé, et comme
-dès que je me suis lavé, j'ai pu voir."
+**^11Â ^**Il a rÃ©ponduÂ : "L'homme appelÃ© JÃ©sus a fait de la boue, l'a frottÃ©e sur
+mes yeux, et m'a dit d'aller Ã  SiloÃ© et de me laver le visage. Alors je suis allÃ©, et comme
+dÃ¨s que je me suis lavÃ©, j'ai pu voir."
 
-**^12Â ^**"Où est-il ?" ils ont demandé.
+**^12Â ^**"OÃ¹ est-ilÂ ?" ils ont demandÃ©.
 
-"Je ne sais pas," répondit-il.
+"Je ne sais pas," rÃ©pondit-il.
 
-**^13Â ^**Puis ils prirent chez les pharisiens l'homme qui avait été
-aveugle.Â **^14Â ^**Le jour où Jésus a fait la boue et l'a guéri de son
-la cécité était un sabbat. **^15Â ^**Les pharisiens, alors, ont demandé à l'homme
-comment il avait recouvré la vue. Il leur a dit : « Il a mis de la boue sur
-mes yeux; Je me suis lavé le visage et maintenant je peux voir."
+**^13Â ^**Puis ils prirent chez les pharisiens l'homme qui avait Ã©tÃ©
+aveugle. **^14Â ^**Le jour oÃ¹ JÃ©sus a fait la boue et l'a guÃ©ri de ses
+la cÃ©citÃ© Ã©tait un sabbat. **^15Â ^**Les pharisiens ont alors demandÃ© Ã  l'homme
+comment il avait recouvrÃ© la vue. Il leur a dit : Â« Il a mis de la boue sur
+mes yeux; Je me suis lavÃ© le visage et maintenant je peux voir."
 
-**^16Â ^**Certains pharisiens ont dit : « L'homme qui a fait cela ne peut pas être
-de Dieu, car il n'obéit pas à la loi du sabbat."
+**^16Â ^**Certains pharisiens ont ditÂ : "L'homme qui a fait cela ne peut pas Ãªtre
+de Dieu, car il n'obÃ©it pas Ã  la loi du sabbat."
 
-D'autres, cependant, disaient : « Comment un homme qui est un pécheur peut-il accomplir de telles
+D'autres, cependant, disaient : Â« Comment un homme qui est un pÃ©cheur peut-il accomplir de telles
 miracles comme ceux-ci?" Et il y avait une division parmi eux.
 
-**^17Â ^**Alors les Pharisiens demandèrent une fois de plus à l'homme : « Vous dites qu'il vous a guéri
-de votre cécité --- eh bien, que dites-vous de lui ? »
+**^17Â ^**Alors les pharisiens demandÃ¨rent une fois de plus Ã  l'hommeÂ : Â«Â Vous dites qu'il vous a guÃ©ri
+de votre cÃ©citÃ© --- eh bien, que dites-vous de luiÂ ?Â Â»
 
-"C'est un prophète", répondit l'homme.
+"C'est un prophÃ¨te", rÃ©pondit l'homme.
 
-**^18Â ^**Les autorités juives, cependant, ne voulaient pas croire
-qu'il avait été aveugle et qu'il pouvait maintenant voir, jusqu'à ce qu'ils appellent son
-parentsÂ **^19Â ^**et leur a demandé : "Est-ce votre fils ? Vous dites qu'il était
+**^18Â ^**Les autoritÃ©s juives, cependant, ne voulaient pas croire
+qu'il avait Ã©tÃ© aveugle et qu'il pouvait maintenant voir, jusqu'Ã  ce qu'ils appellent son
+parentsÂ **^19Â ^** et leur a demandÃ©Â : Â«Â Est-ce votre filsÂ ? Vous dites qu'il Ã©tait
 aveugle de naissance; comment se fait-il alors qu'il puisse voir maintenant ?"
 
-**^20Â ^**Ses parents ont répondu : "Nous savons qu'il est notre fils, et nous savons
-qu'il est né aveugle.Â **^21Â ^**Mais nous ne savons pas comment il est
-maintenant capable de voir, et nous ne savons pas qui l'a guéri de sa cécité. Demande lui;ont dit cela parce qu'ils avaient peur des autorités juives, qui avaient
-déjà convenu que quiconque disait croire que Jésus était le
-Le Messie serait expulsé de la synagogue. **^23Â ^**C'est pourquoi son
-les parents ont dit : « Il est assez vieux, demandez-lui !
+**^20Â ^**Ses parents ont rÃ©ponduÂ : "Nous savons qu'il est notre fils, et nous savons
+qu'il est nÃ© aveugle. **^21Â ^**Mais nous ne savons pas comment il est
+maintenant capable de voir, et nous ne savons pas qui l'a guÃ©ri de sa cÃ©citÃ©. Demande lui;ont dit cela parce qu'ils avaient peur des autoritÃ©s juives, qui avaient
+dÃ©jÃ  convenu que quiconque disait croire que JÃ©sus Ã©tait le
+Le Messie serait expulsÃ© de la synagogue. **^23Â ^**C'est pourquoi son
+les parents ont dit : Â« Il est assez vieux, demandez-lui !
 
-**^24Â ^**Une seconde fois, ils rappelèrent l'aveugle de naissance,
-et lui dit : « Promets devant Dieu que tu diras la vérité !
-sache que cet homme qui t'a guéri est un pécheur."
+**^24Â ^**Une deuxiÃ¨me fois, ils rappelÃ¨rent l'aveugle de naissance,
+et lui dit : Â« Promets devant Dieu que tu diras la vÃ©ritÃ© !
+sache que cet homme qui t'a guÃ©ri est un pÃ©cheur."
 
-**^25Â ^**"Je ne sais pas s'il est pécheur ou non", répondit l'homme. "Une
-chose que je sais : j'étais aveugle, et maintenant je vois."
+**^25Â ^** "Je ne sais pas s'il est pÃ©cheur ou non", rÃ©pondit l'homme. "Une
+chose que je sais : j'Ã©tais aveugle, et maintenant je vois."
 
-**^26Â ^**"Qu'est-ce qu'il t'a fait ?" ils ont demandé. "Comment t'a-t-il guéri de
-ta cécité ?"
+**^26Â ^**"Qu'est-ce qu'il t'a faitÂ ?" ils ont demandÃ©. "Comment t'a-t-il guÃ©ri de
+ta cÃ©citÃ© ?"
 
-**^27Â ^**"Je vous l'ai déjà dit," répondit-il, "et vous ne voudriez pas
-Ecoutez. Pourquoi veux-tu l'entendre à nouveau? Peut-être que vous aussi, vous aimeriez
-être ses disciples ?"
+**^27Â ^**"Je vous l'ai dÃ©jÃ  dit," rÃ©pondit-il, "et vous ne voudriez pas
+Ecoutez. Pourquoi veux-tu l'entendre Ã  nouveau? Peut-Ãªtre que vous aussi, vous aimeriez
+Ãªtre ses disciples ?"
 
-**^28Â ^**Ils l'insultèrent et dirent : « Vous êtes le disciple de cet homme ;
-mais nous sommes les disciples de Moïse.Â **^29Â ^**Nous savons que Dieu a parlé à Moïse ;
-quant à cet homme, cependant, nous ne savons même pas d'où il vient!"
+**^28Â ^**Ils l'insultÃ¨rent et lui direntÂ :Â Â«Â Vous Ãªtes le disciple de cet hommeÂ ;
+mais nous sommes les disciples de MoÃ¯se. **^29Â ^**Nous savons que Dieu a parlÃ© Ã  MoÃ¯seÂ ;
+quant Ã  cet homme, cependant, nous ne savons mÃªme pas d'oÃ¹ il vient!"
 
-**^30Â ^**L'homme répondit : « Quelle chose étrange ! Vous ne
-sais d'où il vient, mais il m'a guéri de ma cécité !
+**^30Â ^**L'homme rÃ©ponditÂ :Â Â«Â Quelle chose Ã©trangeÂ ! Vous ne
+sais d'oÃ¹ il vient, mais il m'a guÃ©ri de ma cÃ©citÃ© !

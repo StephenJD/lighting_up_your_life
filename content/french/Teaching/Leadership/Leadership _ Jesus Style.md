@@ -1,591 +1,591 @@
 ---
 type: document
 translationKey: Leadership _ Jesus Style
-title: Leadership _ Style Jésus---
-# Leadership -- Style Jésus
+title: Leadership _ Style JÃ©sus---
+# Leadership -- Style JÃ©sus
 
 ## **Le leadership est naturel.**
 
 Le leadership est naturel. Parmi n'importe quel groupe d'enfants dans une aire de jeux un
-le leader émergera. Chaque société dans le monde s'organise pour avoir
+le leader Ã©mergera. Chaque sociÃ©tÃ© dans le monde s'organise pour avoir
 dirigeants. Ils le font parce qu'ils reconnaissent qu'il y a des
-objectif qui ne peut être atteint que par un effort commun et organisé.
+objectif qui ne peut Ãªtre atteint que par un effort commun et organisÃ©.
 
-Parce que Dieu nous a créés avec ce désir inné d'organiser notre
-communautés et pour valoriser le leadership, certaines personnes ont un désir naturel
-diriger et les autres ont un désir naturel d'être dirigé. Certains apprécient le
-stimulation et défi du leadership; d'autres apprécient la sécurité de
+Parce que Dieu nous a crÃ©Ã©s avec ce dÃ©sir innÃ© d'organiser notre
+communautÃ©s et pour valoriser le leadership, certaines personnes ont un dÃ©sir naturel
+diriger et les autres ont un dÃ©sir naturel d'Ãªtre dirigÃ©. Certains apprÃ©cient le
+stimulation et dÃ©fi du leadership; d'autres apprÃ©cient la sÃ©curitÃ© de
 suivre l'exemple de quelqu'un d'autre.
 
-Les dirigeants ont donc tendance à être volontaires, déterminés, ambitieux et
-parfois impitoyable alors que les adeptes ont tendance à être dociles, volontaires,
-facilement persuadé et doux.
+Les dirigeants ont donc tendance Ã  Ãªtre volontaires, dÃ©terminÃ©s, ambitieux et
+parfois impitoyable alors que les adeptes ont tendance Ã  Ãªtre dociles, volontaires,
+facilement persuadÃ© et doux.
 
-## **Le leadership a été corrompu par la chute**
+## **Le leadership a Ã©tÃ© corrompu par la chute**
 
-Bien que Dieu ait conçu le leadership pour notre bien, la chute a
-l'a corrompu de sorte que beaucoup de mal a également été fait. Quelques aspects clés de
-leadership qui sont couramment rencontrés dans le monde n'ont pas leur place dans
+Bien que Dieu ait conÃ§u le leadership pour notre bien, la chute a
+l'a corrompu de sorte que beaucoup de mal a Ã©galement Ã©tÃ© fait. Quelques aspects clÃ©s de
+leadership qui sont couramment rencontrÃ©s dans le monde n'ont pas leur place dans
 le Royaume de Dieu :
 
-> « Jésus les a réunis et a dit : « Vous savez que ceux qui sont
-> considérés comme les dirigeants des Gentils les dominent, et leur haut
-> les fonctionnaires exercent une autorité sur eux. Ce n'est pas le cas avec toi. Au lieu,
-> celui qui veut devenir grand parmi vous doit être votre serviteur, et
-> celui qui veut être le premier doit être l'esclave de tous." (Mc 10:42-44 NIV)
+> Â«Â JÃ©sus les a rÃ©unis et a ditÂ :Â Â«Â Vous savez que ceux qui sont
+> considÃ©rÃ©s comme les dirigeants des Gentils les dominent, et leur haut
+> les fonctionnaires exercent une autoritÃ© sur eux. Ce n'est pas le cas avec toi. Au lieu,
+> celui qui veut devenir grand parmi vous doit Ãªtre votre serviteur, et
+> celui qui veut Ãªtre le premier doit Ãªtre l'esclave de tous." (Mc 10:42-44 NIV)
 
-Jésus a dit que parmi les chefs des Gentils dominent le peuple et
-exercer l'autorité, mais qu'il n'en sera pas ainsi parmi vous. Malheureusement beaucoup
-les églises ont ignoré ce commandement. Il est courant que les églises aient
-des dirigeants très contrôlants. C'est exactement comment Jésus a dit qu'il ne devrait pas
-être.
+JÃ©sus a dit que parmi les chefs des Gentils dominent le peuple et
+exercer l'autoritÃ©, mais qu'il n'en sera pas ainsi parmi vous. Malheureusement beaucoup
+les Ã©glises ont ignorÃ© ce commandement. Il est courant que les Ã©glises aient
+des dirigeants trÃ¨s contrÃ´lants. C'est exactement comment JÃ©sus a dit qu'il ne devrait pas
+Ãªtre.
 
 ## **Le leadership du Royaume est contre-culturel**
 
-Le leadership du Royaume est fondamentalement contre-culturel. C'est très
-difficile pour de nombreux dirigeants d'accepter qu'il soit même possible de diriger
-efficacement d'une manière qui est contraire à leur culture. Nous ne devons pas dire
-"dans notre culture, il faut user d'autorité pour faire quelque chose" puisque
-Jésus dit expressément que la direction du Royaume est contre-culturelle.
+Le leadership du Royaume est fondamentalement contre-culturel. C'est trÃ¨s
+difficile pour de nombreux dirigeants d'accepter qu'il soit mÃªme possible de diriger
+efficacement d'une maniÃ¨re qui est contraire Ã  leur culture. Nous ne devons pas dire
+"dans notre culture, il faut user d'autoritÃ© pour faire quelque chose" puisque
+JÃ©sus dit expressÃ©ment que la direction du Royaume est contre-culturelle.
 
-## **Dons, responsabilité et autorité**
+## **Dons, responsabilitÃ© et autoritÃ©**
 
-Toute autorité a été donnée à Jésus et il nous a donné l'autorité comme
-ses disciples et représentants. Cette autorité est principalement donnée à
-chacun de nous pour établir le Royaume de Dieu sur terre. En son nom nous avons
-l'autorité sur la maladie et toutes les œuvres du diable. Jn 20:21
+Toute autoritÃ© a Ã©tÃ© donnÃ©e Ã  JÃ©sus et il nous a donnÃ© l'autoritÃ© comme
+ses disciples et reprÃ©sentants. Cette autoritÃ© est principalement donnÃ©e Ã 
+chacun de nous pour Ã©tablir le Royaume de Dieu sur terre. En son nom nous avons
+l'autoritÃ© sur la maladie et toutes les Å“uvres du diable. Jn 20:21
 
-Mais nous sommes tous uniques et appelés à être membres du corps du Christ
-chacun contribuant selon nos dons et capacités :
+Mais nous sommes tous uniques et appelÃ©s Ã  Ãªtre membres du corps du Christ
+chacun contribuant selon nos dons et capacitÃ©s :
 
-> "Car par la grâce qui m'a été donnée, je dis à chacun de vous : Ne pensez pas à
-> vous-même plus que vous ne le devriez, mais pensez plutôt à vous avec
-> jugement sobre, selon la mesure de foi que Dieu a donnée
+> "Car par la grÃ¢ce qui m'a Ã©tÃ© donnÃ©e, je dis Ã  chacun de vous : Ne pensez pas Ã 
+> vous-mÃªme plus que vous ne le devriez, mais pensez plutÃ´t Ã  vous avec
+> jugement sobre, selon la mesure de foi que Dieu a donnÃ©e
 > vous. Tout comme chacun de nous a un corps avec de nombreux membres, et ces
-> les membres n'ont pas tous la même fonction, alors en Christ nous qui sommes
-> plusieurs forment un seul corps, et chaque membre appartient à tous les autres." (Rom
+> les membres n'ont pas tous la mÃªme fonction, alors en Christ nous qui sommes
+> plusieurs forment un seul corps, et chaque membre appartient Ã  tous les autres." (Rom
 > 12:3-5 VNI)
 
-Certaines de ces contributions impliquent d'assumer des responsabilités au sein de la
-église. Par exemple, certains se voient confier la responsabilité de diriger le
+Certaines de ces contributions impliquent d'assumer des responsabilitÃ©s au sein de la
+Ã©glise. Par exemple, certains se voient confier la responsabilitÃ© de diriger le
 personnes:
 
-> « si son don est encourageant, qu'il encourage ; s'il contribue
-> aux besoins des autres, qu'il donne généreusement ; si c'est le leadership,
-> qu'il gouverne avec diligence ; si c'est faire preuve de miséricorde, qu'il le fasse
+> Â«Â si son don est encourageant, qu'il encourageÂ ; s'il contribue
+> aux besoins des autres, qu'il donne gÃ©nÃ©reusement ; si c'est le leadership,
+> qu'il gouverne avec diligence ; si c'est faire preuve de misÃ©ricorde, qu'il le fasse
 > joyeusement." (Rom 12:8 NIV)
 
-Certaines responsabilités sont assorties d'une autorité spéciale, mais la responsabilité
-et l'autorité ne doit pas être confondue. Une responsabilité est quelque chose que vous
-**devrait** faire alors que l'autorité est pour quelque chose que vous **pouvez** faire. De nombreux
+Certaines responsabilitÃ©s sont assorties d'une autoritÃ© spÃ©ciale, mais la responsabilitÃ©
+et l'autoritÃ© ne doit pas Ãªtre confondue. Une responsabilitÃ© est quelque chose que vous
+**devrait** faire alors que l'autoritÃ© est pour quelque chose que vous **pouvez** faire. De nombreux
 les gens peuvent avoir le pouvoir de faire quelque chose qu'une seule personne a
-responsabilité pour. Par exemple, tout le monde peut avoir le pouvoir d'aider à mettre
-les chaises, mais une seule personne, le concierge, a la responsabilité
+responsabilitÃ© pour. Par exemple, tout le monde peut avoir le pouvoir d'aider Ã  mettre
+les chaises, mais une seule personne, le concierge, a la responsabilitÃ©
 pour s'assurer qu'ils sont en place. Le concierge peut recevoir des
-l'autorité pour lui permettre de s'acquitter de sa responsabilité, comme laet pour aider avec les chaises. Dans le Royaume nous sommes tous appelés à aimer
-et servez-vous les uns les autres dans une joyeuse soumission à Jésus notre chef.
+l'autoritÃ© pour lui permettre de s'acquitter de sa responsabilitÃ©, comme laet pour aider avec les chaises. Dans le Royaume nous sommes tous appelÃ©s Ã  aimer
+et servez-vous les uns les autres dans une joyeuse soumission Ã  JÃ©sus notre chef.
 
 ## **Estimez vos dirigeants**
 
-1 Thess 5:12-13. Paul exhorte l'église à estimer hautement ceux qui sont
+1 Thess 5:12-13. Paul exhorte l'Ã©glise Ã  estimer hautement ceux qui sont
 sur eux dans le Seigneur. L'honneur et le respect font partie du Royaume, mais
-cela ne doit pas s'égarer dans la supériorité. Dans certaines cultures, il peut être
-approprié pour un leader de porter des vêtements spéciaux ou d'avoir un endroit spécial
-s'asseoir, mais où ces choses sont utilisées pour renforcer un leadership impie
-des styles tels que le dominer ou faire paraître le leader supérieur,
-alors c'est faux. Rappelez-vous que Jésus a spécifiquement mis en garde contre ceux
-qui étaient assis dans des sièges spéciaux :
+cela ne doit pas s'Ã©garer dans la supÃ©rioritÃ©. Dans certaines cultures, il peut Ãªtre
+appropriÃ© pour un leader de porter des vÃªtements spÃ©ciaux ou d'avoir un endroit spÃ©cial
+s'asseoir, mais oÃ¹ ces choses sont utilisÃ©es pour renforcer un leadership impie
+des styles tels que le dominer ou faire paraÃ®tre le leader supÃ©rieur,
+alors c'est faux. Rappelez-vous que JÃ©sus a spÃ©cifiquement mis en garde contre ceux
+qui Ã©taient assis dans des siÃ¨ges spÃ©ciaux :
 
-> "Malheur à vous pharisiens, car vous aimez les places les plus importantes dans
-> les synagogues et les salutations sur les places du marché." (Lc 11:43 NIV)
+> "Malheur Ã  vous pharisiens, car vous aimez les places les plus importantes dans
+> les synagogues et les salutations sur les places du marchÃ©." (Lc 11:43 NIV)
 
-## **Structures d'autorité**
+## **Structures d'autoritÃ©**
 
-Les églises semblent aimer les structures d'autorité où l'autorité est déléguée
-de la tête aux différentes couches en dessous. De telles structures sont un moyen
-de contrôle. Les dirigeants aiment avoir le contrôle. La plupart des dirigeants supposent qu'il
-est leur devoir de contrôler et qu'un tel contrôle est nécessaire pour
-remplir le devoir pour lequel ils ont été nommés. Mais ce n'est pas le modèle
-que Jésus nous donne, ni le modèle de l'église du Nouveau Testament. Personnes
+Les Ã©glises semblent aimer les structures d'autoritÃ© oÃ¹ l'autoritÃ© est dÃ©lÃ©guÃ©e
+de la tÃªte aux diffÃ©rentes couches en dessous. De telles structures sont un moyen
+de contrÃ´le. Les dirigeants aiment avoir le contrÃ´le. La plupart des dirigeants supposent qu'il
+est leur devoir de contrÃ´ler et qu'un tel contrÃ´le est nÃ©cessaire pour
+remplir le devoir pour lequel ils ont Ã©tÃ© nommÃ©s. Mais ce n'est pas le modÃ¨le
+que JÃ©sus nous donne, ni le modÃ¨le de l'Ã©glise du Nouveau Testament. Personnes
 parlent souvent de servir le leadership, mais c'est l'inverse de ce que
-Jésus a enseigné. Il a dit:
+JÃ©sus a enseignÃ©. Il a dit:
 
-> "Car même le Fils de l'homme n'est pas venu pour être servi, mais pour servir, et
-> donner sa vie en rançon pour la multitude.\" (Mc 10:45 NIV)
+> "Car mÃªme le Fils de l'homme n'est pas venu pour Ãªtre servi, mais pour servir, et
+> donner sa vie en ranÃ§on pour la multitude.\" (Mc 10:45 NIV)
 
 ## ** Le dominer sur les gens **
 
-L'emporter, c'est quand quelqu'un dit : « Parce que je suis un spécial ou un
-personne supérieure, tu devrais m'obéir." Par exemple, parce que je suis "oint par Dieu"
-ou "Parce que je suis l'apôtre ou le prophète de Dieu" ou encore "Parce que je suis
+L'emporter, c'est quand quelqu'un dit : Â«Â Parce que je suis un spÃ©cial ou un
+personne supÃ©rieure, tu devrais m'obÃ©ir." Par exemple, parce que je suis "oint par Dieu"
+ou "Parce que je suis l'apÃ´tre ou le prophÃ¨te de Dieu" ou encore "Parce que je suis
 instruit" ou "Je suis un expert dans ce domaine" ou "Je suis un homme blanc".
 
-Jésus a dit que dominer n'est pas approprié dans le Royaume. Les
-l'exercice du leadership ne doit pas être fondé sur une prétention à la supériorité. Nous
-ne devrait jamais dire ou impliquer : « Parce que j'ai implanté cette église, vous devriez
-obéis-moi."
+JÃ©sus a dit que dominer n'est pas appropriÃ© dans le Royaume. Les
+l'exercice du leadership ne doit pas Ãªtre fondÃ© sur une prÃ©tention Ã  la supÃ©rioritÃ©. Nous
+ne devrait jamais dire ou impliquerÂ : Â«Â Parce que j'ai implantÃ© cette Ã©glise, vous devriez
+obÃ©is-moi."
 
-## **Autorité sur les personnes**
+## **AutoritÃ© sur les personnes**
 
-Bien que nous puissions avoir de l'autorité parmi le peuple de Dieu à cause de notre
-domaine de service particulier, nous ne devons pas utiliser cette autorité comme un moyen
-de contrôle. Comme pour le dominer, nous ne devrions pas dire ou sous-entendre des choses
-comme, « En raison de ma position, vous devez m'obéir ». "Parce que je suis le
+Bien que nous puissions avoir de l'autoritÃ© parmi le peuple de Dieu Ã  cause de notre
+domaine de service particulier, nous ne devons pas utiliser cette autoritÃ© comme un moyen
+de contrÃ´le. Comme pour le dominer, nous ne devrions pas dire ou sous-entendre des choses
+comme, Â«Â En raison de ma position, vous devez m'obÃ©irÂ Â». "Parce que je suis le
 pasteur\..." "Parce que je suis le leader des jeunes\..." "Parce que je suis votre
-apôtre\..."Â  "Parce que je suis ta mère\..." "Parce que je suis une
+apÃ´tre\..."Â  "Parce que je suis ta mÃ¨re\..." "Parce que je suis une
 policier\..."
 
-Bien que le fondement de la réclamation soit différent, à la fois le régner et
-exercer son autorité, c'est revendiquer le droit de vous dire quoi faire pour
-exercer un contrôle. Ils attendent et exigent à la fois des
-obéissance. Cet exercice illicite de contrôle dépend des personnes
-conduit le sentiment qu'ils ont le devoir d'obéir.
+Bien que le fondement de la rÃ©clamation soit diffÃ©rent, Ã  la fois le rÃ©gner et
+exercer son autoritÃ©, c'est revendiquer le droit de vous dire quoi faire pour
+exercer un contrÃ´le. Ils attendent et exigent Ã  la fois des
+obÃ©issance. Cet exercice illicite de contrÃ´le dÃ©pend des personnes
+conduit le sentiment qu'ils ont le devoir d'obÃ©ir.
 
-Malheureusement, il est très courant de voir ces mécanismes de contrôle être enseignés
-et promu dans les églises. Les leaders sont généralement élevés par l'utilisation de
-titres, vêtements spéciaux, traitement spécial, places spéciales pour s'asseoir, etc.
-afin de les faire paraître spéciaux. Les gens traitent naturellement de tels
-élevé les gens comme seigneurs et ainsi leur permettre et même s'attendre à ce qu'ils seigneur
+Malheureusement, il est trÃ¨s courant de voir ces mÃ©canismes de contrÃ´le Ãªtre enseignÃ©s
+et promu dans les Ã©glises. Les leaders sont gÃ©nÃ©ralement Ã©levÃ©s par l'utilisation de
+titres, vÃªtements spÃ©ciaux, traitement spÃ©cial, places spÃ©ciales pour s'asseoir, etc.
+afin de les faire paraÃ®tre spÃ©ciaux. Les gens traitent naturellement de tels
+Ã©levÃ© les gens comme seigneurs et ainsi leur permettre et mÃªme s'attendre Ã  ce qu'ils seigneur
 cela sur eux.
 
-Les personnes nommées à des postes de direction reçoivent souvent des
-titres pour les honorer pour le sacrifice et le service qu'ils offrent à la
-église.Â  Mais Jésus a expressément mis en garde contre la recherche de l'honneur des hommes :
+Les personnes nommÃ©es Ã  des postes de direction reÃ§oivent souvent des
+titres pour les honorer pour le sacrifice et le service qu'ils offrent Ã  la
+Ã©glise. Mais JÃ©sus a expressÃ©ment mis en garde contre la recherche de l'honneur des hommes :
 
-> \"ils aiment être honorés par les hommes mais pas par Dieu. Ils ont leur
-> récompense sur terre.\" (Mt 6:2)
+> \"ils aiment Ãªtre honorÃ©s par les hommes mais pas par Dieu. Ils ont leur
+> rÃ©compense sur terre.\" (Mt 6:2)
 
-Rechercher la gloire des hommes a pour effet de nous empêcher d'entendre de Dieu :
+Rechercher la gloire des hommes a pour effet de nous empÃªcher d'entendre de Dieu :
 
 > Comment pouvez-vous croire puisque vous acceptez la gloire les uns des autres mais ne
 > rechercher la gloire qui vient du Dieu unique ? (Jean 5:44)
 
-Un titre peut être utile pour identifier le rôle d'une personne, mais ne devrait pas être
-utilisé pour les élever au-dessus de ceux qu'ils dirigent.
+Un titre peut Ãªtre utile pour identifier le rÃ´le d'une personne, mais ne devrait pas Ãªtre
+utilisÃ© pour les Ã©lever au-dessus de ceux qu'ils dirigent.
 
-Ainsi, à la fois l'élévation des dirigeants en tant que personnes spéciales et la création de
-les positions d'autorité sont courantes dans les églises comme moyen de contrôle, mais## **Devoir**
+Ainsi, Ã  la fois l'Ã©lÃ©vation des dirigeants en tant que personnes spÃ©ciales et la crÃ©ation de
+les positions d'autoritÃ© sont courantes dans les Ã©glises comme moyen de contrÃ´le, mais## **Devoir**
 
-Nous avons tous le devoir d'obéir à Dieu et d'obéir volontairement aux pieux
-leadership. Hébreux 11:17 dit "obéissez à ceux qui vous dirigent et soyez
+Nous avons tous le devoir d'obÃ©ir Ã  Dieu et d'obÃ©ir volontairement aux pieux
+direction. HÃ©breux 11Â :17 dit Â«Â obÃ©issez Ã  ceux qui vous dirigent et soyez
 soumis."
 
-Cette obéissance doit être donnée avec joie et de plein gré, et non pas exigée, et
-pas obtenu par un faux enseignement, comme « si vous me servez et m'obéissez
-sans aucun doute, Dieu vous bénira."
+Cette obÃ©issance doit Ãªtre donnÃ©e avec joie et de plein grÃ©, et non pas exigÃ©e, et
+pas obtenu par un faux enseignement, comme Â«Â si vous me servez et m'obÃ©issez
+sans aucun doute, Dieu vous bÃ©nira."
 
-Les églises où les dirigeants aiment avoir le contrôle font une grande partie de la
-ordre d'obéir aux chefs. C'est ainsi que fonctionne le leadership dans le monde.
-Jésus a dit que cela ne devrait pas être comme ça.
+Les Ã©glises oÃ¹ les dirigeants aiment avoir le contrÃ´le font une grande partie de la
+ordre d'obÃ©ir aux chefs. C'est ainsi que fonctionne le leadership dans le monde.
+JÃ©sus a dit que cela ne devrait pas Ãªtre comme Ã§a.
 
 ## **Direction du Royaume**
 
-Dans le Royaume, nous ne devons pas utiliser le contrôle comme moyen de leadership. Nous
-ne doivent pas exiger l'obéissance des gens ou se fier à leur sens de
-devoir. Le Royaume est censé être caractérisé par la Joie : « La joie de
-le Seigneur sera ta force. » Exiger ou faire honte aux gens de
-l'obéissance engendre le ressentiment et le malheur.
+Dans le Royaume, nous ne devons pas utiliser le contrÃ´le comme moyen de leadership. Nous
+ne doivent pas exiger l'obÃ©issance des gens ou se fier Ã  leur sens de
+devoir. Le Royaume est censÃ© Ãªtre caractÃ©risÃ© par la Joie : Â« La joie de
+le Seigneur sera ta force. Â» Exiger ou faire honte aux gens de
+l'obÃ©issance engendre le ressentiment et le malheur.
 
-La direction du Royaume ne dépend pas de l'autorité et du devoir mais de la vision,
+La direction du Royaume ne dÃ©pend pas de l'autoritÃ© et du devoir mais de la vision,
 l'inspiration, l'autonomisation et l'amour.
 
 ## **Donner l'exemple**
 
-Pierre réitère ce que Jésus a dit au sujet du leadership dans le Royaume :
+Pierre rÃ©itÃ¨re ce que JÃ©sus a dit au sujet du leadership dans le Royaume :
 
 > "Soyez les bergers du troupeau de Dieu dont vous avez la garde, servant de
 > surveillants --- non pas parce que vous le devez, mais parce que vous le voulez bien, comme Dieu
-> veut que vous soyez ; pas avide d'argent, mais désireux de servir ; ne pas dominer
-> elle sur ceux qui vous sont confiés, mais étant des exemples pour le troupeau. Et
-> lorsque le chef des bergers apparaîtra, vous recevrez la couronne de gloire
+> veut que vous soyezÂ ; pas avide d'argent, mais dÃ©sireux de servirÂ ; ne pas dominer
+> elle sur ceux qui vous sont confiÃ©s, mais Ã©tant des exemples pour le troupeau. Et
+> lorsque le chef des bergers apparaÃ®tra, vous recevrez la couronne de gloire
 > qui ne s'effacera jamais." (1P 5:2-4 NIV)
 >
 > "Suivez mon exemple, comme je suis l'exemple du Christ." (1Co 11:1 NIV)
 
-On voit ici que le caractère d'un leader est crucial, pas seulement le
-capacité à effectuer une tâche. Encore une fois, c'est contre-culturel. Dans le monde
-les dirigeants sont généralement nommés soit par favoritisme, soit à cause de
-les compétences de la personne. Mais dans le Royaume, *exemple* est le plus important
-qualité. Si la personne ne vit pas ce qu'elle dit aux autres de faire, elle
+On voit ici que le caractÃ¨re d'un leader est crucial, pas seulement le
+capacitÃ© Ã  effectuer une tÃ¢che. Encore une fois, c'est contre-culturel. Dans le monde
+les dirigeants sont gÃ©nÃ©ralement nommÃ©s soit par favoritisme, soit Ã  cause de
+les compÃ©tences de la personne. Mais dans le Royaume, *exemple* est le plus important
+qualitÃ©. Si la personne ne vit pas ce qu'elle dit aux autres de faire, elle
 ne conviennent pas au leadership.
 
-Donner l'exemple est un principe très important qui est souvent promu
-dans les églises et reflète la façon dont Jésus a dirigé. C'est quand un chef
-va devant les gens pour leur montrer ce qu'il faut faire et démontrer le
+Donner l'exemple est un principe trÃ¨s important qui est souvent promu
+dans les Ã©glises et reflÃ¨te la faÃ§on dont JÃ©sus a dirigÃ©. C'est quand un chef
+va devant les gens pour leur montrer ce qu'il faut faire et dÃ©montrer le
 type de comportement qu'il souhaite voir de ceux qu'il dirige.
 
 Diriger par l'exemple est bien plus efficace que diriger par l'instruction et
-les gens détestent souvent se faire dire quoi faire par un leader qui n'a pas ou
-ne feront pas la tâche eux-mêmes. Aussi en effectuant la tâche eux-mêmes un
-leader apprendra les difficultés rencontrées et aura
-compassion pour ceux qu'il a demandé d'accomplir la tâche et essayer de fournir
-les moyens pour eux. Les médecins apprennent à pratiquer une intervention chirurgicale en observant une
-en cours d'exécution.
+les gens dÃ©testent souvent se faire dire quoi faire par un leader qui n'a pas ou
+ne feront pas la tÃ¢che eux-mÃªmes. Aussi en effectuant la tÃ¢che eux-mÃªmes un
+leader apprendra les difficultÃ©s rencontrÃ©es et aura
+compassion pour ceux qu'il a demandÃ© d'accomplir la tÃ¢che et essayer de fournir
+les moyens pour eux. Les mÃ©decins apprennent Ã  pratiquer une intervention chirurgicale en observant une
+en cours d'exÃ©cution.
 
-Cependant, donner l'exemple est souvent épuisant et frustrant. Un chef
-ne devrait jamais rester les bras croisés en regardant les autres travailler. Les gens que nous essayons
-diriger sont rarement aussi fidèles que nous le souhaitons, ils sont rarement aussi minutieux
-comme nous le souhaitons, et peuvent ne pas être aussi qualifiés que nous le souhaitons. Comment un leader traite
-avec cette situation est un test de leadership pieux. Il n'y a aucun intérêt
-s'énerver à ce sujet, c'est juste une réalité de la vie. Mais nous pouvons être
-capable d'améliorer les choses en partageant notre vision de la tâche plus
+Cependant, donner l'exemple est souvent Ã©puisant et frustrant. Un chef
+ne devrait jamais rester les bras croisÃ©s en regardant les autres travailler. Les gens que nous essayons
+diriger sont rarement aussi fidÃ¨les que nous le souhaitons, ils sont rarement aussi minutieux
+comme nous le souhaitons, et peuvent ne pas Ãªtre aussi qualifiÃ©s que nous le souhaitons. Comment un leader traite
+avec cette situation est un test de leadership pieux. Il n'y a aucun intÃ©rÃªt
+s'Ã©nerver Ã  ce sujet, c'est juste une rÃ©alitÃ© de la vie. Mais nous pouvons Ãªtre
+capable d'amÃ©liorer les choses en partageant notre vision de la tÃ¢che plus
 efficacement ou en fournissant plus de formation ou de ressources.
 
-## Leadership à la maison
+## Leadership Ã  la maison
 
-Il est beaucoup plus facile de bien se comporter et de se servir les uns les autres à l'église qu'il
-est à la maison. C'est pourquoi Paul fait d'une maison pieuse une qualification de
-leadership dans l'église :
+Il est beaucoup plus facile de bien se comporter et de se servir les uns les autres Ã  l'Ã©glise qu'il
+est Ã  la maison. C'est pourquoi Paul fait d'une maison pieuse une qualification de
+leadership dans l'Ã©glise :
 
-> "Or le surveillant doit être irréprochable, le mari d'une seule femme,
-> tempéré, maîtrisé, respectable, hospitalier, capable d'enseigner,
-> pas porté à l'ivresse, pas violent mais doux, pas querelleur, pas
-> un amoureux de l'argent. Il doit bien gérer sa propre famille et veiller à ce que son
-> les enfants lui obéissent avec respect. (Si quelqu'un ne sait pas comment
-> gérer sa propre famille, comment peut-il prendre soin de l'église de Dieu ?)" (1Ti
+> "Or le surveillant doit Ãªtre irrÃ©prochable, le mari d'une seule femme,
+> tempÃ©rÃ©, maÃ®trisÃ©, respectable, hospitalier, capable d'enseigner,
+> pas portÃ© Ã  l'ivresse, pas violent mais doux, pas querelleur, pas
+> un amoureux de l'argent. Il doit bien gÃ©rer sa propre famille et veiller Ã  ce que son
+> les enfants lui obÃ©issent avec respect. (Si quelqu'un ne sait pas comment
+> gÃ©rer sa propre famille, comment peut-il prendre soin de l'Ã©glise de Dieu ?)" (1Ti
 > 3:2-5 VNI)
 
-Un leadership de serviteur pieux doit être appliqué dans nos propres foyers si nous voulons
-être des leaders authentiques dans l'église.
+Un leadership de serviteur pieux doit Ãªtre appliquÃ© dans nos propres foyers si nous voulons
+Ãªtre des leaders authentiques dans l'Ã©glise.
 
-## **Leadership serviteur**direction. Il est très facile de parler de leadership serviteur et de
-enseigner que nous devons être des leaders serviteurs sans bien comprendre
-qui doit être servi.
+## **Leadership serviteur**direction. Il est trÃ¨s facile de parler de leadership serviteur et de
+enseigner que nous devons Ãªtre des leaders serviteurs sans bien comprendre
+qui doit Ãªtre servi.
 
 Tout leadership a pour but de servir un objectif convenu. Ventes
 les directeurs de Coca-Cola servent les administrateurs et les actionnaires et en
-retour reçoivent leur salaire, mais cela ne fait pas d'eux des leaders serviteurs.
+retour reÃ§oivent leur salaire, mais cela ne fait pas d'eux des leaders serviteurs.
 
-Les dirigeants sont appelés à servir Jésus et la vision de l'église. Mais ça
-n'est pas la raison d'être du leadership serviteur. Jésus a dit "Je ne suis pas venu pour être
+Les dirigeants sont appelÃ©s Ã  servir JÃ©sus et la vision de l'Ã©glise. Mais Ã§a
+n'est pas la raison d'Ãªtre du leadership serviteur. JÃ©sus a dit "Je ne suis pas venu pour Ãªtre
 servi mais pour servir\..." Les leaders serviteurs sont ceux qui servent le peuple
-ils dirigent. Ceci est communément compris lorsqu'il s'agit de
-pasteur, mais qu'en est-il de ceux avec de plus petites sphères de leadership comme
-chef de choeur ? Pour qui exactement sont-ils appelés à servir ? ils ont deux
-des domaines de service qui sont simplement le devoir de tout leader ; ils servent
-leur « supérieur » immédiat (leur pasteur) et ils servent leur ultime
-supérieur (Jésus). Mais ces domaines de service ne sont pas ce que serviteur
-le leadership est à propos. Pour être un leader serviteur, ils doivent aussi servir les
+ils dirigent. Ceci est communÃ©ment compris lorsqu'il s'agit de
+pasteur, mais qu'en est-il de ceux avec de plus petites sphÃ¨res de leadership comme
+chef de choeur ? Pour qui exactement sont-ils appelÃ©s Ã  servir ? ils ont deux
+des domaines de service qui sont simplement le devoir de tout leaderÂ ; ils servent
+leur Â« supÃ©rieur Â» immÃ©diat (leur pasteur) et ils servent leur ultime
+supÃ©rieur (JÃ©sus). Mais ces domaines de service ne sont pas ce que serviteur
+le leadership est Ã  propos. Pour Ãªtre un leader serviteur, ils doivent aussi servir les
 les gens qu'ils dirigent.
 
-C'est l'exemple que Jésus nous a donné de suivre : servir ceux que nous dirigeons. Dans
+C'est l'exemple que JÃ©sus nous a donnÃ© de suivre : servir ceux que nous dirigeons. Dans
 la direction du Royaume est un service que nous offrons au corps de Christ.
-Chacun de nous est appelé à servir le Christ et à être ambassadeur de la
-Royaume. Nous prions « que votre Royaume vienne sur la terre comme au ciel » ; cette
-est notre objectif commun et est le but de l'église. Nous pouvons servir cela
-objectif de centaines de manières différentes, dont certaines sont mieux accomplies
-en équipe avec un leader. Le leader sert les membres en les aidant
-pour atteindre un objectif qu'ils apprécient. Ce service de leadership peut inclure
-inspirer quelqu'un avec confiance à viser quelque chose qu'il n'aurait jamais
-ont cru possible. Cela peut inclure de les réveiller quand ils se sentent fatigués
+Chacun de nous est appelÃ© Ã  servir le Christ et Ã  Ãªtre ambassadeur de la
+Royaume. Nous prions Â« que votre Royaume vienne sur la terre comme au ciel Â» ; cette
+est notre objectif commun et est le but de l'Ã©glise. Nous pouvons servir cela
+objectif de centaines de maniÃ¨res diffÃ©rentes, dont certaines sont mieux accomplies
+en Ã©quipe avec un chef. Le leader sert les membres en les aidant
+pour atteindre un objectif qu'ils apprÃ©cient. Ce service de leadership peut comprendre
+inspirer quelqu'un avec confiance Ã  viser quelque chose qu'il n'aurait jamais
+ont cru possible. Cela peut inclure de les rÃ©veiller quand ils se sentent fatiguÃ©s
 faire des efforts qu'ils n'auraient pas autrement la discipline de faire
-pour eux-mêmes. Le service de leadership comprend une explication claire des
-raison pour laquelle la tâche est effectuée et en envisageant les membres de l'équipe afin
-qu'ils accordent volontiers une priorité suffisante aux activités de l'équipe.
+pour eux-mÃªmes. Le service de leadership comprend une explication claire des
+raison pour laquelle la tÃ¢che est effectuÃ©e et en envisageant les membres de l'Ã©quipe afin
+qu'ils accordent volontiers une prioritÃ© suffisante aux activitÃ©s de l'Ã©quipe.
 
-Le leadership serviteur n'inclut pas le fait de contraindre les membres à faire ce qu'ils
-ne veux pas faire. Nous ne devons pas recourir aux menaces, à la honte, ou à la
-faire appel à notre autorité ou au devoir d'obéissance d'une personne. Ce sont tous
-tente de contrôler une personne et qui ne fait pas partie du Royaume
+Le leadership serviteur n'inclut pas le fait de contraindre les membres Ã  faire ce qu'ils
+ne veux pas faire. Nous ne devons pas recourir aux menaces,Â ou Ã  la honte, ou Ã  la
+faire appel Ã  notre autoritÃ© ou au devoir d'obÃ©issance d'une personne. Ce sont tous
+tente de contrÃ´ler une personne et qui ne fait pas partie du Royaume
 direction.
 
-Si une personne n'est pas disposée à participer de la manière que le leader souhaite
-alors le leader doit retourner à Jésus avec le problème. Soit le
-l'objectif du leader est faux, ou ils n'ont pas réussi à partager la vision de la
-objectif assez clairement, ou bien la personne est inappropriée pour l'équipe.
+Si une personne n'est pas disposÃ©e Ã  participer de la maniÃ¨re que le leader souhaite
+alors le leader doit retourner Ã  JÃ©sus avec le problÃ¨me. Soit le
+l'objectif du leader est faux, ou ils n'ont pas rÃ©ussi Ã  partager la vision de la
+objectif assez clairement, ou bien la personne est inappropriÃ©e pour l'Ã©quipe.
 
-## **Équipes de direction**
+## **Ã‰quipes de direction**
 
-La coopération entre les dirigeants est souvent difficile à réaliser. Le problème
-c'est qu'ils sont tous des leaders et qu'ils n'ont pas l'habitude d'être menés. La coopération
-exige des dirigeants qu'ils permettent aux autres de définir leur direction. Authentique
-la coopération entre les dirigeants ne se produit que lorsqu'ils reconnaissent qu'un objectif
-leur valeur ne peut être atteinte que par la coopération. La tâche de diriger
-une équipe de direction est donc fondamentalement une équipe d'identification d'un
-objectif et en envisageant l'équipe afin qu'ils subjuguent volontairement leur propre
-priorités pour le bien de cet objectif plus vaste.
+La coopÃ©ration entre les dirigeants est souvent difficile Ã  rÃ©aliser. Le problÃ¨me
+c'est qu'ils sont tous des leaders et qu'ils n'ont pas l'habitude d'Ãªtre menÃ©s. La coopÃ©ration
+exige des dirigeants qu'ils permettent aux autres de dÃ©finir leur direction. Authentique
+la coopÃ©ration entre les dirigeants ne se produit que lorsqu'ils reconnaissent qu'un objectif
+leur valeur ne peut Ãªtre atteinte que par la coopÃ©ration. La tÃ¢che de diriger
+une Ã©quipe de direction est donc fondamentalement une Ã©quipe d'identification d'un
+objectif et en envisageant l'Ã©quipe afin qu'ils subjuguent volontairement leur propre
+prioritÃ©s pour le bien de cet objectif plus vaste.
 
-Cependant, lorsque l'équipe est réunie dans le but précis de
-encourager les dirigeants à partager leur expérience et à influencer
-un autre afin de façonner la direction de l'église et sa mission,
-les équipes peuvent très bien travailler et devenir très ouvertes à l'Esprit Saint
+Cependant, lorsque l'Ã©quipe est rÃ©unie dans le but prÃ©cis de
+encourager les dirigeants Ã  partager leur expÃ©rience et Ã  influencer
+un autre afin de faÃ§onner la direction de l'Ã©glise et sa mission,
+les Ã©quipes peuvent trÃ¨s bien travailler et devenir trÃ¨s ouvertes Ã  l'Esprit Saint
 premier.
 
-## **Structures d'autorité**
+## **Structures d'autoritÃ©**
 
-Puisque Jésus dit que l'autorité ne doit pas être utilisée pour exercer un contrôle
-dans le Royaume, il faut se méfier des structures d'autorité hiérarchique
-Dans l'église. Jésus est la tête et nous sommes tous membres de son corps, et
+Puisque JÃ©sus dit que l'autoritÃ© ne doit pas Ãªtre utilisÃ©e pour exercer un contrÃ´le
+dans le Royaume, il faut se mÃ©fier des structures d'autoritÃ© hiÃ©rarchique
+Dans l'Ã©glise. JÃ©sus est la tÃªte et nous sommes tous membres de son corps, et
 avant Christ, aucun n'est plus important qu'un autre. Nous sommes tous responsables
-à Jésus comme notre autorité. Toutes les brebis de Jésus entendent sa voix. Chacun d'entre nous
-avons des dons que nous apportons au corps. Certains sont des dons de service et d'autresne les rend pas plus importants pour Jésus et ne leur donne pas une
-droit de contrôler les gens.
+Ã  JÃ©sus comme notre autoritÃ©. Toutes les brebis de JÃ©sus entendent sa voix. Chacun d'entre nous
+avons des dons que nous apportons au corps. Certains sont des cadeaux de service et d'autresne les rend pas plus importants pour JÃ©sus et ne leur donne pas une
+droit de contrÃ´ler les gens.
 
-En termes d'autorité, il vaut mieux penser à une structure plate plutôt
-qu'une hiérarchie. Une structure plate aide à nous rappeler que le leadership est
-pas une question de contrôle mais est offert comme un service à côté de tous les autres
-types de services rendus. Nous ne devrions pas exiger l'obéissance de
-ceux que nous dirigeons. Pierre dit que l'obéissance doit être offerte librement
+En termes d'autoritÃ©, il vaut mieux penser Ã  une structure plate plutÃ´t
+qu'une hiÃ©rarchie. Une structure plate aide Ã  nous rappeler que le leadership est
+pas une question de contrÃ´le mais est offert comme un service Ã  cÃ´tÃ© de tous les autres
+types de services rendus. Nous ne devrions pas exiger l'obÃ©issance de
+ceux que nous dirigeons. Pierre dit que l'obÃ©issance doit Ãªtre offerte librement
 sans contrainte. 1 Pierre 5:2-5.
 
 ## **Structures de communication**
 
-Bien que les structures d'autorité soient mieux considérées comme plates,
-les structures de communication peuvent avoir besoin d'être hiérarchiques dans une église plus grande
-à des fins purement pratiques. Mais les amitiés doivent être nourries à travers
-de telles structures. Il est très malsain pour un pasteur d'avoir seulement d'autres
-les dirigeants comme des amis. Ils oublient vite ce que c'est que d'être membre de
-la congrégation, et peut faire des demandes déraisonnables.
+Bien que les structures d'autoritÃ© soient mieux considÃ©rÃ©es comme plates,
+les structures de communication peuvent avoir besoin d'Ãªtre hiÃ©rarchiques dans une Ã©glise plus grande
+Ã  des fins purement pratiques. Mais les amitiÃ©s doivent Ãªtre nourries Ã  travers
+de telles structures. Il est trÃ¨s malsain pour un pasteur de n'avoir que d'autres
+les dirigeants comme des amis. Ils oublient vite ce que c'est que d'Ãªtre membre de
+la congrÃ©gation, et peut faire des demandes dÃ©raisonnables.
 
-## **Délégation**
+## **DÃ©lÃ©gation**
 
-La délégation est souvent utilisée comme un moyen de multiplier les serviteurs dans le
-église. Cela peut être bon pour soutenir le programme de l'église, mais cela peut
-pas être bon pour l'appel plus large de l'église. Le besoin criant du
+La dÃ©lÃ©gation est souvent utilisÃ©e comme un moyen de multiplier les serviteurs dans le
+Ã©glise. Cela peut Ãªtre bon pour soutenir le programme de l'Ã©glise, mais cela peut
+pas Ãªtre bon pour l'appel plus large de l'Ã©glise. Le besoin criant du
 Le royaume n'est pas des serviteurs mais des serviteurs-dirigeants. Nous devons envoyer
-disciples dans le monde entier pour faire des disciples. L'église ne doit pas être
-concentré sur ses propres programmes mais sur la formation et la libération des leaders. Pour
-cela se produise, la délégation doit être considérée comme un moyen de multiplier
+disciples dans le monde entier pour faire des disciples. L'Ã©glise ne doit pas Ãªtre
+concentrÃ© sur ses propres programmes mais sur la formation et la libÃ©ration des leaders. Pour
+cela se produise, la dÃ©lÃ©gation doit Ãªtre considÃ©rÃ©e comme un moyen de multiplier
 des dirigeants, pas seulement des serviteurs.
 
-Que nous considérions la délégation comme un moyen de multiplier les serviteurs ou les dirigeants
-déterminera comment nous nommons les dirigeants. Si nous voulons des serviteurs, nous le ferons
-nommer des dirigeants dociles, "Oui" des hommes qui ne nous causeront pas de problèmes, ou nous
+Que nous considÃ©rions la dÃ©lÃ©gation comme un moyen de multiplier les serviteurs ou les dirigeants
+dÃ©terminera comment nous nommons les dirigeants. Si nous voulons des serviteurs, nous le ferons
+nommer des dirigeants dociles, "Oui" des hommes qui ne nous causeront pas de problÃ¨mes, ou nous
 peut rechercher principalement des leaders naturels qui peuvent motiver et commander
-obéissance.Â  Mais si nous voulons produire des dirigeants pour le Royaume, nous allons
-recherchez ceux qui ont une passion pour Christ et la capacité de l'entendre. Nous
-recherchera des personnes qui développent leur propre appel unique. Nous
-ne voudront pas les contrôler mais les développer. Ils peuvent ou non
-être des leaders naturels ; dans les deux cas, principes et valeurs du leadership du Royaume
-doit être nourri. Le leadership du Royaume est plus une question de caractère que
-compétences.
+obÃ©issance. Mais si nous voulons produire des leaders pour le Royaume, nous allons
+recherchez ceux qui ont une passion pour Christ et la capacitÃ© de l'entendre. Nous
+recherchera des personnes qui dÃ©veloppent leur propre appel unique. Nous
+ne voudront pas les contrÃ´ler mais les dÃ©velopper. Ils peuvent ou non
+Ãªtre des leaders naturels ; dans les deux cas, principes et valeurs du leadership du Royaume
+doit Ãªtre nourri. Le leadership du Royaume est plus une question de caractÃ¨re que
+compÃ©tences.
 
-Il s'agit souvent d'un véritable défi pour la direction en place. Où
-le leadership est utilisé comme moyen de contrôle, vous ne développerez pas de leaders,
-mais seulement des serviteurs. Vous pourriez les appeler des leaders, mais la réalité c'est que vous
+Il s'agit souvent d'un vÃ©ritable dÃ©fi pour la direction en place. OÃ¹
+le leadership est utilisÃ© comme moyen de contrÃ´le, vous ne dÃ©velopperez pas de leaders,
+mais seulement des serviteurs. Vous pourriez les appeler des leaders, mais la rÃ©alitÃ© c'est que vous
 veux des serviteurs.
 
-## **Libérer les dirigeants**
+## **LibÃ©rer les dirigeants**
 
-Un leader avec une véritable vision du Royaume voudra se former et libérer
-dirigeants, pas seulement former des gens pour servir sa propre vision. Jésus est le
-King et nous devons libérer les dirigeants pour Le servir. Pour former des leaders, vous
-besoin de donner autorité et liberté :
+Un leader avec une vÃ©ritable vision du Royaume voudra se former et libÃ©rer
+dirigeants, pas seulement former des gens pour servir sa propre vision. JÃ©sus est le
+King et nous devons libÃ©rer les dirigeants pour Le servir. Pour former des leaders, vous
+besoin de donner autoritÃ© et libertÃ© :
 
-> "Lorsque Jésus rassembla les Douze, il leur donna puissance et
-> autorité pour chasser tous les démons et guérir les maladies, et il envoya
-> les sortir pour prêcher le Royaume de Dieu et guérir les malades." (Lc 9:1-2
+> "Lorsque JÃ©sus rassembla les Douze, il leur donna puissance et
+> autoritÃ© pour chasser tous les dÃ©mons et guÃ©rir les maladies, et il envoya
+> les sortir pour prÃªcher le Royaume de Dieu et guÃ©rir les malades." (Lc 9:1-2
 > VNI)
 
-Un leader qui n'a aucune autorité pour prendre des initiatives et prendre des décisions
+Un leader qui n'a aucune autoritÃ© pour prendre des initiatives et prendre des dÃ©cisions
 ne soyez jamais plus qu'un serviteur. Lorsqu'un leader grandit dans sa foi et
-capacité dont ils ont besoin d'avoir plus de liberté pour servir Jésus directement,
+capacitÃ© dont ils ont besoin d'avoir plus de libertÃ© pour servir JÃ©sus directement,
 sans surveillance constante et l'obligation de faire rapport.
 
-Un bel exemple en est donné par Marie lors des noces de Cana.
-Marie a une situation qui doit être réglée. Elle quitte le
-responsabilité envers Jésus et les serviteurs :
+Un bel exemple en est donnÃ© par Marie lors des noces de Cana.
+Marie a une situation qui doit Ãªtre rÃ©glÃ©e. Elle quitte le
+responsabilitÃ© envers JÃ©sus et les serviteurs :
 
-> Le troisième jour, un mariage a lieu à Cana en Galilée... Lorsque le
-> il n'y avait plus de vin, la mère de Jésus lui dit : « Ils n'ont plus de vin.
-> ... Sa mère dit aux serviteurs : « Faites tout ce qu'il vous dira.
+> Le troisiÃ¨me jour, un mariage a lieu Ã  Cana en GalilÃ©e... Lorsque le
+> il n'y avait plus de vin, la mÃ¨re de JÃ©sus lui dit : Â« Ils n'ont plus de vin.
+> ... Sa mÃ¨re dit aux serviteurs : Â« Faites tout ce qu'il vous dira.
 
-Les dirigeants doivent apprendre à faire plus qu'accomplir fidèlement un devoir. Ils
-besoin d'apprendre à entendre de Dieu, recevoir ou développer une vision, rechercher
-les écritures pour apprendre ce que Dieu dit de leur vision, inspirer les autres
-d'embrasser la vision et de persévérer malgré de nombreux revers et
-découragements de voir la vision devenir réalité.
+Les dirigeants doivent apprendre Ã  faire plus qu'accomplir fidÃ¨lement un devoir. Ils
+besoin d'apprendre Ã  entendre de Dieu, recevoir ou dÃ©velopper une vision, rechercher
+les Ã©critures pour apprendre ce que Dieu dit de leur vision, inspirer les autres
+d'embrasser la vision et de persÃ©vÃ©rer malgrÃ© de nombreux revers et
+dÃ©couragements de voir la vision devenir rÃ©alitÃ©.
 
-## **Libération des églises**
+## **LibÃ©ration des Ã©glises**
 
-L'église appartient à Jésus et il en est le chef. Le cordon ombilicaldès que possible pour encourager la dépendance à l'égard de Jésus et une croissance rapide.
-Cependant, parce que les chefs d'église sont souvent tentés par l'attrait de
-\"construction du royaume" ils libèrent rarement les dirigeants complètement. Ils veulent
-garder le contrôle, même sur les implantations d'églises. Les dirigeants veulent imposer leur
-version de l'église sur les autres églises. L'excuse habituellement donnée pour
-l'église mère de conserver l'autorité sur une implantation d'église est
-s'assurer qu'il respecte la vision et les valeurs. Mais de quel droit une église
-devoir agir à la tête d'un autre ? Jésus est la tête. Dès qu'un
-l'église peut se suffire à elle-même, elle doit être confiée à Jésus. Bien sûr
-les relations d'amitié et de soutien mutuel doivent rester et la
-l'église mère peut continuer à servir l'église implantée avec une formation et
-d'autres ressources, mais le maintien du contrôle devrait être sérieusement
-interrogé.
+L'Ã©glise appartient Ã  JÃ©sus et il en est le chef. Le cordon ombilicaldÃ¨s que possible pour encourager la dÃ©pendance Ã  l'Ã©gard de JÃ©sus et une croissance rapide.
+Cependant, parce que les chefs d'Ã©glise sont souvent tentÃ©s par l'attrait de
+\"construction du royaume" ils libÃ¨rent rarement les dirigeants complÃ¨tement. Ils veulent
+garder le contrÃ´le, mÃªme sur les implantations d'Ã©glises. Les dirigeants veulent imposer leur
+version de l'Ã©glise sur les autres Ã©glises. L'excuse habituellement donnÃ©e pour
+l'Ã©glise mÃ¨re de conserver l'autoritÃ© sur une implantation d'Ã©glise est
+s'assurer qu'il respecte la vision et les valeurs. Mais de quel droit une Ã©glise
+devoir agir Ã  la tÃªte d'un autre ? JÃ©sus est la tÃªte. DÃ¨s qu'un
+l'Ã©glise peut se suffire Ã  elle-mÃªme, elle doit Ãªtre confiÃ©e Ã  JÃ©sus. Bien sÃ»r
+les relations d'amitiÃ© et de soutien mutuel doivent rester et la
+l'Ã©glise mÃ¨re peut continuer Ã  servir l'Ã©glise implantÃ©e avec une formation et
+d'autres ressources, mais le maintien du contrÃ´le devrait Ãªtre sÃ©rieusement
+interrogÃ©.
 
 # L'ouvrier est digne de son salaire
 
-Jésus et les apôtres ont enseigné que l'ouvrier est digne de son salaire :
+JÃ©sus et les apÃ´tres ont enseignÃ© que l'ouvrier est digne de son salaire :
 
 > "Reste dans cette maison, mangeant et buvant tout ce qu'ils te donneront, car
-> le travailleur mérite son salaire. Ne vous déplacez pas de maison en maison.
-> \"Lorsque vous entrez dans une ville et que vous êtes accueilli, mangez ce qui vous est proposé.
-> Guérissez les malades qui sont là et dites-leur : « Le royaume de Dieu est proche
+> le travailleur mÃ©rite son salaire. Ne vous dÃ©placez pas de maison en maison.
+> \"Lorsque vous entrez dans une ville et que vous Ãªtes accueilli, mangez ce qui vous est proposÃ©.
+> GuÃ©rissez les malades qui sont lÃ  et dites-leur : Â« Le royaume de Dieu est proche
 > toi.'" (Lc 10:7-9 NIV)
 
-Mais notez que Jésus est très particulier à propos de manger ce que vous êtes
-étant donné. En d'autres termes, acceptez l'hospitalité ou les récompenses offertes plutôt
-que d'exiger d'être traité comme un roi. Les récompenses ou les salaires des
-ministère sont des dons à recevoir avec gratitude et non à exiger.
+Mais notez que JÃ©sus est trÃ¨s particulier Ã  propos de manger ce que vous Ãªtes
+Ã©tant donnÃ©. En d'autres termes, acceptez l'hospitalitÃ© ou les rÃ©compenses offertes plutÃ´t
+que d'exiger d'Ãªtre traitÃ© comme un roi. Les rÃ©compenses ou les salaires des
+ministÃ¨re sont des dons Ã  recevoir avec gratitude et non Ã  exiger.
 
-> N'avons-nous pas droit à la nourriture et à la boisson ? N'avons-nous pas le droit de
-> emmenez avec nous une épouse croyante, comme le font les autres apôtres et les
-> Les frères du Seigneur et Céphas ? Ou est-ce seulement moi et Barnabas qui devons travailler
-> pour gagner sa vie ? \... Si nous avons semé parmi vous une semence spirituelle, est-ce aussi
-> beaucoup si nous récoltons une moisson matérielle chez vous ? Si d'autres ont ce droit
+> N'avons-nous pas droit Ã  la nourriture et Ã  la boisson ? N'avons-nous pas le droit de
+> emmenez avec nous une Ã©pouse croyante, comme le font les autres apÃ´tres et les
+> Les frÃ¨res du Seigneur et CÃ©phas ? Ou est-ce seulement moi et Barnabas qui devons travailler
+> pour gagner sa vie ? \... Si nous avons semÃ© parmi vous une semence spirituelle, est-ce aussi
+> beaucoup si nous rÃ©coltons une moisson matÃ©rielle chez vous ? Si d'autres ont ce droit
 > de soutien de votre part, ne faudrait-il pas en avoir d'autant plus ? \...Dans le
-> de la même manière, le Seigneur a commandé que ceux qui prêchent l'évangile
-> doivent recevoir leur vie de l'évangile." 1 Co 9:5-6, 11-12, 14
+> de la mÃªme maniÃ¨re, le Seigneur a commandÃ© que ceux qui prÃªchent l'Ã©vangile
+> doivent recevoir leur vie de l'Ã©vangile." 1 Co 9:5-6, 11-12, 14
 
-Paul présente un argument de poids en faveur de son droit de recevoir un salaire pour son
-ministère dans l'Évangile (bien que comme le verset 18 le montre, il n'a pas utilisé
-de ce droit) et il exhorte les églises à honorer ce droit :
+Paul prÃ©sente un argument de poids en faveur de son droit de recevoir un salaire pour son
+ministÃ¨re dans l'Ã‰vangile (bien que comme le verset 18 le montre, il n'a pas utilisÃ©
+de ce droit) et il exhorte les Ã©glises Ã  honorer ce droitÂ :
 
-> "Les anciens qui dirigent bien les affaires de l'église sont dignes de
-> double honneur, surtout ceux dont le travail est la prédication et l'enseignement.
-> Car l'Ecriture dit : " Ne muselez pas le bœuf pendant qu'il marche
-> dehors le grain,\" et \"L'ouvrier mérite son salaire.\"" (1Ti 5:17-18
+> "Les anciens qui dirigent bien les affaires de l'Ã©glise sont dignes de
+> double honneur, surtout ceux dont le travail est la prÃ©dication et l'enseignement.
+> Car l'Ecriture dit : " Ne muselez pas le bÅ“uf pendant qu'il marche
+> dehors le grain,\" et \"L'ouvrier mÃ©rite son salaire.\"" (1Ti 5:17-18
 > VNI)
 
-Il se peut fort bien que certains membres d'une église souhaitent offrir à ces
+Il se peut fort bien que certains membres d'une Ã©glise souhaitent offrir Ã  ces
 salaire en service pratique aussi bien que ou au lieu de l'argent. Mais rappelles-toi
-que donner, qu'il s'agisse de service ou d'argent, doit être fait volontairement et
+que donner, qu'il s'agisse de service ou d'argent, doit Ãªtre fait volontairement et
 joyeusement et sans aucune contrainte :
 
-> "Chaque homme doit donner ce qu'il a décidé dans son cœur de donner, non
-> à contrecœur ou par contrainte, car Dieu aime celui qui donne joyeusement." (2Co
+> "Chaque homme doit donner ce qu'il a dÃ©cidÃ© dans son cÅ“ur de donner, non
+> Ã  contrecÅ“ur ou par contrainte, car Dieu aime celui qui donne joyeusement." (2Co
 > 9:7 VNI)
 
 Il n'y a aucun appui dans le Nouveau Testament pour exiger des membres qu'ils servent le
-pasteur dans ses devoirs domestiques ou pour le pasteur ayant des tâches subalternes
-exécuté pour lui par les membres. Le salaire donné à un travailleur de l'Évangile est de
-lui permettre de servir sans retenue, de ne pas l'élever au-dessus du
-congrégation.
+pasteur dans ses devoirs domestiques ou pour le pasteur ayant des tÃ¢ches subalternes
+exÃ©cutÃ© pour lui par les membres. Le salaire donnÃ© Ã  un travailleur de l'Ã‰vangile est de
+lui permettre de servir sans retenue, de ne pas l'Ã©lever au-dessus du
+congrÃ©gation.
 
-# Les cinq ministères
+# Les cinq ministÃ¨res
 
-En plus des apôtres, Jésus a donné des prophètes, des évangélistes, des pasteurs
-et des enseignants, pour équiper l'église dans le ministère. Ils ne sont pas donnés pour faire
-tout le ministère, mais pour équiper les autres à faire le ministère. Ainsi par exemple,
-tous sont encouragés par Paul à poursuivre avec zèle le don de prophétie et
-tous sont encouragés à entendre Dieu par eux-mêmes, mais les prophètes sont donnés à
-encourager et inspirer les autres à grandir dans ces domaines. Ils ont aussi un
-rôle en aidant à discerner ce que Dieu dit à l'église à travers le
-corps. Un prophète ne doit pas utiliser son rôle comme moyen de contrôle. Il ne doit pas
-chercher à contrôler la congrégation ou la direction.obéissance à Jésus. Chaque ministère doit opérer dans l'amour et la réciprocité
-soumission à tous les autres ministères.
+En plus des apÃ´tres, JÃ©sus a donnÃ© des prophÃ¨tes, des Ã©vangÃ©listes, des pasteurs
+et des enseignants, pour Ã©quiper l'Ã©glise dans le ministÃ¨re. Ils ne sont pas donnÃ©s Ã  faire
+tout le ministÃ¨re, mais pour Ã©quiper les autres Ã  faire le ministÃ¨re. Ainsi par exemple,
+tous sont encouragÃ©s par Paul Ã  poursuivre avec zÃ¨le le don de prophÃ©tie et
+tous sont encouragÃ©s Ã  entendre Dieu par eux-mÃªmes, mais les prophÃ¨tes sont donnÃ©s Ã 
+encourager et inspirer les autres Ã  grandir dans ces domaines. Ils ont aussi un
+rÃ´le en aidant Ã  discerner ce que Dieu dit Ã  l'Ã©glise Ã  travers le
+corps. Un prophÃ¨te ne doit pas utiliser son rÃ´le comme moyen de contrÃ´le. Il ne doit pas
+chercher Ã  contrÃ´ler la congrÃ©gation ou la direction.obÃ©issance Ã  JÃ©sus. Chaque ministÃ¨re doit opÃ©rer dans l'amour et la rÃ©ciprocitÃ©
+soumission Ã  tous les autres ministÃ¨res.
 
-Puisque ceux-ci sont donnés par Jésus à l'église, il n'appartient pas au pasteur
-ou apôtre pour simplement nommer des personnes à ces bureaux. C'est plutôt un
-question de reconnaître ceux que Jésus a nommés.
+Puisque ceux-ci sont donnÃ©s par JÃ©sus Ã  l'Ã©glise, il n'appartient pas au pasteur
+ou apÃ´tre pour simplement nommer des personnes Ã  ces bureaux. C'est plutÃ´t un
+question de reconnaÃ®tre ceux que JÃ©sus a nommÃ©s.
 
-# Autorité apostolique
+# AutoritÃ© apostolique
 
-Dans certaines églises, on fait beaucoup de cas de l'autorité apostolique. je souhaite faire un
+Dans certaines Ã©glises, on fait beaucoup de cas de l'autoritÃ© apostolique. je souhaite faire un
 quelques brefs points.
 
-## Les apôtres sont pour la mission, pas pour le contrôle
+## Les apÃ´tres sont pour la mission, pas pour le contrÃ´le
 
-Quand Jésus a choisi les douze, on nous dit qu'il les a appelés « apôtres », ce qui
-signifie "envoyés". Cela nous dit que l'apostolat ne consiste pas principalement à
-autorité sur les églises mais mission. N'oubliez pas que la grande commission
-est d'aller dans le monde entier pour répandre la bonne nouvelle du Royaume, non
-juste pour diriger des églises. Christ donne des apôtres à l'église pour les servir
-en mission de ne pas les contrôler :
+Quand JÃ©sus a choisi les douze, on nous dit qu'il les a appelÃ©s Â« apÃ´tres Â», ce qui
+signifie "envoyÃ©s". Cela nous dit que l'apostolat ne consiste pas principalement Ã 
+autoritÃ© sur les Ã©glises mais mission. N'oubliez pas que la grande commission
+est d'aller dans le monde entier pour rÃ©pandre la bonne nouvelle du Royaume, non
+juste pour diriger des Ã©glises. Christ donne des apÃ´tres Ã  l'Ã©glise pour les servir
+en mission de ne pas les contrÃ´ler :
 
-> « Par lui et à cause de son nom, nous avons reçu grâce et
-> l'apostolat pour appeler les gens de tous les Gentils à la
-> l'obéissance qui vient de la foi." (Rm 1:5 NIV)
+> Â« Par lui et Ã  cause de son nom, nous avons reÃ§u grÃ¢ce et
+> l'apostolat pour appeler les gens de tous les Gentils Ã  la
+> l'obÃ©issance qui vient de la foi." (Rm 1:5 NIV)
 
-## Les apôtres ont autorité dans les églises qu'ils implantent
+## Les apÃ´tres ont autoritÃ© dans les Ã©glises qu'ils implantent
 
-Parce que l'appel à un apôtre est d'"aller dans le monde entier\..." et
-implanter des églises, il est naturel que pendant les premières années d'une église
-l'apôtre aura autorité dans les églises qu'ils ont aidé à implanter :
+Parce que l'appel Ã  un apÃ´tre est d'"aller dans le monde entier\..." et
+implanter des Ã©glises, il est naturel que pendant les premiÃ¨res annÃ©es d'une Ã©glise
+l'apÃ´tre aura autoritÃ© dans les Ã©glises qu'ils ont aidÃ© Ã  implanter :
 
-> "\... construit sur le fondement des apôtres et des prophètes, avec
-> Christ Jésus lui-même comme pierre angulaire principale. » (Eph 2:20 NIV)
+> "\... construit sur le fondement des apÃ´tres et des prophÃ¨tes, avec
+> Christ JÃ©sus lui-mÃªme comme pierre angulaire principale. Â» (Eph 2:20 NIV)
 
-Les apôtres implantent des églises et deviennent « fondateurs » à travers la relation.
-L'église n'est pas fondée par l'étude d'une théologie systématique, mais par la
-exemple, enseignement et instruction de l'apôtre :
+Les apÃ´tres implantent des Ã©glises et deviennent Â«Â fondateursÂ Â» Ã  travers la relation.
+L'Ã©glise n'est pas fondÃ©e par l'Ã©tude d'une thÃ©ologie systÃ©matique, mais par la
+exemple, enseignement et instruction de l'apÃ´tre :
 
-> "Ils se sont consacrés à l'enseignement des apôtres et à la
-> communion, à la fraction du pain et à la prière." (Ac 2:42 NIV)
+> "Ils se sont consacrÃ©s Ã  l'enseignement des apÃ´tres et Ã  la
+> communion, Ã  la fraction du pain et Ã  la priÃ¨re." (Ac 2:42 NIV)
 
-Il est naturel et approprié pour une église d'accorder une attention particulière aux
-l'enseignement biblique de l'apôtre. C'est ainsi que fonctionne le Royaume -
-à travers les gens et les relations. Jésus fait entrer et sortir la vérité
-à travers nous. Et ainsi Paul exhorte les églises à suivre le modèle qu'il a
+Il est naturel et appropriÃ© pour une Ã©glise d'accorder une attention particuliÃ¨re aux
+l'enseignement biblique de l'apÃ´tre. C'est ainsi que fonctionne le Royaume -
+Ã  travers les gens et les relations. JÃ©sus fait entrer et sortir la vÃ©ritÃ©
+Ã  travers nous. Et ainsi Paul exhorte les Ã©glises Ã  suivre le modÃ¨le qu'il a
 leur a transmis.
 
-> "Ce que vous avez entendu de moi, gardez comme modèle d'enseignement solide, avec
-> la foi et l'amour en Jésus-Christ." (2Ti 1:13 NIV)
+> "Ce que vous avez entendu de moi, gardez comme modÃ¨le d'enseignement solide, avec
+> la foi et l'amour en JÃ©sus-Christ." (2Ti 1:13 NIV)
 
-La relation est forgée dans l'amour et la sollicitude et les soins paternels. Les
-relation comporte naturellement un aspect d'autorité, mais l'exercice
-de cette autorité doit être soumis à l'Écriture, y compris tester ce que
-l'apôtre dit :
+La relation est forgÃ©e dans l'amour et la sollicitude et les soins paternels. Les
+relation comporte naturellement un aspect d'autoritÃ©, mais l'exercice
+de cette autoritÃ© doit Ãªtre soumis Ã  l'Ã‰criture, y compris tester ce que
+l'apÃ´tre dit :
 
-> "Or les Béréens étaient de caractère plus noble que les Thessaloniciens,
-> car ils ont reçu le message avec beaucoup d'empressement et ont examiné les
-> Les Écritures chaque jour pour voir si ce que Paul a dit était vrai." (Ac 17:11
+> "Or les BÃ©rÃ©ens Ã©taient de caractÃ¨re plus noble que les Thessaloniciens,
+> car ils ont reÃ§u le message avec beaucoup d'empressement et ont examinÃ© les
+> Les Ã‰critures chaque jour pour voir si ce que Paul a dit Ã©tait vrai." (Ac 17:11
 > VNI)
 
-## Les apôtres apportent l'enseignement directement à l'église
+## Les apÃ´tres apportent l'enseignement directement Ã  l'Ã©glise
 
-Là où la relation apostolique est véritablement relationnelle et
-fondamental, il faut s'attendre à ce que l'apôtre relate
-directement avec les membres de l'église et pas seulement par l'intermédiaire des dirigeants.
-Ils peuvent donc apporter la correction directement à une église sans
-s'en remettre à la direction. On le voit dans les diverses épîtres où
-l'enseignement s'adresse directement aux membres de l'église. Cependant cet apostolique
-relation ne doit pas usurper l'autonomie de l'église locale ou
-saper le leadership. Paul exhorte à plusieurs reprises le peuple à honorer et à
+LÃ  oÃ¹ la relation apostolique est vÃ©ritablement relationnelle et
+fondamental, il faut s'attendre Ã  ce que l'apÃ´tre relate
+directement avec les membres de l'Ã©glise et pas seulement par l'intermÃ©diaire des dirigeants.
+Ils peuvent donc apporter la correction directement Ã  une Ã©glise sans
+s'en remettre Ã  la direction. On le voit dans les diverses Ã©pÃ®tres oÃ¹
+l'enseignement s'adresse directement aux membres de l'Ã©glise. Cependant cet apostolique
+relation ne doit pas usurper l'autonomie de l'Ã©glise locale ou
+saper le leadership. Paul exhorte Ã  plusieurs reprises le peuple Ã  honorer et Ã 
 respecter leurs dirigeants.
 
-## Les apôtres peuvent conseiller les dirigeants
+## Les apÃ´tres peuvent conseiller les dirigeants
 
-Les ministères visiteurs peuvent avoir une vision plus objective des choses
+Les ministÃ¨res visiteurs peuvent avoir une vision plus objective des choses
 que ce qui est possible pour les dirigeants locaux, et en tant que tel peut offrir
-des conseils sur la vision, l'orientation, les programmes ou les pratiques de l'église. L'apôtre
-voudront voir que les leaders sont développés et diffusés à de nouveaux
-ministères plutôt que le programme de l'église locale simplement en croissance constante
+des conseils sur la vision, l'orientation, les programmes ou les pratiques de l'Ã©glise. L'apÃ´tre
+voudront voir que les leaders sont dÃ©veloppÃ©s et diffusÃ©s Ã  de nouveaux
+ministÃ¨res plutÃ´t que le programme de l'Ã©glise locale simplement en croissance constante
 plus gros.
 
-Les églises peuvent très facilement devenir introverties ou soucieuses de l'entretien
-tandis que l'appel de l'Apôtre à « aller... » aidera à garder le plus large
-appel à la mission devant les dirigeants.
+Les Ã©glises peuvent trÃ¨s facilement devenir introverties ou soucieuses de l'entretien
+tandis que l'appel de l'ApÃ´tre Ã  Â«Â aller...Â Â» aidera Ã  garder le plus large
+appel Ã  la mission devant les dirigeants.
 
-Il est trop facile pour les dirigeants de s'attendre à ce que les membres viennent à plusieurs
-réunions chaque semaine et faire de la présence une marque d'engagement ouqui sont difficiles à rencontrer et peuvent nuire à la qualité de disciple
+Il est trop facile pour les dirigeants de s'attendre Ã  ce que les membres viennent Ã  plusieurs
+rÃ©unions chaque semaine et faire de la prÃ©sence une marque d'engagement ouqui sont difficiles Ã  rencontrer et peuvent nuire Ã  la qualitÃ© de disciple
 et la mission car les gens passent moins de temps parmi les incroyants parce qu'ils
-passer tellement de temps aux réunions de l'église. Jésus a mis en garde contre la surcharge
-les personnes ayant des exigences qui ne viennent pas de Jésus :
+passer tellement de temps aux rÃ©unions de l'Ã©glise. JÃ©sus a mis en garde contre la surcharge
+les personnes ayant des exigences qui ne viennent pas de JÃ©susÂ :
 
-> Elles attachent de lourdes charges et les mettent sur les épaules des hommes, mais elles
-> eux-mêmes ne sont pas disposés à lever le petit doigt pour les déplacer. (Matthieu 23:4)
+> Elles attachent de lourdes charges et les mettent sur les Ã©paules des hommes, mais elles
+> eux-mÃªmes ne sont pas disposÃ©s Ã  lever le petit doigt pour les dÃ©placer. (Matthieu 23:4)
 
-## Les apôtres peuvent apporter des corrections aux dirigeants
+## Les apÃ´tres peuvent apporter des corrections aux dirigeants
 
-Lorsque le leadership s'avère faux ou hypocrite, nous voyons à la fois Jésus
-et Paul réprimandant publiquement le leadership :
+Lorsque le leadership s'avÃ¨re faux ou hypocrite, nous voyons Ã  la fois JÃ©sus
+et Paul rÃ©primandant publiquement le leadership :
 
-Un jour de sabbat, Jésus enseignait dans l'une des synagogues \... Indigné
-parce que Jésus avait guéri le jour du sabbat, le chef de la synagogue dit au
-les gens, "Il y a six jours pour le travail. Alors venez et soyez guéri sur ces
-jours, pas le jour du sabbat. » Le Seigneur lui répondit : « Hypocrites !
-Le jour du sabbat, chacun de vous ne détache-t-il pas son bœuf ou son âne de l'étable
+Un jour de sabbat, JÃ©sus enseignait dans l'une des synagogues \... IndignÃ©
+parce que JÃ©sus avait guÃ©ri le jour du sabbat, le chef de la synagogue dit au
+les gens, "Il y a six jours pour le travail. Alors venez et soyez guÃ©ri sur ces
+jours, pas le jour du sabbat. Â» Le Seigneur lui rÃ©pondit : Â« Hypocrites !
+Le jour du sabbat, chacun de vous ne dÃ©tache-t-il pas son bÅ“uf ou son Ã¢ne de l'Ã©table
 et le faire sortir pour lui donner de l'eau ?" (Lc 13:10,14-15)
 
-Quand Pierre est venu à Antioche, je l'ai opposé à sa face, parce qu'il était
+Quand Pierre est venu Ã  Antioche, je l'ai opposÃ© Ã  sa face, parce qu'il Ã©tait
 clairement dans le faux. (Ga 2:11)
 
-L'apôtre peut avoir le devoir d'intervenir si les choses tournent mal avec
-le chef de l'église.
+L'apÃ´tre peut avoir le devoir d'intervenir si les choses tournent mal avec
+le chef de l'Ã©glise.
 
-## Délégués apostoliques
+## DÃ©lÃ©guÃ©s apostoliques
 
-Un apôtre peut envoyer quelqu'un à sa place comme délégué pour un
-but comme Paul l'a fait, en envoyant Timothée, mais il est difficile de voir comment le
-rôle apostolique peut être délégué, puisque c'est Jésus qui donne ces
+Un apÃ´tre peut envoyer quelqu'un Ã  sa place comme dÃ©lÃ©guÃ© pour un
+but comme Paul l'a fait, en envoyant TimothÃ©e, mais il est difficile de voir comment le
+rÃ´le apostolique peut Ãªtre dÃ©lÃ©guÃ©, puisque c'est JÃ©sus qui donne ces
 cadeaux.

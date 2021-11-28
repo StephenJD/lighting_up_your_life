@@ -4,188 +4,188 @@ translationKey: Leadership relationships
 title: Relations de direction---
 # Relations de leadership
 
-## Aimer un
+## Amour
 
 L'amour entre les croyants est le commandement premier et fondamental de
-Jésus, pourtant de nombreux dirigeants semblent penser que le leadership est prioritaire
-sur l'amour. Certes, le leadership exige souvent des décisions difficiles et
-ne doit pas céder au favoritisme, mais l'exercice du leadership ne peut jamais
-justifier les actes qui sont contraires au véritable amour pieux.
+JÃ©sus, pourtant de nombreux dirigeants semblent penser que le leadership est prioritaire
+sur l'amour. Certes, le leadership exige souvent des dÃ©cisions difficiles et
+ne doit pas cÃ©der au favoritisme, mais l'exercice du leadership ne peut jamais
+justifier les actes qui sont contraires au vÃ©ritable amour pieux.
 
-> Galates 6:1 Frères et sœurs, si quelqu'un est pris dans le péché, vous
+> Galates 6:1 FrÃ¨res et sÅ“urs, si quelqu'un est pris dans le pÃ©chÃ©, vous
 > qui vivent par l'Esprit devraient restaurer cette personne en douceur. Mais regarde
-> vous-même, ou vous aussi vous pourriez être tenté.**Â **
+> vous-mÃªme, ou vous aussi vous pourriez Ãªtre tentÃ©.**Â **
 
 ## Ouverture
 
-> "Mais celui qui vit de la vérité vient à la lumière, afin qu'elle
-> voir clairement que ce qu'ils ont fait a été fait aux yeux de
+> "Mais celui qui vit de la vÃ©ritÃ© vient Ã  la lumiÃ¨re, afin qu'elle
+> voir clairement que ce qu'ils ont fait a Ã©tÃ© fait aux yeux de
 > Dieu." (Jean 3:21)
 >
-> Mais si nous marchons dans la lumière, comme il est dans la lumière, nous avons la communion
-> les uns avec les autres, et le sang de Jésus, son Fils, nous purifie de
-> tout péché.Â (1 Jean 1:7 )
+> Mais si nous marchons dans la lumiÃ¨re, comme il est dans la lumiÃ¨re, nous avons la communion
+> les uns avec les autres, et le sang de JÃ©sus, son Fils, nous purifie de
+> tout pÃ©chÃ©. (1 Jean 1:7 )
 
-Les dirigeants doivent marcher ensemble dans la lumière ; ils doivent être ouverts avec un
-un autre sur leur vision de l'avenir qu'ils cherchent à amener les gens à
-et leurs propres forces et faiblesses. Le leadership doit être partagé afin
-que la variété des contributions que Christ a fournies dans l'église
-peuvent tous contribuer à une équipe de direction saine et saine.
+Les dirigeants doivent marcher ensemble dans la lumiÃ¨re ; ils doivent Ãªtre ouverts avec un
+un autre sur leur vision de l'avenir qu'ils cherchent Ã  amener les gens Ã 
+et leurs propres forces et faiblesses. Le leadership doit Ãªtre partagÃ© afin
+que la variÃ©tÃ© des contributions que Christ a fournies dans l'Ã©glise
+peuvent tous contribuer Ã  une Ã©quipe de direction saine et saine.
 
-## Intégrité
+## IntÃ©gritÃ©
 
-Les dirigeants doivent vivre ce qu'ils prêchent autant qu'ils le peuvent. Elles doivent
+Les dirigeants doivent vivre ce qu'ils prÃªchent autant qu'ils le peuvent. Elles doivent
 donner l'exemple et pas seulement par l'exhortation. Et cet exemple doit
-inclure la façon dont ils gèrent les relations de leadership et le leadership
-difficultés.Â
+inclure la faÃ§on dont ils gÃ¨rent les relations de leadership et le leadership
+des difficultÃ©s.
 
-# Gérer les conflits de leadership
+# GÃ©rer les conflits de leadership
 
-## La réponse d'un leader aux accusations portées contre eux
+## RÃ©ponse d'un leader aux accusations portÃ©es contre eux
 
-Les dirigeants doivent apprendre à gérer les accusations portées contre eux et
-désaccords avec les autres dirigeants. Le leadership est une vocation élevée et vient
-avec de grandes responsabilités. Le niveau d'amour pour les dirigeants est élevé.
-John dit
+Les dirigeants doivent apprendre Ã  gÃ©rer les accusations portÃ©es contre eux et
+dÃ©saccords avec les autres dirigeants. Le leadership est une vocation Ã©levÃ©e et vient
+avec de grandes responsabilitÃ©s. Le niveau d'amour pour les dirigeants est Ã©levÃ©.
+Jean dit
 
-> « C'est ainsi que nous savons ce qu'est l'amour : Jésus-Christ a donné sa vie pour
-> nous. Et nous devons donner notre vie pour nos frères et sœurs."
+> Â« C'est ainsi que nous savons ce qu'est l'amour : JÃ©sus-Christ a donnÃ© sa vie pour
+> nous. Et nous devons donner notre vie pour nos frÃ¨res et sÅ“urs."
 > (1 Jean 3:16)
 
-La première réponse d'un leader aux accusations ou aux désaccords devrait être de
-donner sa vie plutôt que de se défendre.
+La premiÃ¨re rÃ©ponse d'un leader aux accusations ou aux dÃ©saccords devrait Ãªtre de
+donner sa vie plutÃ´t que de se dÃ©fendre.
 
 > C'est pourquoi, pour l'amour du Christ, je me complais dans les faiblesses, dans les insultes,
-> dans les épreuves, dans les persécutions, dans les difficultés. Car quand je suis faible,
-> alors je suis fort.Â (2 Corinthiens 12:10)
+> dans les Ã©preuves, dans les persÃ©cutions, dans les difficultÃ©s. Car quand je suis faible,
+> alors je suis fort. (2 Corinthiens 12:10)
 
-C'est l'exemple que Jésus nous a laissé.
+C'est l'exemple que JÃ©sus nous a laissÃ©.
 
-> Mais je vous dis, aimez vos ennemis, bénissez ceux qui vous maudissent, faites
-> bon à ceux qui te haïssent, et prie pour ceux qui t'utilisent avec méchanceté
-> et vous persécuter.Â (Matthieu 5:44)
+> Mais je vous dis, aimez vos ennemis, bÃ©nissez ceux qui vous maudissent, faites
+> bon Ã  ceux qui te haÃ¯ssent, et prie pour ceux qui t'utilisent avec mÃ©chancetÃ©
+> et vous persÃ©cuter. (Matthieu 5:44)
 >
-> A quel mérite si, lorsque vous péchez et êtes battu pour cela, vous
+> A quel mÃ©rite si, lorsque vous pÃ©chez et Ãªtes battu pour cela, vous
 > supporter ? Mais si quand vous faites le bien et que vous en souffrez, vous endurez, c'est
-> une chose gracieuse aux yeux de Dieu. Pour cela tu as été
-> appelé, parce que le Christ a aussi souffert pour vous, vous laissant un exemple,
-> afin que vous puissiez suivre ses traces. (1 Pierre 2:20-21)
+> une chose gracieuse aux yeux de Dieu. Pour cela tu as Ã©tÃ©
+> appelÃ©, parce que le Christ a aussi souffert pour vous, vous laissant un exemple,
+> pour que vous suiviez ses pas. (1 Pierre 2:20-21)
 
-Si c'est ainsi que Jésus veut que nous nous comportions envers les ennemis de la
-vérité, combien plus devrions-nous montrer ce pardon et cet amour envers
-nos collègues dirigeants. Malheureusement, les dirigeants sont si souvent très défensifs, fortement
-défendre et justifier leurs actions et répondre aux accusations avec
+Si c'est ainsi que JÃ©sus veut que nous nous comportions envers les ennemis de la
+vÃ©ritÃ©, combien plus devrions-nous montrer ce pardon et cet amour envers
+nos collÃ¨gues dirigeants. Malheureusement, les dirigeants sont si souvent trÃ¨s dÃ©fensifs, fortement
+dÃ©fendre et justifier leurs actions et rÃ©pondre aux accusations avec
 accusations.
 
-## Pardon
+## Le pardon
 
-Jésus nous a averti que si nous ne pardonnons pas à ceux qui pèchent contre nous,
-Notre Père ne nous pardonnera pas non plus.
+JÃ©sus nous a averti que si nous ne pardonnons pas Ã  ceux qui pÃ¨chent contre nous,
+Notre PÃ¨re ne nous pardonnera pas non plus.
 
-## Responsabilité de la résolution des conflits
+## ResponsabilitÃ© de la rÃ©solution des conflits
 
-Chacun dans le corps de Christ est responsable de la résolution des conflits.
-Personne qui voit un conflit n'a le droit de rester les bras croisés et de ne rien dire. Nous
-doivent tous garder l'unité du corps du Christ.
+Chacun dans le corps de Christ est responsable de la rÃ©solution des conflits.
+Personne qui voit un conflit n'a le droit de rester les bras croisÃ©s et de ne rien dire. Nous
+doivent tous garder l'unitÃ© du corps du Christ.
 
-Mais les dirigeants ont clairement la responsabilité première de résoudre les conflits.
-Encore une fois, aucun leader ne peut rester à l'écart en disant « ce n'est pas ma responsabilité », mais
+Mais les dirigeants ont clairement la responsabilitÃ© premiÃ¨re de rÃ©soudre les conflits.
+Encore une fois, aucun leader ne peut rester Ã  l'Ã©cart en disant Â«Â ce n'est pas ma responsabilitÃ©Â Â», mais
 le chef de file est ultimement responsable devant Dieu de ceux qui sont dans son
-soins, et il ne doit pas se dérober à la responsabilité de résoudre les conflits qui
-surgir au sein de son église ou dans son équipe de direction.
+soins, et il ne doit pas se dÃ©rober Ã  la responsabilitÃ© de rÃ©soudre les conflits qui
+surgir au sein de son Ã©glise ou dans son Ã©quipe de direction.
 
-## Les causes du conflitÂ
+## Les causes des conflits
 
-Les équipes efficaces auront la volonté d'être en désaccord, tout en se tenant mutuellement
-responsable de ne pas entrer dans un conflit destructeur.désaccord. Par exemple, « Je pense que vous n'avez pas donné suffisamment
-considération à mon point de vue."
+Les Ã©quipes efficaces auront la volontÃ© d'Ãªtre en dÃ©saccord, tout en se tenant mutuellement
+responsable de ne pas entrer dans un conflit destructeur.dÃ©saccord. Par exemple, Â«Â Je pense que vous n'avez pas donnÃ© suffisamment
+considÃ©ration Ã  mon avis."
 
-La cause peut être une grave erreur morale ou doctrinale qui peut nécessiter une
-question à affronter et peut entraîner des conflits. Mais c'est plus
-généralement un désaccord sur la vision, la stratégie, les rôles, la structure,
-la mise en œuvre ou les préférences personnelles qui devraient être résolues sans
-conflit.Â
+La cause peut Ãªtre une grave erreur morale ou doctrinale qui peut nÃ©cessiter une
+question Ã  affronter et peut entraÃ®ner des conflits. Mais c'est plus
+gÃ©nÃ©ralement un dÃ©saccord sur la vision, la stratÃ©gie, les rÃ´les, la structure,
+la mise en Å“uvre ou les prÃ©fÃ©rences personnelles qui devraient Ãªtre rÃ©solues sans
+conflit.
 
-Il est important d'identifier le problème réel qui a donné lieu à la
-conflit. James suggère que nous devons commencer par chercher notre propre
-cœurs : 
+Il est important d'identifier le problÃ¨me rÃ©el qui a donnÃ© lieu Ã  la
+conflit. James suggÃ¨re que nous devons commencer par chercher notre propre
+cÅ“urs:
 
 > Qu'est-ce qui cause les disputes et les querelles entre vous ? Ne viennent-ils pas de votre
-> désire ce combat en toi ? (Jacques 4:1)
+> des dÃ©sirs qui combattent en vous ? (Jacques 4:1)
 
-Les conflits entre personnes sont souvent le résultat d'un conflit au sein d'une même
-individuel. Ce conflit intérieur peut ne pas être évident pour cette personne. Lorsque
-nous ressentons le besoin de parler ou d'agir d'une manière qui pourrait donner lieu à
-conflit, nous devons d'abord demander à Dieu de nous aider à examiner notre propre cœur pour
-révéler ce qui cause cette forte émotion.
+Les conflits entre personnes sont souvent le rÃ©sultat d'un conflit au sein d'une mÃªme
+individuel. Ce conflit intÃ©rieur peut ne pas Ãªtre Ã©vident pour cette personne. Lorsque
+nous ressentons le besoin de parler ou d'agir d'une maniÃ¨re qui pourrait donner lieu Ã 
+conflit, nous devons d'abord demander Ã  Dieu de nous aider Ã  examiner notre propre cÅ“ur pour
+rÃ©vÃ©ler ce qui cause cette Ã©motion forte.
 
-Les questions suivantes doivent être considérées dans la prière à la fois
-individuellement et collectivement pour identifier comment le conflit est né :
+Les questions suivantes doivent Ãªtre considÃ©rÃ©es dans la priÃ¨re Ã  la fois
+individuellement et collectivement pour identifier comment le conflit est nÃ© :
 
-- Quel est le problème qui a donné naissance à ce conflit ? Essayez de creuser
-    jusqu'à la racine des problèmes.
+- Quel est le problÃ¨me qui a donnÃ© naissance Ã  ce conflit ? Essayez de creuser
+    jusqu'Ã  la racine des problÃ¨mes.
 
-- Dans quelle mesure chaque personne a-t-elle contribué à ce conflit surgissant ?
+- Dans quelle mesure chacun a-t-il contribuÃ© Ã  ce conflit ?
 
-- Quel rôle joue l'orgueil dans ce conflit ?
+- Quelle est la part de l'orgueil dans ce conflit ?
 
-- Quelle partie sont des erreurs, de l'inexpérience ou des connaissances inadéquates
-    jouer ?
+- Quelle partie sont des erreurs, de l'inexpÃ©rience ou des connaissances inadÃ©quates
+    en jouant?
 
-## Résoudre les conflits
+## RÃ©soudre les conflits
 
-La résolution des conflits consiste à gagner des cœurs et non des arguments. Cela demande
-que chaque personne écoute attentivement l'autre, puis se répercute
-aussi peu de mots que possible ce qu'ils pensent avoir entendu.
+La rÃ©solution des conflits consiste Ã  gagner des cÅ“urs et non des arguments. Cela demande
+que chaque personne Ã©coute attentivement l'autre, puis se rÃ©percute
+le moins de mots possible sur ce qu'ils pensent avoir entendu.
 
-Les questions suivantes doivent être considérées dans la prière à la fois
+Les questions suivantes doivent Ãªtre considÃ©rÃ©es dans la priÃ¨re Ã  la fois
 individuellement et collectivement pour essayer de trouver une voie pieuse vers l'avant.
 
-- Sommes-nous ouverts les uns aux autres sur les vrais problèmes ?
+- Sommes-nous ouverts les uns aux autres sur les vrais problÃ¨mesÂ ?
 
-- Y a-t-il des problèmes de comportement qui doivent être résolus ?
+- Y a-t-il des problÃ¨mes de comportement qui doivent Ãªtre rÃ©solusÂ ?
 
-- Comment pouvons-nous imiter et glorifier Jésus dans le traitement de cette question ?Â
+- Comment pouvons-nous imiter et glorifier JÃ©sus dans le traitement de cette question ?
 
-- Pouvons-nous faire venir un artisan de paix pour nous aider à résoudre ce problème
-    façon?Â
+- Pouvons-nous faire venir un artisan de paix pour nous aider Ã  rÃ©soudre ce problÃ¨me
+    maniÃ¨re?
 
-- Quelle chose positive chaque personne aimerait-elle retirer de la résolution
-    ce problème ?
+- Quelle chose positive chaque personne aimerait-elle retirer de la rÃ©solution
+    ce problÃ¨me?
 
-## Déclenchement d'un conflit
+## DÃ©clenchement d'un conflit
 
-Avant de déclencher un conflit potentiel, tenez compte des conseils suivants :
+Avant de dÃ©clencher un conflit potentiel, tenez compte des conseils suivantsÂ :
 
-- Ne réagissez jamais dans le feu de l'action. Obtenez au moins une nuit
-    sommeil entre la décision d'initier le conflit potentiel et
-    la mise en œuvre de cette décision.
+- Ne rÃ©agissez jamais dans le feu de l'action. Obtenez au moins une nuit
+    sommeil entre la dÃ©cision d'initier le conflit potentiel et
+    la mise en Å“uvre de cette dÃ©cision.
 
-- Priez jusqu'à ce que vous soyez sûr que c'est ce que Jésus veut que vous fassiez.
+- Priez jusqu'Ã  ce que vous soyez sÃ»r que c'est ce que JÃ©sus veut que vous fassiez.
 
-- Demander l'avis d'un leader expérimenté qui n'est pas impliqué dans le
+- Demander l'avis d'un leader expÃ©rimentÃ© qui n'est pas impliquÃ© dans le
     situation.
 
 - Discutez de la sagesse de votre intention avec votre conjoint.
 
-- Discutez de la sagesse de votre intention avec vos collègues dirigeants.
+- Discutez de la sagesse de votre intention avec vos collÃ¨gues dirigeants.
 
-- Si vous êtes sûr de devoir initier un conflit potentiel, n'élevez
-    la question essentielle. Ne soulevez pas de problèmes secondaires non essentiels.
-    Ils deviendront le centre d'intérêt plutôt que le problème central et feront
-    résolution beaucoup plus difficile.
+- Si vous Ãªtes sÃ»r de devoir initier un conflit potentiel, n'Ã©levez
+    la question essentielle. Ne soulevez pas de problÃ¨mes secondaires non essentiels.
+    Ils deviendront le centre d'intÃ©rÃªt plutÃ´t que le problÃ¨me central et feront
+    rÃ©solution beaucoup plus difficile.
 
-- Lorsque vous soulevez le problème, ne portez pas d'accusations contre l'autre
-    personne. Tenez-vous en à vos propres observations et sentiments, et ne rapportez que
-    des faits, pas des ouï-dire. Rappelez-vous que vous essayez d'établir la vérité,
-    pas gagner un argument.Â
+- Lorsque vous soulevez le problÃ¨me, ne portez pas d'accusations contre l'autre
+    personne. Tenez-vous en Ã  vos propres observations et sentiments, et ne rapportez que
+    des faits, pas des ouÃ¯-dire. Rappelez-vous que vous essayez d'Ã©tablir la vÃ©ritÃ©,
+    pas gagner un argument.
 
-# Audit d'église sain
+# Audit d'Ã©glise sain
 
-De nombreuses églises trouvent utile d'avoir un « audit d'église sain ». Tu
-inviter un dirigeant d'une autre église à interviewer un échantillon représentatif de la
-leadership et l'ensemble de la congrégation afin de découvrir
+De nombreuses Ã©glises trouvent utile d'avoir un Â«Â audit d'Ã©glise sainÂ Â». Tu
+inviter un dirigeant d'une autre Ã©glise Ã  interviewer un Ã©chantillon reprÃ©sentatif de la
+leadership et l'ensemble de la congrÃ©gation afin de dÃ©couvrir
 vraiment avoir une vision commune et voir si l'enseignement, la pastorale et
-les fonctions de direction au sein de l'église sont saines et efficaces. Ils
-puis rendre compte à l'équipe de direction pour les aider à améliorer la qualité
-de leur leadership.
+les fonctions de direction au sein de l'Ã©glise sont saines et efficaces. Ils
+puis rendre compte Ã  l'Ã©quipe de direction pour les aider Ã  amÃ©liorer la qualitÃ©
+de leur direction.

@@ -1,471 +1,471 @@
 ---
 type: document
 translationKey: Developing Leadership Teams
-title: Développer des équipes de direction---
-# Développer des équipes de direction
+title: DÃ©velopper des Ã©quipes de direction---
+# DÃ©velopper des Ã©quipes de direction
 
-Cet enseignement porte spécifiquement sur le développement d'équipes de leadership, et
-suppose que les dirigeants ont adopté les principes énoncés dans
+Cet enseignement porte spÃ©cifiquement sur le dÃ©veloppement d'Ã©quipes de leadership, et
+suppose que les dirigeants ont adoptÃ© les principes Ã©noncÃ©s dans
 \"Leadership serviteur\".
 
-## Points pertinents de \"Servant Leadership\"
+##Â Points pertinents de \"Servant Leadership\"
 
-### Appelé à servir
+### AppelÃ© Ã  servir
 
-Les dirigeants et les équipes de direction sont appelés à servir le peuple de Dieu, non
-pour régner sur eux :
+Les dirigeants et les Ã©quipes de direction sont appelÃ©s Ã  servir le peuple de Dieu, non
+pour rÃ©gner sur eux :
 
-> Jésus les a réunis et leur a dit : « Vous savez que ceux qui sont
-> considérés comme les dirigeants des Gentils les dominent, et leur haut
-> les fonctionnaires exercent une autorité sur eux. Ce n'est pas le cas avec toi. Au lieu,
-> celui qui veut devenir grand parmi vous doit être votre serviteur, et
-> celui qui veut être le premier doit être l'esclave de tous." (Mc 10:42-44 NIV)
+> JÃ©sus les a rÃ©unis et leur a dit : Â« Vous savez que ceux qui sont
+> considÃ©rÃ©s comme les dirigeants des Gentils les dominent, et leur haut
+> les fonctionnaires exercent une autoritÃ© sur eux. Ce n'est pas le cas avec toi. Au lieu,
+> celui qui veut devenir grand parmi vous doit Ãªtre votre serviteur, et
+> celui qui veut Ãªtre le premier doit Ãªtre l'esclave de tous." (Mc 10:42-44 NIV)
 
 ### Donner l'exemple
 
-La direction du Royaume ne dépend pas de l'autorité et du devoir mais de la vision,
+La direction du Royaume ne dÃ©pend pas de l'autoritÃ© et du devoir mais de la vision,
 inspiration, responsabilisation et amour :
 
 > "Soyez les bergers du troupeau de Dieu dont vous avez la garde, servant de
 > surveillants --- non pas parce que vous le devez, mais parce que vous le voulez bien, comme Dieu
-> veut que vous soyez ; pas avide d'argent, mais désireux de servir ; ne pas dominer
-> elle sur ceux qui vous sont confiés, mais **étant des exemples pour le troupeau**.
-> Et lorsque le chef des bergers apparaîtra, vous recevrez la couronne de
+> veut que vous soyezÂ ; pas avide d'argent, mais dÃ©sireux de servirÂ ; ne pas dominer
+> elle sur ceux qui vous sont confiÃ©s, mais **Ã©tant des exemples pour le troupeau**.
+> Et lorsque le chef des bergers apparaÃ®tra, vous recevrez la couronne de
 > gloire qui ne s'effacera jamais." (1P 5:2-4 NIV)
 >
 > "**Suivez mon exemple**, comme je suis l'exemple du Christ." (1Co 11:1
 > VNI)
 
-On voit ici que le caractère d'un leader est crucial, pas seulement le
-capacité à effectuer une tâche. Dans le Royaume, *exemple* est le plus
-qualité importante. Si la personne ne vit pas ce qu'elle dit aux autres
-faire, ils ne sont pas adaptés au leadership. Les dirigeants doivent montrer l'exemple.
+On voit ici que le caractÃ¨re d'un leader est crucial, pas seulement le
+capacitÃ© Ã  effectuer une tÃ¢che. Dans le Royaume, *exemple* est le plus
+qualitÃ© importante. Si la personne ne vit pas ce qu'elle dit aux autres
+faire, ils ne sont pas adaptÃ©s au leadership. Les dirigeants doivent montrer l'exemple.
 
 ### Pour atteindre un objectif
 
-Les dirigeants servent les membres en les aidant à atteindre un objectif qu'ils
-valeur.Â
+Les dirigeants servent les membres en les aidant Ã  atteindre un objectif qu'ils
+valeur.
 
 Si bien que nos dirigeants soient d'accord avec les principes du serviteur
-leadership, il n'en reste pas moins que les dirigeants ont tendance à avoir une forte volonté,
-déterminé, ambitieux et parfois impitoyable. En raison de ce leadership
-les équipes ne fonctionnent correctement que lorsqu'elles reconnaissent qu'il y a
-objectif louable qui ne peut être atteint que grâce à une action commune et organisée
+leadership, il n'en reste pas moins que les dirigeants ont tendance Ã  avoir une forte volontÃ©,
+dÃ©terminÃ©, ambitieux et parfois impitoyable. En raison de ce leadership
+les Ã©quipes ne fonctionnent correctement que lorsqu'elles reconnaissent qu'il y a
+objectif louable qui ne peut Ãªtre atteint que grÃ¢ce Ã  une action commune et organisÃ©e
 effort.
 
 ### La motivation par la vision
 
-Le service de leadership comprend une explication claire de la raison de la tâche
-en cours et en envisageant les membres de l'équipe/de l'église afin qu'ils
-donner volontairement une priorité suffisante aux activités requises. Serviteur
-le leadership n'inclut pas de contraindre les membres à faire ce qu'ils ne veulent pas
-à faire.
+Le service de leadership comprend une explication claire de la raison de la tÃ¢che
+en cours et en envisageant les membres de l'Ã©quipe/de l'Ã©glise afin qu'ils
+donner volontairement une prioritÃ© suffisante aux activitÃ©s requises. Serviteur
+le leadership n'inclut pas de contraindre les membres Ã  faire ce qu'ils ne veulent pas
+Ã  faire.
 
-### Apporter le problème à Jésus
+### Apporter le problÃ¨me Ã  JÃ©sus
 
-Si les gens ne sont pas disposés à participer de la manière souhaitée par le leader
-alors le leader doit retourner à Jésus avec le problème. Soit le
-l'objectif du leader ou son timing est mauvais, ou ils n'ont pas réussi à partager le
-vision de l'objectif assez clairement, ou bien la personne est inappropriée
-pour l'équipe.
+Si les gens ne sont pas disposÃ©s Ã  participer de la maniÃ¨re souhaitÃ©e par le leader
+alors le leader doit retourner Ã  JÃ©sus avec le problÃ¨me. Soit le
+l'objectif du leader ou son timing est mauvais, ou ils n'ont pas rÃ©ussi Ã  partager le
+vision de l'objectif assez clairement, ou bien la personne est inappropriÃ©e
+pour l'Ã©quipe.
 
-Je pense que nous le voyons avec la Transfiguration (Mt 17). Jésus avait un
-problème de communication avec ses disciples. Il essayait de les amener à
-voir qu'il était vraiment le Fils de Dieu, et qu'il était content de Pierre
-réponse:
+Je pense que nous le voyons avec la Transfiguration (Mt 17). JÃ©sus avait un
+problÃ¨me de communication avec ses disciples. Il essayait de les amener Ã 
+voir qu'il Ã©tait vraiment le Fils de Dieu, et qu'il Ã©tait content de Pierre
+rÃ©ponse:
 
-> « Qui dites-vous que je suis ? » Simon Pierre répondit : « Tu es le Messie, le
-> Fils du Dieu vivant. » Jésus répondit : « Béni sois-tu, Simon fils de
-> Jonas, car cela ne t'a pas été révélé par la chair et le sang, mais par mon
-> Père céleste. (Matthieu 16:15-17)
+> Â«Â Qui dites-vous que je suisÂ ?Â Â» Simon Pierre rÃ©pondit : Â« Tu es le Messie, le
+> Fils du Dieu vivant. Â» JÃ©sus rÃ©pondit : Â« BÃ©ni sois-tu, Simon fils de
+> Jonas, car cela ne t'a pas Ã©tÃ© rÃ©vÃ©lÃ© par la chair et le sang, mais par mon
+> PÃ¨re cÃ©leste. (Matthieu 16:15-17)
 
-Sur ce fondement, Il a ensuite essayé de leur parler de la croix, mais ils
-n'écoutait pas :
+Sur ce fondement, Il a ensuite essayÃ© de leur parler de la croix, mais ils
+n'Ã©coutait pas :
 
-> A partir de ce moment-là, Jésus commença à expliquer à ses disciples qu'il devait
-> allez à Jérusalem et souffrez beaucoup de choses entre les mains des anciens, les
-> les grands prêtres et les docteurs de la loi, et qu'il doit être tué
-> et le troisième jour ressuscitera. Pierre le prit à part et commença
-> pour le réprimander. « Jamais, Seigneur ! il a dit. "Cela n'arrivera jamais à
-> toi ! » Jésus se retourna et dit à Pierre : « Passe derrière moi, Satan ! Tu es un
-> pierre d'achoppement pour moi; vous n'avez pas à l'esprit les préoccupations de Dieu,
-> mais simplement des préoccupations humaines." (Mt 16:21-23)
+> A partir de ce moment-lÃ , JÃ©sus commenÃ§a Ã  expliquer Ã  ses disciples qu'il devait
+> allez Ã  JÃ©rusalem et souffrez beaucoup de choses entre les mains des anciens, les
+> les grands prÃªtres et les docteurs de la loi, et qu'il doit Ãªtre tuÃ©
+> et le troisiÃ¨me jour ressuscitera. Pierre le prit Ã  part et commenÃ§a
+> pour le rÃ©primander. Â« Jamais, Seigneur ! il a dit. "Cela n'arrivera jamais Ã 
+> toi ! Â» JÃ©sus se retourna et dit Ã  Pierre : Â« Passe derriÃ¨re moi, Satan ! Tu es un
+> pierre d'achoppement pour moi; vous n'avez pas Ã  l'esprit les prÃ©occupations de Dieu,
+> mais simplement des prÃ©occupations humaines." (Mt 16:21-23)
 
-Jésus avait un problème. Ses disciples n'accepteraient pas ce que Jésus était
-en disant. Même Pierre qui a dit qu'il croyait que Jésus était le Fils de Dieu étaitproblème au Père qui a dit, \"OK. Je vais discuter avec eux.\"
-C'est ce qui s'est passé:
+JÃ©sus avait un problÃ¨me. Ses disciples n'accepteraient pas ce que JÃ©sus Ã©tait
+en disant. MÃªme Pierre qui a dit qu'il croyait que JÃ©sus Ã©tait le Fils de Dieu Ã©taitproblÃ¨me au PÃ¨re qui a dit, \"OK. Je vais discuter avec eux.\"
+C'est ce qui s'est passÃ©:
 
-> Un nuage brillant les couvrit, et une voix venant du nuage dit : « C'est
+> Un nuage brillant les couvrit, et une voix venant du nuage dit : Â« C'est
 > mon Fils que j'aime ; avec lui je suis bien content. **Ecoute le**!"
 > (Matthieu 17:5)
 
 C'est notre seul recours si les gens ne comprennent pas ce que nous essayons de dire.
-Nous leur faisons appel, puis devons laisser à Dieu le soin de parler en
-leurs cœurs. En attendant, nous devons continuer à essayer de diriger par
+Nous leur faisons appel, puis devons laisser Ã  Dieu le soin de parler en
+leurs cÅ“urs. En attendant, nous devons continuer Ã  essayer de diriger par
 Exemple.
 
-## **Former une équipe de direction au sein d'une église**
+## **Former une Ã©quipe de direction au sein d'une Ã©glise**
 
-La question fondamentale dans la formation d'une équipe de direction au sein d'une église est
-\"Essayons-nous d'élever des serviteurs pour soutenir les activités de l'église, ou
-dirigeants qui sont censés entendre et obéir à Jésus ?\"
+La question fondamentale dans la formation d'une Ã©quipe de direction au sein d'une Ã©glise est
+\"Essayons-nous d'Ã©lever des serviteurs pour soutenir les activitÃ©s de l'Ã©glise, ou
+dirigeants qui sont censÃ©s entendre et obÃ©ir Ã  JÃ©susÂ ?\"
 
-Si vous cherchez des serviteurs pour soutenir les activités de l'église, vous
+Si vous cherchez des serviteurs pour soutenir les activitÃ©s de l'Ã©glise, vous
 va chercher
 
 - Les gens qui sont d'accord avec vous
 
-- Des gens complaisants qui ont tendance à ne pas se disputer
+- Des gens complaisants qui ont tendance Ã  ne pas se disputer
 
-- Des personnes ayant les compétences appropriées
+- Des personnes ayant les compÃ©tences appropriÃ©es
 
-- Les gens que les autres respecteront et obéiront
+- Les gens que les autres respecteront et obÃ©iront
 
 Si vous cherchez des dirigeants du Royaume, vous chercherez
 
-- Les personnes passionnées par le Christ
+- Les personnes passionnÃ©es par le Christ
 
-- Les gens qui entendent Dieu par eux-mêmes
+- Les gens qui entendent Dieu par eux-mÃªmes
 
 - Les gens qui remettent en question ce qui est dit et fait
 
 - Les gens qui prennent des risques
 
-- Les gens qui ne sont pas influencés par ce que les autres pensent d'eux
+- Les gens qui ne sont pas influencÃ©s par ce que les autres pensent d'eux
 
 - Les personnes avec un sens croissant de leur propre vocation
 
 - Des personnes dont la passion, l'orientation et la direction sont compatibles mais
-    différent du nôtre
+    diffÃ©rent du nÃ´tre
 
-Rassembler et promouvoir les dirigeants du Royaume au sein d'une église est souvent un réel
-défi à la direction existante - un défi que peu de dirigeants sont
-prêt à embrasser. En conséquence, les équipes de direction de l'église ont tendance à
-être des équipes de gestion, au service du chef de file et du programme de l'église.
+Rassembler et promouvoir les dirigeants du Royaume au sein d'une Ã©glise est souvent un rÃ©el
+dÃ©fi Ã  la direction existante - un dÃ©fi que peu de dirigeants sont
+prÃªt Ã  embrasser. En consÃ©quence, les Ã©quipes de direction de l'Ã©glise ont tendance Ã 
+Ãªtre des Ã©quipes de gestion, au service du chef de file et du programme de l'Ã©glise.
 
-## **Former une équipe de direction dans toutes les églises**
+## **Former une Ã©quipe de direction dans toutes les Ã©glises**
 
-La question fondamentale dans la formation d'une équipe de direction entre les églises
-est \"À quoi cela sert-il ?\" Voici quelques raisons pour lesquelles les dirigeants d'église se rencontrent
+La question fondamentale dans la formation d'une Ã©quipe de direction entre les Ã©glises
+est \"Ã€ quoi cela sert-ilÂ ?\" Voici quelques raisons pour lesquelles les dirigeants d'Ã©glise se rencontrent
 ensemble:
 
-- Jésus a prié pour notre unité en Jean 17
+- JÃ©sus a priÃ© pour notre unitÃ© en Jean 17
 
-- Il y a un projet commun dans lequel ils sont impliqués
+- Il y a un projet commun dans lequel ils sont impliquÃ©s
 
-- Ils veulent apprendre des autres églises
+- Ils veulent apprendre des autres Ã©glises
 
 - Le leadership est solitaire et ils veulent la compagnie ou le soutien de
     d'autres dirigeants
 
 - Ils veulent faire partie de quelque chose de plus grand (prestige)
 
-- Ils veulent influencer d'autres églises
+- Ils veulent influencer d'autres Ã©glises
 
-- Ils veulent construire un \"royaume\" d'églises apparentées
+- Ils veulent construire un \"royaume\" d'Ã©glises apparentÃ©es
 
-Quelle qu'en soit la raison, elle doit être enracinée dans le Royaume avec Jésus comme
-la tête. \"Cela semblait juste être une bonne chose à faire\" n'est pas assez bien.
-Quel est l'intérêt d'une "boutique parlante" qui n'aboutit à rien ?
+Quelle qu'en soit la raison, elle doit Ãªtre enracinÃ©e dans le Royaume avec JÃ©sus comme
+la tÃªte. \"Cela semblait juste Ãªtre une bonne chose Ã  faire\" n'est pas assez bien.
+Quel est l'intÃ©rÃªt d'une "boutique parlante" qui n'aboutit Ã  rienÂ ?
 
-Une véritable coopération entre les dirigeants d'église est souvent difficile à
-réaliser. Le problème, c'est qu'ils sont tous des leaders et n'ont pas l'habitude d'être
-LED. Une coopération utile entre les dirigeants n'a lieu que lorsqu'ils
-reconnaître qu'un objectif qu'ils apprécient ne peut être atteint qu'ensemble.
+Une vÃ©ritable coopÃ©ration entre les dirigeants d'Ã©glise est souvent difficile Ã 
+rÃ©aliser. Le problÃ¨me, c'est qu'ils sont tous des leaders et n'ont pas l'habitude d'Ãªtre
+LED. Une coopÃ©ration utile entre les dirigeants n'a lieu que lorsqu'ils
+reconnaÃ®tre qu'un objectif qu'ils apprÃ©cient ne peut Ãªtre atteint qu'ensemble.
 
-## Faire fonctionner une équipe
+## Faire fonctionner une Ã©quipe
 
-La tâche de diriger une équipe de direction est fondamentalement l'une des
-identifier un objectif commun et imaginer l'équipe afin qu'elle
-soumettre volontairement leurs propres priorités pour le bien de cette plus grande
+La tÃ¢che de diriger une Ã©quipe de direction est fondamentalement l'une des
+identifier un objectif commun et imaginer l'Ã©quipe afin qu'elle
+soumettre volontairement leurs propres prioritÃ©s pour le bien de cette plus grande
 but.
 
-Un bon point de départ consiste simplement à encourager les dirigeants à partager leurs
-expérience les uns avec les autres dans le but avoué d'influencer l'un
-un autre pour façonner la direction de l'église et sa mission. Le but est
-pas l'uniformité, mais une diversité plus forte et plus efficace. Où là
-est un engagement de partage, d'écoute et d'apprentissage, les équipes peuvent travailler très
-bien et devenir très ouvert à la direction du Saint-Esprit.
+Un bon point de dÃ©part consiste simplement Ã  encourager les dirigeants Ã  partager leurs
+expÃ©rience les uns avec les autres dans le but avouÃ© d'influencer l'un
+un autre pour faÃ§onner la direction de l'Ã©glise et sa mission. Le but est
+pas l'uniformitÃ©, mais une diversitÃ© plus forte et plus efficace. OÃ¹ lÃ 
+est un engagement de partage, d'Ã©coute et d'apprentissage, les Ã©quipes peuvent travailler trÃ¨s
+bien et devenir trÃ¨s ouvert Ã  la direction du Saint-Esprit.
 
-## Identifier les dons des personnes de Jésus
+##Â Identifier les dons des personnes de JÃ©sus
 
-Pour qu'une équipe de direction fonctionne efficacement, il doit y avoir un
-reconnaissance et célébration des différentes qualités et caractères
-que chaque membre apporte. Nous devons être clairs sur le fait que notre unité n'est pas dans
-l'uniformité mais en Christ. Nous ne sommes pas tous des mains ou des pieds, nous sommes tous
-différents membres du Corps du Christ. Il est donc utile d'examiner les
-diverses listes de dons mentionnés dans le Nouveau Testament et d'essayer de
+Pour qu'une Ã©quipe de direction fonctionne efficacement, il doit y avoir un
+reconnaissance et cÃ©lÃ©bration des diffÃ©rentes qualitÃ©s et caractÃ¨res
+que chaque membre apporte. Nous devons Ãªtre clairs sur le fait que notre unitÃ© n'est pas dans
+l'uniformitÃ© mais en Christ. Nous ne sommes pas tous des mains ou des pieds, nous sommes tous
+diffÃ©rents membres du Corps du Christ. Il est donc utile d'examiner les
+diverses listes de dons mentionnÃ©s dans le Nouveau Testament et d'essayer de
 identifiez les dons de chacun (Rom 12, 1 Cor 12, Ep 4). Ces listes
-sont clairement illustratifs plutôt qu'exhaustifs. Les gens peuvent avoir des cadeauxd'une autre manière. Le fait est qu'ils doivent être reconnus, célébrés,
-encouragé et valorisé.
+sont clairement illustratifs plutÃ´t qu'exhaustifs. Les gens peuvent avoir des cadeauxd'une autre maniÃ¨re. Le fait est qu'ils doivent Ãªtre reconnus, cÃ©lÃ©brÃ©s,
+encouragÃ© et valorisÃ©.
 
 ## Tenu ensemble par l'amour
 
-Le premier et le plus grand commandement que Jésus nous a donné est de nous aimer les uns les autres.
-Selon Paul dans Ephésiens 4:16, le but des dons de Jésus de
+Le premier et le plus grand commandement que JÃ©sus nous a donnÃ© est de nous aimer les uns les autres.
+Selon Paul dans EphÃ©siens 4:16, le but des dons de JÃ©sus de
 leadership sont de permettre le \"l'ensemble du corps, joint et maintenu ensemble
 par chaque ligament de soutien, pour grandir et se construire dans l'amour, comme
 chaque partie fait son travail.\"
 
-L'amour n'est nulle part plus important que dans une équipe de direction. Si la
-l'équipe de direction ne peut pas donner un exemple d'amour alors nous pourrions aussi bien
-abandonne et rentre chez toi ! Pensez-vous que Jésus est impressionné par \"Nous avons conduit
-très bien de toutes sortes de manières; mais nous n'avons jamais réussi à en aimer un
+L'amour n'est nulle part plus important que dans une Ã©quipe de direction. Si la
+l'Ã©quipe de direction ne peut pas donner un exemple d'amour alors nous pourrions aussi bien
+abandonne et rentre chez toi ! Pensez-vous que JÃ©sus est impressionnÃ© par \"Nous avons conduit
+trÃ¨s bien de toutes sortes de maniÃ¨res; mais nous n'avons jamais rÃ©ussi Ã  en aimer un
 un autre\"?
 
-L'amour exige ouverture et honnêteté. Les dirigeants peuvent trouver cela difficile si
-ils sont habitués à essayer de projeter une image impressionnante. On voit ça
-problème récurrent dans tout le Nouveau Testament. Seulement si nous marchons dans le
-lumière les uns avec les autres pouvons-nous vraiment avoir une communion dans l'amour (1 Jn 1, 7).
+L'amour exige ouverture et honnÃªtetÃ©. Les dirigeants peuvent trouver cela difficile si
+ils sont habituÃ©s Ã  essayer de projeter une image impressionnante. On voit Ã§a
+problÃ¨me rÃ©current dans tout le Nouveau Testament. Seulement si nous marchons dans le
+lumiÃ¨re les uns avec les autres pouvons-nous vraiment avoir une communion dans l'amour (1 Jn 1, 7).
 
-## Amitié authentique
+## AmitiÃ© authentique
 
-L'appel à s'aimer ne peut pas être aseptisé en disant que c'est un appel
-à agir avec amour. Nous sommes appelés à une profonde unité dans l'amour, à
-l'amour fraternel, à porter les fardeaux les uns des autres. Regarde comment Paul
-décrit cet amour dans 1 Co 13 :
+L'appel Ã  s'aimer ne peut pas Ãªtre aseptisÃ© en disant que c'est un appel
+Ã  agir avec amour. Nous sommes appelÃ©s Ã  une profonde unitÃ© dans l'amour, Ã 
+l'amour fraternel, Ã  porter les fardeaux les uns des autres. Regarde comment Paul
+dÃ©crit cet amour dans 1 Co 13 :
 
 > \"L'amour est patient, l'amour est bon. Il n'envie pas, il ne se vante pas,
-> ce n'est pas fier. Il ne déshonore pas les autres, ce n'est pas égoïste,
-> il ne se met pas facilement en colère, il ne garde aucune trace des torts. L'amour ne fait pas
-> se réjouit du mal mais se réjouit de la vérité. Il protège toujours,
-> toujours confiance, toujours espérer, toujours persévérer.\"
+> ce n'est pas fier. Il ne dÃ©shonore pas les autres, ce n'est pas Ã©goÃ¯ste,
+> il ne se met pas facilement en colÃ¨re, il ne garde aucune trace des torts. L'amour ne fait pas
+> se rÃ©jouit du mal mais se rÃ©jouit de la vÃ©ritÃ©. Il protÃ¨ge toujours,
+> toujours confiance, toujours espÃ©rer, toujours persÃ©vÃ©rer.\"
 
-Ce n'est pas seulement destiné aux couples qui se marient ! Il est censé
-décrivez également les équipes de direction. Cela exige une amitié sincère et
-pas seulement des relations de travail. Il est totalement irréaliste de supposer
-qu'un tel amour peut exister là où la seule interaction est de traiter avec
-administration de l'église. Les équipes de direction sont une \"famille artificielle\" dans
-le sentiment que les gens sont réunis pour des raisons de leadership
-plutôt qu'une amitié naturelle. Mais cela n'excuse pas l'équipe de
-Amitié. Si l'équipe croit vraiment que sa première vocation est de
+Ce n'est pas seulement destinÃ© aux couples qui se marient ! Il est censÃ©
+dÃ©crivez Ã©galement les Ã©quipes de direction. Cela exige une amitiÃ© sincÃ¨re et
+pas seulement des relations de travail. Il est totalement irrÃ©aliste de supposer
+qu'un tel amour peut exister lÃ  oÃ¹ la seule interaction est de traiter avec
+administration de l'Ã©glise. Les Ã©quipes de direction sont une \"famille artificielle\" dans
+le sentiment que les gens sont rÃ©unis pour des raisons de leadership
+plutÃ´t qu'une amitiÃ© naturelle. Mais cela n'excuse pas l'Ã©quipe de
+AmitiÃ©. Si l'Ã©quipe croit vraiment que sa premiÃ¨re vocation est de
 donner l'exemple dans l'amour l'un pour l'autre, avant qu'ils ne puissent
-d'une autre manière significative, puis former des amitiés de confiance et d'acceptation
-sera l'une des premières priorités.
+d'une autre maniÃ¨re significative, puis former des amitiÃ©s de confiance et d'acceptation
+sera l'une des premiÃ¨res prioritÃ©s.
 
-Partager ouvertement sur nous-mêmes et écouter attentivement ce que les autres disent
-pour nous au sein de l'équipe de direction, c'est la façon dont l'amour est établi.
+Partager ouvertement sur nous-mÃªmes et Ã©couter attentivement ce que les autres disent
+pour nous au sein de l'Ã©quipe de direction, c'est la faÃ§on dont l'amour est Ã©tabli.
 
 ## Pots d'argile
 
-Peut-être que l'une des voies les plus déroutantes de Dieu est qu'Il a délibérément
-cache sa présence dans des gens peu impressionnants :
+Peut-Ãªtre que l'une des voies les plus dÃ©routantes de Dieu est qu'Il a dÃ©libÃ©rÃ©ment
+cache sa prÃ©sence dans des gens peu impressionnants :
 
-> Mais nous avons ce trésor dans des pots d'argile pour montrer que ce
+> Mais nous avons ce trÃ©sor dans des pots d'argile pour montrer que ce
 > le pouvoir absolu vient de Dieu et non de nous. Nous sommes aux abois
-> de tous côtés, mais pas écrasés ; perplexe, mais pas désespéré;
-> persécuté, mais pas abandonné ; abattu, mais pas détruit. Nous
-> toujours porter dans notre corps la mort de Jésus, afin que la vie
-> de Jésus peut aussi se révéler dans notre corps. (2 Cor 4:7-10)
+> de tous cÃ´tÃ©s, mais pas Ã©crasÃ©s ; perplexe, mais pas dÃ©sespÃ©rÃ©;
+> persÃ©cutÃ©, mais pas abandonnÃ© ; abattu, mais pas dÃ©truit. Nous
+> toujours porter dans notre corps la mort de JÃ©sus, afin que la vie
+> de JÃ©sus peut aussi se rÃ©vÃ©ler dans notre corps. (2 Cor 4:7-10)
 
-Ici, Paul semble penser à sa vulnérabilité à l'oppression
-problèmes tels que les nombreuses accusations injustes auxquelles il a été confronté et les
-les coups et les circonstances difficiles qu'il a endurés. Cela semble incompatible
-avec l'Evangile du Royaume annonçant Jésus comme la règle actuelle
-Roi qui avait vaincu et humilié Satan. C'est comme si notre expérience
-trahit la vacuité de notre message évangélique. Mais c'est ainsi que Dieu entend
-c'est pour être! L'Evangile est puissant parce que Dieu est derrière, non pas parce que
-Les chrétiens ont une vie sans problème.
+Ici, Paul semble penser Ã  sa vulnÃ©rabilitÃ© Ã  l'oppression
+problÃ¨mes tels que les nombreuses accusations injustes auxquelles il a Ã©tÃ© confrontÃ© et les
+les coups et les circonstances difficiles qu'il a endurÃ©s. Cela semble incompatible
+avec l'Evangile du Royaume annonÃ§ant JÃ©sus comme la rÃ¨gle actuelle
+Roi qui avait vaincu et humiliÃ© Satan. C'est comme si notre expÃ©rience
+trahit la vacuitÃ© de notre message Ã©vangÃ©lique. Mais c'est ainsi que Dieu entend
+c'est pour Ãªtre! L'Evangile est puissant parce que Dieu est derriÃ¨re, non pas parce que
+Les chrÃ©tiens ont une vie sans problÃ¨me.
 
-Plus loin dans cette lettre, Paul nous parle d'une autre façon dont il a été
+Plus loin dans cette lettre, Paul nous parle d'une autre faÃ§on dont il a Ã©tÃ©
 peu impressionnant :
 
-> Par conséquent, afin de m'empêcher de devenir prétentieux, on m'a donné un
-> épine dans ma chair, un messager de Satan, pour me tourmenter. Trois fois je
-> supplié le Seigneur de me l'enlever. Mais il m'a dit : " Mon
-> la grâce te suffit, car ma puissance est parfaite dans
-> faiblesse." C'est pourquoi je me glorifierai d'autant plus volontiers de monCe trouble qui tourmentait Paul était de l'empêcher de devenir
-vaniteux, donc je suppose que c'est quelque chose qui l'a humilié ; \"mon pouvoir
-est rendu parfait dans la faiblesse\". C'était peut-être une tentation obsessionnelle ou
-faiblesse à laquelle il a succombé. Quoi qu'il en soit, Dieu dans sa sagesse
-lui a permis de continuer, même si humainement parlant cela a affaibli le
-témoin. Paul en avait honte mais Dieu y voyait une protection contre
-vanité.
+> Par consÃ©quent, afin de m'empÃªcher de devenir prÃ©tentieux, on m'a donnÃ© un
+> Ã©pine dans ma chair, un messager de Satan, pour me tourmenter. Trois fois je
+> suppliÃ© le Seigneur de me l'enlever. Mais il m'a dit : " Mon
+> la grÃ¢ce te suffit, car ma puissance est parfaite dans
+> faiblesse." C'est pourquoi je me glorifierai d'autant plus volontiers de monCe trouble qui tourmentait Paul Ã©tait de l'empÃªcher de devenir
+vaniteux, donc je suppose que c'est quelque chose qui l'a humiliÃ© ; \"mon pouvoir
+est rendu parfait dans la faiblesse\". C'Ã©tait peut-Ãªtre une tentation obsessionnelle ou
+faiblesse Ã  laquelle il a succombÃ©. Quoi qu'il en soit, Dieu dans sa sagesse
+lui a permis de continuer, mÃªme si humainement parlant cela a affaibli le
+tÃ©moin. Paul en avait honte mais Dieu y voyait une protection contre
+vanitÃ©.
 
-Nous devons accepter et célébrer le fait que Dieu se plaît à cacher son
-trésor dans des pots d'argile. Nous n'avons pas besoin de prétendre à Dieu ou à qui que ce soit
-sinon que nous sommes meilleurs que nous ne le sommes. Nous sommes aussi des objets de sa grâce
-comme son amour. Bien que nous nous efforcions de ressembler davantage à Christ, Dieu est
-parfaitement satisfait de travailler à travers nos personnages imparfaits. Nous devons
-acceptons-nous donc aussi les uns les autres tels que nous sommes, parce que le Christ a accepté
+Nous devons accepter et cÃ©lÃ©brer le fait que Dieu se plaÃ®t Ã  cacher son
+trÃ©sor dans des pots d'argile. Nous n'avons pas besoin de prÃ©tendre Ã  Dieu ou Ã  qui que ce soit
+sinon que nous sommes meilleurs que nous ne le sommes. Nous sommes aussi des objets de sa grÃ¢ce
+comme son amour. Bien que nous nous efforcions de ressembler davantage Ã  Christ, Dieu est
+parfaitement satisfait de travailler Ã  travers nos personnages imparfaits. Nous devons
+acceptons-nous donc aussi les uns les autres tels que nous sommes, parce que le Christ a acceptÃ©
 nous tels que nous sommes (Ep 4:32).
 
-## À l'écoute les uns des autres
+## Ã€ l'Ã©coute les uns des autres
 
 Nombres 22:21-34 nous raconte l'histoire amusante de Balaam et son discours
-âne. C'est très instructif pour les dirigeants :
+Ã¢ne. C'est trÃ¨s instructif pour les dirigeants :
 
-> \"Balaam s'est levé le matin, a sellé son âne et est parti avec le
+> \"Balaam s'est levÃ© le matin, a sellÃ© son Ã¢ne et est parti avec le
 > Fonctionnaires moabites.\"
 
-Balaam (comme de nombreux dirigeants) avait fixé sa mission dans sa tête et il
-n'allait pas être distrait :
+Balaam (comme de nombreux dirigeants) avait fixÃ© sa mission dans sa tÃªte et il
+n'allait pas Ãªtre distrait :
 
-> \"Mais Dieu était très en colère quand il est allé, et l'ange du Seigneur s'est tenu
-> en route pour s'opposer à lui. Balaam était monté sur son âne, et son
-> deux serviteurs étaient avec lui. Quand l'âne a vu l'ange du Seigneur
-> debout sur la route avec une épée dégainée à la main, il a éteint le
+> \"Mais Dieu Ã©tait trÃ¨s en colÃ¨re quand il est allÃ©, et l'ange du Seigneur s'est tenu
+> en route pour s'opposer Ã  lui. Balaam Ã©tait montÃ© sur son Ã¢ne, et son
+> deux serviteurs Ã©taient avec lui. Quand l'Ã¢ne a vu l'ange du Seigneur
+> debout sur la route avec une Ã©pÃ©e dÃ©gainÃ©e Ã  la main, il a Ã©teint le
 > route dans un champ. Balaam l'a battu pour le remettre sur la route.\"
 
-Balaam était si sûr de l'endroit où il allait, qu'il oublia d'écouter ou
-attention à la direction de Dieu. Bien que son âne puisse voir l'ange,
-Balaam ne pouvait pas ! Balaam (comme de nombreux dirigeants) a supposé que quoi que ce soit ou
-toute personne qui l'empêchait de progresser se trompait et avait besoin d'être corrigée.
+Balaam Ã©tait si sÃ»r de l'endroit oÃ¹ il allait, qu'il oublia d'Ã©couter ou
+attention Ã  la direction de Dieu. Bien que son Ã¢ne puisse voir l'ange,
+Balaam ne pouvait pas ! Balaam (comme de nombreux dirigeants) a supposÃ© que quoi que ce soit ou
+toute personne qui l'empÃªchait de progresser se trompait et avait besoin d'Ãªtre corrigÃ©e.
 
-Dieu a été patient et miséricordieux envers Balaam et lui a donné plusieurs
-chances de reconnaître que Dieu essayait de lui parler :
+Dieu a Ã©tÃ© patient et misÃ©ricordieux envers Balaam et lui a donnÃ© plusieurs
+chances de reconnaÃ®tre que Dieu essayait de lui parler :
 
-> \"Alors l'ange du Seigneur se tenait dans un sentier étroit à travers le
-> des vignes, avec des murs des deux côtés. Quand l'âne a vu l'ange de
-> le Seigneur, il se serra contre le mur, écrasant le pied de Balaam contre
-> ça. Alors il a encore battu l'âne. Puis l'ange du Seigneur s'en alla
-> devant et se tenait dans un endroit étroit où il n'y avait pas de place pour tourner,
-> soit à droite, soit à gauche. Quand l'âne a vu l'ange de
-> le Seigneur, il se coucha sous Balaam, et il était en colère et le frappa avec
+> \"Alors l'ange du Seigneur se tenait dans un sentier Ã©troit Ã  travers le
+> des vignes, avec des murs des deux cÃ´tÃ©s. Quand l'Ã¢ne a vu l'ange de
+> le Seigneur, il se serra contre le mur, Ã©crasant le pied de Balaam contre
+> Ã§a. Alors il a encore battu l'Ã¢ne. Puis l'ange du Seigneur s'en alla
+> devant et se tenait dans un endroit Ã©troit oÃ¹ il n'y avait pas de place pour tourner,
+> soit Ã  droite, soit Ã  gauche. Quand l'Ã¢ne a vu l'ange de
+> le Seigneur, il se coucha sous Balaam, et il Ã©tait en colÃ¨re et le frappa avec
 > son personnel.\"
 
 Mais Balaam a poursuivi ses propres plans, ignorant l'inhabituel
-comportement de son fidèle âne. Parce que Balaam n'écouterait pas le
-\"incitations de l'Esprit\" Dieu a parlé haut et fort à travers le
-âne:
+comportement de son fidÃ¨le Ã¢ne. Parce que Balaam n'Ã©couterait pas le
+\"incitations de l'Esprit\" Dieu a parlÃ© haut et fort Ã  travers le
+Ã¢ne:
 
-> \"Alors le Seigneur ouvrit la bouche de l'âne, et il dit à Balaam:
-> "Qu'est-ce que je t'ai fait pour que tu me battes ces trois fois ?"\"
+> \"Alors le Seigneur ouvrit la bouche de l'Ã¢ne, et il dit Ã  Balaam:
+> "Qu'est-ce que je t'ai fait pour que tu me battes ces trois foisÂ ?"\"
 
-Mais parce que c'était seulement son âne qui parlait, et pas quelque aussi grand
-\"homme de Dieu\", Balaam a rejeté le discours de l\'âne comme stupide :
+Mais parce que c'Ã©tait seulement son Ã¢ne qui parlait, et pas quelque aussi grand
+\"homme de Dieu\", Balaam a rejetÃ© le discours de l\'Ã¢ne comme stupideÂ :
 
-> \"Balaam répondit à l'âne, "Tu m'as ridiculisé ! Si seulement je
-> j'avais une épée à la main, je te tuerais tout de suite."\"
+> \"Balaam rÃ©pondit Ã  l'Ã¢ne, "Tu m'as ridiculisÃ© ! Si seulement je
+> j'avais une Ã©pÃ©e Ã  la main, je te tuerais tout de suite."\"
 
-Nous devons tous être prêts à écouter les ânes ! Même si quelqu'un peut
-nous semblent insignifiants, Dieu essaie peut-être de nous parler à travers eux !
-Nous devons toujours être à l'écoute de Dieu, peu importe qui ou comment il peut
+Nous devons tous Ãªtre prÃªts Ã  Ã©couter les Ã¢nes ! MÃªme si quelqu'un peut
+nous semblent insignifiants, Dieu essaie peut-Ãªtre de nous parler Ã  travers eux !
+Nous devons toujours Ãªtre Ã  l'Ã©coute de Dieu, peu importe qui ou comment il peut
 choisir de parler :
 
-> \" L'âne dit à Balaam : " Ne suis-je pas ton propre âne que tu as
-> toujours monté, à ce jour ? Ai-je l'habitude de faire cela pour
+> \" L'Ã¢ne dit Ã  Balaam : " Ne suis-je pas ton propre Ã¢ne que tu as
+> toujours montÃ©, Ã  ce jour ? Ai-je l'habitude de faire cela pour
 > toi?" "Non," dit-il.\"
 
-Heureusement pour Balaam, Dieu a été assez persistant pour surmonter le
-stupidité:
+Heureusement pour Balaam, Dieu a Ã©tÃ© assez persistant pour surmonter le
+stupiditÃ©:
 
 > \"Alors le Seigneur ouvrit les yeux de Balaam, et il vit l'ange du Seigneur
-> debout sur la route avec son épée dégainée. Alors il s'inclina et tomba
-> face cachée.\"
+> debout sur la route avec son Ã©pÃ©e dÃ©gainÃ©e. Alors il s'inclina et tomba
+> face cachÃ©e.\"
 
-Quel genre de leader voulez-vous être ? Un leader dangereux et stupide
-comme Balaam qui n'écoutait pas quand Dieu parlait à travers son âne ? Ou
-Serez-vous quelqu'un qui écoute vraiment les autres, peu importe qui ilspécheurs ? personnes avec lesquelles vous n'êtes pas d'accord ? des gens que vous n'aimez pas beaucoup ? personnes
-vous pensez avoir une mauvaise théologie ou vivez un mauvais exemple ?
+Quel genre de leader voulez-vous Ãªtre ? Un leader dangereux et stupide
+comme Balaam qui n'Ã©coutait pas quand Dieu parlait Ã  travers son Ã¢ne ? Ou
+Serez-vous quelqu'un qui Ã©coute vraiment les autres, peu importe qui ilspÃ©cheurs ? personnes avec lesquelles vous n'Ãªtes pas d'accord ? des gens que vous n'aimez pas beaucoup ? personnes
+vous pensez avoir une mauvaise thÃ©ologie ou vivez un mauvais exemple ?
 
 Il ne s'agit pas de savoir si *ils* sont assez dignes de vous parler, mais
-si *vous* êtes-vous assez humble pour laisser Dieu vous parler de quelque façon qu'il
-choisit? Vous souciez-vous suffisamment du Royaume de Dieu pour continuer à écouter
-Sa petite voix encore une fois que vous êtes parti en voyage ?
-Les dirigeants doivent apprendre à écouter !
+si *vous* Ãªtes-vous assez humble pour laisser Dieu vous parler de quelque faÃ§on qu'il
+choisit? Vous souciez-vous suffisamment du Royaume de Dieu pour continuer Ã  Ã©couter
+Sa petite voix encore une fois que vous Ãªtes parti en voyage ?
+Les dirigeants doivent apprendre Ã  Ã©couter !
 
-## Planification d'une réunion d'équipe de direction
+## Planification d'une rÃ©union d'Ã©quipe de direction
 
-Les réunions de l'équipe de direction, comme toutes les réunions, doivent en valoir la peine. Personnes
+Les rÃ©unions de l'Ã©quipe de direction, comme toutes les rÃ©unions, doivent en valoir la peine. Personnes
 doivent leur consacrer du temps et se rendre au lieu de rendez-vous - les deux
-ce qui peut être très gênant. Et pourtant il y a un fléau de sans valeur
-réunions dans l'église mondiale! C'est ce qu'on appelle la réunion et c'est plus
-douloureux que l'appendicite. Une personne a défini les réunions du leader comme un
-salle pleine de gens attendant de rentrer chez eux ! Une fois, j'ai arrêté une église du dimanche
-service parce que c'était une perte de temps - et j'aurais aimé l'avoir fait plus
+ce qui peut Ãªtre trÃ¨s gÃªnant. Et pourtant il y a un flÃ©au de sans valeur
+rÃ©unions dans l'Ã©glise mondiale! C'est ce qu'on appelle la rÃ©union et c'est plus
+douloureux que l'appendicite. Une personne a dÃ©fini les rÃ©unions du leader comme un
+salle pleine de gens attendant de rentrer chez eux ! Une fois, j'ai arrÃªtÃ© une Ã©glise du dimanche
+service parce que c'Ã©tait une perte de temps - et j'aurais aimÃ© l'avoir fait plus
 souvent.
 
-Si vous n'avez pas hâte de vous rencontrer, personne d'autre n'est probablement
+Si vous n'avez pas hÃ¢te de vous rencontrer, personne d'autre n'est probablement
 soit, alors faites quelque chose. Trouvez un objectif significatif ou
-arrêter les réunions.
+arrÃªter les rÃ©unions.
 
-Alors, comment planifier une réunion de dirigeants significative ? Eh bien, énumérons-en quelques-uns
-des fins significatives :
+Alors, comment planifier une rÃ©union de dirigeants significativeÂ ? Eh bien, Ã©numÃ©rons-en quelques-uns
+des fins significativesÂ :
 
-- Explorer et convenir de l'objectif de l'équipe
+- Explorer et convenir de l'objectif de l'Ã©quipe
 
-- S'accorder sur les paramètres de l'équipe :
+- S'accorder sur les paramÃ¨tres de l'Ã©quipe :
 
     - Des relations significatives
 
-    - Honnêteté, acceptation, écoute, apprentissage
+    - HonnÃªtetÃ©, acceptation, Ã©coute, apprentissage
 
-    - Arrêtez les \"harengs rouges\" avant qu'ils ne s'échappent
+    - ArrÃªtez les \"harengs rouges\" avant qu'ils ne s'Ã©chappent
 
-    - Écouter et obéir à Jésus
+    - Ã‰couter et obÃ©ir Ã  JÃ©sus
 
-    - Développer et promouvoir la diversité
+    - DÃ©velopper et promouvoir la diversitÃ©
 
-    - Ministère de la libération
+    - MinistÃ¨re de la libÃ©ration
 
-- Apprendre du ministère existant et l'améliorer
+- Apprendre du ministÃ¨re existant et l'amÃ©liorer
 
-- Arrêt ou changement de ministère inefficace
+- ArrÃªt ou changement de ministÃ¨re inefficace
 
-- Développer de nouveaux domaines de ministère
+- DÃ©velopper de nouveaux domaines de ministÃ¨re
 
-- Se soutenir mutuellement lorsque de l'aide est nécessaire
+- Se soutenir mutuellement lorsque de l'aide est nÃ©cessaire
 
-- Partager des histoires de Dieu et se motiver pour continuer à poursuivre Dieu
+- Partager des histoires de Dieu et se motiver pour continuer Ã  poursuivre Dieu
 
-- Explorer des domaines d'enseignement qui pourraient vraiment aider l'église
+- Explorer des domaines d'enseignement qui pourraient vraiment aider l'Ã©glise
 
-- Discuter des croyances populaires ou de l'enseignement qui est considéré comme inutile pour
-    l'église
+- Discuter des croyances populaires ou de l'enseignement qui est considÃ©rÃ© comme inutile pour
+    l'Ã©glise
 
-- Partager ce que Jésus dit à chaque membre de l'équipe
+- Partager ce que JÃ©sus dit Ã  chaque membre de l'Ã©quipe
 
-- Planifier l'implantation d'églises et libérer le ministère de leadership
+- Planifier l'implantation d'Ã©glises et libÃ©rer le ministÃ¨re de leadership
 
-Il devrait y en avoir assez pour vous aider à planifier quelque chose qui en vaut vraiment la peine
-réunions. Mais à moins que vous ne prévoyiez les réunions, elles peuvent toujours être frustrantes
+Il devrait y en avoir assez pour vous aider Ã  planifier quelque chose qui en vaut vraiment la peine
+rÃ©unions. Mais Ã  moins que vous ne prÃ©voyiez les rÃ©unions, elles peuvent toujours Ãªtre frustrantes
 et infructueux !
 
-Voici quelques conseils pour réduire les risques d'une crise frustrante et infructueuse
+Voici quelques conseils pour rÃ©duire les risques d'une crise frustrante et infructueuse
 Rencontre:
 
-- Assurez-vous que tout le monde connaît la date, l'heure et le lieu bien avant le
+- Assurez-vous que tout le monde connaÃ®t la date, l'heure et le lieu bien avant le
     jour de rencontre.
 
-- Assurez-vous que tout le monde connaît le but de la réunion bien avant
+- Assurez-vous que tout le monde connaÃ®t le but de la rÃ©union bien avant
     le jour de la rencontre.
 
-- Commencer à l'heure.
+- Commencer Ã  l'heure.
 
-- Nommez un bon président -- pas nécessairement le chef de file.
+- Nommez un bon prÃ©sident -- pas nÃ©cessairement le chef de file.
 
-- Ne perdez pas de temps sur les formalités, telles que la lecture et l'approbation
-    rapports et procès-verbaux. Ils doivent être distribués et lus au préalable,
-    et seuls les « questions soulevées » ont été soulevées lors de la réunion.
+- Ne perdez pas de temps sur les formalitÃ©s, telles que la lecture et l'approbation
+    rapports et procÃ¨s-verbaux. Ils doivent Ãªtre distribuÃ©s et lus au prÃ©alable,
+    et seuls les Â«Â questions soulevÃ©esÂ Â» ont Ã©tÃ© soulevÃ©es lors de la rÃ©union.
 
-- Évitez de faire des affaires pendant la réunion qui peuvent être faites de la même manière
-    bien avec moins de personnes en dehors de la réunion.
+- Ã‰vitez de faire des affaires pendant la rÃ©union qui peuvent Ãªtre faites de la mÃªme maniÃ¨re
+    bien avec moins de personnes en dehors de la rÃ©union.
 
-- Arrêtez \"harengs rouges\" qui s'éloignent. Ne laissez pas les problèmes secondaires vous distraire
-    la conversation du point principal considéré. C'est
-    d'abord la responsabilité du président, mais chacun devrait
-    partager cette responsabilité.
+- ArrÃªtez \"harengs rouges\" qui s'Ã©loignent. Ne laissez pas les problÃ¨mes secondaires vous distraire
+    la conversation du point principal considÃ©rÃ©. C'est
+    d'abord la responsabilitÃ© du prÃ©sident, mais chacun devrait
+    partager cette responsabilitÃ©.
 
-- Assurez-vous que les décisions sont prises clairement, enregistrées avec précision et
-    responsabilité de l'action déléguée efficacement. Des décisions qui
+- Assurez-vous que les dÃ©cisions sont prises clairement, enregistrÃ©es avec prÃ©cision et
+    responsabilitÃ© de l'action dÃ©lÃ©guÃ©e efficacement. Des dÃ©cisions qui
     fait et non suivi sont une cause principale de frustration et de gaspillage
     temps.
 
-- S'il doit y avoir une partie sociale à la réunion, faites-la au
+- S'il doit y avoir une partie sociale Ã  la rÃ©union, faites-la au
     fin et permettre aux gens de partir s'ils en ont besoin.
 
-## Quelques choses à penser
+## Quelques choses Ã  penser
 
-Quel genre de personnes aimeriez-vous avoir dans votre leadership idéal
-équipe?
+Quel genre de personnes aimeriez-vous avoir dans votre leadership idÃ©al
+Ã©quipe?
 
 Avec qui connaissez-vous avec qui vous aimeriez partager le leadership?
 
-Que voudriez-vous faire dans vos cinq premières équipes de direction idéales
-réunions ?
+Que voudriez-vous faire dans vos cinq premiÃ¨res Ã©quipes de direction idÃ©ales
+rÃ©unions ?
 
-En binôme, découvrez les manières significatives dont l'autre personne a
-grandi comme un disciple de Jésus.
+En binÃ´me, dÃ©couvrez les maniÃ¨res significatives dont l'autre personne a
+grandi comme un disciple de JÃ©sus.
 
-Découvrez avec eux comment vous pouvez profiter de leur expérience.vivre?
+DÃ©couvrez avec eux comment vous pouvez profiter de leur expÃ©rience.vivre?

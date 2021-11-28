@@ -4,369 +4,369 @@ translationKey: How to Pray
 title: Comment prier---
 # Comment prier
 
-## Pas comme les païens
+## Pas comme les paÃ¯ens
 
-La prière est si naturelle que pratiquement tout le monde prie, même les athées ! Mais
-Jésus nous dit très clairement de NE PAS prier comme les incroyants prient :
+La priÃ¨re est si naturelle que pratiquement tout le monde prie, mÃªme les athÃ©es ! Mais
+JÃ©sus nous dit trÃ¨s clairement de NE PAS prier comme les incroyants prient :
 
-> \"Quand vous priez, ne continuez pas à babiller comme des païens, car ils pensent
-> ils seront entendus à cause de leurs nombreuses paroles. Ne fais pas comme eux,
-> car ton Père sait ce dont tu as besoin avant que tu le lui demandes.\" Matthieu
+> \"Quand vous priez, ne continuez pas Ã  babiller comme des paÃ¯ens, car ils pensent
+> ils seront entendus Ã  cause de leurs nombreuses paroles. Ne fais pas comme eux,
+> car ton PÃ¨re sait ce dont tu as besoin avant que tu le lui demandes.\" Matthieu
 > 6:7-8
 >
-> \"Alors ne vous inquiétez pas en disant : « Qu'allons-nous manger ? » ou 'Qu'allons-nous
-> boire ?' ou « Que porterons-nous ? Car les païens courent après tout ça
-> choses, et votre Père céleste sait que vous en avez besoin. Mais cherche
-> premièrement son royaume et sa justice, et toutes ces choses seront
-> à vous aussi.\" Matthieu 6:31-33
+> \"Alors ne vous inquiÃ©tez pas en disantÂ :Â Â«Â Qu'allons-nous mangerÂ ?Â Â» ou 'Qu'allons-nous
+> boire ?' ou Â« Que porterons-nous ? Car les paÃ¯ens courent aprÃ¨s tout Ã§a
+> choses, et votre PÃ¨re cÃ©leste sait que vous en avez besoin. Mais cherche
+> premiÃ¨rement son royaume et sa justice, et toutes ces choses seront
+> Ã  vous aussi.\" Matthieu 6:31-33
 
-Jésus dit qu'apporter nos besoins fondamentaux à Dieu dans la prière n'est pas un signe
-de foi, mais d'incrédulité ! Cela signifie que nous ne croyons pas que Dieu se soucie de
+JÃ©sus dit qu'apporter nos besoins fondamentaux Ã  Dieu dans la priÃ¨re n'est pas un signe
+de foi, mais d'incrÃ©dulitÃ© ! Cela signifie que nous ne croyons pas que Dieu se soucie de
 nous par son amour.
 
-Jésus dit que s'inquiéter et prier pour nos besoins fondamentaux est ce qui
-les païens le font, et nous ne devrions pas nous comporter comme eux. Jésus nous dit que nous
-devrions simplement faire confiance à notre Père céleste pour subvenir à nos besoins
+JÃ©sus dit que s'inquiÃ©ter et prier pour nos besoins fondamentaux est ce qui
+les paÃ¯ens le font, et nous ne devrions pas nous comporter comme eux. JÃ©sus nous dit que nous
+devrions simplement faire confiance Ã  notre PÃ¨re cÃ©leste pour subvenir Ã  nos besoins
 selon son amour et sa sagesse.
 
-Au lieu de prières longues ou fréquentes sur nos besoins personnels ou familiaux,
-nous devrions faire confiance à Dieu pour ceux-là et plutôt prier pour que son royaume
-venir à notre famille, notre communauté, notre nation et le monde.
+Au lieu de priÃ¨res longues ou frÃ©quentes sur nos besoins personnels ou familiaux,
+nous devrions faire confiance Ã  Dieu pour ceux-lÃ  et plutÃ´t prier pour que son royaume
+venir Ã  notre famille, notre communautÃ©, notre nation et le monde.
 
-## La prière n'est pas magique
+## La priÃ¨re n'est pas magique
 
-Lorsque nous nous tournons vers Dieu pour une percée dans la prière, que faisons-nous ? C'est
-que s'est-il passé lorsque les disciples ont eu besoin d'une percée et qu'ils ont prié :
+Lorsque nous nous tournons vers Dieu pour une percÃ©e dans la priÃ¨re, que faisons-nous ? C'est
+que s'est-il passÃ© lorsque les disciples ont eu besoin d'une percÃ©e et qu'ils ont priÃ©Â :
 
-> \"Maintenant, Seigneur, réfléchis à leurs menaces et permets à tes serviteurs de parler
-> ta parole avec beaucoup d'audace. Tendez votre main pour guérir et
+> \"Maintenant, Seigneur, rÃ©flÃ©chis Ã  leurs menaces et permets Ã  tes serviteurs de parler
+> ta parole avec beaucoup d'audace. Tendez votre main pour guÃ©rir et
 > accomplis des signes et des prodiges au nom de ton saint serviteur
-> Jésus." Après avoir prié, le lieu où ils se réunissaient était
-> secoué. (Actes 4:29-31)
+> JÃ©sus." AprÃ¨s avoir priÃ©, le lieu oÃ¹ ils se rÃ©unissaient Ã©tait
+> secouÃ©. (Actes 4:29-31)
 
-Parfois, nous voyons la réponse venir immédiatement, même si le bâtiment
-ne tremble pas. Mais qu'en est-il de ces nombreuses fois où nous ne le faisons pas
-voir immédiatement la percée?
+Parfois, nous voyons la rÃ©ponse venir immÃ©diatement, mÃªme si le bÃ¢timent
+ne tremble pas. Mais qu'en est-il de ces nombreuses fois oÃ¹ nous ne le faisons pas
+voir immÃ©diatement la percÃ©e?
 
-Eh bien, nous devons devenir sérieux. Nous devons montrer à Dieu que, comme Jacob
+Eh bien, nous devons devenir sÃ©rieux. Nous devons montrer Ã  Dieu que, comme Jacob
 luttant toute la nuit avec l'ange, nous ne prendrons pas \"non\" pour un
-réponse. Nous lançons l'appel à prier, exhortant autant de personnes que possible
-jeûner en préparation, puis se rassembler pour prier. Nous nous prosternons,
-nous crions des appels forts et passionnés pour que Dieu entende et agisse. Nous
+rÃ©ponse. Nous lanÃ§ons l'appel Ã  prier, exhortant autant de personnes que possible
+jeÃ»ner en prÃ©paration, puis se rassembler pour prier. Nous nous prosternons,
+nous crions des appels forts et passionnÃ©s pour que Dieu entende et agisse. Nous
 prier toute la nuit.
 
-Voici le récit d'une telle réunion de prière :
+Voici le rÃ©cit d'une telle rÃ©union de priÃ¨re :
 
-> Puis ils invoquèrent le nom de Baal du matin jusqu'à midi. "Baal,
-> répondez-nous!" crièrent-ils. Mais il n'y eut pas de réponse, personne ne répondit.
-> Et ils dansèrent autour de l'autel qu'ils avaient fait. A midi, Elie commença
-> pour les narguer. "Crie plus fort !" il a dit. "C'est sûrement un dieu ! Peut-être
-> il est plongé dans ses pensées, ou occupé, ou en voyage. Peut-être qu'il dort et
-> doit être réveillé. » Alors ils crièrent plus fort et se tailladèrent
-> épées et lances, comme c'était leur coutume, jusqu'à ce que leur sang coule.
-> Midi passa, et ils continuèrent leur prophétie frénétique jusqu'à ce que le
-> l'heure du sacrifice du soir. Mais il n'y a eu aucune réponse, personne
-> répondu, personne n'y a prêté attention. (1 Rois 18:26-29).
+> Puis ils invoquÃ¨rent le nom de Baal du matin jusqu'Ã  midi. "Baal,
+> rÃ©pondez-nous!" criÃ¨rent-ils. Mais il n'y eut pas de rÃ©ponse, personne ne rÃ©pondit.
+> Et ils dansÃ¨rent autour de l'autel qu'ils avaient fait. A midi, Elie commenÃ§a
+> pour les narguer. "Crie plus fort !" il a dit. "C'est sÃ»rement un dieu ! Peut-Ãªtre
+> il est plongÃ© dans ses pensÃ©es, ou occupÃ©, ou en voyage. Peut-Ãªtre qu'il dort et
+> doit Ãªtre rÃ©veillÃ©. Â» Alors ils criÃ¨rent plus fort et se tailladÃ¨rent
+> Ã©pÃ©es et lances, comme c'Ã©tait leur coutume, jusqu'Ã  ce que leur sang coule.
+> Midi passa, et ils continuÃ¨rent leur prophÃ©tie frÃ©nÃ©tique jusqu'Ã  ce que le
+> l'heure du sacrifice du soir. Mais il n'y a eu aucune rÃ©ponse, personne
+> rÃ©pondu, personne n'y a prÃªtÃ© attention. (1 Rois 18:26-29).
 
-Cette réunion de prière était un rassemblement de 450 prophètes de Baal. Remarquez comment
-Elijah se moque d'eux : \"Peut-être que ton dieu a besoin d'être réveillé. Crie plus fort !\" Le
-le diable a pris les railleries d'Elie et il les utilise contre l'église.
+Cette rÃ©union de priÃ¨re Ã©tait un rassemblement de 450 prophÃ¨tes de Baal. Remarquez comment
+Elijah se moque d'eux : \"Peut-Ãªtre que ton dieu a besoin d'Ãªtre rÃ©veillÃ©. Crie plus fort !\" Le
+le diable a pris les railleries d'Elie et il les utilise contre l'Ã©glise.
 \"Vite plus longtemps, priez plus fort, rassemblez plus de gens, priez toute la nuit, obtenez plus
-sérieux, montrez à Dieu que vous êtes vraiment sérieux\...\" Le diable veut que nous
-traiter la prière comme par magie.
+sÃ©rieux, montrez Ã  Dieu que vous Ãªtes vraiment sÃ©rieux\...\" Le diable veut que nous
+traiter la priÃ¨re comme par magie.
 
-La magie est odieuse à Dieu. La magie est la tentative de manipuler le surnaturel
-forces par l'utilisation de mots rituels ou spéciaux. Le diable veut que nous
-pense que pour que nos prières soient exaucées, nous devons ** faire le bien
+La magie est odieuse Ã  Dieu. La magie est la tentative de manipuler le surnaturel
+forces par l'utilisation de mots rituels ou spÃ©ciaux. Le diable veut que nous
+pense que pour que nos priÃ¨res soient exaucÃ©es, nous devons ** faire le bien
 choses**, et **dire les bons mots.**
 
-Dans notre empressement à ce que nos prières soient entendues et exaucées, nous
-tomber dans le mensonge qu'il existe des \"techniques\" ou des \"clés\" spéciales qui
-obtiendrez nos prières exaucées. Nous pouvons croire qu'il y a du *pouvoir* dans le grand
-nombres, ou jeûner ou prier toute la nuit ou en utilisant certains mots ouet perdre, ou nommer et réclamer. C'est la mentalité magique.
+Dans notre empressement Ã  ce que nos priÃ¨res soient entendues et exaucÃ©es, nous
+tomber dans le mensonge qu'il existe des \"techniques\" ou des \"clÃ©s\" spÃ©ciales qui
+obtiendrez nos priÃ¨res exaucÃ©es. Nous pouvons croire qu'il y a du *pouvoir* dans le grand
+nombres, ou jeÃ»ner ou prier toute la nuit ou en utilisant certains mots ouet perdre, ou nommer et rÃ©clamer. C'est la mentalitÃ© magique.
 
-Je peux être utile ***pour nous***, pour faire certaines choses, adopter certaines
+Je peux Ãªtre utile ***pour nous***, pour faire certaines choses, adopter certaines
 postures et dire certains mots, mais si nous pensons qu'ils font notre
-prières plus *puissantes*, nous traitons la prière comme par magie, et c'est
+priÃ¨res plus *puissantes*, nous traitons la priÃ¨re comme par magie, et c'est
 offensant pour Dieu.
 
-## Priez comme Jésus a prié
+## Priez comme JÃ©sus a priÃ©
 
-Quand Jésus a ressuscité Lazare d'entre les morts, il a rendu cela très simple
-prière:
+Quand JÃ©sus a ressuscitÃ© Lazare d'entre les morts, il a rendu cela trÃ¨s simple
+priÃ¨re:
 
-> Jésus leva les yeux et dit : « Père, je te remercie d'avoir
+> JÃ©sus leva les yeux et dit : Â« PÃ¨re, je te remercie d'avoir
 > M'a entendu. Et je sais que tu m'entends toujours." Jean 11:41-42
 
-C'est ainsi que nous devons prier : avec l'entière confiance que notre Père
-a entendu notre prière, et entend toujours nos prières. Plus tard dans cette étude
-nous verrons les promesses que Dieu répondra à nos prières. Arrêtons-nous
-prier comme des païens, et commencer à prier comme Jésus\...
+C'est ainsi que nous devons prier : avec l'entiÃ¨re confiance que notre PÃ¨re
+a entendu notre priÃ¨re, et entend toujours nos priÃ¨res. Plus tard dans cette Ã©tude
+nous verrons les promesses que Dieu rÃ©pondra Ã  nos priÃ¨res. ArrÃªtons-nous
+prier comme des paÃ¯ens, et commencer Ã  prier comme JÃ©sus\...
 
-## La prière est comment Dieu agit
+## La priÃ¨re est comment Dieu agit
 
-La première chose à comprendre à propos de la prière est qu'il ne s'agit pas de **
-les humains font faire des choses à Dieu**. La prière est ***interne***
-communication ***au sein*** de la trinité :
+La premiÃ¨re chose Ã  comprendre Ã  propos de la priÃ¨re est qu'il ne s'agit pas de **
+les humains font faire des choses Ã  Dieu**. La priÃ¨re est ***interne***
+communication ***au sein*** de la trinitÃ©Â :
 
-> **\"**Tu es mon Fils, aujourd'hui je t'ai engendré. Demande-moi et je le ferai
-> te donne les nations pour ton héritage." Psaume 2:7-8
+> **\"**Tu es mon Fils, aujourd'hui je t'ai engendrÃ©. Demande-moi et je le ferai
+> te donne les nations pour ton hÃ©ritage." Psaume 2:7-8
 >
-> Et Jésus leva les yeux et dit : « Père, je te remercie de ce que tu
+> Et JÃ©sus leva les yeux et dit : Â« PÃ¨re, je te remercie de ce que tu
 > M'avoir entendu. Et je sais que tu m'entends toujours." Jean 11:41-42
 >
-> \"Je prie pour ceux que vous m'avez donnés, car ils sont à vous.\" Jean 17:9
+> \"Je prie pour ceux que vous m'avez donnÃ©s, car ils sont Ã  vous.\" Jean 17:9
 >
-> C'est pourquoi Il est aussi capable de sauver au maximum ceux qui viennent à
-> Dieu par Lui, puisqu'Il vit toujours pour intercéder pour eux.
-> Hébreux 7:25
+> C'est pourquoi Il est aussi capable de sauver au maximum ceux qui viennent Ã 
+> Dieu par Lui, puisqu'Il vit toujours pour intercÃ©der pour eux.
+> HÃ©breux 7:25
 
-Ces versets nous montrent comment Jésus prie le Père. En d'autres termes, ce
-est-ce que Dieu prie Dieu ! **La prière est la façon dont Dieu communique dans le
-Trinité.**
+Ces versets nous montrent comment JÃ©sus prie le PÃ¨re. En d'autres termes, ce
+est-ce que Dieu prie Dieu ! **La priÃ¨re est la faÃ§on dont Dieu communique dans le
+TrinitÃ©.**
 
-Jésus nous dit ce que le Père lui a commandé de faire :
+JÃ©sus nous dit ce que le PÃ¨re lui a commandÃ© de faire :
 
-> \"Et c'est la volonté de celui qui m'a envoyé, que je ne perde rien de
-> tous ceux qu'il m'a donnés, mais ressuscitez-les au dernier jour.\" (Jean
+> \"Et c'est la volontÃ© de celui qui m'a envoyÃ©, que je ne perde rien de
+> tous ceux qu'il m'a donnÃ©s, mais ressuscitez-les au dernier jour.\" (Jean
 > 6:39)
 
-Et alors Il prie le Père :
+Et alors Il prie le PÃ¨re :
 
-> \"Ma prière n'est pas que vous les enleviez du monde mais que vous
-> protégez-les du malin.\" (Jean 17 :15).
+> \"Ma priÃ¨re n'est pas que vous les enleviez du monde mais que vous
+> protÃ©gez-les du malin.\" (Jean 17Â :15).
 
-Cette intercession céleste est un mystère, mais nous devons de tout cœur
-embrasser. Demander, donner et recevoir par la prière, c'est ainsi que le
-Le Père et le Fils et le Saint-Esprit sont en relation les uns avec les autres dans l'amour et
-unité complète. Alors que pouvons-nous dire au sujet de la prière dans la Divinité ?
+Cette intercession cÃ©leste est un mystÃ¨re, mais nous devons de tout cÅ“ur
+embrasser. Demander, donner et recevoir par la priÃ¨re, c'est ainsi que le
+Le PÃ¨re et le Fils et le Saint-Esprit sont en relation les uns avec les autres dans l'amour et
+unitÃ© complÃ¨te. Alors que pouvons-nous dire au sujet de la priÃ¨re dans la DivinitÃ© ?
 
-- Il n'y a pas de réticence
+- Il n'y a pas de rÃ©ticence
 
 - Il n'y a pas besoin de persuasion
 
-- Il n'est pas nécessaire que l'un informe l'autre des besoins
+- Il n'est pas nÃ©cessaire que l'un informe l'autre des besoins
 
 - Il y a un accord complet
 
-- Demander et donner et recevoir par la prière est toujours un délice
+- Demander et donner et recevoir par la priÃ¨re est toujours un dÃ©lice
 
-- Même si Dieu sait toujours toutes choses, il fonctionne toujours à travers
-    prière
+- MÃªme si Dieu sait toujours toutes choses, il fonctionne toujours Ã  travers
+    priÃ¨re
 
-- La prière est le \"Langage d'amour\" de Dieu
+- La priÃ¨re est le \"Langage d'amour\" de Dieu
 
-## La prière est un partage dans le langage de l'amour de Dieu
+## La priÃ¨re est un partage dans le langage de l'amour de Dieu
 
-Les couples qui s'aiment développent généralement un langage secret de l'amour -
-petites actions ou phrases spéciales que chacun comprend comme une
-message d'amour. C'est à cela que ressemble la prière dans la Divinité. Il est
+Les couples qui s'aiment dÃ©veloppent gÃ©nÃ©ralement un langage secret de l'amour -
+petites actions ou phrases spÃ©ciales que chacun comprend comme une
+message d'amour. C'est Ã  cela que ressemble la priÃ¨re dans la DivinitÃ©. Il est
 comment ils partagent l'amour entre eux.
 
-C'est une chose incroyable que Dieu nous invite à partager dans leur langue
-d'amour; en prière. La prière n'est pas une communication à longue distance. Ce n'est pas
-comme envoyer des SMS ou envoyer des courriels à Dieu, c'est une communion intime. Cependant distant
+C'est une chose incroyable que Dieu nous invite Ã  partager dans leur langue
+d'amour; en priÃ¨re. La priÃ¨re n'est pas une communication Ã  longue distance. Ce n'est pas
+comme envoyer des SMS ou envoyer des courriels Ã  Dieu, c'est une communion intime. Cependant distant
 Dieu peut ressentir pour nous quand nous prions, c'est ainsi que Dieu le voit :
 
-> "Car par Jésus nous avons accès par un seul Esprit au Père." Eph
+> "Car par JÃ©sus nous avons accÃ¨s par un seul Esprit au PÃ¨re." Eph
 > 2:18
 >
-> \"Approchons-nous de Dieu d'un cœur sincère et de la pleine
-> l'assurance que la foi apporte.\" Hébreux 10:22
+> \"Approchons-nous de Dieu d'un cÅ“ur sincÃ¨re et de la pleine
+> l'assurance que la foi apporte.\" HÃ©breux 10:22
 
-La prière est une aventure explorant le cœur même de Dieu et partageant
-Ses passions et ses buts pour le monde. Prier vraiment, c'est être attrapé
-avec le Saint-Esprit dans la salle du trône de Dieu ; ne pas implorer Dieu
-mais de régner avec lui. La prière et surtout l'intercession c'est partager
-la nature divine et en tant que telle est une expression et une expérience de profonde
-l'intimité avec Dieu.
+La priÃ¨re est une aventure explorant le cÅ“ur mÃªme de Dieu et partageant
+Ses passions et ses buts pour le monde. Prier vraiment, c'est Ãªtre attrapÃ©
+avec le Saint-Esprit dans la salle du trÃ´ne de DieuÂ ; ne pas implorer Dieu
+mais de rÃ©gner avec lui. La priÃ¨re et surtout l'intercession c'est partager
+la nature divine et en tant que telle est une expression et une expÃ©rience de profonde
+l'intimitÃ© avec Dieu.
 
-La prière commence donc par l'écoute, \"Seigneur, s'il te plaît, montre-moi ce qui est
-sur votre cœur pour cette situation. Puis-je rejoindre le céleste
-intercession pour cela ?\"protégeant leurs yeux de l'intensité de la gloire, n'est pas à prendre
-à la légère ou abusé par des demandes hâtives ou cupides. Dans cet endroit nous prions
-avec Jésus :
+La priÃ¨re commence donc par l'Ã©coute, \"Seigneur, s'il te plaÃ®t, montre-moi ce qui est
+sur votre cÅ“ur pour cette situation. Puis-je rejoindre le cÃ©leste
+intercession pour celaÂ ?\"protÃ©geant leurs yeux de l'intensitÃ© de la gloire, n'est pas Ã  prendre
+Ã  la lÃ©gÃ¨re ou abusÃ© par des demandes hÃ¢tives ou cupides. Dans cet endroit nous prions
+avec JÃ©sus :
 
-> \"\... néanmoins, non pas ma volonté, mais que ta volonté soit faite \... Que ta
+> \"\... nÃ©anmoins, non pas ma volontÃ©, mais que ta volontÃ© soit faite \... Que ta
 > Que le royaume vienne sur la terre." (Matthieu 26:39, 6:10)
 
-### C'est en nous reposant en Christ que nous sommes inclus dans cette relation intime de prière :
+### C'est en nous reposant en Christ que nous sommes inclus dans cette relation intime de priÃ¨re :
 
-> "En ce jour-là, vous saurez que je suis en mon Père, et vous en moi, et
-> Moi en vous" (Jean 14 :20).
+> "En ce jour-lÃ , vous saurez que je suis en mon PÃ¨re, et vous en moi, et
+> Moi en vous" (Jean 14Â :20).
 >
 > "Si vous demeurez en Moi, et que Mes paroles demeurent en vous, vous demanderez ce que vous
-> désir, et cela vous sera fait." (Jean 15:7)
+> dÃ©sir, et cela vous sera fait." (Jean 15:7)
 
-### Il n'y a pas de réticence
+### Il n'y a pas de rÃ©ticence
 
-> \"N'aie pas peur, petit troupeau, car ton Père s'est plu à
+> \"N'aie pas peur, petit troupeau, car ton PÃ¨re s'est plu Ã 
 > te donne le royaume.\" Luc 12:32
 >
-> "Et tout ce que vous demanderez en mon nom, je le ferai, afin que le Père
-> soit glorifié dans le Fils." Jean 14:13
+> "Et tout ce que vous demanderez en mon nom, je le ferai, afin que le PÃ¨re
+> soit glorifiÃ© dans le Fils." Jean 14:13
 
 ### Il n'y a pas besoin de persuasion
 
-> \"En vérité je vous le dis, mon Père vous donnera tout ce que vous demanderez en
+> \"En vÃ©ritÃ© je vous le dis, mon PÃ¨re vous donnera tout ce que vous demanderez en
 > mon nom \... Demandez et vous recevrez, et votre joie sera
 > complet.\" Jean 16:23
 
-### Il n'est pas nécessaire d'informer Dieu de nos besoins
+### Il n'est pas nÃ©cessaire d'informer Dieu de nos besoins
 
-> "C'est pourquoi n'entassez pas de mots vides comme les païens. Pour votre
-> Père sait les choses dont vous avez besoin avant que vous le Lui demandiez." Matthieu
+> "C'est pourquoi n'entassez pas de mots vides comme les paÃ¯ens. Pour votre
+> PÃ¨re sait les choses dont vous avez besoin avant que vous le Lui demandiez." Matthieu
 > 6:8
 
 ### Il n'y a pas besoin de crier
 
-Crier des prières est le comportement des païens incrédules. Élie s'est moqué
-les prophètes de Baal disent :
+Crier des priÃ¨res est le comportement des paÃ¯ens incrÃ©dules. Ã‰lie s'est moquÃ©
+les prophÃ¨tes de Baal disent :
 
-> Crie à haute voix, car c'est un dieu ; soit il médite, soit il est occupé, soit
-> il est en voyage, ou peut-être il dort et doit être réveillé. 1
+> Crie Ã  haute voix, car c'est un dieu ; soit il mÃ©dite, soit il est occupÃ©, soit
+> il est en voyage, ou peut-Ãªtre il dort et doit Ãªtre rÃ©veillÃ©. 1
 > Ki 18:26-27
 
 ### Il faut se reposer
 
-> \"Attendez-vous à l'Éternel; ayez bon courage, et il fortifiera votre
-> cœur ; attends, dis-je, à l'Éternel!\" Psaume 27:14
+> \"Attendez-vous Ã  l'Ã‰ternel; ayez bon courage, et il fortifiera votre
+> cÅ“ur ; attends, dis-je, Ã  l'Ã‰ternel!\" Psaume 27:14
 >
-> \"Mais ceux qui s'attendent à l'Éternel renouvelleront leur force; ils
+> \"Mais ceux qui s'attendent Ã  l'Ã‰ternel renouvelleront leur force; ils
 > monteront avec des ailes comme des aigles, ils courront et ne seront pas
-> fatigués, ils marcheront et ne faibliront pas.\" Esaïe 40:31
+> fatiguÃ©s, ils marcheront et ne faibliront pas.\" EsaÃ¯e 40:31
 >
-> Mais si nous espérons ce que nous ne voyons pas, nous l'attendons avec impatience avec
-> persévérance. De même, l'Esprit aide aussi dans nos faiblesses. ROM
+> Mais si nous espÃ©rons ce que nous ne voyons pas, nous l'attendons avec impatience avec
+> persÃ©vÃ©rance. De mÃªme, l'Esprit aide aussi dans nos faiblesses. ROM
 > 8h25
 
-## Jésus nous apprend à attendre \"Oui\" comme réponse
+## JÃ©sus nous apprend Ã  attendre \"Oui\" comme rÃ©ponse
 
-Il est tout à fait évident que Jésus savait que ses disciples auraient une grande
-difficulté avec l'idée que la prière fonctionne; au moins 25 fois dans le
-évangiles Jésus a exhorté ses disciples à croire que Dieu répond à la prière.
+Il est tout Ã  fait Ã©vident que JÃ©sus savait que ses disciples auraient une grande
+difficultÃ© avec l'idÃ©e que la priÃ¨re fonctionne; au moins 25 fois dans le
+Ã©vangiles JÃ©sus a exhortÃ© ses disciples Ã  croire que Dieu rÃ©pond Ã  la priÃ¨re.
 
-Six fois dans un souffle, Jésus a réitéré cette simple vérité :
+Six fois dans un souffle, JÃ©sus a rÃ©itÃ©rÃ© cette simple vÃ©ritÃ© :
 
-> « Demandez, et il vous sera donné ; cherchez et vous trouverez ; frappez et
-> il vous sera ouvert. Car celui qui demande reçoit, et celui qui
-> cherche trouve, et à celui qui frappe on l'ouvrira." Matthieu 7:7-8
+> Â« Demandez, et il vous sera donnÃ© ; cherchez et vous trouverez ; frappez et
+> il vous sera ouvert. Car celui qui demande reÃ§oit, et celui qui
+> cherche trouve, et Ã  celui qui frappe on l'ouvrira." Matthieu 7:7-8
 
-Nous pouvons difficilement échapper à la conclusion que Jésus voulait que ses disciples
-approcher Dieu dans la prière avec l'assurance et la confiance qu'ils
-obtenir ce qu'ils ont demandé. Cette conclusion est massivement renforcée
-quand les autres paroles enregistrées de Jésus concernant la prière exaucée sont
-pris en considération. Il suffit de regarder cette sélection :
+Nous pouvons difficilement Ã©chapper Ã  la conclusion que JÃ©sus voulait que ses disciples
+approcher Dieu dans la priÃ¨re avec l'assurance et la confiance qu'ils
+obtenir ce qu'ils ont demandÃ©. Cette conclusion est massivement renforcÃ©e
+quand les autres paroles enregistrÃ©es de JÃ©sus concernant la priÃ¨re exaucÃ©e sont
+pris en considÃ©ration. Il suffit de regarder cette sÃ©lection :
 
 > "Encore une fois je vous dis que si deux d'entre vous sont d'accord sur terre concernant
-> tout ce qu'ils demanderont, cela sera fait pour eux par Mon Père en
+> tout ce qu'ils demanderont, cela sera fait pour eux par Mon PÃ¨re en
 > ciel." Mat 18:19
 >
-> "Et tout ce que vous demanderez dans la prière, en croyant, vous le recevrez." Tapis
+> "Et tout ce que vous demanderez dans la priÃ¨re, en croyant, vous le recevrez." Tapis
 > 21:22
 >
 > "C'est pourquoi je vous dis, quoi que vous demandiez quand vous priez,
-> crois que tu les reçois, et tu les auras." Marc 11:24
+> crois que tu les reÃ§ois, et tu les auras." Marc 11:24
 >
-> "Et tout ce que vous demanderez en mon nom, je le ferai, afin que le Père
-> être glorifié dans le Fils. Si vous demandez quelque chose en mon nom, je le ferai
+> "Et tout ce que vous demanderez en mon nom, je le ferai, afin que le PÃ¨re
+> Ãªtre glorifiÃ© dans le Fils. Si vous demandez quelque chose en mon nom, je le ferai
 > cela." Jean 14:13-14
 >
 > "Si vous demeurez en Moi, et que Mes paroles demeurent en vous, vous demanderez ce que vous
-> désir, et cela vous sera fait." Jean 15:7
+> dÃ©sir, et cela vous sera fait." Jean 15:7
 >
-> "Tu ne m'as pas choisi, mais je t'ai choisi et je t'ai désigné pour que tu
+> "Tu ne m'as pas choisi, mais je t'ai choisi et je t'ai dÃ©signÃ© pour que tu
 > doit aller porter du fruit, et que ton fruit doit rester, que
-> tout ce que vous demanderez au Père en mon nom, il vous le donnera." Jean 15:16
+> tout ce que vous demanderez au PÃ¨re en mon nom, il vous le donnera." Jean 15:16
 >
-> "Et en ce jour-là tu ne Me demanderas rien. Bien sûr, Je dis à
-> vous, tout ce que vous demanderez au Père en mon nom, il vous le donnera. Jusqu'à
-> maintenant tu n'as rien demandé en mon nom. Demandez, et vous recevrez, queLa vérité concernant la prière est que Dieu répond. Rien de plus
-compliquée que cette simple vérité est requise comme fondement de
-foi dans la prière. De cette vérité, nous tirons la motivation de chercher Dieu et
-rechercher le degré de demeure et d'intimité dans lequel la prière exaucée est
-une expérience régulière.
+> "Et en ce jour-lÃ  tu ne Me demanderas rien. Bien sÃ»r, Je dis Ã 
+> vous, tout ce que vous demanderez au PÃ¨re en mon nom, il vous le donnera. Jusqu'Ã 
+> maintenant tu n'as rien demandÃ© en mon nom. Demandez, et vous recevrez, queLa vÃ©ritÃ© concernant la priÃ¨re est que Dieu rÃ©pond. Rien de plus
+compliquÃ©e que cette simple vÃ©ritÃ© est requise comme fondement de
+foi dans la priÃ¨re. De cette vÃ©ritÃ©, nous tirons la motivation de chercher Dieu et
+rechercher le degrÃ© de demeure et d'intimitÃ© dans lequel la priÃ¨re exaucÃ©e est
+une expÃ©rience rÃ©guliÃ¨re.
 
-## Dieu écoute notre cœur, pas nos paroles
+## Dieu Ã©coute notre cÅ“ur, pas nos paroles
 
-> "Mais toi, quand tu pries, va dans ta chambre, et quand tu as fermé
-> ta porte, prie ton Père qui est dans le lieu secret ; et ton
-> Père qui voit en secret te récompensera ouvertement. Et quand tu pries,
-> n'utilisez pas de vaines répétitions comme le font les païens. Car ils pensent que
+> "Mais toi, quand tu pries, va dans ta chambre, et quand tu as fermÃ©
+> ta porte, prie ton PÃ¨re qui est dans le lieu secret ; et ton
+> PÃ¨re qui voit en secret te rÃ©compensera ouvertement. Et quand tu pries,
+> n'utilisez pas de vaines rÃ©pÃ©titions comme le font les paÃ¯ens. Car ils pensent que
 > ils seront entendus pour leurs nombreuses paroles. Ne soyez donc pas comme
-> eux. Car votre Père sait ce dont vous avez besoin avant que vous ne le demandiez
+> eux. Car votre PÃ¨re sait ce dont vous avez besoin avant que vous ne le demandiez
 > Lui." Matthieu 6:6-8
 >
 > 'Mais cherchez d'abord le royaume de Dieu et sa justice, et tout
-> ces choses vous seront ajoutées' Matthieu 6:33.
+> ces choses vous seront ajoutÃ©es' Matthieu 6:33.
 >
-> Si vous donc, étant méchant, savez faire de bons cadeaux à vos enfants,
-> combien plus votre Père qui est aux cieux donnera-t-il de bonnes choses à
+> Si vous donc, Ã©tant mÃ©chant, savez faire de bons cadeaux Ã  vos enfants,
+> combien plus votre PÃ¨re qui est aux cieux donnera-t-il de bonnes choses Ã 
 > ceux qui le Lui demandent!" Matthieu 7:11
 
-## La prière est la façon dont le travail est fait
+## La priÃ¨re est la faÃ§on dont le travail est fait
 
 > "La moisson est vraiment abondante, mais les ouvriers sont peu nombreux. C'est pourquoi
-> priez le maître de la moisson d'envoyer des ouvriers dans son
+> priez le maÃ®tre de la moisson d'envoyer des ouvriers dans son
 > moisson." Matthieu 9:37-38
 >
-> \"Tu ne m'as pas choisi, mais je t'ai choisi et je t'ai nommé pour que tu
+> \"Tu ne m'as pas choisi, mais je t'ai choisi et je t'ai nommÃ© pour que tu
 > pourrait aller porter du fruit --- des fruits qui dureront --- et pour que quoi que ce soit
-> tu demandes en mon nom, le Père te donnera.\" Jean 15:16
+> tu demandes en mon nom, le PÃ¨re te donnera.\" Jean 15:16
 >
-> \" Dieu ne fera-t-il pas justice à ses élus, qui crient à
-> lui jour et nuit ? Va-t-il continuer à les éliminer? Je te le dis, il le fera
-> veillez à ce qu'ils obtiennent justice, et rapidement.\" Luc 18:7
+> \" Dieu ne fera-t-il pas justice Ã  ses Ã©lus, qui crient Ã 
+> lui jour et nuit ? Va-t-il continuer Ã  les Ã©liminer? Je te le dis, il le fera
+> veillez Ã  ce qu'ils obtiennent justice, et rapidement.\" Luc 18:7
 >
-> \"Priez pour nous \... afin que je puisse vous être rendu au plus tôt.\" Heb
+> \"Priez pour nous \... afin que je puisse vous Ãªtre rendu au plus tÃ´t.\" Heb
 > 13:18
 >
 > \"Priez aussi pour nous, afin que Dieu nous ouvre une porte pour la parole\" Col
 > 4:3
 
-## La prière est souvent difficile
+## La priÃ¨re est souvent difficile
 
 ### Ce n'est pas naturel
 
-Croire que vous êtes en communion intime avec le Dieu de la
+Croire que vous Ãªtes en communion intime avec le Dieu de la
 L'univers que vous ne pouvez pas voir, entendre ou ressentir est une illusion assez stupide
 selon la raison humaine normale. Ce n'est pas comme n'importe quel autre genre de
-relation que nous avons vécue. Est-il surprenant que l'on trouve souvent
-prière difficile?
+relation que nous avons vÃ©cue. Est-il surprenant que l'on trouve souvent
+priÃ¨re difficile?
 
-> Mais l'homme naturel ne reçoit pas les choses de l'Esprit de Dieu,
-> car ils sont une folie pour lui; il ne peut pas non plus les connaître, car ils
-> sont discernés spirituellement. 1 Co 2:14
+> Mais l'homme naturel ne reÃ§oit pas les choses de l'Esprit de Dieu,
+> car ils sont une folie pour lui; il ne peut pas non plus les connaÃ®tre, car ils
+> sont discernÃ©s spirituellement. 1 Co 2:14
 
-### Les réponses peuvent prendre du temps à venir
+### Les rÃ©ponses peuvent prendre du temps Ã  venir
 
-Une partie du mystère de la prière est que l'intercession prend du temps. Dieu
-ne nous dit pas pourquoi, Il nous dit simplement que c'est le cas :
+Une partie du mystÃ¨re de la priÃ¨re est que l'intercession prend du temps. Dieu
+ne nous dit pas pourquoi, Il nous dit simplement que c'est le casÂ :
 
-> \"Et Dieu ne fera-t-il pas justice à ses élus, qui pleurent
-> avec lui jour et nuit ? Va-t-il continuer à les éliminer? Je vous le dis,
-> il veillera à ce qu'ils obtiennent justice, et rapidement. Cependant, lorsque le Fils
+> \"Et Dieu ne fera-t-il pas justice Ã  ses Ã©lus, qui pleurent
+> avec lui jour et nuit ? Va-t-il continuer Ã  les Ã©liminer? Je vous le dis,
+> il veillera Ã  ce qu'ils obtiennent justice, et rapidement. Cependant, lorsque le Fils
 > de l'Homme vient, trouvera-t-il la foi sur la terre ?\" Luc 18:7-8
 
-Dieu promet de répondre rapidement aux prières de ceux qui crient jour et
-nuit. L'intercession de Jésus et du Saint-Esprit sont en cours et
+Dieu promet de rÃ©pondre rapidement aux priÃ¨res de ceux qui crient jour et
+nuit. L'intercession de JÃ©sus et du Saint-Esprit sont en cours et
 persistant. En partageant cette intercession, nous devons aussi partager
-persistance jusqu'à ce que nous sachions que nous avons notre réponse ou que nous voyions réellement le
-réponse. C'est aussi une question d'entendre Dieu.
+persistance jusqu'Ã  ce que nous sachions que nous avons notre rÃ©ponse ou que nous voyions rÃ©ellement le
+rÃ©ponse. C'est aussi une question d'entendre Dieu.
 
-Face à un retard, nous devons être comme Dieu \"qui appelle les choses qui sont
-pas comme s'ils l'étaient\" (Rm 4,18) et, comme Abraham, devenir forts dans notre
-foi alors que nous rendons gloire à Dieu.
+Face Ã  un retard, nous devons Ãªtre comme Dieu \"qui appelle les choses qui sont
+pas comme s'ils l'Ã©taient\" (Rm 4,18) et, comme Abraham, devenir forts dans notre
+foi alors que nous rendons gloire Ã  Dieu.
 
 ### Quand on ne sait pas prier
 
-Romains 8:26-27 décrit le Saint-Esprit intercédant avec des gémissements qui
-ne peut pas être prononcé quand nous ne savons pas comment prier comme nous le devrions. C'est
-le Saint-Esprit intercède en notre faveur, ou à travers nous au nom de
-autre. C'est une sorte de prière dans l'Esprit, généralement en langues,
-ou parfois avec des gémissements littéraux. Encore une fois, cela doit être avec foi, et il
-a généralement l'impression de travailler dans la prière, avec un éventuel sentiment de
-achèvement.
+Romains 8:26-27 dÃ©crit le Saint-Esprit intercÃ©dant avec des gÃ©missements qui
+ne peut pas Ãªtre prononcÃ© quand nous ne savons pas comment prier comme nous le devrions. C'est
+le Saint-Esprit intercÃ¨de en notre faveur, ou Ã  travers nous au nom de
+un autre. C'est une sorte de priÃ¨re dans l'Esprit, gÃ©nÃ©ralement en langues,
+ou parfois avec des gÃ©missements littÃ©raux. Encore une fois, cela doit Ãªtre avec foi, et il
+a gÃ©nÃ©ralement l'impression de travailler dans la priÃ¨re, avec un Ã©ventuel sentiment de
+achÃ¨vement.
 
-Paul décrit le travail dans la prière pour les Galates comme s'il était enfant
+Paul dÃ©crit le travail dans la priÃ¨re pour les Galates comme s'il Ã©tait enfant
 naissance (Ga 4:19).

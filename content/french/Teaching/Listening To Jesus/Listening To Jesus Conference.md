@@ -1,772 +1,772 @@
 ---
 type: document
 translationKey: Listening To Jesus Conference
-title: Écouter la conférence de Jésus---
-# Conférence Écouter Jésus
+title: Ã‰couter la confÃ©rence de JÃ©sus---
+# ConfÃ©rence Ã‰couter JÃ©sus
 
-**Bienvenue à la conférence À l'écoute de Jésus. Objectif** : Devenir un véritable
-des gens prophétiques qui entendent et obéissent à notre extraordinaire Seigneur.
+**Bienvenue Ã  la confÃ©rence Ã€ l'Ã©coute de JÃ©sus. Objectif**Â : Devenir un vÃ©ritable
+des gens prophÃ©tiques qui entendent et obÃ©issent Ã  notre extraordinaire Seigneur.
 
-# Session 1 - Une chose est nécessaire
+# Session 1 - Une chose est nÃ©cessaire
 
-La dernière chose que je vous ai encouragé à faire lors de notre dernière visite, lors de notre
-se réunir chez Joseph, c'était faire des rêves.
+La derniÃ¨re chose que je vous ai encouragÃ© Ã  faire lors de notre derniÃ¨re visite, lors de notre
+se rÃ©unir chez Joseph, c'Ã©tait faire des rÃªves.
 
-*Nous sommes appelés à faire l'impossible*
+*Nous sommes appelÃ©s Ã  faire l'impossible*
 
-Nous sommes tous des gens occupés qui font avancer les choses. C'est ainsi que Dieu nous a fait
-et Il a utilisé notre caractère \"faire avancer les choses\" pour faire avancer les choses dans
-Son Royaume. Mais nous sommes appelés à faire l'impossible. Ses rêves sont
-plus gros que le nôtre. Nous sommes appelés à être des preneurs de risques.
+Nous sommes tous des gens occupÃ©s qui font avancer les choses. C'est ainsi que Dieu nous a fait
+et Il a utilisÃ© notre caractÃ¨re \"faire avancer les choses\" pour faire avancer les choses dans
+Son Royaume. Mais nous sommes appelÃ©s Ã  faire l'impossible. Ses rÃªves sont
+plus gros que le nÃ´tre. Nous sommes appelÃ©s Ã  Ãªtre des preneurs de risques.
 
-*Nous devons être obsédés par Jésus*
+*Nous devons Ãªtre obsÃ©dÃ©s par JÃ©sus*
 
-Mais pour être fructueux dans nos efforts risqués, nous devons écouter attentivement
-à Jésus. Nous devons manger et boire Jésus. Nous devons nous évader dans un
-endroit isolé et écouter Jésus. Nous devons être obsédés par Jésus et
+Mais pour Ãªtre fructueux dans nos efforts risquÃ©s, nous devons Ã©couter attentivement
+Ã  JÃ©sus. Nous devons manger et boire JÃ©sus. Nous devons nous Ã©vader dans un
+endroit isolÃ© et Ã©couter JÃ©sus. Nous devons Ãªtre obsÃ©dÃ©s par JÃ©sus et
 pas par les choses que nous essayons de faire en son nom.
 
-*Notre tendance est de le rendre sûr et acceptable*
+*Notre tendance est de le rendre sÃ»r et acceptable*
 
-Jésus vivait selon la culture du Royaume et cela se heurtait souvent à sa
-culture indigène. C'est l'essence de vivre une vie prophétique ;
-marchant courageusement dans le Royaume où il est contraire à notre
-culture. Mais notre tendance est de rendre Jésus conforme à notre culture pour
-le rendre sûr et acceptable.
+JÃ©sus vivait selon la culture du Royaume et cela se heurtait souvent Ã  sa
+culture indigÃ¨ne. C'est l'essence de vivre une vie prophÃ©tique ;
+marchant courageusement dans le Royaume oÃ¹ il est contraire Ã  notre
+culture. Mais notre tendance est de rendre JÃ©sus conforme Ã  notre culture pour
+le rendre sÃ»r et acceptable.
 
-*Nous pouvons facilement être vaccinés contre Jésus*
+*Nous pouvons facilement Ãªtre vaccinÃ©s contre JÃ©sus*
 
-Covid 19 a mis le monde dans une recherche sans précédent d'un vaccin pour
-nous vacciner contre le virus. Les vaccins fonctionnent généralement en se présentant à
-notre système immunitaire une version réduite et sûre du virus, de sorte que notre corps
-peut reconnaître le virus et déclencher son système de défense pour l'empêcher
-nous faire du mal. Les chrétiens sont confrontés au problème inverse. Grâce à de fréquents
-l'exposition aux évangiles, surtout lorsqu'elles sont rendues sûres pour le public
-consommation, nous pouvons facilement être vaccinés contre Jésus ! Nous pouvons hocher la tête
-en reconnaissance des histoires familières sans les laisser nous infecter.
-Nous avons des défenses contre les mots qui remettent en question le statu quo. Nous pouvons
-on finit facilement comme les pharisiens des évangiles, à penser que nous sommes
-D'ACCORD; ce sont les autres qui ont besoin d'entendre ça.
+Covid 19 a mis le monde dans une recherche sans prÃ©cÃ©dent d'un vaccin pour
+nous vacciner contre le virus. Les vaccins fonctionnent gÃ©nÃ©ralement en se prÃ©sentant Ã 
+notre systÃ¨me immunitaire une version rÃ©duite et sÃ»re du virus, de sorte que notre corps
+peut reconnaÃ®tre le virus et dÃ©clencher son systÃ¨me de dÃ©fense pour l'empÃªcher
+nous faire du mal. Les chrÃ©tiens sont confrontÃ©s au problÃ¨me inverse. GrÃ¢ce Ã  de frÃ©quents
+l'exposition aux Ã©vangiles, surtout lorsqu'elles sont rendues sÃ»res pour le public
+consommation, nous pouvons facilement Ãªtre vaccinÃ©s contre JÃ©sus ! Nous pouvons hocher la tÃªte
+en reconnaissance des histoires familiÃ¨res sans les laisser nous infecter.
+Nous avons des dÃ©fenses contre les mots qui remettent en question le statu quo. Nous pouvons
+on finit facilement comme les pharisiens des Ã©vangiles, Ã  penser que nous sommes
+D'ACCORD; ce sont les autres qui ont besoin d'entendre Ã§a.
 
-*Écouter Jésus doit être une priorité dans nos vies*
+*Ã‰couter JÃ©sus doit Ãªtre une prioritÃ© dans nos vies*
 
-Mon espoir pour ces conférences est donc de nous réexposer aux dangers
-Jésus afin que nous soyons complètement infectés par Lui. Mon rêve est que nous tous
-devenir obsédé par Jésus ; qu'écouter Jésus devient un haut
-priorité dans nos vies; que nous devenions un peuple vraiment prophétique qui entend
-et obéissez à notre extraordinaire Seigneur.
+Mon espoir pour ces confÃ©rences est donc de nous rÃ©exposer aux dangers
+JÃ©sus afin que nous soyons complÃ¨tement infectÃ©s par Lui. Mon rÃªve est que nous tous
+devenir obsÃ©dÃ© par JÃ©sus ; qu'Ã©couter JÃ©sus devient un haut
+prioritÃ© dans nos vies; que nous devenions un peuple vraiment prophÃ©tique qui entend
+et obÃ©issez Ã  notre extraordinaire Seigneur.
 
-Quelle est votre réponse à cela ?
+Quelle est votre rÃ©ponse Ã  cela ?
 
-*\"Vous êtes inquiet et bouleversé par beaucoup de choses, mais une chose est
-nécessaire\"*
+*\"Vous Ãªtes inquiet et bouleversÃ© par beaucoup de choses, mais une chose est
+nÃ©cessaire\"*
 
-> Luc 10:38 Comme Jésus et ses disciples étaient en route, il arriva à un
-> village où une femme nommée Martha lui a ouvert sa maison. Elle avait un
-> sœur appelée Marie, assise aux pieds du Seigneur écoutant ce qu'il
-> dit. Mais Martha était distraite par tous les préparatifs qui devaient être
-> fait. Elle s'approcha de lui et lui demanda : « Seigneur, ne te soucie-tu pas que ma sœur
-> m'a-t-il laissé faire le travail par moi-même ? Dis-lui de m'aider !"
+> Luc 10:38 Comme JÃ©sus et ses disciples Ã©taient en route, il arriva Ã  un
+> village oÃ¹ une femme nommÃ©e Martha lui a ouvert sa maison. Elle avait un
+> sÅ“ur appelÃ©e Marie, assise aux pieds du Seigneur Ã©coutant ce qu'il
+> dit. Mais Martha Ã©tait distraite par tous les prÃ©paratifs qui devaient Ãªtre
+> fait. Elle s'approcha de lui et lui demanda : Â« Seigneur, ne te soucie-tu pas que ma sÅ“ur
+> m'a-t-il laissÃ© faire le travail par moi-mÃªme ? Dis-lui de m'aider !"
 >
-> "Marthe, Marthe," répondit le Seigneur, "tu es inquiète et bouleversée par
-> beaucoup de choses, mais peu de choses sont nécessaires --- ou même une seule. Marie a
-> choisi ce qui est mieux, et il ne lui sera pas enlevé."
+> "Marthe, Marthe," rÃ©pondit le Seigneur, "tu es inquiÃ¨te et bouleversÃ©e par
+> beaucoup de choses, mais peu de choses sont nÃ©cessaires --- ou mÃªme une seule. Marie a
+> choisi ce qui est mieux, et il ne lui sera pas enlevÃ©."
 
-Que vous dit Jésus à travers cet incident ?
+Que vous dit JÃ©sus Ã  travers cet incident ?
 
-* Être disciple n'est pas une question de doctrine ou de comportement. C'est enseigner aux gens
-écouter Jésus.*
+* ÃŠtre disciple n'est pas une question de doctrine ou de comportement. C'est enseigner aux gens
+Ã©couter JÃ©sus.*
 
-Le premier besoin que nous avons tous est de nous asseoir avec et d'écouter Jésus.
-Être disciple ne consiste pas à enseigner aux gens une bonne doctrine, ou une bonne
-comportement. C'est apprendre aux gens à écouter Jésus. Tout le reste
-découle naturellement de cela.
+Le premier besoin que nous avons tous est de nous asseoir avec et d'Ã©couter JÃ©sus.
+ÃŠtre disciple ne consiste pas Ã  enseigner aux gens une bonne doctrine, ou une bonne
+comportement. C'est apprendre aux gens Ã  Ã©couter JÃ©sus. Tout le reste
+dÃ©coule naturellement de cela.
 
-Qu'est-ce que Jésus veut que vous fassiez à ce sujet ?
+Qu'est-ce que JÃ©sus veut que vous fassiez Ã  ce sujet ?
 
-- Dans ta propre vie de dévotion ?
+- Dans ta propre vie de dÃ©votion ?
 
 - Dans votre propre Groupe de Croissance ?
 
-- Dans votre rôle de leader ?
+- Dans votre rÃ´le de leader ?
 
 - Dans votre discipline des autres ?
 
-- Dans votre église ?
+- Dans votre Ã©glise ?
 
-# Session 2 - La familiarité engendre le mépris
+# Session 2 - La familiaritÃ© engendre le mÃ©pris
 
-*Notre vocation est de donner Jésus aux gens*
+*Notre vocation est de donner JÃ©sus aux gens*
 
-Notre appel est de libérer le Royaume de Dieu dans la vie des gens et
-communautés; c'est leur donner Jésus pour qu'ils puissent répondre à> Matt 11:28-30 \"Venez à moi, vous tous qui êtes fatigués et chargés, et moi
+Notre appel est de libÃ©rer le Royaume de Dieu dans la vie des gens et
+communautÃ©s; c'est leur donner JÃ©sus pour qu'ils puissent rÃ©pondre Ã > Matt 11:28-30 \"Venez Ã  moi, vous tous qui Ãªtes fatiguÃ©s et chargÃ©s, et moi
 > vous donnera du repos. Prenez mon joug sur vous et apprenez de moi, car je suis
-> doux et humble de cœur, et vous trouverez du repos pour vos âmes. Pour
-> mon joug est facile et mon fardeau est léger."
+> doux et humble de cÅ“ur, et vous trouverez du repos pour vos Ã¢mes. Pour
+> mon joug est facile et mon fardeau est lÃ©ger."
 
 C'est ainsi que vous voyez votre mission ?
 
-*Nous devons \"camper\" dans les évangiles et nous nourrir de Jésus*
+*Nous devons \"camper\" dans les Ã©vangiles et nous nourrir de JÃ©sus*
 
-Je ne peux pas t'écouter, ni te faire écouter, mais je peux t'inviter
-s'asseoir aux pieds de Jésus avec moi. Si je visite chez vous, vous trouvez une place pour
-moi de m'asseoir pendant que nous parlons. Je peux te donner une chaise pour t'asseoir à Jésus
+Je ne peux pas t'Ã©couter, ni te faire Ã©couter, mais je peux t'inviter
+s'asseoir aux pieds de JÃ©sus avec moi. Si je visite chez vous, vous trouvez une place pour
+moi de m'asseoir pendant que nous parlons. Je peux te donner une chaise pour t'asseoir Ã  JÃ©sus
 pieds. En tant que berger, je ne peux pas mettre l'herbe dans ta bouche et te faire
-manger, mais je peux t'emmener là où l'herbe est verte et t'inviter à
-manger. Lorsque vous trouvez de bons pâturages, vous voulez y rester et en profiter. je
-appelez cela \"camper dans les écritures\". Je plante ma tente et j'y reste,
+manger, mais je peux t'emmener lÃ  oÃ¹ l'herbe est verte et t'inviter Ã 
+manger. Lorsque vous trouvez de bons pÃ¢turages, vous voulez y rester et en profiter. je
+appelez cela \"camper dans les Ã©critures\". Je plante ma tente et j'y reste,
 habituellement pendant au moins une semaine ou deux, et souvent beaucoup plus longtemps.
 
-Voici donc maintenant le pâturage dans lequel je veux vous inviter à camper avec moi.
+Voici donc maintenant le pÃ¢turage dans lequel je veux vous inviter Ã  camper avec moi.
 
 *Un choc entre le Royaume et la culture autochtone*
 
 Luc 4:14-30.
 
-C'est l'histoire de Jésus aimant les gens qu'il aime le plus - ceux qu'il
-a grandi avec. Mais c'est une histoire très surprenante. C'est dangereux
-Jésus!
+C'est l'histoire de JÃ©sus aimant les gens qu'il aime le plus - ceux qu'il
+a grandi avec. Mais c'est une histoire trÃ¨s surprenante. C'est dangereux
+JÃ©sus!
 
-> Jésus est retourné en Galilée dans la puissance de l'Esprit, et des nouvelles de
-> il s'est répandu dans toute la campagne. Il enseignait dans leur
-> synagogues, et tout le monde l'a loué. Il se rendit à Nazareth, où il
-> avait été élevé, et le jour du sabbat, il entra dans le
-> synagogue, comme c'était son habitude.
+> JÃ©sus est retournÃ© en GalilÃ©e dans la puissance de l'Esprit, et des nouvelles de
+> il s'est rÃ©pandu dans toute la campagne. Il enseignait dans leur
+> synagogues, et tout le monde l'a louÃ©. Il se rendit Ã  Nazareth, oÃ¹ il
+> avait Ã©tÃ© Ã©levÃ©, et le jour du sabbat, il entra dans le
+> synagogue, comme c'Ã©tait son habitude.
 
-Il n'y a que deux personnes mentionnées par leur nom dans cette histoire. L'un est Jésus,
-l'autre est son père, Joseph. Je veux que vous imaginiez que vous êtes Joseph.
-Et pour vous aider à entrer dans le personnage, je vais faire un peu d'imagination.
+Il n'y a que deux personnes mentionnÃ©es par leur nom dans cette histoire. L'un est JÃ©sus,
+l'autre est son pÃ¨re, Joseph. Je veux que vous imaginiez que vous Ãªtes Joseph.
+Et pour vous aider Ã  entrer dans le personnage, je vais faire un peu d'imagination.
 Alors fermez les yeux et plongez-vous dans l'histoire.
 
 *Tout a l'air bien, tout le monde est content*
 
-Tout le monde est venu tôt aujourd'hui pour essayer d'avoir une place. Regarde autour de toi.
+Tout le monde est venu tÃ´t aujourd'hui pour essayer d'avoir une place. Regarde autour de toi.
 Voici tous vos amis et votre famille, avec qui vous avez grandi et
-connaître intimement. C'est votre synagogue, que vos parents ont aidé à
-construire quand vous étiez enfant. Vous avez aidé à transporter l'eau et à façonner le
-briques de boue. Vous vous souvenez du jour où la communauté a tenu le premier
-service de la synagogue ici. Vous vous sentez en sécurité et chez vous.
+connaÃ®tre intimement. C'est votre synagogue, que vos parents ont aidÃ© Ã 
+construire quand vous Ã©tiez enfant. Vous avez aidÃ© Ã  transporter l'eau et Ã  faÃ§onner le
+briques de boue. Vous vous souvenez du jour oÃ¹ la communautÃ© a tenu le premier
+service de la synagogue ici. Vous vous sentez en sÃ©curitÃ© et chez vous.
 
-Aujourd'hui, il y a beaucoup d'excitation car ces dernières semaines, votre premier fils
-Jésus est devenu le sujet de conversation de la ville et de toutes les villes alentour. Il
-est devenu un prédicateur puissant et populaire dans le district. Il arrive
-à la maison aujourd'hui et tout le monde veut entendre toutes ses histoires. Le rabbin l'a dit
-ne serait pas approprié pour Jésus de parler de lui-même dans le service,
-donc Il est en train de lire la leçon. Mais nous restons tous après pour
+Aujourd'hui, il y a beaucoup d'excitation car ces derniÃ¨res semaines, votre premier fils
+JÃ©sus est devenu le sujet de conversation de la ville et de toutes les villes alentour. Il
+est devenu un prÃ©dicateur puissant et populaire dans le district. Il arrive
+Ã  la maison aujourd'hui et tout le monde veut entendre toutes ses histoires. Le rabbin l'a dit
+ne serait pas appropriÃ© pour JÃ©sus de parler de lui-mÃªme dans le service,
+donc Il est en train de lire la leÃ§on. Mais nous restons tous aprÃ¨s pour
 entendre ses histoires.
 
-Alors que le service familier commence, votre esprit revient à la dernière
-fois que vous avez vu Jésus, il y a 12 sabbats. Ce vendredi après-midi comme tu étais
-éclaircissant l'atelier en vue du sabbat, Jésus nettoya
-ses outils et les a rangés, puis il s'est tourné vers vous, vous a regardé dans le
-yeux et dit : « Père. C'est fini. » Vous ressentez à nouveau le frisson
-cela vous a traversé le dos à ces mots. Vous avez demandé à Jésus ce qu'il voulait dire.
-Il a dit, \"J'ai terminé le travail que je dois faire pour vous. Je dois maintenant aller
-et faire le travail de mon Père *céleste.\" Il partit cet après-midi-là pour
-Jérusalem et vous ne l'avez pas vu depuis. Aujourd'hui, il est rentré à la maison. Ton
-l'attention revient lorsqu'on demande à Jésus de lire.
+Alors que le service familier commence, votre esprit revient Ã  la derniÃ¨re
+fois que vous avez vu JÃ©sus, il y a 12 sabbats. Ce vendredi aprÃ¨s-midi comme tu Ã©tais
+Ã©claircissant l'atelier en vue du sabbat, JÃ©sus nettoya
+ses outils et les a rangÃ©s, puis il s'est tournÃ© vers vous, vous a regardÃ© dans le
+yeux et dit : Â«Â PÃ¨re. C'est fini.Â Â» Vous ressentez Ã  nouveau le frisson
+cela vous a traversÃ© le dos Ã  ces mots. Vous avez demandÃ© Ã  JÃ©sus ce qu'il voulait dire.
+Il a dit, \"J'ai terminÃ© le travail que je dois faire pour vous. Je dois maintenant aller
+et faire le travail de mon PÃ¨re *cÃ©leste.\" Il partit cet aprÃ¨s-midi-lÃ  pour
+JÃ©rusalem et vous ne l'avez pas vu depuis. Aujourd'hui, il est rentrÃ© Ã  la maison. Ton
+l'attention revient lorsqu'on demande Ã  JÃ©sus de lire.
 
 *Ils aiment tous la lecture*
 
-> Il se leva pour lire, et le rouleau du prophète Isaïe fut remis
-> à lui. En le déroulant, il trouva l'endroit où il est écrit :
+> Il se leva pour lire, et le rouleau du prophÃ¨te IsaÃ¯e fut remis
+> Ã  lui. En le dÃ©roulant, il trouva l'endroit oÃ¹ il est Ã©crit :
 >
 > "L'Esprit du Seigneur est sur moi, parce qu'il m'a oint pour
-> proclamer la bonne nouvelle aux pauvres. Il m'a envoyé proclamer la liberté pour
-> les détenus et la récupération de la vue pour les aveugles, pour fixer les
-> opprimés libres, pour proclamer l'année de grâce du Seigneur."
+> proclamer la bonne nouvelle aux pauvres. Il m'a envoyÃ© proclamer la libertÃ© pour
+> les dÃ©tenus et la rÃ©cupÃ©ration de la vue pour les aveugles, pour fixer les
+> opprimÃ©s libres, pour proclamer l'annÃ©e de grÃ¢ce du Seigneur."
 >
-> Puis il roula le parchemin, le rendit au préposé et s'assit
-> bas. Les yeux de tous dans la synagogue étaient fixés sur lui. Il
-> a commencé par leur dire : « Aujourd'hui, cette écriture s'accomplit dans votre>
-> Tous parlaient bien de lui et étaient étonnés des paroles gracieuses qui venaient
-> de ses lèvres. « N'est-ce pas le fils de Joseph ? ils ont demandé.
+> Puis il roula le parchemin, le rendit au prÃ©posÃ© et s'assit
+> bas. Les yeux de tous dans la synagogue Ã©taient fixÃ©s sur lui. Il
+> a commencÃ© par leur dire : Â« Aujourd'hui, cette Ã©criture s'accomplit dans votre>
+> Tous parlaient bien de lui et Ã©taient Ã©tonnÃ©s des paroles gracieuses qui venaient
+> de ses lÃ¨vres. Â« N'est-ce pas le fils de Joseph ? ils ont demandÃ©.
 
-Tout le monde vous regarde, et votre cœur déborde de fierté à la façon dont l'un des
-vos fils sont devenus un prédicateur si renommé et si populaire. Vous ne pouvez pas
-attendez la fin du service pour entendre Jésus raconter toutes les
-guérisons dont vous avez entendu parler.
+Tout le monde vous regarde, et votre cÅ“ur dÃ©borde de fiertÃ© Ã  la faÃ§on dont l'un des
+vos fils sont devenus un prÃ©dicateur si renommÃ© et si populaire. Vous ne pouvez pas
+attendez la fin du service pour entendre JÃ©sus raconter toutes les
+guÃ©risons dont vous avez entendu parler.
 
-Il y a des sourires sur tous les visages et le service est sur le point de déménager
-sur les prières et la bénédiction finale. Mais nous n'arrivons jamais au
-prières. Le service se termine par un chaos total -- pire que cela, il se termine par
-une émeute! Au moment où le rabbin est sur le point de commencer les prières, Jésus parle
+Il y a des sourires sur tous les visages et le service est sur le point de dÃ©mÃ©nager
+sur les priÃ¨res et la bÃ©nÃ©diction finale. Mais nous n'arrivons jamais au
+priÃ¨res. Le service se termine par un chaos total -- pire que cela, il se termine par
+une Ã©meute! Au moment oÃ¹ le rabbin est sur le point de commencer les priÃ¨res, JÃ©sus parle
 de nouveau.
 
-*Jésus les provoque délibérément*
+*JÃ©sus les provoque dÃ©libÃ©rÃ©ment*
 
-> Jésus leur dit : « Vous me citerez certainement ce proverbe :
-> « Médecin, guérissez-vous ! » Et tu me diras : 'Fais ici dans ton
-> ville natale ce que nous avons entendu dire que vous avez fait à Capharnaüm.
-> vous", a-t-il poursuivi, "aucun prophète n'est accepté dans sa ville natale. Je vous assure
-> vous qu'il y avait beaucoup de veuves en Israël au temps d'Élie, quand le
-> le ciel a été fermé pendant trois ans et demi et il y a eu une grave famine
-> dans tout le pays. Pourtant Elie n'a été envoyé à aucun d'eux, mais à un
-> veuve à Sarepta dans la région de Sidon. Et il y en avait beaucoup dans
-> Israël avec la lèpre au temps d'Elisée le prophète, mais aucun des
-> eux ont été purifiés --- seul Naaman le Syrien."
+> JÃ©sus leur dit : Â« Vous me citerez certainement ce proverbe :
+> Â«Â MÃ©decin, guÃ©rissez-vousÂ !Â Â» Et tu me diras : 'Fais ici dans ton
+> ville natale ce que nous avons entendu dire que vous avez fait Ã  CapharnaÃ¼m.' Vraiment je dis
+> vous", a-t-il poursuivi, "aucun prophÃ¨te n'est acceptÃ© dans sa ville natale. Je vous assure
+> vous qu'il y avait beaucoup de veuves en IsraÃ«l au temps d'Ã‰lie, quand le
+> le ciel a Ã©tÃ© fermÃ© pendant trois ans et demi et il y a eu une grave famine
+> dans tout le pays. Pourtant Elie n'a Ã©tÃ© envoyÃ© Ã  aucun d'eux, mais Ã  un
+> veuve Ã  Sarepta dans la rÃ©gion de Sidon. Et il y en avait beaucoup dans
+> IsraÃ«l avec la lÃ¨pre au temps d'ElisÃ©e le prophÃ¨te, mais aucun des
+> eux ont Ã©tÃ© purifiÃ©s --- seul Naaman le Syrien."
 >
-> Tous les gens de la synagogue étaient furieux en entendant cela.
-> Ils se levèrent, le chassèrent de la ville, et le conduisirent au front de
-> la colline sur laquelle la ville a été construite, afin de le jeter du
-> falaise. Mais il a traversé la foule et a continué son chemin.
+> Tous les gens de la synagogue Ã©taient furieux en entendant cela.
+> Ils se levÃ¨rent, le chassÃ¨rent de la ville, et le conduisirent au front de
+> la colline sur laquelle la ville a Ã©tÃ© construite, afin de le jeter du
+> falaise. Mais il a traversÃ© la foule et a continuÃ© son chemin.
 
 Vous ne pouvez pas bouger avec le choc. Tu es le seul qui reste assis dans le
-synagogue, mais vous voyez tout par la porte ouverte. Vous êtes choqué et
-secoué. Vous êtes confus et consterné. Vous pouvez à peine croire ce qui a
-juste arrivé.
+synagogue, mais vous voyez tout par la porte ouverte. Vous Ãªtes choquÃ© et
+secouÃ©. Vous Ãªtes confus et consternÃ©. Vous pouvez Ã  peine croire ce qui a
+juste arrivÃ©.
 
-*Jésus s'éloigne*
+*JÃ©sus s'Ã©loigne*
 
-La dernière chose que vous voyez, c'est Jésus qui s'éloigne du village. Et maintenant
-vous voilà; seul, s'interrogeant.
+La derniÃ¨re chose que vous voyez, c'est JÃ©sus qui s'Ã©loigne du village. Et maintenant
+vous voilÃ ; seul, s'interrogeant.
 
 ## Des questions
 
-*Qu'est-ce que Joseph a pensé ?*
+*Qu'est-ce que Joseph a pensÃ© ?*
 
-En restant dans le rôle de Joseph, quelle est votre réaction à cet incident ?
+En restant dans le rÃ´le de Joseph, quelle est votre rÃ©action Ã  cet incident ?
 
-Quels autres personnages pouvons-nous imaginer être ? - une colère
-membre de la congrégation, le grand rabbin, un enfant qui ne comprend pas,
-un des disciples de Jésus, Jésus, le Saint-Esprit, Dieu le Père, un
-passant, un moineau ! Et enfin, un lecteur du 21^e^ siècle.
+Quels autres personnages pouvons-nous imaginer Ãªtre ? - une colÃ¨re
+membre de la congrÃ©gation, le grand rabbin, un enfant qui ne comprend pas,
+un des disciples de JÃ©sus, JÃ©sus, le Saint-Esprit, Dieu le PÃ¨re, un
+passant, un moineau ! Et enfin, un lecteur du 21^e^ siÃ¨cle.
 
 *Qu'est-ce que tu penses?*
 
-En tant que lecteur du 21^st^ siècle, quelles sont vos réactions/pensées immédiates
-/ des questions à ce sujet ?
+En tant que lecteur du 21^st^ siÃ¨cle, quelles sont vos rÃ©actions/pensÃ©es immÃ©diates
+/ des questions Ã  ce sujet ?
 
-- Pourquoi Jésus les a-t-il provoqués ?
+- Pourquoi JÃ©sus les a-t-il provoquÃ©s ?
 
-- Pourquoi ont-ils réagi si fortement ?
+- Pourquoi ont-ils rÃ©agi si fortement ?
 
-- Pourquoi Jésus est-il parti ?
+- Pourquoi JÃ©sus est-il parti ?
 
-*Aucun prophète n'est accepté dans sa ville natale*
+*Aucun prophÃ¨te n'est acceptÃ© dans sa ville natale*
 
-Essayons de répondre à certaines de ces questions en réfléchissant à ce que
-Jésus a dit après que les gens aient dit : « N'est-ce pas le fils de Joseph ? (v22) :
+Essayons de rÃ©pondre Ã  certaines de ces questions en rÃ©flÃ©chissant Ã  ce que
+JÃ©sus a dit aprÃ¨s que les gens aient dit : Â« N'est-ce pas le fils de Joseph ? (v22)Â :
 
-> Jésus leur dit : « Vous me citerez certainement ce proverbe :
-> « Médecin, guérissez-vous ! » Et tu me diras : 'Fais ici dans ton
-> ville natale ce que nous avons entendu dire que vous avez fait à Capharnaüm.'
+> JÃ©sus leur dit : Â« Vous me citerez certainement ce proverbe :
+> Â«Â MÃ©decin, guÃ©rissez-vousÂ !Â Â» Et tu me diras : 'Fais ici dans ton
+> ville natale ce que nous avons entendu dire que vous avez fait Ã  CapharnaÃ¼m.'
 
-Bien qu'extérieurement toute la congrégation soit enthousiasmée par ce que
-Jésus a dit, dans leur cœur, Jésus sait qu'ils sont sceptiques quant à la
-des rapports qu'ils ont entendus de Capharnaüm à proximité. La raison pour
-ceci est indiqué par la prochaine chose que Jésus dit :
+Bien qu'extÃ©rieurement toute la congrÃ©gation soit enthousiasmÃ©e par ce que
+JÃ©sus a dit, dans leur cÅ“ur, JÃ©sus sait qu'ils sont sceptiques quant Ã  la
+des rapports qu'ils ont entendus de CapharnaÃ¼m Ã  proximitÃ©. La raison pour
+ceci est indiquÃ© par la prochaine chose que JÃ©sus dit :
 
-> En vérité, je vous le dis", a-t-il poursuivi, "aucun prophète n'est accepté dans son
+> En vÃ©ritÃ©, je vous le dis", a-t-il poursuivi, "aucun prophÃ¨te n'est acceptÃ© dans son
 > ville natale.\"
 
-** Qu'est-ce qu'un prophète ? ** -- Quelqu'un que Dieu a appelé pour amener Dieu
-révélation spécifique aux autres.
+** Qu'est-ce qu'un prophÃ¨te ? ** -- Quelqu'un que Dieu a appelÃ© pour amener Dieu
+rÃ©vÃ©lation spÃ©cifique aux autres.
 
-**Que signifie \"accepter\" un prophète** (quel type de réponse est
-Dieu cherche ?) -- Accordez une attention particulière à ce qu'ils doivent
-dire; écouter attentivement dans l'attente que Dieu veut dire
+**Que signifie \"accepter\" un prophÃ¨te** (quel type de rÃ©ponse est
+Dieu cherche ?) -- Accordez une attention particuliÃ¨re Ã  ce qu'ils doivent
+dire; Ã©couter attentivement dans l'attente que Dieu veut dire
 quelque chose d'important pour vous.
 
-**Pourquoi un prophète n'est-il pas accepté dans sa ville natale ?** La congrégation voit
-Jésus en tant que membre familier de leur communauté - quelqu'un qu'ils ont grandi
-avec. Ils ne le considèrent pas comme quelqu'un de spécial. Ils ont l'habitude de
-discuter d'idées comme toutes également valables, d'où ils espèrent
-un certain accord commun.*Les histoires évangéliques peuvent-elles devenir trop familières pour nous impacter ?*
+**Pourquoi un prophÃ¨te n'est-il pas acceptÃ© dans sa ville natale ?** La congrÃ©gation voit
+JÃ©sus en tant que membre familier de leur communautÃ© - quelqu'un qu'ils ont grandi
+avec. Ils ne le considÃ¨rent pas comme quelqu'un de spÃ©cial. Ils ont l'habitude de
+discuter d'idÃ©es comme toutes Ã©galement valables, d'oÃ¹ ils espÃ¨rent
+un certain accord commun.*Les histoires Ã©vangÃ©liques peuvent-elles devenir trop familiÃ¨res pour nous impacter ?*
 
-**Pensez-vous que nous pouvons devenir si familiers avec les histoires évangéliques que nous
-manquer ce que Jésus veut nous dire ?**
+**Pensez-vous que nous pouvons devenir si familiers avec les histoires Ã©vangÃ©liques que nous
+manquer ce que JÃ©sus veut nous dire ?**
 
 # Session 3 - On n'aime pas se faire challenger !
 
-***Objectif** : Devenir un peuple vraiment prophétique qui entend et obéit à nos
+***Objectif**Â : Devenir un peuple vraiment prophÃ©tique qui entend et obÃ©it Ã  nos
 Seigneur extraordinaire.*
 
-Jésus vivait selon la culture du Royaume et cela se heurtait souvent à sa
-culture indigène. Nous sommes appelés à marcher courageusement dans la culture du Royaume
-où c'est contraire à notre culture d'origine.
+JÃ©sus vivait selon la culture du Royaume et cela se heurtait souvent Ã  sa
+culture indigÃ¨ne. Nous sommes appelÃ©s Ã  marcher courageusement dans la culture du Royaume
+oÃ¹ c'est contraire Ã  notre culture d'origine.
 
-Lors de notre première séance, nous nous sommes rappelés que, comme Marie, nous devons
-écouter Jésus et pas seulement nous occuper de beaucoup de distractions comme
+Lors de notre premiÃ¨re sÃ©ance, nous nous sommes rappelÃ©s que, comme Marie, nous devons
+Ã©couter JÃ©sus et pas seulement nous occuper de beaucoup de distractions comme
 Marthe.
 
-Je vous ai rappelé que le discipulat ne consiste pas à enseigner aux gens le bien
-doctrine ou une bonne conduite. C'est apprendre aux gens à écouter Jésus.
+Je vous ai rappelÃ© que le discipulat ne consiste pas Ã  enseigner aux gens le bien
+doctrine ou une bonne conduite. C'est apprendre aux gens Ã  Ã©couter JÃ©sus.
 
-La semaine dernière, lors de notre deuxième session, je vous ai rappelé que notre mission est de
-amener les gens à Jésus afin qu'ils puissent trouver le repos de leurs âmes en Lui.
+La semaine derniÃ¨re, lors de notre deuxiÃ¨me session, je vous ai rappelÃ© que notre mission est de
+amener les gens Ã  JÃ©sus afin qu'ils puissent trouver le repos de leurs Ã¢mes en Lui.
 
-Et puis nous avons regardé Luc 4:14-30 - Jésus visitant sa synagogue natale
-après son baptême. Nous avons pensé à cette histoire du point de vue de Joseph
+Et puis nous avons regardÃ© Luc 4:14-30 - JÃ©sus visitant sa synagogue natale
+aprÃ¨s son baptÃªme. Nous avons pensÃ© Ã  cette histoire du point de vue de Joseph
 vue.
 
-*Que te dit Jésus ?*
+*Que te dit JÃ©sus ?*
 
 Quand j'ai lu cette histoire il y a quelques mois, j'ai senti le Saint-Esprit dire que
-Il voulait me parler à travers ça. À l'époque, je n'avais aucune idée de ce qu'il
-voulait me dire. J'ai dû m'arrêter et écouter. je l'ai lu plusieurs fois
-en priant dessus, en demandant à Jésus de me parler. j'ai fait de longues promenades
-réfléchir et écouter le Saint-Esprit. Il m'a appris beaucoup
-choses et m'a montré plus sur Jésus. Je me demande si l'un d'entre vous a ça
-sens de \"Oui. Jésus veut me parler à travers cette histoire.\"
+Il voulait me parler Ã  travers Ã§a. Ã€ l'Ã©poque, je n'avais aucune idÃ©e de ce qu'il
+voulait me dire. J'ai dÃ» m'arrÃªter et Ã©couter. je l'ai lu plusieurs fois
+en priant dessus, en demandant Ã  JÃ©sus de me parler. j'ai fait de longues promenades
+rÃ©flÃ©chir et Ã©couter le Saint-Esprit. Il m'a appris beaucoup
+choses et m'a montrÃ© plus sur JÃ©sus. Je me demande si l'un d'entre vous a Ã§a
+sens de \"Oui. JÃ©sus veut me parler Ã  travers cette histoire.\"
 
 ** Est-ce que quelqu'un veut partager quelque chose sur votre rencontre avec ce
 histoire jusqu'ici ?**
 
-*Imaginez que vous faites partie de ceux qui ont chassé Jésus*
+*Imaginez que vous faites partie de ceux qui ont chassÃ© JÃ©sus*
 
-Cette semaine, je veux que vous pensiez à l'histoire comme si vous étiez l'un des
-ceux qui ont chassé Jésus.
+Cette semaine, je veux que vous pensiez Ã  l'histoire comme si vous Ã©tiez l'un des
+ceux qui ont chassÃ© JÃ©sus.
 
-> Jésus est retourné en Galilée dans la puissance de l'Esprit, et des nouvelles de
-> il s'est répandu dans toute la campagne. Il enseignait dans leur
-> synagogues, et tout le monde l'a loué. Il se rendit à Nazareth, où il
-> avait été élevé, et le jour du sabbat, il entra dans le
-> synagogue, comme c'était son habitude.
+> JÃ©sus est retournÃ© en GalilÃ©e dans la puissance de l'Esprit, et des nouvelles de
+> il s'est rÃ©pandu dans toute la campagne. Il enseignait dans leur
+> synagogues, et tout le monde l'a louÃ©. Il se rendit Ã  Nazareth, oÃ¹ il
+> avait Ã©tÃ© Ã©levÃ©, et le jour du sabbat, il entra dans le
+> synagogue, comme c'Ã©tait son habitude.
 
-Tout le monde est venu tôt aujourd'hui pour essayer d'avoir une place. Regarde autour de toi.
+Tout le monde est venu tÃ´t aujourd'hui pour essayer d'avoir une place. Regarde autour de toi.
 Voici tous vos amis et votre famille, avec qui vous avez grandi et
-connaître intimement. C'est votre synagogue, que vos parents ont aidé à
-construire quand vous étiez enfant. Vous avez aidé à transporter l'eau et à façonner le
-briques de boue. Vous vous souvenez du jour où la communauté a tenu le premier
-service de la synagogue ici. Vous vous sentez en sécurité et chez vous.
+connaÃ®tre intimement. C'est votre synagogue, que vos parents ont aidÃ© Ã 
+construire quand vous Ã©tiez enfant. Vous avez aidÃ© Ã  transporter l'eau et Ã  faÃ§onner le
+briques de boue. Vous vous souvenez du jour oÃ¹ la communautÃ© a tenu le premier
+service de la synagogue ici. Vous vous sentez en sÃ©curitÃ© et chez vous.
 
-Aujourd'hui, il y a beaucoup d'excitation car ces dernières semaines, votre camarade de classe
-Jésus est devenu le sujet de conversation de la ville et de toutes les villes alentour. Il
-est devenu un prédicateur puissant et populaire dans le district. Il arrive
-à la maison aujourd'hui et tout le monde veut entendre toutes ses histoires. Le rabbin l'a dit
-ne serait pas approprié pour Jésus de parler de lui-même dans le service,
-donc Il est en train de lire la leçon. Mais nous restons tous après pour
+Aujourd'hui, il y a beaucoup d'excitation car ces derniÃ¨res semaines, votre camarade de classe
+JÃ©sus est devenu le sujet de conversation de la ville et de toutes les villes alentour. Il
+est devenu un prÃ©dicateur puissant et populaire dans le district. Il arrive
+Ã  la maison aujourd'hui et tout le monde veut entendre toutes ses histoires. Le rabbin l'a dit
+ne serait pas appropriÃ© pour JÃ©sus de parler de lui-mÃªme dans le service,
+donc Il est en train de lire la leÃ§on. Mais nous restons tous aprÃ¨s pour
 entendre ses histoires.
 
-Alors que le service familier commence, votre esprit revient à votre
-jeunesse quand vous et Jésus avez fait de belles farces - vous vous souvenez du
-nuit, vous êtes entré secrètement dans la maison du rabbin et avez attaché son
-glands de prière dans un nœud si terrible qu'il a dû passer par le
-service le lendemain avec eux tous emmêlés. Tu es entré dans un terrible
-problème - pas à cause des enchevêtrements, mais parce que vous l'avez fait sur le
-Sabbat. Vous avez tellement ri. Votre attention revient comme Jésus est
-demandé à lire.
+Alors que le service familier commence, votre esprit revient Ã  votre
+jeunesse quand vous et JÃ©sus avez fait de belles farces - vous vous souvenez du
+nuit, vous Ãªtes entrÃ© secrÃ¨tement dans la maison du rabbin et avez attachÃ© son
+glands de priÃ¨re dans un nÅ“ud si terrible qu'il a dÃ» passer par le
+service le lendemain avec eux tous emmÃªlÃ©s. Tu es entrÃ© dans un terrible
+problÃ¨me - pas Ã  cause des enchevÃªtrements, mais parce que vous l'avez fait sur le
+Sabbat. Vous avez tellement ri. Votre attention revient comme JÃ©sus est
+demandÃ© Ã  lire.
 
 *Tu aimes la lecture*
 
-> Il se leva pour lire, et le rouleau du prophète Isaïe fut remis
-> à lui. En le déroulant, il trouva l'endroit où il est écrit :
+> Il se leva pour lire, et le rouleau du prophÃ¨te IsaÃ¯e fut remis
+> Ã  lui. En le dÃ©roulant, il trouva l'endroit oÃ¹ il est Ã©crit :
 >
 > "L'Esprit du Seigneur est sur moi, parce qu'il m'a oint pour
-> proclamer la bonne nouvelle aux pauvres. Il m'a envoyé proclamer la liberté pour
-> les détenus et la récupération de la vue pour les aveugles, pour fixer les
-> opprimés libres, pour proclamer l'année de grâce du Seigneur."
+> proclamer la bonne nouvelle aux pauvres. Il m'a envoyÃ© proclamer la libertÃ© pour
+> les dÃ©tenus et la rÃ©cupÃ©ration de la vue pour les aveugles, pour fixer les
+> opprimÃ©s libres, pour proclamer l'annÃ©e de grÃ¢ce du Seigneur."
 >
-> Puis il roula le parchemin, le rendit au préposé et s'assit> a commencé par leur dire : « Aujourd'hui, cette écriture s'accomplit dans votre
+> Puis il roula le parchemin, le rendit au prÃ©posÃ© et s'assit> a commencÃ© par leur dire : Â« Aujourd'hui, cette Ã©criture s'accomplit dans votre
 > entendre."
 >
-> Tous parlaient bien de lui et étaient étonnés des paroles gracieuses qui venaient
-> de ses lèvres. « N'est-ce pas le fils de Joseph ? ils ont demandé.
+> Tous parlaient bien de lui et Ã©taient Ã©tonnÃ©s des paroles gracieuses qui venaient
+> de ses lÃ¨vres. Â« N'est-ce pas le fils de Joseph ? ils ont demandÃ©.
 
-Tout le monde regarde Joseph, et tu ressens une certaine fierté d'en être un
-des meilleurs amis d'enfance de Jésus.
+Tout le monde regarde Joseph, et tu ressens une certaine fiertÃ© d'en Ãªtre un
+des meilleurs amis d'enfance de JÃ©sus.
 
-Il y a des sourires sur tous les visages et le service est sur le point de déménager
-sur les prières et la bénédiction finale. Mais nous n'arrivons jamais au
-prières. Le service se termine par un chaos total -- pire que cela, il se termine par
-une émeute! Au moment où le rabbin est sur le point de commencer les prières, Jésus parle
+Il y a des sourires sur tous les visages et le service est sur le point de dÃ©mÃ©nager
+sur les priÃ¨res et la bÃ©nÃ©diction finale. Mais nous n'arrivons jamais au
+priÃ¨res. Le service se termine par un chaos total -- pire que cela, il se termine par
+une Ã©meute! Au moment oÃ¹ le rabbin est sur le point de commencer les priÃ¨res, JÃ©sus parle
 de nouveau.
 
-*Jésus te provoque délibérément*
+*JÃ©sus te provoque dÃ©libÃ©rÃ©ment*
 
-> Jésus leur dit : « Vous me citerez certainement ce proverbe :
-> « Médecin, guérissez-vous ! » Et tu me diras : 'Fais ici dans ton
-> ville natale ce que nous avons entendu dire que vous avez fait à Capharnaüm.
-> vous", a-t-il poursuivi, "aucun prophète n'est accepté dans sa ville natale. Je vous assure
-> vous qu'il y avait beaucoup de veuves en Israël au temps d'Élie, quand le
-> le ciel a été fermé pendant trois ans et demi et il y a eu une grave famine
-> dans tout le pays. Pourtant Elie n'a été envoyé à aucun d'eux, mais à un
-> veuve à Sarepta dans la région de Sidon. Et il y en avait beaucoup dans
-> Israël avec la lèpre au temps d'Elisée le prophète, mais aucun des
-> eux ont été purifiés --- seul Naaman le Syrien."
+> JÃ©sus leur dit : Â« Vous me citerez certainement ce proverbe :
+> Â«Â MÃ©decin, guÃ©rissez-vousÂ !Â Â» Et tu me diras : 'Fais ici dans ton
+> ville natale ce que nous avons entendu dire que vous avez fait Ã  CapharnaÃ¼m.' Vraiment je dis
+> vous", a-t-il poursuivi, "aucun prophÃ¨te n'est acceptÃ© dans sa ville natale. Je vous assure
+> vous qu'il y avait beaucoup de veuves en IsraÃ«l au temps d'Ã‰lie, quand le
+> le ciel a Ã©tÃ© fermÃ© pendant trois ans et demi et il y a eu une grave famine
+> dans tout le pays. Pourtant Elie n'a Ã©tÃ© envoyÃ© Ã  aucun d'eux, mais Ã  un
+> veuve Ã  Sarepta dans la rÃ©gion de Sidon. Et il y en avait beaucoup dans
+> IsraÃ«l avec la lÃ¨pre au temps d'ElisÃ©e le prophÃ¨te, mais aucun des
+> eux ont Ã©tÃ© purifiÃ©s --- seul Naaman le Syrien."
 
-Vous êtes déconcerté par cela. Pour commencer, le rabbin avait dit que Jésus
-n'était pas pour prêcher, mais seulement pour lire la leçon. Mais quelle étrange façon
-continuer. Tout le monde était heureux et souriait jusqu'à ce que Jésus les accuse de
-avoir le cou raide. C'est ce que les privilégiés de Jérusalem
-dire de nous, les gens du Nord. Ils nous citent toujours les prophètes et
-nous disant comment nos ancêtres ont rempli le pays d'adorateurs de Baal. Ils
-adorent raconter les histoires d'Élie et d'Élisée, mais ils ne manquent jamais de
-souligner que nos ancêtres ont rejeté leur message, et que finalement
-Dieu a envoyé les Assyriens pour en faire des esclaves. Nous sommes stigmatisés comme
-des gens au cou raide qui rejettent le message de Dieu. Et maintenant, voici Jésus,
-l'un des nôtres, nous citant à nouveau Élie et Élisée ! A qui pense-t-il
+Vous Ãªtes dÃ©concertÃ© par cela. Pour commencer, le rabbin avait dit que JÃ©sus
+n'Ã©tait pas pour prÃªcher, mais seulement pour lire la leÃ§on. Mais quelle Ã©trange faÃ§on
+continuer. Tout le monde Ã©tait heureux et souriait jusqu'Ã  ce que JÃ©sus les accuse de
+avoir le cou raide. C'est ce que les privilÃ©giÃ©s de JÃ©rusalem
+dire de nous, les gens du Nord. Ils nous citent toujours les prophÃ¨tes et
+nous disant comment nos ancÃªtres ont rempli le pays d'adorateurs de Baal. Ils
+adorent raconter les histoires d'Ã‰lie et d'Ã‰lisÃ©e, mais ils ne manquent jamais de
+souligner que nos ancÃªtres ont rejetÃ© leur message, et que finalement
+Dieu a envoyÃ© les Assyriens pour en faire des esclaves. Nous sommes stigmatisÃ©s comme
+des gens au cou raide qui rejettent le message de Dieu. Et maintenant, voici JÃ©sus,
+l'un des nÃ´tres, nous citant Ã  nouveau Ã‰lie et Ã‰lisÃ©eÂ ! A qui pense-t-il
 il est? Pense-t-il qu'il est meilleur que le reste d'entre nous?
 
-*Tu chasses Jésus*
+*Tu chasses JÃ©sus*
 
-> Tous les gens de la synagogue étaient furieux en entendant cela.
-> Ils se levèrent, le chassèrent de la ville, et le conduisirent au front de
-> la colline sur laquelle la ville a été construite, afin de le jeter du
-> falaise. Mais il a traversé la foule et a continué son chemin.
+> Tous les gens de la synagogue Ã©taient furieux en entendant cela.
+> Ils se levÃ¨rent, le chassÃ¨rent de la ville, et le conduisirent au front de
+> la colline sur laquelle la ville a Ã©tÃ© construite, afin de le jeter du
+> falaise. Mais il a traversÃ© la foule et a continuÃ© son chemin.
 
-Vous n'avez aucune idée que Dieu a donné à votre vieil ami d'école un
-message qu'il veut vraiment que vous receviez ; un message pour défier et
-Change toi; pour vous amener dans Son Royaume d'une nouvelle manière.
+Vous n'avez aucune idÃ©e que Dieu a donnÃ© Ã  votre vieil ami d'Ã©cole un
+message qu'il veut vraiment que vous receviez ; un message pour dÃ©fier et
+Change toi; pour vous amener dans Son Royaume d'une nouvelle maniÃ¨re.
 
-** Vous imaginer être l'une de ces personnes en colère - qu'est-ce qui vous a rendu si
-en colère?**
+** Vous imaginer Ãªtre l'une de ces personnes en colÃ¨re - qu'est-ce qui vous a rendu si
+en colÃ¨re?**
 
-**Pourquoi vouliez-vous chasser Jésus ?**
+**Pourquoi vouliez-vous chasser JÃ©sus ?**
 
-*Compassion pour la réponse de colère*
+*Compassion pour la rÃ©ponse de colÃ¨re*
 
-**Comment réagissez-vous lorsque vous êtes mis au défi de ce que vous faites ?**
+**Comment rÃ©agissez-vous lorsque vous Ãªtes mis au dÃ©fi de ce que vous faitesÂ ?**
 
--   En colère
+-   En colÃ¨re
 
-- Irrité
+- IrritÃ©
 
-- Défensive
+- DÃ©fensive
 
-- Écoutez en priant !
+- Ã‰coutez en priant !
 
-Nous remettons généralement en question :
+Nous remettons gÃ©nÃ©ralement en questionÂ :
 
-- \"Qui êtes-vous pour remettre en question ce que je fais ?\"
+- \"Qui Ãªtes-vous pour remettre en question ce que je faisÂ ?\"
 
-- \"Et cette chose dans ta vie ?\"
+- \"Et cette chose dans ta vieÂ ?\"
 
-- \"Pourquoi devrais-je vous écouter ?\"
+- \"Pourquoi devrais-je vous Ã©couterÂ ?\"
 
-- \"Qu'est-ce qui te rend si spécial pour que tu puisses me défier ?\"
+- \"Qu'est-ce qui te rend si spÃ©cial pour que tu puisses me dÃ©fierÂ ?\"
 
-- \"Si vous voulez que j'écoute alors montrez-moi vos résultats.\"
+- \"Si vous voulez que j'Ã©coute alors montrez-moi vos rÃ©sultats.\"
 
-**Que ressentez-vous lorsque le défi est relevé ?**
+**Que ressentez-vous lorsque le dÃ©fi est relevÃ©Â ?**
 
 - j'ai tenu bon
 
-- j'ai repris le contrôle
+- j'ai repris le contrÃ´le
 
-- je me sens à nouveau en sécurité
+- je me sens Ã  nouveau en sÃ©curitÃ©
 
 - je sais ce que je fais
 
 - C'est ce que les gens veulent
 
-**Imaginez que Jésus entre à votre service et défie ce que vous êtes
+**Imaginez que JÃ©sus entre Ã  votre service et dÃ©fie ce que vous Ãªtes
 Faire.**
 
-**Quelle est votre réponse ?**
+**Quelle est votre rÃ©ponse ?**
 
-Je vous encourage à continuer à lire et à méditer sur cette histoire et à voir
-ce que Jésus veut vous dire.
+Je vous encourage Ã  continuer Ã  lire et Ã  mÃ©diter sur cette histoire et Ã  voir
+ce que JÃ©sus veut vous dire.
 
-La prochaine fois, nous considérerons l'histoire du point de vue de Jésus.
+La prochaine fois, nous considÃ©rerons l'histoire du point de vue de JÃ©sus.
 
-# Session 4 - Une visite bouleversante de Jésus
+# Session 4 - Une visite bouleversante de JÃ©sus
 
-***Objectif** : Devenir un peuple vraiment prophétique qui entend et obéit à nos
+***Objectif**Â : Devenir un peuple vraiment prophÃ©tique qui entend et obÃ©it Ã  nos
 Seigneur extraordinaire.*
 
-Jésus vivait selon la culture du Royaume et cela se heurtait souvent à saoù c'est contraire à notre culture d'origine.
+JÃ©sus vivait selon la culture du Royaume et cela se heurtait souvent Ã  saoÃ¹ c'est contraire Ã  notre culture d'origine.
 
-Lors de notre première séance, nous nous sommes rappelés que, comme Marie, nous devons
-écouter Jésus et pas seulement nous occuper de beaucoup de distractions comme
-Marthe. De même, former les autres se concentre sur leur apprendre à écouter
-et obéir à Jésus. Et notre mission est d'amener les gens à Jésus afin qu'ils
-peuvent trouver en Lui le repos de leurs âmes.
+Lors de notre premiÃ¨re sÃ©ance, nous nous sommes rappelÃ©s que, comme Marie, nous devons
+Ã©couter JÃ©sus et pas seulement nous occuper de beaucoup de distractions comme
+Marthe. De mÃªme, former les autres se concentre sur leur apprendre Ã  Ã©couter
+et obÃ©ir Ã  JÃ©sus. Et notre mission est d'amener les gens Ã  JÃ©sus afin qu'ils
+peuvent trouver en Lui le repos de leurs Ã¢mes.
 
-Nous avons regardé Luc 4:14-30 - Jésus visitant sa synagogue natale
-après son baptême. Nous avons pensé à cette histoire du point de vue de Joseph
-vue, puis du point de vue de l'un des membres de la congrégation en colère
+Nous avons regardÃ© Luc 4:14-30 - JÃ©sus visitant sa synagogue natale
+aprÃ¨s son baptÃªme. Nous avons pensÃ© Ã  cette histoire du point de vue de Joseph
+vue, puis du point de vue de l'un des membres de la congrÃ©gation en colÃ¨re
 membres.
 
-*Que te dit Jésus ?*
+*Que te dit JÃ©sus ?*
 
 ** Est-ce que quelqu'un veut partager quelque chose sur votre rencontre avec ce
 histoire jusqu'ici ?**
 
-** Cette histoire vous a-t-elle fait réfléchir différemment sur la façon dont vous écoutez
-Jésus?**
+** Cette histoire vous a-t-elle fait rÃ©flÃ©chir diffÃ©remment sur la faÃ§on dont vous Ã©coutez
+JÃ©sus?**
 
-*Imaginez que vous êtes Jésus dans cette histoire*
+*Imaginez que vous Ãªtes JÃ©sus dans cette histoire*
 
-Cette semaine, je veux que vous pensiez à l'histoire comme si vous étiez Jésus.
+Cette semaine, je veux que vous pensiez Ã  l'histoire comme si vous Ã©tiez JÃ©sus.
 
-> Jésus est retourné en Galilée dans la puissance de l'Esprit, et des nouvelles de
-> il s'est répandu dans toute la campagne. Il enseignait dans leur
-> synagogues, et tout le monde l'a loué. Il se rendit à Nazareth, où il
-> avait été élevé, et le jour du sabbat, il entra dans le
-> synagogue, comme c'était son habitude.
+> JÃ©sus est retournÃ© en GalilÃ©e dans la puissance de l'Esprit, et des nouvelles de
+> il s'est rÃ©pandu dans toute la campagne. Il enseignait dans leur
+> synagogues, et tout le monde l'a louÃ©. Il se rendit Ã  Nazareth, oÃ¹ il
+> avait Ã©tÃ© Ã©levÃ©, et le jour du sabbat, il entra dans le
+> synagogue, comme c'Ã©tait son habitude.
 
-Tout le monde est venu tôt aujourd'hui pour essayer d'avoir une place. Regarde autour de toi.
+Tout le monde est venu tÃ´t aujourd'hui pour essayer d'avoir une place. Regarde autour de toi.
 Voici tous vos amis et votre famille, avec qui vous avez grandi et
-connaître intimement. Alors que le service familier commence, le Saint-Esprit
-commence à vous parler. \"Ces chères personnes, vos amis et votre famille ;
+connaÃ®tre intimement. Alors que le service familier commence, le Saint-Esprit
+commence Ã  vous parler. \"Ces chÃ¨res personnes, vos amis et votre familleÂ ;
 ils ne connaissent pas la voix de Dieu. Ils savent qu'il avait l'habitude de parler au
-prophètes, mais ils ne s'attendent pas à ce que Dieu veuille parler à
-eux. Ils sont partis il y a des années pour m'adorer à travers cette synagogue
+prophÃ¨tes, mais ils ne s'attendent pas Ã  ce que Dieu veuille parler Ã 
+eux. Ils sont partis il y a des annÃ©es pour m'adorer Ã  travers cette synagogue
 service, mais pour la plupart d'entre eux, la plupart du temps, c'est devenu plus un
-devoir religieux. Il sert bien à maintenir l'aspect social de la
-communauté dont je suis très heureux. Mais je t'ai appelé pour sortir
-de la sécurité de la congrégation et portez la Bonne Nouvelle du Royaume
+devoir religieux. Il sert bien Ã  maintenir l'aspect social de la
+communautÃ© dont je suis trÃ¨s heureux. Mais je t'ai appelÃ© pour sortir
+de la sÃ©curitÃ© de la congrÃ©gation et portez la Bonne Nouvelle du Royaume
 dans le monde douloureux. Alors plantez la semence de ma parole dans leur
-cœurs. Et préparez-vous à un trajet cahoteux.\" Votre attention revient alors que
+cÅ“urs. Et prÃ©parez-vous Ã  un trajet cahoteux.\" Votre attention revient alors que
 on vous demande de lire.
 
 *Ils adorent la lecture*
 
-> Il se leva pour lire, et le rouleau du prophète Isaïe fut remis
-> à lui. En le déroulant, il trouva l'endroit où il est écrit :
+> Il se leva pour lire, et le rouleau du prophÃ¨te IsaÃ¯e fut remis
+> Ã  lui. En le dÃ©roulant, il trouva l'endroit oÃ¹ il est Ã©crit :
 >
 > "L'Esprit du Seigneur est sur moi, parce qu'il m'a oint pour
-> proclamer la bonne nouvelle **aux pauvres**. Il m'a envoyé proclamer la liberté
-> **pour les détenus** et récupération de la vue **pour les aveugles**, à régler
-> **les opprimés** libres, de proclamer l'année de grâce du Seigneur."
+> proclamer la bonne nouvelle **aux pauvres**. Il m'a envoyÃ© proclamer la libertÃ©
+> **pour les dÃ©tenus** et rÃ©cupÃ©ration de la vue **pour les aveugles**, Ã  rÃ©gler
+> **les opprimÃ©s** libres, de proclamer l'annÃ©e de grÃ¢ce du Seigneur."
 >
-> Puis il roula le parchemin, le rendit au préposé et s'assit
-> bas. Les yeux de tous dans la synagogue étaient fixés sur lui. Il
-> a commencé par leur dire : « Aujourd'hui, cette écriture s'accomplit dans votre
+> Puis il roula le parchemin, le rendit au prÃ©posÃ© et s'assit
+> bas. Les yeux de tous dans la synagogue Ã©taient fixÃ©s sur lui. Il
+> a commencÃ© par leur dire : Â« Aujourd'hui, cette Ã©criture s'accomplit dans votre
 > entendre."
 >
-> Tous parlaient bien de lui et étaient étonnés des paroles gracieuses qui venaient
-> de ses lèvres. « N'est-ce pas le fils de Joseph ? ils ont demandé.
+> Tous parlaient bien de lui et Ã©taient Ã©tonnÃ©s des paroles gracieuses qui venaient
+> de ses lÃ¨vres. Â« N'est-ce pas le fils de Joseph ? ils ont demandÃ©.
 
-Pendant que tout le monde sourit et félicite Joseph d'avoir eu un tel
-beau fils, l'Esprit te reparle. \"Ils ont rejeté le
-lire comme une belle écriture familière et n'avoir aucune idée que Dieu est
-annonçant effectivement son accomplissement. Il faut les secouer un peu. Avoir
-qu'ils réalisent que tu parles pour Moi. Avertissez-les de ne pas rejeter votre
-mots simplement parce que vous êtes leur ami. Rappelez-leur d'Élie et
-Elisée.\" Alors que le rabbin est sur le point de commencer les prières, vous
+Pendant que tout le monde sourit et fÃ©licite Joseph d'avoir eu un tel
+beau fils, l'Esprit te reparle. \"Ils ont rejetÃ© le
+lire comme une belle Ã©criture familiÃ¨re et n'avoir aucune idÃ©e que Dieu est
+annonÃ§ant effectivement son accomplissement. Il faut les secouer un peu. Avoir
+qu'ils rÃ©alisent que tu parles pour Moi. Avertissez-les de ne pas rejeter votre
+mots simplement parce que vous Ãªtes leur ami. Rappelez-leur d'Ã‰lie et
+ElisÃ©e.\" Alors que le rabbin est sur le point de commencer les priÃ¨res, vous
 interrompre:
 
-*Vous provoquez délibérément la congrégation*
+*Vous provoquez dÃ©libÃ©rÃ©ment la congrÃ©gation*
 
-> Jésus leur dit : « Vous me citerez certainement ce proverbe :
-> « Médecin, guérissez-vous ! » Et tu me diras : 'Fais ici dans ton
-> ville natale ce que nous avons entendu dire que vous avez fait à Capharnaüm.
-> vous", a-t-il poursuivi, "aucun prophète n'est accepté dans sa ville natale. Je vous assure
-> vous qu'il y avait beaucoup de veuves en Israël au temps d'Élie, quand le
-> le ciel a été fermé pendant trois ans et demi et il y a eu une grave famine
-> dans tout le pays. Pourtant Elie n'a été envoyé à aucun d'eux, mais à un> Israël avec la lèpre au temps d'Elisée le prophète, mais aucun des
-> eux ont été purifiés --- seul Naaman le Syrien."
+> JÃ©sus leur dit : Â« Vous me citerez certainement ce proverbe :
+> Â«Â MÃ©decin, guÃ©rissez-vousÂ !Â Â» Et tu me diras : 'Fais ici dans ton
+> ville natale ce que nous avons entendu dire que vous avez fait Ã  CapharnaÃ¼m.' Vraiment je dis
+> vous", a-t-il poursuivi, "aucun prophÃ¨te n'est acceptÃ© dans sa ville natale. Je vous assure
+> vous qu'il y avait beaucoup de veuves en IsraÃ«l au temps d'Ã‰lie, quand le
+> le ciel a Ã©tÃ© fermÃ© pendant trois ans et demi et il y a eu une grave famine
+> dans tout le pays. Pourtant Elie n'a Ã©tÃ© envoyÃ© Ã  aucun d'eux, mais Ã  un> IsraÃ«l avec la lÃ¨pre au temps d'ElisÃ©e le prophÃ¨te, mais aucun des
+> eux ont Ã©tÃ© purifiÃ©s --- seul Naaman le Syrien."
 >
-> Tous les gens de la synagogue étaient furieux en entendant cela.
+> Tous les gens de la synagogue Ã©taient furieux en entendant cela.
 
-Vous voyez la colère sur les visages des gens et lancez une prière de flèche, \"Je
-ne pensez pas qu'ils ont aimé ça ! Au lieu de les obliger à s'arrêter et à écouter,
-ils sont tous en train de murmurer et de me dévisager.\" L'Esprit répond : \"Oui.
-Cette communauté heureuse a besoin d'une bonne secousse pour qu'elle arrête de penser
-sur leurs services et de commencer à penser au Royaume. Un grand nombre de
+Vous voyez la colÃ¨re sur les visages des gens et lancez une priÃ¨re de flÃ¨che, \"Je
+ne pensez pas qu'ils ont aimÃ© Ã§aÂ ! Au lieu de les obliger Ã  s'arrÃªter et Ã  Ã©couter,
+ils sont tous en train de murmurer et de me dÃ©visager.\" L'Esprit rÃ©pond : \"Oui.
+Cette communautÃ© heureuse a besoin d'une bonne secousse pour qu'elle arrÃªte de penser
+sur leurs services et de commencer Ã  penser au Royaume. Un grand nombre de
 ils ont tellement investi dans la synagogue qu'ils n'ont pas
-arrêté pour même considérer que je pourrais vouloir changer les choses. Mais quelques
-réfléchira à ce qui s'est passé aujourd'hui et vous demandera d'entendre
-Suite. Mais nous n'avons pas encore fini. Je vais attiser une telle colère
+arrÃªtÃ© pour mÃªme considÃ©rer que je pourrais vouloir changer les choses. Mais quelques
+rÃ©flÃ©chira Ã  ce qui s'est passÃ© aujourd'hui et vous demandera d'entendre
+Suite. Mais nous n'avons pas encore fini. Je vais attiser une telle colÃ¨re
 crier qu'ils n'oublieront pas ce jour, et le service de la semaine prochaine sera
-être complètement absorbé par l'interrogation sur ce qui s'est passé aujourd'hui.\"
+Ãªtre complÃ¨tement absorbÃ© par l'interrogation sur ce qui s'est passÃ© aujourd'hui.\"
 
 *Ils te chassent*
 
-> Ils se levèrent, le chassèrent de la ville, et le conduisirent au front de
-> la colline sur laquelle la ville a été construite, afin de le jeter du
-> falaise. Mais il a traversé la foule et a continué son chemin.
+> Ils se levÃ¨rent, le chassÃ¨rent de la ville, et le conduisirent au front de
+> la colline sur laquelle la ville a Ã©tÃ© construite, afin de le jeter du
+> falaise. Mais il a traversÃ© la foule et a continuÃ© son chemin.
 
-En vous éloignant, vous parlez au Père.
+En vous Ã©loignant, vous parlez au PÃ¨re.
 
-** Selon vous, quelle conversation a pu avoir lieu entre Jésus
-et le Père ?**
+** Selon vous, quelle conversation a pu avoir lieu entre JÃ©sus
+et le PÃ¨re ?**
 
-- Père, j'ai tout gâché ? Était-ce ce que vous vouliez qu'il se passe ?
+- PÃ¨re, j'ai tout gÃ¢chÃ© ? Ã‰tait-ce ce que vous vouliez qu'il se passe ?
 
-- Ils m'ont rejeté. Et ensuite ? -- \"À vous, Saint
+- Ils m'ont rejetÃ©. Et ensuite ? -- \"Ã€ vous, Saint
     Esprit\...\"
 
-- Dois-je revenir en arrière et essayer de les expliquer ou de les raisonner ?
+- Dois-je revenir en arriÃ¨re et essayer de les expliquer ou de les raisonner ?
 
 - Donne-moi le courage d'aller de l'avant. Donnez-leur la vue pour voir le
-    vérité.
+    vÃ©ritÃ©.
 
-- Ils ne savent pas ce qu'ils font. Ils rejettent la vérité de Dieu
+- Ils ne savent pas ce qu'ils font. Ils rejettent la vÃ©ritÃ© de Dieu
     pour les mensonges de leur culture.
 
-- Leur tradition a endurci leurs cœurs.
+- Leur tradition a endurci leurs cÅ“urs.
 
-*Pourquoi Jésus les a-t-il provoqués ?*
+*Pourquoi JÃ©sus les a-t-il provoquÃ©s ?*
 
-Nous devons nous demander : « Pourquoi Jésus a-t-il délibérément provoqué sa congrégation ? »
-Souvenez-vous que c'étaient les personnes qu'il connaissait et qu'il aimait le mieux. Nous avons besoin
-à regarder de près ce qu'il a lu pour comprendre pourquoi Jésus les a provoqués.
+Nous devons nous demanderÂ :Â Â«Â Pourquoi JÃ©sus a-t-il dÃ©libÃ©rÃ©ment provoquÃ© sa congrÃ©gationÂ ?Â Â»
+Souvenez-vous que c'Ã©taient les personnes qu'il connaissait et qu'il aimait le mieux. Nous avons besoin
+Ã  regarder de prÃ¨s ce qu'il a lu pour comprendre pourquoi JÃ©sus les a provoquÃ©s.
 
 > "L'Esprit du Seigneur est sur moi, parce qu'il m'a oint pour
-> proclamer la bonne nouvelle **aux pauvres**. Il m'a envoyé proclamer la liberté
-> **pour les détenus** et récupération de la vue **pour les aveugles**, à régler
-> **les opprimés** libres, de proclamer l'année de grâce du Seigneur."
+> proclamer la bonne nouvelle **aux pauvres**. Il m'a envoyÃ© proclamer la libertÃ©
+> **pour les dÃ©tenus** et rÃ©cupÃ©ration de la vue **pour les aveugles**, Ã  rÃ©gler
+> **les opprimÃ©s** libres, de proclamer l'annÃ©e de grÃ¢ce du Seigneur."
 
-** Quelle est la différence entre cette annonce et la normale
-service de la synagogue ?**
+** Quelle est la diffÃ©rence entre cette annonce et la normale
+service de la synagogueÂ ?**
 
-- La puissance et la présence de Jésus n'étaient pas dans les services normaux.
+- La puissance et la prÃ©sence de JÃ©sus n'Ã©taient pas dans les services normaux.
 
-- Le service était au profit de la congrégation.
+- Le service Ã©tait au profit de la congrÃ©gation.
 
-- Les pauvres, les prisonniers, les aveugles et les opprimés n'étaient pas dans le
+- Les pauvres, les prisonniers, les aveugles et les opprimÃ©s n'Ã©taient pas dans le
     synagogue.
 
-- Jésus a été envoyé à ceux qui n'allaient pas à l'église.
+- JÃ©sus a Ã©tÃ© envoyÃ© Ã  ceux qui n'allaient pas Ã  l'Ã©glise.
 
-**Pourquoi pensez-vous que Jésus les a provoqués ?**
+**Pourquoi pensez-vous que JÃ©sus les a provoquÃ©s ?**
 
-- Ils avaient toujours eu les services de la synagogue. Ils n'ont même jamais imaginé
+- Ils avaient toujours eu les services de la synagogue. Ils n'ont mÃªme jamais imaginÃ©
     ils devraient faire autre chose.
 
 - Ils avaient tellement investi dans la synagogue et les services qu'ils
-    étaient résistants au changement.
+    Ã©taient rÃ©sistants au changement.
 
-- Ils avaient besoin de découvrir, par leur réaction de colère, qu'ils étaient
-    plus préoccupés par leur propre programme que par ce que Dieu pourrait vouloir pour
+- Ils avaient besoin de dÃ©couvrir, par leur rÃ©action de colÃ¨re, qu'ils Ã©taient
+    plus prÃ©occupÃ©s par leur propre programme que par ce que Dieu pourrait vouloir pour
     eux.
 
 **Combien de fois pensez-vous avoir lu cette histoire dans l'ensemble de votre
 la vie?**
 
-- **Combien de fois avez-vous souri et dit : « C'est
+- **Combien de fois avez-vous souri et ditÂ :Â Â«Â C'est
     joli!\"**
 
-- **Avez-vous déjà pensé que Jésus pourrait vouloir perturber votre vie
+- **Avez-vous dÃ©jÃ  pensÃ© que JÃ©sus pourrait vouloir perturber votre vie
     comme Il l'a fait pour cette synagogue ?**
 
-**Avez-vous déjà vécu un événement qui a gravement perturbé votre
-service religieux normal ?**
+**Avez-vous dÃ©jÃ  vÃ©cu un Ã©vÃ©nement qui a gravement perturbÃ© votre
+service religieux normalÂ ?**
 
-- Ebola, Covid 19, une tempête endommageant le bâtiment, des bulldozers
-    démolir votre église\...
+- Ebola, Covid 19, une tempÃªte endommageant le bÃ¢timent, des bulldozers
+    dÃ©molir votre Ã©glise\...
 
-- ** Vous êtes-vous demandé si Jésus vous avait rendu visite lors de cet événement ? **
+- ** Vous Ãªtes-vous demandÃ© si JÃ©sus vous avait rendu visite lors de cet Ã©vÃ©nement ? **
 
-- **Qu'est-ce que Jésus pourrait vouloir vous faire ou vous dire ?**
+- **Qu'est-ce que JÃ©sus pourrait vouloir vous faire ou vous dire ?**
 
-Au cours de la semaine prochaine, réserverez-vous du temps pour prier à travers tout ce que nous avons
-parlé?
+Au cours de la semaine prochaine, rÃ©serverez-vous du temps pour prier Ã  travers tout ce que nous avons
+parlÃ©?
 
-- Demandez à Jésus ce qu'il veut vous dire
+- Demandez Ã  JÃ©sus ce qu'il veut vous dire
 
-- Que signifie son annonce dans la v18 pour la façon dont vous menez votre vie
-    et ministère ?
+- Que signifie son annonce dans la v18 pour la faÃ§on dont vous menez votre vie
+    et ministÃ¨re ?
 
-- Quels événements perturbateurs avez-vous vécus ?
+- Quels Ã©vÃ©nements perturbateurs avez-vous vÃ©cus ?
 
-- Y a-t-il quelque chose que Jésus veut perturber dans votre vie ?-   Qu'est ce que tu fais à propos de ça?
+- Y a-t-il quelque chose que JÃ©sus veut perturber dans votre vie ?-   Qu'est ce que tu fais Ã  propos de Ã§a?
 
-**La prochaine fois\... Pouvons-nous partager les uns avec les autres ce que nous pensons que Jésus est
+**La prochaine fois\... Pouvons-nous partager les uns avec les autres ce que nous pensons que JÃ©sus est
 nous dit-il ?**
 
-# Session 5 - Sommes-nous à l'écoute ?
+# Session 5 - Sommes-nous Ã  l'Ã©coute ?
 
-**Bienvenue à la conférence À l'écoute de Jésus. Objectif** : Devenir un véritable
-des gens prophétiques qui entendent et obéissent à notre extraordinaire Seigneur.
+**Bienvenue Ã  la confÃ©rence Ã€ l'Ã©coute de JÃ©sus. Objectif**Â : Devenir un vÃ©ritable
+des gens prophÃ©tiques qui entendent et obÃ©issent Ã  notre extraordinaire Seigneur.
 
 *Il est temps de mettre en pratique ce que nous avons appris*
 
 Je n'ai pas l'intention d'enseigner ce matin. Il est temps pour nous de mettre ce que nous
 ont appris en pratique.
 
-Veuillez relire les notes des semaines précédentes et prier vraiment
-sur le passage et les questions que j'ai posées.
+Veuillez relire les notes des semaines prÃ©cÃ©dentes et prier vraiment
+sur le passage et les questions que j'ai posÃ©es.
 
-S'il vous plaît, soyez vraiment honnête au sujet de vos réponses et de notre partage la semaine prochaine.
-Nous luttons tous pour entendre clairement Jésus. Nous ne sommes pas ici pour faire semblant ou pour
+S'il vous plaÃ®t, soyez vraiment honnÃªte au sujet de vos rÃ©ponses et de notre partage la semaine prochaine.
+Nous luttons tous pour entendre clairement JÃ©sus. Nous ne sommes pas ici pour faire semblant ou pour
 se comparer aux autres, mais pour s'encourager les uns les autres et se soutenir
-et s'aimer. Les pharisiens ont eu tellement de mal à recevoir Jésus
-parce qu'ils prétendaient être meilleurs qu'ils ne l'étaient. C'est pourquoi il était
-les collecteurs d'impôts et les pécheurs qui ont reçu Jésus - ils n'étaient pas
-prétendre!
+et s'aimer. Les pharisiens ont eu tellement de mal Ã  recevoir JÃ©sus
+parce qu'ils prÃ©tendaient Ãªtre meilleurs qu'ils ne l'Ã©taient. C'est pourquoi il Ã©tait
+les collecteurs d'impÃ´ts et les pÃ©cheurs qui ont reÃ§u JÃ©sus - ils n'Ã©taient pas
+prÃ©tendre!
 
-Mais nous voulons aussi augmenter vos attentes et votre confiance que Jésus
-veut vraiment nous parler et cela vaut la peine d'essayer de nous écouter.
-Elle grandit au fur et à mesure que nous pratiquons et que nous nous encourageons les uns les autres à faire
-l'écoute une priorité dans nos vies.
+Mais nous voulons aussi augmenter vos attentes et votre confiance que JÃ©sus
+veut vraiment nous parler et cela vaut la peine d'essayer de nous Ã©couter.
+Elle grandit au fur et Ã  mesure que nous pratiquons et que nous nous encourageons les uns les autres Ã  faire
+l'Ã©coute une prioritÃ© dans nos vies.
 
-**Quelle différence cette conférence a-t-elle fait pour vous ?**
+**Quelle diffÃ©rence cette confÃ©rence a-t-elle fait pour vousÂ ?**
 
-*\"Vous êtes inquiet et bouleversé par beaucoup de choses, mais une chose est
-nécessaire\"*
+*\"Vous Ãªtes inquiet et bouleversÃ© par beaucoup de choses, mais une chose est
+nÃ©cessaire\"*
 
-**Qu'est-ce que \"une chose\" pour vous ?**
+**Qu'est-ce que \"une chose\" pour vousÂ ?**
 
-**Qu'est-ce que Jésus veut que vous fassiez à ce sujet ?**
+**Qu'est-ce que JÃ©sus veut que vous fassiez Ã  ce sujetÂ ?**
 
-- Dans ta propre vie de dévotion ?
+- Dans ta propre vie de dÃ©votion ?
 
 - Dans votre propre Groupe de Croissance ?
 
-- Dans votre rôle de leader ?
+- Dans votre rÃ´le de leader ?
 
 - Dans votre discipline des autres ?
 
-- Dans votre église ?
+- Dans votre Ã©glise ?
 
 *\"Mes moutons entendent ma voix\"*
 
-** Vous attendez-vous à entendre Jésus vous parler ? **
+** Vous attendez-vous Ã  entendre JÃ©sus vous parler ? **
 
 - Comment parle-t-il ?
 
-- Quand avez-vous vraiment senti pour la dernière fois avoir entendu Jésus vous parler ?
+- Quand avez-vous vraiment senti pour la derniÃ¨re fois avoir entendu JÃ©sus vous parler ?
 
-- Avez-vous été obéissant ?
+- Avez-vous Ã©tÃ© obÃ©issant ?
 
-**Cette conférence vous a-t-elle aidé à écouter Jésus à travers les Écritures dans
+**Cette confÃ©rence vous a-t-elle aidÃ© Ã  Ã©couter JÃ©sus Ã  travers les Ã‰critures dans
 un chemin plus profond ?**
 
-- Qu'as-tu fait comme résultat ?
+- Qu'as-tu fait comme rÃ©sultat ?
 
-**Est-ce que votre attitude face au défi ou à la critique a changé ?**
+**Est-ce que votre attitude face au dÃ©fi ou Ã  la critique a changÃ©Â ?**
 
 *Une visite bouleversante*
 
-**Avez-vous tellement investi dans une forme particulière d'église que vous
-ne peut pas risquer de laisser parler Jésus ?**
+**Avez-vous tellement investi dans une forme particuliÃ¨re d'Ã©glise que vous
+ne peut pas risquer de laisser parler JÃ©sus ?**
 
-** Que signifie son annonce dans la v18 pour la façon dont vous menez votre vie
-et ministère ?**
+** Que signifie son annonce dans la v18 pour la faÃ§on dont vous menez votre vie
+et ministÃ¨re ?**
 
-**Qu'est-ce que Jésus vous dit maintenant ?**
+**Qu'est-ce que JÃ©sus vous dit maintenantÂ ?**
 
-*Jésus continua son chemin*
+*JÃ©sus continua son chemin*
 
-**Jésus continua son chemin** vers les villages et villes environnants, mais le
+**JÃ©sus continua son chemin** vers les villages et villes environnants, mais le
 les gens retournaient dans leur synagogue.
 
 ** Dans quel sens allez-vous ? **
 
-**Qu'est-ce que cela signifie en pratique ?**
+**Qu'est-ce que cela signifie en pratiqueÂ ?**
 
-## Problèmes survenus\...
+## ProblÃ¨mes survenus\...
 
-### Devrions-nous passer tout notre temps à l'\"église\" ?
+### Devrions-nous passer tout notre temps Ã  l'\"Ã©glise\"Â ?
 
-Morris a soulevé un point très important au sujet des gens qui disent que pour être un
-\"Marie\" signifie que vous devez passer tout votre temps à l'église à prier et
-jeûne etc. et que ceux qui sont occupés dans le \"monde\" travaillent pour
+Morris a soulevÃ© un point trÃ¨s important au sujet des gens qui disent que pour Ãªtre un
+\"Marie\" signifie que vous devez passer tout votre temps Ã  l'Ã©glise Ã  prier et
+jeÃ»ne etc. et que ceux qui sont occupÃ©s dans le \"monde\" travaillent pour
 leur vie est \"Martha\'s\". Nous ne serions pas du tout d'accord avec cela
-vue. Nous ne sommes pas censés nous retirer du monde et passer tout notre temps
-à l'Eglise. Nous sommes censés aller DANS le monde et porter la présence
-de Jésus avec nous. Pour la plupart d'entre nous, cela signifie un travail ordinaire. Pour certains il
-peut être dans \"ministère à plein temps\". Mais nous pouvons tous être distraits de
-ce que Jésus nous dit, SURTOUT les chefs d'église ! Nous devons tous
-cultiver la pratique d'écouter Jésus dans tout ce que nous faisons pour nous assurer
+vue. Nous ne sommes pas censÃ©s nous retirer du monde et passer tout notre temps
+Ã  l'Eglise. Nous sommes censÃ©s aller DANS le monde et porter la prÃ©sence
+de JÃ©sus avec nous. Pour la plupart d'entre nous, cela signifie un travail ordinaire. Pour certains il
+peut Ãªtre dans \"ministÃ¨re Ã  plein temps\". Mais nous pouvons tous Ãªtre distraits de
+ce que JÃ©sus nous dit, SURTOUT les chefs d'Ã©glise ! Nous devons tous
+cultiver la pratique d'Ã©couter JÃ©sus dans tout ce que nous faisons pour nous assurer
 nous faisons ce qu'il veut, et pas simplement ce que tout le monde attend de
 nous.
 
-### Comment apprenons-nous aux autres à écouter Jésus ?
+### Comment apprenons-nous aux autres Ã  Ã©couter JÃ©sus ?
 
 James a fait remarquer que notre travail n'est PAS de dire aux gens
-ce qu'ils devraient faire, ou leur dire ce que Jésus leur dit,
-mais pour les aider à écouter Jésus pour eux-mêmes afin qu'ils soient
-obéissant à Lui et pas seulement à nous. Un très bon exemple de ceci est
-Phillip avec l'Éthiopien dans Actes 8:30-38. L'Éthiopien lisait
-Isaiah mais ne pouvait pas le comprendre. Alors Phillip l'a aidé à comprendre
-cela pour lui-même. Le résultat fut que l'Éthiopien dit « Regardez, voici
-l'eau. Qu'est-ce qui peut m'empêcher d'être baptisé ? » Philippe n'a pasenseignants et faiseurs de disciples ; aider les gens à comprendre ce qu'est Jésus
-disant pour qu'ils puissent entendre et répondre par eux-mêmes. Ce n'est PAS pour
-nous dire aux gens ce que Jésus leur dit ou comment ils devraient
-répondre. C'est la tâche du Saint-Esprit.
+ce qu'ils devraient faire, ou leur dire ce que JÃ©sus leur dit,
+mais pour les aider Ã  Ã©couter JÃ©sus pour eux-mÃªmes afin qu'ils soient
+obÃ©issant Ã  Lui et pas seulement Ã  nous. Un trÃ¨s bon exemple de ceci est
+Phillip avec l'Ã‰thiopien dans Actes 8:30-38. L'Ã‰thiopien lisait
+Isaiah mais ne pouvait pas le comprendre. Alors Phillip l'a aidÃ© Ã  comprendre
+cela pour lui-mÃªme. Le rÃ©sultat fut que l'Ã‰thiopien dit Â«Â Regardez, voici
+l'eau. Qu'est-ce qui peut m'empÃªcher d'Ãªtre baptisÃ© ? Â» Philippe n'a pasenseignants et faiseurs de disciples ; aider les gens Ã  comprendre ce qu'est JÃ©sus
+disant pour qu'ils puissent entendre et rÃ©pondre par eux-mÃªmes. Ce n'est PAS pour
+nous dire aux gens ce que JÃ©sus leur dit ou comment ils devraient
+rÃ©pondre. C'est la tÃ¢che du Saint-Esprit.

@@ -2,41 +2,41 @@
 type: document
 translationKey: John's Seven Signs (1-3)
 title: Les sept signes de Jean (1-3)---
-agité; pendant que j'essaye d'entrer, quelqu'un d'autre arrive
+agitÃ©; pendant que j'essaye d'entrer, quelqu'un d'autre arrive
 premier."
 
-**^8Â ^**Jésus lui dit : « Lève-toi, prends ta natte, et
-marcher."Â **^9Â ^**Immédiatement l'homme se rétablit ; il ramassa sa natte et
-commencé à marcher.
+**^8Â ^**JÃ©sus lui dit : Â«Â LÃ¨ve-toi, prends ta natte, et
+marcher."Â **^9Â ^**ImmÃ©diatement, l'homme se rÃ©tablitÂ ; il ramassa sa natte et
+commencÃ© Ã  marcher.
 
-Le jour où cela s'est produit était un sabbat,Â **^10Â ^**donc les autorités juives
-dit à l'homme qui avait été guéri : « Ceci est un sabbat, et c'est contre
+Le jour oÃ¹ cela s'est produit Ã©tait un sabbat,Â **^10Â ^**donc les autoritÃ©s juives
+dit Ã  l'homme qui avait Ã©tÃ© guÃ©ri : Â« Ceci est un sabbat, et c'est contre
 notre Loi pour que tu portes ta natte."
 
-**^11Â ^**Il a répondu : "L'homme qui m'a fait du bien m'a dit de prendre mon
+**^11Â ^**Il a rÃ©ponduÂ : "L'homme qui m'a fait du bien m'a dit de prendre mon
 tapis et marche."
 
-**^12Â ^**Ils lui ont demandé : "Qui est l'homme qui t'a dit de faire ça ?"
+**^12Â ^**Ils lui ont demandÃ©Â : "Qui est l'homme qui t'a dit de faire Ã§aÂ ?"
 
-**^13Â ^**Mais l'homme qui avait été guéri ne savait pas qui était Jésus, car
-il y avait foule à cet endroit, et Jésus s'était éclipsé.
+**^13Â ^**Mais l'homme qui avait Ã©tÃ© guÃ©ri ne savait pas qui Ã©tait JÃ©sus, car
+il y avait foule Ã  cet endroit, et JÃ©sus s'Ã©tait Ã©clipsÃ©.
 
-**^14Â ^**Par la suite, Jésus le trouva dans le Temple et lui dit : « Ecoute, tu
-vont bien maintenant; alors arrêtez de pécher ou quelque chose de pire peut vous arriver."
+**^14Â ^**Par la suite, JÃ©sus le trouva dans le Temple et lui dit : Â«Â Ecoute, tu
+vont bien maintenant; alors arrÃªtez de pÃ©cher ou quelque chose de pire peut vous arriver."
 
-**^15Â ^**Puis l'homme est parti et a dit aux autorités juives qu'il était
-Jésus qui l'avait guéri.Â **^16Â ^**Alors ils se mirent à persécuter Jésus,
-parce qu'il avait fait cette guérison un jour de sabbat.Â **^17Â ^**Jésus répondit
-eux, "Mon Père travaille toujours, et moi aussi je dois travailler."
+**^15Â ^**Puis l'homme est parti et a dit aux autoritÃ©s juives qu'il Ã©tait
+JÃ©sus qui l'avait guÃ©ri. **^16Â ^**Alors ils ont commencÃ© Ã  persÃ©cuter JÃ©sus,
+parce qu'il avait fait cette guÃ©rison un jour de sabbat. **^17Â ^** JÃ©sus a rÃ©pondu
+eux, "Mon PÃ¨re travaille toujours, et moi aussi je dois travailler."
 
 *(Traduction des bonnes nouvelles)\
-***Sept signes miraculeux de Jésus**
+***Sept signes miraculeux de JÃ©sus**
 
 Lisez une histoire par jour pendant 1 semaine.
 
 1. Que vous dit cette histoire sur les gens ?
 
-2. Que vous dit cette histoire à propos de Jésus ?
+2. Que vous dit cette histoire Ã  propos de JÃ©sus ?
 
 3. Que dit cette histoire sur vous ?
 
@@ -44,68 +44,67 @@ Lisez une histoire par jour pendant 1 semaine.
 
 # Le premier signe : Jean 2:1-12 De l'eau dans du vin
 
-Deux jours plus tard, il y avait un mariage dans la ville de Cana en Galilée.
-La mère de Jésus était là,Â **^2Â ^**et Jésus et ses disciples avaient aussi
-été invité au mariage.Â **^3Â ^**Lorsque le vin eut coulé,
-La mère de Jésus lui dit : "Ils n'ont plus de vin."
+Deux jours plus tard, il y avait un mariage dans la ville de Cana en GalilÃ©e.
+La mÃ¨re de JÃ©sus Ã©tait lÃ ,Â **^2Â ^**et JÃ©sus et ses disciples avaient aussi
+Ã©tÃ© invitÃ© au mariage. **^3Â ^**Lorsque le vin eut coulÃ©,
+La mÃ¨re de JÃ©sus lui dit : "Ils n'ont plus de vin."
 
-**^4Â ^** « Vous ne devez pas me dire quoi faire », a répondu Jésus. « Mon temps a
+**^4Â ^** Â«Â Vous ne devez pas me dire quoi faireÂ Â», a rÃ©pondu JÃ©sus. Â« Mon temps a
 pas encore venu."
 
-**^5Â ^**La mère de Jésus a alors dit aux serviteurs : "Faites tout ce qu'il dira
+**^5Â ^**La mÃ¨re de JÃ©sus dit alors aux serviteursÂ : "Faites tout ce qu'il dira
 tu."
 
-**^6Â ^**Les Juifs ont des règles concernant le lavage rituel, et à cette fin
-six jarres d'eau en pierre étaient là, chacune assez grande pour contenir entre
-vingt et trente gallons.Â **^7Â ^**Jésus dit aux serviteurs : « Remplissez
-ces jarres avec de l'eau." Ils les remplirent à ras bord,Â **^8Â ^**et puis
-il leur dit : "Maintenant, puisez de l'eau et apportez-la à l'homme en charge
-du festin." Ils lui prirent l'eau,Â **^9Â ^**qui avait maintenant tourné
-en vin, et il le goûta. Il ne savait pas d'où venait ce vin
-de (mais, bien sûr, les serviteurs qui avaient puisé l'eau savaient) ; donc
-il appela le fiancéÂ **^10Â ^** et lui dit : « Tous les autres servent
-le meilleur vin d'abord, et après que les invités ont beaucoup bu, il sert
-le vin ordinaire. Mais vous avez gardé le meilleur vin jusqu'à présent !"
+**^6Â ^**Les Juifs ont des rÃ¨gles concernant le lavage rituel, et Ã  cette fin
+six jarres d'eau en pierre Ã©taient lÃ , chacune assez grande pour contenir entre
+vingt et trente gallons. **^7Â ^**JÃ©sus dit aux serviteurs : Â«Â Remplissez
+ces jarres avec de l'eau." Ils les remplirent Ã  ras bord,Â **^8Â ^**et puis
+il leur dit : "Maintenant, puisez de l'eau et apportez-la Ã  l'homme en charge
+du festin." Ils lui prirent l'eau,Â **^9Â ^** qui Ã©tait maintenant devenue
+en vin, et il le goÃ»ta. Il ne savait pas d'oÃ¹ venait ce vin
+de (mais, bien sÃ»r, les serviteurs qui avaient puisÃ© l'eau savaient) ; donc
+il a appelÃ© le mariÃ©Â **^10Â ^** et lui a ditÂ : "Â Tous les autres servent
+le meilleur vin d'abord, et aprÃ¨s que les invitÃ©s ont beaucoup bu, il sert
+le vin ordinaire. Mais vous avez gardÃ© le meilleur vin jusqu'Ã  prÃ©sent !"
 
-**^11Â ^**Jésus a accompli ce premier miracle à Cana en Galilée ; là, il
-révéla sa gloire, et ses disciples crurent en lui.
+**^11Â ^** JÃ©sus a accompli ce premier miracle Ã  Cana en GalilÃ©eÂ ; lÃ , il
+rÃ©vÃ©la sa gloire, et ses disciples crurent en lui.
 
-**^12Â ^**Après cela, Jésus et sa mère, ses frères et ses disciples sont allés
-à Capharnaüm et y resta quelques jours.
+**^12Â ^**AprÃ¨s cela, JÃ©sus et sa mÃ¨re, ses frÃ¨res et ses disciples sont allÃ©s
+Ã  CapharnaÃ¼m et y resta quelques jours.
 
-# Deuxième signe : Jean 4:46-54 Guérison du fils du fonctionnaire
+# DeuxiÃ¨me signe : Jean 4:46-54 GuÃ©rison du fils du fonctionnaire
 
-**^46Â ^**Puis Jésus retourna à Cana en Galilée, où il s'était tourné
-l'eau en vin. Un fonctionnaire du gouvernement était là dont le fils était malade
-à Capharnaüm.Â **^47Â ^**Quand il apprit que Jésus était venu de Judée pour
-Galilée, il alla vers lui et lui demanda d'aller à Capharnaüm et de guérir son
-fils, qui était sur le point de mourir.Â **^48Â ^**Jésus lui dit : « Aucun de vous ne voudra
-croyez jamais à moins que vous ne voyiez des miracles et des prodiges."
+**^46Â ^**Puis JÃ©sus retourna Ã  Cana en GalilÃ©e, oÃ¹ il s'Ã©tait tournÃ©
+l'eau en vin. Un fonctionnaire du gouvernement Ã©tait lÃ  dont le fils Ã©tait malade
+Ã  CapharnaÃ¼m. **^47Â ^**Quand il apprit que JÃ©sus Ã©tait venu de JudÃ©e pour
+GalilÃ©e, il alla vers lui et lui demanda d'aller Ã  CapharnaÃ¼m et de guÃ©rir son
+fils, qui Ã©tait sur le point de mourir. **^48Â ^**JÃ©sus lui dit : "Aucun de vous ne
+croyez jamais Ã  moins que vous ne voyiez des miracles et des prodiges."
 
-**^49Â ^**« Monsieur », a répondu le fonctionnaire, « venez avec moi avant mon enfant
+**^49Â ^**Â«Â MonsieurÂ Â», a rÃ©pondu le fonctionnaire, Â«Â venez avec moi avant mon enfant
 meurt."
 
-**^50Â ^**Jésus lui dit : « Va, ton fils vivra ! »
+**^50Â ^**JÃ©sus lui dit : Â«Â Va, ton fils vivraÂ !Â Â»
 
-L'homme crut aux paroles de Jésus et partit.Â **^51Â ^** Sur le chemin du retour, son
-les domestiques l'ont rencontré avec les nouvelles, « votre garçon va vivre !
+L'homme crut aux paroles de JÃ©sus et partit. **^51Â ^** Sur le chemin du retour, son
+les domestiques l'ont rencontrÃ© avec les nouvelles, Â« votre garÃ§on va vivre !
 
-**^52Â ^**Il leur a demandé à quelle heure son fils allait mieux, et
-ils ont répondu : "Il était une heure hier après-midi quand la fièvre
-l'a quitté."Â **^53Â ^**Alors le père se souvint que c'était à ce moment-là
-l'heure où Jésus lui avait dit : « Ton fils vivra. Alors lui et tous ses
-la famille croyait.de la Judée à la Galilée.
+**^52Â ^**Il leur a demandÃ© Ã  quelle heure son fils allait mieux, et
+ils ont rÃ©pondu : "Il Ã©tait une heure hier aprÃ¨s-midi quand la fiÃ¨vre
+l'a quittÃ©."Â **^53Â ^**Alors le pÃ¨re se souvint que c'Ã©tait Ã  ce moment-lÃ 
+l'heure oÃ¹ JÃ©sus lui avait dit : Â« Ton fils vivra. Alors lui et tous ses
+la famille croyait.
 
-# Troisième signe : Jean 5:1-17 Guérison d'un paralytique à la piscine
-
-Après cela, Jésus est allé à Jérusalem pour un religieux
-festival.Â **^2Â ^** Près de la porte des moutons à Jérusalem, il y a une piscine avec
-cinq porches ; en hébreu, cela s'appelle Bethzatha.Â **^3Â ^**Une grande foule de
+**^54Â ^**Ce fut le deuxiÃ¨me miracle que JÃ©sus accomplit aprÃ¨s sa venue
+de la JudÃ©e Ã  la GalilÃ©e.AprÃ¨s cela, JÃ©sus est allÃ© Ã  JÃ©rusalem pour un religieux
+Festival. **^2Â ^** PrÃ¨s de la porte des moutons Ã  JÃ©rusalem, il y a une piscineÂ avec
+cinq porches ; en hÃ©breu, cela s'appelle Bethzatha. **^3Â ^**Une grande foule de
 des malades gisaient sur les porches, les aveugles, les boiteux et les
-paralysé.Â **^5Â ^**Il y avait là un homme qui était malade depuis trente-huit
-ans.**^6Â ^**Jésus l'a vu allongé là, et il a su que l'homme avait
-été malade pendant si longtemps; alors il lui a demandé : « Voulez-vous obtenir
+paralysÃ©. **^5Â ^** Il y avait lÃ  un homme qui Ã©tait malade depuis trente-huit
+annÃ©es. **^6Â ^**JÃ©sus l'a vu Ã©tendu lÃ , et il a su que l'homme avait
+Ã©tÃ© malade pendant si longtemps; alors il lui a demandÃ© : Â« Voulez-vous obtenir
 bien?"
 
-**^7Â ^**Le malade répondit : " Monsieur, je n'ai personne ici pour me mettre
+**^7Â ^**Le malade rÃ©ponditÂ : "Â Monsieur, je n'ai personne ici pour me mettre
 dans la piscine quand l'eau est

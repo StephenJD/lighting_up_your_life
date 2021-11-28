@@ -1,5 +1,5 @@
 ---
 type: document-folder
 translationKey: Healing
-title: Guérison
+title: GuÃ©rison
 ---

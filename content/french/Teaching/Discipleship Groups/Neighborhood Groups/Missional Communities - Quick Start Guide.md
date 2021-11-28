@@ -1,66 +1,66 @@
 ---
 type: document
 translationKey: Missional Communities - Quick Start Guide
-title: Communautés missionnaires - Guide de démarrage rapide---
-# Communautés missionnaires -- Guide de démarrage rapide
+title: CommunautÃ©s missionnaires - Guide de dÃ©marrage rapide---
+# CommunautÃ©s missionnaires -- Guide de dÃ©marrage rapide
 
-Les communautés missionnaires sont la façon dont nous obéissons au commandement de \" se réunir pour
-encouragez-vous les uns les autres à l'amour et aux bonnes actions\" (Hébreux 10:24-25).
+Les communautÃ©s missionnaires sont la faÃ§on dont nous obÃ©issons au commandement de \" se rÃ©unir pour
+encouragez-vous les uns les autres Ã  l'amour et aux bonnes actions\" (HÃ©breux 10:24-25).
 
-Ainsi, une fois que vous avez établi des groupes de croissance, l'étape suivante consiste à
-chaque membre du groupe le centre d'une communauté missionnaire. C'est
+Ainsi, une fois que vous avez Ã©tabli des groupes de croissance, l'Ã©tape suivante consiste Ã 
+chaque membre du groupe le centre d'une communautÃ© missionnaire. C'est
 vraiment facile!
 
-1. Rendez visite à vos voisins immédiats et expliquez que vous aimeriez
-    rassembler quelques voisins pour partager un repas et apprendre à les connaître
-    mieux et parler de la façon dont ils peuvent améliorer les choses pour la communauté.
-    Si l'un des voisins propose d'héberger le repas, acceptez l'offre,
-    sinon organisez le repas vous-même (ils n'ont pas besoin d'être croyants.)
+1. Rendez visite Ã  vos voisins immÃ©diats et expliquez que vous aimeriez
+    rassembler quelques voisins pour partager un repas et apprendre Ã  les connaÃ®tre
+    mieux et parler de la faÃ§on dont ils peuvent amÃ©liorer les choses pour la communautÃ©.
+    Si l'un des voisins propose d'hÃ©berger le repas, acceptez l'offre,
+    sinon organisez le repas vous-mÃªme (ils n'ont pas besoin d'Ãªtre croyants.)
 
-2. Lorsque vous vous réunissez pour le repas, demandez-leur si vous pouvez remercier Dieu
-    pour la nourriture. Remerciez Jésus qui a donné sa vie pour nous en
+2. Lorsque vous vous rÃ©unissez pour le repas, demandez-leur si vous pouvez remercier Dieu
+    pour la nourriture. Remerciez JÃ©sus qui a donnÃ© sa vie pour nous en
     se laisser tuer injustement puis ressusciter d'entre les morts
-    être le Roi de toutes choses.
+    Ãªtre le Roi de toutes choses.
 
-3. Expliquez que vous voulez donner à chaque personne une portion de nourriture et un
-    boire de l'eau et qu'elle représente le corps et le sang de Jésus qu'il
-    donné pour que nous puissions avoir la Vie.
+3. Expliquez que vous voulez donner Ã  chaque personne une portion de nourriture et un
+    boire de l'eau et qu'elle reprÃ©sente le corps et le sang de JÃ©sus qu'il
+    donnÃ© pour que nous puissions avoir la Vie.
 
-4. Ensuite, savourez votre repas ensemble et parlez de votre communauté.
-    Encouragez les gens à être reconnaissants pour les bonnes choses et à penser
-    sur ce qu'ils peuvent faire pour aider là où il y a de mauvaises choses.
+4. Ensuite, savourez votre repas ensemble et parlez de votre communautÃ©.
+    Encouragez les gens Ã  Ãªtre reconnaissants pour les bonnes choses et Ã  penser
+    sur ce qu'ils peuvent faire pour aider lÃ  oÃ¹ il y a de mauvaises choses.
 
-5. Après le repas, encouragez les gens (y compris les incroyants) à parler
-    sur la façon dont ils pensent que Dieu peut travailler dans leur propre vie. Leur demander
-    ce qu'ils peuvent faire pour coopérer avec Dieu.
+5. AprÃ¨s le repas, encouragez les gens (y compris les incroyants) Ã  parler
+    sur la faÃ§on dont ils pensent que Dieu peut travailler dans leur propre vie. Leur demander
+    ce qu'ils peuvent faire pour coopÃ©rer avec Dieu.
 
-6. Parlez-leur des groupes de croissance, partagez une histoire d'évangile et discutez
-    ensemble. Ensuite, proposez-leur de les aider à démarrer leur propre GG
+6. Parlez-leur des groupes de croissance, partagez une histoire d'Ã©vangile et discutez
+    ensemble. Ensuite, proposez-leur de les aider Ã  dÃ©marrer leur propre GG
     domicile.
 
-7. Discutez et planifiez toute action spécifique que vous pouvez entreprendre ensemble pour aider
-    votre communauté.
+7. Discutez et planifiez toute action spÃ©cifique que vous pouvez entreprendre ensemble pour aider
+    votre communautÃ©.
 
 8. Planifiez votre prochain repas ensemble.
 
-Les communautés missionnaires doivent être pour tous les chrétiens et leurs voisins,
-quelle que soit l'église à laquelle ils vont, ou s'ils ne vont pas à l'église à
-tous. Vous devriez surtout essayer d'inclure toutes les familles gênantes,
-parce que le message de l'Evangile est pour les brisés, les malades, les captifs et
+Les communautÃ©s missionnaires doivent Ãªtre pour tous les chrÃ©tiens et leurs voisins,
+quelle que soit l'Ã©glise Ã  laquelle ils vont, ou s'ils ne vont pas Ã  l'Ã©glise Ã 
+tous. Vous devriez surtout essayer d'inclure toutes les familles gÃªnantes,
+parce que le message de l'Evangile est pour les brisÃ©s, les malades, les captifs et
 ceux qui sont perdus.
 
-Si vous avez des Groupes de Croissance et des Communautés Missionnaires, vous avez les clés
-d'atteindre des communautés entières avec l'Evangile et d'atteindre le
-communautés tout autour.
+Si vous avez des Groupes de Croissance et des CommunautÃ©s Missionnaires, vous avez les clÃ©s
+d'atteindre des communautÃ©s entiÃ¨res avec l'Evangile et d'atteindre le
+communautÃ©s tout autour.
 
-N'oubliez pas que les communautés missionnaires fonctionnent mieux lorsqu'il y a moins de
-40 personnes impliquées, alors créez plein de petites Communautés Missionnaires. Si
-plus de gens veulent se joindre, alors commencez simplement un nouveau. La totalité
-le but est de tendre la main plutôt que de se rassembler.
+N'oubliez pas que les communautÃ©s missionnaires fonctionnent mieux lorsqu'il y a moins de
+40 personnes impliquÃ©es, alors crÃ©ez plein de petites CommunautÃ©s Missionnaires. Si
+plus de gens veulent se joindre, alors commencez simplement un nouveau. La totalitÃ©
+le but est de tendre la main plutÃ´t que de se rassembler.
 
-La mentalité de l'église traditionnelle est de rassembler, rassembler, rassembler. Ils
-pensez que plus vous rassemblez, plus vous avez de succès. Notre
-la mentalité est d'aller, aller, aller. Atteindre. Créer de nouveaux groupes de croissance, de nouveaux
-Communautés Missionnaires, allez dans de nouveaux villages. Si les gens veulent se rassembler, nous
-IL FAUT RÉSISTER ! Encouragez-les plutôt à se rassembler dans leur propre communauté et à
-démarrer leurs propres GG\'s et communautés missionnaires.
+La mentalitÃ© de l'Ã©glise traditionnelle est de rassembler, rassembler, rassembler. Ils
+pensez que plus vous rassemblez, plus vous avez de succÃ¨s. Notre
+la mentalitÃ© est d'aller, aller, aller. Atteindre. CrÃ©er de nouveaux groupes de croissance, de nouveaux
+CommunautÃ©s Missionnaires, allez dans de nouveaux villages. Si les gens veulent se rassembler, nous
+IL FAUT RÃ‰SISTER ! Encouragez-les plutÃ´t Ã  se rassembler dans leur propre communautÃ© et Ã 
+dÃ©marrer leurs propres GG\'s et communautÃ©s missionnaires.

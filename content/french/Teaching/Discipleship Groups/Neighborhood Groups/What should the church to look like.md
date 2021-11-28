@@ -1,192 +1,192 @@
 ---
 type: document
 translationKey: What should the church to look like
-title: A quoi devrait ressembler l'église---
-# À quoi devrait ressembler l'église ?
+title: A quoi devrait ressembler l'Ã©glise---
+# Ã€ quoi devrait ressembler l'Ã©glise ?
 
-L'église est représentée par Paul comme le Corps du Christ - chaque partie s'est jointe
-dans l'amour et fonctionnant par rapport à l'ensemble pour incarner Jésus dans notre
-communautés (1 Co 12). Mais des générations de pratiques ecclésiastiques ont
-ancré \"église\" en tant que relation producteur/consommateur entre le
-les dirigeants et la congrégation. De plus, notre société de consommation a
-encouragé les gens à considérer l'église comme un fournisseur de services, ce qui
-des attitudes à choisir et à prendre ou à laisser.
+L'Ã©glise est reprÃ©sentÃ©e par Paul comme le Corps du Christ - chaque partie s'est jointe
+dans l'amour et fonctionnant par rapport Ã  l'ensemble pour incarner JÃ©sus dans notre
+communautÃ©s (1 Co 12). Mais des gÃ©nÃ©rations de pratiques ecclÃ©siastiques ont
+ancrÃ© \"Ã©glise\" en tant que relation producteur/consommateur entre le
+les dirigeants et la congrÃ©gation. De plus, notre sociÃ©tÃ© de consommation a
+encouragÃ© les gens Ã  considÃ©rer l'Ã©glise comme un fournisseur de services, ce qui
+des attitudes Ã  choisir et Ã  prendre ou Ã  laisser.
 
-La pertinence de l'église a également été réduite en réduisant le
-l'Évangile à la Croix au lieu de prêcher l'Évangile du Royaume qui
-Jésus nous a dit de proclamer.
+La pertinence de l'Ã©glise a Ã©galement Ã©tÃ© rÃ©duite en rÃ©duisant le
+l'Ã‰vangile Ã  la Croix au lieu de prÃªcher l'Ã‰vangile du Royaume qui
+JÃ©sus nous a dit de proclamer.
 
-Depuis plusieurs années, je dis que Jésus ne nous a jamais dit de courir
-églises, mais de s'aimer les uns les autres et d'aller faire des disciples. En Jésus\'
-ministère et celui de l'église primitive, ces deux commandements étaient
-travaillé dans une communauté profondément relationnelle. En conséquence, nous avons été
-promouvoir les Groupes de Croissance comme un moyen très efficace d'aimer et de faire
+Depuis plusieurs annÃ©es, je dis que JÃ©sus ne nous a jamais dit de courir
+Ã©glises, mais de s'aimer les uns les autres et d'aller faire des disciples. En JÃ©sus\'
+ministÃ¨re et celui de l'Ã©glise primitive, ces deux commandements Ã©taient
+travaillÃ© dans une communautÃ© profondÃ©ment relationnelle. En consÃ©quence, nous avons Ã©tÃ©
+promouvoir les Groupes de Croissance comme un moyen trÃ¨s efficace d'aimer et de faire
 disciples.
 
-Je veux maintenant aborder une question fondamentale : qu'est-ce que Jésus avait l'intention de
-église à quoi ressembler?
+Je veux maintenant aborder une question fondamentale : qu'est-ce que JÃ©sus avait l'intention de
+Ã©glise Ã  quoi ressembler?
 
 ## Traditions troublantes
 
-Jésus a dit : « Vous avez une belle manière de mettre de côté les commandements de Dieu dans
-afin d'observer vos propres traditions!" Marc 7:9. Nous sommes souvent aveugles à
-nos propres traditions et sauter pour les défendre lorsqu'elles sont contestées.
+JÃ©sus a dit : Â« Vous avez une belle maniÃ¨re de mettre de cÃ´tÃ© les commandements de Dieu dans
+afin d'observer vos propres traditions!" Marc 7:9. Nous sommes souvent aveugles Ã 
+nos propres traditions et sauter pour les dÃ©fendre lorsqu'elles sont contestÃ©es.
 
-De nombreux styles d'église ont été essayés, y compris l'église de maison, la cellule
-Église, Culte alternatif, Seeker-Friendly, style concert, boîte de nuit
-style, Messy Church, Café Church et plus encore. Chacun d'eux a commencé
-avec le concept d'un service d'adoration et a essayé de trouver plus culturellement
-manières pertinentes de faire le culte dans l'espoir que les non-chrétiens
-persuadé de venir voir.
+De nombreux styles d'Ã©glise ont Ã©tÃ© essayÃ©s, y compris l'Ã©glise de maison, la cellule
+Ã‰glise, Culte alternatif, Seeker-Friendly, style concert, boÃ®te de nuit
+style, Messy Church, CafÃ© Church et plus encore. Chacun d'eux a commencÃ©
+avec le concept d'un service d'adoration et a essayÃ© de trouver plus culturellement
+maniÃ¨res pertinentes de faire le culte dans l'espoir que les non-chrÃ©tiens
+persuadÃ© de venir voir.
 
-Mais même les chrétiens luttent avec l'église ! Ces dernières semaines, j'ai eu
-Des chrétiens de trois générations différentes me disent que l'église n'est pas
+Mais mÃªme les chrÃ©tiens luttent avec l'Ã©glise ! Ces derniÃ¨res semaines, j'ai eu
+Des chrÃ©tiens de trois gÃ©nÃ©rations diffÃ©rentes me disent que l'Ã©glise n'est pas
 travailler pour eux.
 
 Avons-nous simplement suivi les traditions des hommes? Qui a dit qu'un
-le rassemblement à l'église devrait-il être un service d'adoration ? Que se passerait-il si nous
-permis de réinventer complètement l'église depuis le début ? C'est-à-dire
-extrêmement difficile parce que le mot « église » a des générations de
-sens derrière. Alors ne parlons même pas de l'église. Interdisons ça
-mot pour le plaisir de cet exercice, et parlons plutôt de
-Communautés Missionnaires.
+le rassemblement Ã  l'Ã©glise devrait-il Ãªtre un service d'adorationÂ ? Que se passerait-il si nous
+permis de rÃ©inventer complÃ¨tement l'Ã©glise depuis le dÃ©butÂ ? C'est-Ã -dire
+extrÃªmement difficile parce que le mot Â«Â Ã©gliseÂ Â» a des gÃ©nÃ©rations de
+sens derriÃ¨re. Alors ne parlons mÃªme pas de l'Ã©glise. Interdisons Ã§a
+mot pour le plaisir de cet exercice, et parlons plutÃ´t de
+CommunautÃ©s Missionnaires.
 
-## Communautés Missionnaires
+## CommunautÃ©s Missionnaires
 
-Nous avons déjà établi notre point de départ dans deux
-découvertes:
+Nous avons dÃ©jÃ  Ã©tabli notre point de dÃ©part dans deux
+dÃ©couvertes:
 
-1. Jésus ne nous a jamais dit d'organiser des services religieux ; Il nous a envoyé faire
-    disciples obéissants.
+1. JÃ©sus ne nous a jamais dit d'organiser des services religieux ; Il nous a envoyÃ© faire
+    disciples obÃ©issants.
 
-2. L'Evangile que Jésus a prêché a été dépeint par sa vie, pas par sa mort.
+2. L'Evangile que JÃ©sus a prÃªchÃ© a Ã©tÃ© dÃ©peint par sa vie, pas par sa mort.
 
-Quand nous venons aux évangiles pour apprendre de Jésus ce qu'est un missionnaire
-pourrait ressembler à une communauté, nous sommes frappés par l'observation que Dieu le
-Père est le Grand Missionnaire. Ce n'est pas une histoire d'hommes trouvant Dieu,
-mais de Dieu cherchant et attirant les hommes à Lui. Toute la bible proclame
-ceci d'un bout à l'autre. Cela nous montre qu'une communauté missionnaire voit
+Quand nous venons aux Ã©vangiles pour apprendre de JÃ©sus ce qu'est un missionnaire
+pourrait ressembler Ã  une communautÃ©, nous sommes frappÃ©s par l'observation que Dieu le
+PÃ¨re est le Grand Missionnaire. Ce n'est pas une histoire d'hommes trouvant Dieu,
+mais de Dieu cherchant et attirant les hommes Ã  Lui. Toute la bible proclame
+ceci d'un bout Ã  l'autre. Cela nous montre qu'une communautÃ© missionnaire voit
 Dieu et le monde autrement :
 
-1. Dieu est considéré comme le Dieu Missionnaire, atteignant nos communautés dans
-    de multiples façons de les libérer dans Son Royaume.
+1. Dieu est considÃ©rÃ© comme le Dieu Missionnaire, atteignant nos communautÃ©s dans
+    de multiples faÃ§ons de les libÃ©rer dans Son Royaume.
 
-2. Notre mission est donc d'aider nos amis à reconnaître comment Dieu est
-    au travail dans leur vie et pour les aider à coopérer avec Lui.
+2. Notre mission est donc d'aider nos amis Ã  reconnaÃ®tre comment Dieu est
+    au travail dans leur vie et pour les aider Ã  coopÃ©rer avec Lui.
 
-Donc si Dieu est le Missionnaire et que notre rôle est d'"arroser" ce que Dieu est
-faire, comment faisons-nous cela? Jésus le dit très clairement : vivez un Royaume
-vie et proclamer la présence du Royaume. En d'autres termes, aime un
-un autre - et aimez ceux qui ne connaissent pas encore Jésus - et invitez-les
-de partager le royaume de Dieu aussi. C'est pourquoi une communauté missionnaire voit
-eux-mêmes différemment :
+Donc si Dieu est le Missionnaire et que notre rÃ´le est d'"arroser" ce que Dieu est
+faire, comment faisons-nous cela? JÃ©sus le dit trÃ¨s clairement : vivez un Royaume
+vie et proclamer la prÃ©sence du Royaume. En d'autres termes, aime un
+un autre - et aimez ceux qui ne connaissent pas encore JÃ©sus - et invitez-les
+de partager le royaume de Dieu aussi. C'est pourquoi une communautÃ© missionnaire voit
+eux-mÃªmes diffÃ©remment :
 
-1. Le point de départ est la formation d'un
-    communauté, plutôt qu'un *service*. Partager toutes nos vies dans
-    l'honnêteté transparente est notre acte d'adoration.
+1. Le point de dÃ©part est la formation d'un
+    communautÃ©, plutÃ´t qu'un *service*. Partager toutes nos vies dans
+    l'honnÃªtetÃ© transparente est notre acte d'adoration.
 
-2. Notre mission est de transformer notre société en démontrant la
+2. Notre mission est de transformer notre sociÃ©tÃ© en dÃ©montrant la
     Royaume de dieu.
 
-## Rassemblement autour d'une pause-painles communautés en ont probablement déjà beaucoup. Dans notre village nous avons des groupes
-pour l'artisanat, le chant, la course, la marche, la danse, la photographie, l'échange de livres,
-lecture, cinéma, football \... la liste est longue. Certains de ces groupes
-sont dirigés par des églises ou des chrétiens individuels. Mais comment créer un
-Communauté missionnaire ?
+## Rassemblement autour d'une pause-painles communautÃ©s en ont probablement dÃ©jÃ  beaucoup. Dans notre village nous avons des groupes
+pour l'artisanat, le chant, la course, la marche, la danse, la photographie, l'Ã©change de livres,
+lecture, cinÃ©ma, football \... la liste est longue. Certains de ces groupes
+sont dirigÃ©s par des Ã©glises ou des chrÃ©tiens individuels. Mais comment crÃ©er un
+CommunautÃ© missionnaire ?
 
-Je pense que centrer une communauté missionnaire autour de la fraction du pain
+Je pense que centrer une communautÃ© missionnaire autour de la fraction du pain
 est important pour plusieurs raisons :
 
-- Jésus l'a commandé lors de la Dernière Cène.
+- JÃ©sus l'a commandÃ© lors de la DerniÃ¨re CÃ¨ne.
 
-- En souvenir de sa mort, il nous rappelle que Dieu est le Père,
-    nous envoie son Fils. Et comme le Père nous a tendu la main en Jésus,
-    nous devons donc aussi être une communauté qui s'étend vers l'extérieur. Par nous Dieu
+- En souvenir de sa mort, il nous rappelle que Dieu est le PÃ¨re,
+    nous envoie son Fils. Et comme le PÃ¨re nous a tendu la main en JÃ©sus,
+    nous devons donc aussi Ãªtre une communautÃ© qui s'Ã©tend vers l'extÃ©rieur. Par nous Dieu
     tendre la main aux autres dans l'amour.
 
-- En tant que repas à proprement parler, plutôt qu'un repas symbolique, il nous souligne que
+- En tant que repas Ã  proprement parler, plutÃ´t qu'un repas symbolique, il nous souligne que
     nous devons nous nourrir de Lui, tout comme nous nous nourrissons du pain. Nous devons manger
-    et le boire pour qu'il vive en nous et à travers nous.
+    et le boire pour qu'il vive en nous et Ã  travers nous.
 
-- Le repas a un aspect passé, présent et futur. Il revient sur le
-    Traverser; célèbre sa présence avec nous maintenant; et attend avec impatience le
-    plénitude du Royaume.
+- Le repas a un aspect passÃ©, prÃ©sent et futur. Il revient sur le
+    Traverser; cÃ©lÃ¨bre sa prÃ©sence avec nous maintenant; et attend avec impatience le
+    plÃ©nitude du Royaume.
 
-Mais voici un point des plus importants que nous avons tendance à manquer. Jésus a dit qu'il
-ne mangerait plus avec ses disciples jusqu'à ce que le Royaume soit venu (Luc
-22:18). Et pourtant, après la résurrection, Jésus est enregistré comme mangeant à nouveau
+Mais voici un point des plus importants que nous avons tendance Ã  manquer. JÃ©sus a dit qu'il
+ne mangerait plus avec ses disciples jusqu'Ã  ce que le Royaume soit venu (Luc
+22:18). Et pourtant, aprÃ¨s la rÃ©surrection, JÃ©sus est enregistrÃ© comme mangeant Ã  nouveau
 et encore avec ses disciples.
 
-Jésus faisait valoir que le Royaume est maintenant venu. Notre repas est
-donc sur la présence du Royaume. Nous vivons le Royaume et
-inviter d'autres personnes à participer.
+JÃ©sus faisait valoir que le Royaume est maintenant venu. Notre repas est
+donc sur la prÃ©sence du Royaume. Nous vivons le Royaume et
+inviter d'autres personnes Ã  participer.
 
-Bien que traditionnellement la fraction du pain se limite à
-croyants, il n'y a aucune suggestion dans les évangiles ou les lettres que le
-l'église devrait fermer ses portes aux incroyants lors du partage de ce repas.
-En effet, l'église primitive considérait la fraction du pain comme un élément central de
-mission. in En 362 après JC, Julien II, empereur de Rome, a écrit ceci à propos de la
-Chrétiens : \"Ces Galiléens impies ne nourrissent pas seulement leurs pauvres,
-***mais le nôtre aussi***; les accueillant dans leurs agapes (leurs Breaking
-Repas de pain), ils les attirent, comme les enfants sont attirés, avec des gâteaux.\"
-Les païens ont été invités à partager les repas de la rupture du pain et ainsi
-est venu à la foi. Le repas agapae était une fête ***et une démonstration***
-de Dieu tendre la main à un monde brisé en Jésus et par sa mort
-établir les moyens du pardon et de la restauration.
+Bien que traditionnellement la fraction du pain se limite Ã 
+croyants, il n'y a aucune suggestion dans les Ã©vangiles ou les lettres que le
+l'Ã©glise devrait fermer ses portes aux incroyants lors du partage de ce repas.
+En effet, l'Ã©glise primitive considÃ©rait la fraction du pain comme un Ã©lÃ©ment central de
+mission. in En 362 aprÃ¨s JC, Julien II, empereur de Rome, a Ã©crit ceci Ã  propos de la
+ChrÃ©tiens : \"Ces GalilÃ©ens impies ne nourrissent pas seulement leurs pauvres,
+***mais le nÃ´tre aussi***; les accueillant dans leurs agapes (leurs Breaking
+Repas de pain), ils les attirent, comme les enfants sont attirÃ©s, avec des gÃ¢teaux.\"
+Les paÃ¯ens ont Ã©tÃ© invitÃ©s Ã  partager les repas de la rupture du pain et ainsi
+est venu Ã  la foi. Le repas agapae Ã©tait une fÃªte ***et une dÃ©monstration***
+de Dieu tendre la main Ã  un monde brisÃ© en JÃ©sus et par sa mort
+Ã©tablir les moyens du pardon et de la restauration.
 
-De simples églises du monde entier ont prouvé l'efficacité d'un repas partagé
-est de créer une communauté avec des non-croyants et d'en faire un élément essentiel
+De simples Ã©glises du monde entier ont prouvÃ© l'efficacitÃ© d'un repas partagÃ©
+est de crÃ©er une communautÃ© avec des non-croyants et d'en faire un Ã©lÃ©ment essentiel
 partie de leurs rassemblements.
 
-## À quoi cela ressemble-t-il?
+## Ã€ quoi cela ressemble-t-il?
 
-Donc, si nous commençons par l'ingrédient ordonné par Jésus de la rupture du pain
-repas, que dire d'autre d'une communauté missionnaire ? Eh bien, je pense que nous
-peut convenir qu'il doit être :
+Donc, si nous commenÃ§ons par l'ingrÃ©dient ordonnÃ© par JÃ©sus de la rupture du pain
+repas, que dire d'autre d'une communautÃ© missionnaire ? Eh bien, je pense que nous
+peut convenir qu'il doit ÃªtreÂ :
 
-- Agréable dans la mesure où les gens sont enthousiastes à l'idée d'inviter
-    d'autres à venir.
+- AgrÃ©able dans la mesure oÃ¹ les gens sont enthousiastes Ã  l'idÃ©e d'inviter
+    d'autres Ã  venir.
 
-- Jésus centré afin que les conversations sur Jésus soient faciles à
+- JÃ©sus centrÃ© afin que les conversations sur JÃ©sus soient faciles Ã 
     lancer.
 
-- Non confessionnel, non menaçant et non ecclésial dans la mesure où
-    les idées préconçues des gens sont concernées.
+- Non confessionnel, non menaÃ§ant et non ecclÃ©sial dans la mesure oÃ¹
+    les idÃ©es prÃ©conÃ§ues des gens sont concernÃ©es.
 
 - Cultiver organiquement.
 
-Au-delà, nous découvrirons seulement à quoi ressemble une Communauté Missionnaire
-en en commençant un. Voici notre point de départ suggéré :
+Au-delÃ , nous dÃ©couvrirons seulement Ã  quoi ressemble une CommunautÃ© Missionnaire
+en en commenÃ§ant un. Voici notre point de dÃ©part suggÃ©rÃ©Â :
 
-- Construire une communauté autour du partage d'un simple repas de rupture de pain suivi
-    par des activités facultatives en petits groupes (voir plus loin).
+- Construire une communautÃ© autour du partage d'un simple repas de rupture de pain suivi
+    par des activitÃ©s facultatives en petits groupes (voir plus loin).
 
 - Utiliser une structure liturgique minimale suffisante pour faire comprendre ce que
-    le repas représente pour les croyants.
+    le repas reprÃ©sente pour les croyants.
 
-- Encouragez tous à participer à une courte discussion en petit groupe sur un
-    court passage de l'Écriture avant le repas.
+- Encouragez tous Ã  participer Ã  une courte discussion en petit groupe sur un
+    court passage de l'Ã‰criture avant le repas.
 
-- Évitez les éléments religieux inutiles, tels que le chant et la prédication
+- Ã‰vitez les Ã©lÃ©ments religieux inutiles, tels que le chant et la prÃ©dication
     et faux-semblant.
 
 ## Ce que cela pourrait devenir
 
-Vous pouvez avoir plusieurs petites communautés missionnaires différentes dans une communauté,
-chacun répondant à des besoins démographiques différents. Ils pourraient se rencontrer une ou deux fois
-par mois - ou plus souvent - (pas nécessairement un dimanche) dans les maisons ou
+Vous pouvez avoir plusieurs petites communautÃ©s missionnaires diffÃ©rentes dans une communautÃ©,
+chacun rÃ©pondant Ã  des besoins dÃ©mographiques diffÃ©rents. Ils pourraient se rencontrer une ou deux fois
+par mois - ou plus souvent - (pas nÃ©cessairement un dimanche) dans les maisons ou
 les lieux publics.
 
-Il y aurait un mélange de chrétiens et de pas encore chrétiens. Pendant
+Il y aurait un mÃ©lange de chrÃ©tiens et de pas encore chrÃ©tiens. Pendant
 la rupture du pain les gens partageraient leurs nouvelles et aussiforme pour approfondir les choses. Les petits groupes possibles pourraient inclure :
 
-- Un cours de parentalité
+- Un cours de parentalitÃ©
 
 - Un Groupe de Croissance
 
-- Prière pour la guérison ou un autre besoin spécifique.
+- PriÃ¨re pour la guÃ©rison ou un autre besoin spÃ©cifique.
 
-- Aide à la budgétisation ou à la gestion de la dette.
+- Aide Ã  la budgÃ©tisation ou Ã  la gestion de la dette.
 
 - Questions sur la Bible ou le christianisme que les gens luttent
     avec.
@@ -198,39 +198,39 @@ la rupture du pain les gens partageraient leurs nouvelles et aussiforme pour app
 ```{=html}
 <!-- -->
 ```
-- Groupe de discussion Agnostiques / Athées
+- Groupe de discussion Agnostiques / AthÃ©es
 
-## Qu'en est-il de nos congrégations existantes ?
+## Qu'en est-il de nos congrÃ©gations existantes ?
 
-Si les Communautés Missionnaires s'avèrent efficaces, nous devons leur donner
-priorité sur \"église normale\" et ils doivent devenir notre nouvelle \"normale\".
-Nous voudrons probablement trouver des moyens de rassembler des communautés missionnaires
-ensemble de temps en temps, comme Jésus le conduit - mais pas pour édifier notre
+Si les CommunautÃ©s Missionnaires s'avÃ¨rent efficaces, nous devons leur donner
+prioritÃ© sur \"Ã©glise normale\" et ils doivent devenir notre nouvelle \"normale\".
+Nous voudrons probablement trouver des moyens de rassembler des communautÃ©s missionnaires
+ensemble de temps en temps, comme JÃ©sus le conduit - mais pas pour Ã©difier notre
 propre royaume.
 
-## Le Royaume de Dieu en Communauté
+## Le Royaume de Dieu en CommunautÃ©
 
-Les communautés missionnaires rejettent le point de vue producteur/consommateur de l'église et
-embrasser l'appel à vivre comme une famille unie en Christ. Cette famille est
-où le Royaume s'exprime le plus clairement lorsque le soutien familial est offert
-et les problèmes relationnels ont été résolus au lieu d'être ignorés. Les
-le succès d'une Communauté Missionnaire dépend de la force et de la transparence
-relations amoureuses. L'accent est mis sur les relations plutôt que sur
+Les communautÃ©s missionnaires rejettent le point de vue producteur/consommateur de l'Ã©glise et
+embrasser l'appel Ã  vivre comme une famille unie en Christ. Cette famille est
+oÃ¹ le Royaume s'exprime le plus clairement lorsque le soutien familial est offert
+et les problÃ¨mes relationnels ont Ã©tÃ© rÃ©solus au lieu d'Ãªtre ignorÃ©s. Les
+le succÃ¨s d'une CommunautÃ© Missionnaire dÃ©pend de la force et de la transparence
+relations amoureuses. L'accent est mis sur les relations plutÃ´t que sur
 les rassemblements ; les rassemblements soutiennent la relation, pas l'inverse
-tour. Mais les Communautés Missionnaires ne sont pas centrées sur elles-mêmes ; leur
-communauté s'étend à leurs amis non chrétiens et cherche à inclure
-eux. En effet, pour certains chrétiens de la communauté, leur plus profonde et
-les relations les plus transparentes pourraient être avec des non-chrétiens.
+tour. Mais les CommunautÃ©s Missionnaires ne sont pas centrÃ©es sur elles-mÃªmes ; leur
+communautÃ© s'Ã©tend Ã  leurs amis non chrÃ©tiens et cherche Ã  inclure
+eux. En effet, pour certains chrÃ©tiens de la communautÃ©, leur plus profonde et
+les relations les plus transparentes pourraient Ãªtre avec des non-chrÃ©tiens.
 
 En raison de l'importance centrale des relations, la taille maximale de
-une communauté missionnaire compte généralement environ 40 personnes.
+une communautÃ© missionnaire compte gÃ©nÃ©ralement environ 40 personnes.
 
-## Alors, à quoi ressemble \"église\" ?
+## Alors, Ã  quoi ressemble \"Ã©glise\"Â ?
 
-L'église est un mode de vie centré sur le Royaume, pas une réunion. c'est un corps
-fonctionnant avec Jésus comme chef. C'est le leadership et la direction
-dépend d'écouter et d'entendre Jésus, et non de suivre notre programme.
-C'est aimer, soutenir et faire des disciples. C'est le sel et la lumière dans
-sa communauté élargie. C'est le Royaume de Dieu évident sur terre. C'est un
-endroit où Jésus passerait inaperçu parce qu'il y en a tellement qui font
-ce que fait Jésus ; un endroit où Jésus voudrait être en tant que participant.
+L'Ã©glise est un mode de vie centrÃ© sur le Royaume, pas une rÃ©union. c'est un corps
+fonctionnant avec JÃ©sus comme chef. C'est le leadership et la direction
+dÃ©pend d'Ã©couter et d'entendre JÃ©sus, et non de suivre notre programme.
+C'est aimer, soutenir et faire des disciples. C'est le sel et la lumiÃ¨re dans
+sa communautÃ© Ã©largie. C'est le Royaume de Dieu Ã©vident sur terre. C'est un
+endroit oÃ¹ JÃ©sus passerait inaperÃ§u parce qu'il y en a tellement qui font
+ce que fait JÃ©sus ; un endroit oÃ¹ JÃ©sus voudrait Ãªtre en tant que participant.

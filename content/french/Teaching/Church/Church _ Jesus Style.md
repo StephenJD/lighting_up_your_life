@@ -1,1009 +1,1009 @@
 ---
 type: document
 translationKey: Church _ Jesus Style
-title: Église _ Style Jésus---
-**Église - Style Jésus**
+title: Ã‰glise _ Style JÃ©sus---
+**Ã‰glise - Style JÃ©sus**
 
-Matériel tiré de : Organic Church, Church 3.0 par Neil Cole et The
-Le monde a besoin de plus d'aînés par PJ Smythe.
+MatÃ©riel tirÃ© de : Organic Church, Church 3.0 par Neil Cole et The
+Le monde a besoin de plus d'aÃ®nÃ©s par PJ Smythe.
 
-## Une déclaration surprenante
+## Une dÃ©claration surprenante
 
-Jésus a utilisé des paraboles, des déclarations et des actions surprenantes pour amener les gens à
-réfléchissez bien à son message. J'essaye de faire pareil. Nous avons été
-mis au défi dans notre réflexion sur la guérison avec la déclaration surprenante
-*« Jésus ne nous a pas dit de prier pour les malades. Il nous a dit de guérir les
+JÃ©sus a utilisÃ© des paraboles, des dÃ©clarations et des actions surprenantes pour amener les gens Ã 
+rÃ©flÃ©chissez bien Ã  son message. J'essaye de faire pareil. Nous avons Ã©tÃ©
+mis au dÃ©fi dans notre rÃ©flexion sur la guÃ©rison avec la dÃ©claration surprenante
+*Â« JÃ©sus ne nous a pas dit de prier pour les malades. Il nous a dit de guÃ©rir les
 malade."*
 
-Je veux remettre en question votre réflexion sur le discipulat avec ce
-déclaration surprenante :
+Je veux remettre en question votre rÃ©flexion sur le discipulat avec ce
+dÃ©claration surprenante :
 
-*« Jésus ne nous a pas dit de fonder des églises. Il nous a dit de nous rendre obéissants.
+*Â« JÃ©sus ne nous a pas dit de fonder des Ã©glises. Il nous a dit de nous rendre obÃ©issants.
 disciples."*
 
-Ces deux énoncés ont la même forme et doivent être compris de la même manière
-manière. Les déclarations ne disent pas que prier pour les malades est mal, ni
-que commencer des églises est faux. Au contraire, ils concentrent notre attention sur les
-*commandes* de Jésus auxquelles nous devrions chercher à obéir.
+Ces deux Ã©noncÃ©s ont la mÃªme forme et doivent Ãªtre compris de la mÃªme maniÃ¨re
+maniÃ¨re. Les dÃ©clarations ne disent pas que prier pour les malades est mal, ni
+que commencer des Ã©glises est faux. Au contraire, ils concentrent notre attention sur les
+*commandes* de JÃ©sus auxquelles nous devrions chercher Ã  obÃ©ir.
 
-Lorsque nous nous concentrons sur « l'église » plutôt que sur « la formation de disciples », c'est très facile
-se tromper sur nos priorités. Bien que nous sachions tous qu'un rassemblement de
-trois croyants comptent aux yeux de Dieu en tant qu'église, nous devons être honnêtes et
-dire qu'à nos yeux nous avons besoin d'un rassemblement d'au moins une dizaine
-avant de penser vraiment que nous avons une église. En d'autres termes, pour que nous nous sentions
-nous avons une église appropriée, nous avons besoin de « bas sur les sièges ». Cela nous amène souvent
-chercher des stratégies pour attirer plus de gens à venir à l'église. Certains
-les pasteurs font de folles promesses de prospérité à leur congrégation, d'autres
+Lorsque nous nous concentrons sur Â«Â l'Ã©gliseÂ Â» plutÃ´t que sur Â«Â la formation de disciplesÂ Â», c'est trÃ¨s facile
+se tromper sur nos prioritÃ©s. Bien que nous sachions tous qu'un rassemblement de
+trois croyants comptent aux yeux de Dieu en tant qu'Ã©glise, nous devons Ãªtre honnÃªtes et
+dire qu'Ã  nos yeux nous avons besoin d'un rassemblement d'au moins une dizaine
+avant de penser vraiment que nous avons une Ã©glise. En d'autres termes, pour que nous nous sentions
+nous avons une Ã©glise appropriÃ©e, nous avons besoin de Â«Â bas sur les siÃ¨gesÂ Â». Cela nous amÃ¨ne souvent
+chercher des stratÃ©gies pour attirer plus de gens Ã  venir Ã  l'Ã©glise. Certains
+les pasteurs font de folles promesses de prospÃ©ritÃ© Ã  leur congrÃ©gation, d'autres
 essayez de rendre leurs services attrayants avec de grands groupes de culte. Mais quand
-nous regardons l'énoncé surprenant, nous remarquons que la priorité est
-disciples, pas des églises. Vous n'avez pas besoin de "fonds de sièges" pour faire
-disciples - vous n'avez même pas besoin de sièges ! Cependant, si vous faites obéissant
-disciples, vous découvrirez bientôt que vous avez une église en pleine croissance.
+nous regardons l'Ã©noncÃ© surprenant, nous remarquons que la prioritÃ© est
+disciples, pas des Ã©glises. Vous n'avez pas besoin de "fonds de siÃ¨ges" pour faire
+disciples - vous n'avez mÃªme pas besoin de siÃ¨gesÂ ! Cependant, si vous faites obÃ©issant
+disciples, vous dÃ©couvrirez bientÃ´t que vous avez une Ã©glise en pleine croissance.
 
-La déclaration surprenante : *« Jésus ne nous a pas dit de fonder des églises. Il
-nous a dit de faire des disciples obéissants"* concentre nos priorités.
-la plupart des églises commencent bien en se concentrant sur la mission, car les gens deviennent
-ajouté il y a généralement une dilution de la passion pour la mission et une dérive
-pour amener les gens à assister aux activités de l'église et faire de l'église
-agréable pour ses membres.
+La dÃ©claration surprenante : *Â« JÃ©sus ne nous a pas dit de fonder des Ã©glises. Il
+nous a dit de faire des disciples obÃ©issants"* concentre nos prioritÃ©s.
+la plupart des Ã©glises commencent bien en se concentrant sur la mission, car les gens deviennent
+ajoutÃ© il y a gÃ©nÃ©ralement une dilution de la passion pour la mission et une dÃ©rive
+pour amener les gens Ã  assister aux activitÃ©s de l'Ã©glise et faire de l'Ã©glise
+agrÃ©able pour ses membres.
 
-## Pourquoi l'Église ?
+## Pourquoi l'Ã‰glise ?
 
-L'implantation d'églises est largement reconnue comme la forme la plus efficace de
-évangélisme. Mais ce que nous pensons être l'église a plus souvent été
-façonné par la tradition plutôt que par les simples vérités de l'Évangile. C'est
-vrai même des mouvements d'église nouveaux et jeunes. Il ne faut pas longtemps pour
-traditions à s'établir et nous devons continuer à réexaminer
-écritures et chercher Dieu pour nous assurer que nous suivons Son programme
-et non le nôtre.
+L'implantation d'Ã©glises est largement reconnue comme la forme la plus efficace de
+Ã©vangÃ©lisme. Mais ce que nous pensons Ãªtre l'Ã©glise a plus souvent Ã©tÃ©
+faÃ§onnÃ© par la tradition plutÃ´t que par les simples vÃ©ritÃ©s de l'Ã‰vangile. C'est
+vrai mÃªme des mouvements d'Ã©glise nouveaux et jeunes. Il ne faut pas longtemps pour
+traditions Ã  s'Ã©tablir et nous devons continuer Ã  rÃ©examiner
+Ã©critures et chercher Dieu pour nous assurer que nous suivons Son programme
+et non le nÃ´tre.
 
-Considérez, par exemple, la quantité d'efforts et d'argent couramment investis
-dans la gestion des bâtiments et des services de l'église et en essayant de développer notre
-congrégations. Il ne faut pas longtemps après avoir commencé une église pour trouver
-que nous détournons presque toutes nos énergies dans les bâtiments de l'église et
-activités plutôt que de faire des disciples. C'est extraordinaire quand on
-considérez que Jésus n'a pas dit un mot sur ces activités.
+ConsidÃ©rez, par exemple, la quantitÃ© d'efforts et d'argent couramment investis
+dans la gestion des bÃ¢timents et des services de l'Ã©glise et en essayant de dÃ©velopper notre
+congrÃ©gations. Il ne faut pas longtemps aprÃ¨s avoir commencÃ© une Ã©glise pour trouver
+que nous dÃ©tournons presque toutes nos Ã©nergies dans les bÃ¢timents de l'Ã©glise et
+activitÃ©s plutÃ´t que de faire des disciples. C'est extraordinaire quand on
+considÃ©rez que JÃ©sus n'a pas dit un mot sur ces activitÃ©s.
 
-### Pourquoi aimons-nous l'église?
+### Pourquoi aimons-nous l'Ã©glise?
 
-Pour commencer cette étude, je vous invite à considérer honnêtement pourquoi les gens aiment
-l'église et les raisons pour lesquelles vous allez à l'église.
+Pour commencer cette Ã©tude, je vous invite Ã  considÃ©rer honnÃªtement pourquoi les gens aiment
+l'Ã©glise et les raisons pour lesquelles vous allez Ã  l'Ã©glise.
 
 #### Un hub social
 
-Il y a plusieurs raisons pour lesquelles nous aimons l'église. Peut-être la plus grande raison
-pour la plupart d'entre nous, c'est que l'église est le lieu où nous sommes aimés et acceptés.
-L'Église devient notre famille et notre communauté. C'est un endroit sûr. Malgré
-il y en a beaucoup qui ne trouvent pas que l'église soit comme ça. Ils
-lutter pour percer dans les cercles d'amitié existants, ou ils se sentent
-leurs relations sont superficielles et on attend d'eux qu'ils présentent
-seulement une image chrétienne heureuse. Néanmoins, il est habituel que l'église
+Il y a plusieurs raisons pour lesquelles nous aimons l'Ã©glise. Peut-Ãªtre la plus grande raison
+pour la plupart d'entre nous, c'est que l'Ã©glise est le lieu oÃ¹ nous sommes aimÃ©s et acceptÃ©s.
+L'Ã‰glise devient notre famille et notre communautÃ©. C'est un endroit sÃ»r. MalgrÃ©
+il y en a beaucoup qui ne trouvent pas que l'Ã©glise soit comme Ã§a. Ils
+lutter pour percer dans les cercles d'amitiÃ© existants, ou ils se sentent
+leurs relations sont superficielles et on attend d'eux qu'ils prÃ©sentent
+seulement une image chrÃ©tienne heureuse. NÃ©anmoins, il est habituel que l'Ã©glise
 fournit le hub social pour ses membres.
 
 #### Une motivation
 
-Beaucoup de gens ont un rôle à jouer dans le maintien de l'église, que ce soit
+Beaucoup de gens ont un rÃ´le Ã  jouer dans le maintien de l'Ã©glise, que ce soit
 installer des chaises, jouer d'un instrument dans la fanfare, diriger un
-groupe quelconque ou donner des soins pastoraux. Ces rôles contribuent à nous donnerraison pour laquelle il est courant que les églises essaient de trouver des rôles pour autant de
-les gens que possible. L'Église donne à ses membres un sens du but
+groupe quelconque ou donner des soins pastoraux. Ces rÃ´les contribuent Ã  nous donnerraison pour laquelle il est courant que les Ã©glises essaient de trouver des rÃ´les pour autant de
+les gens que possible. L'Ã‰glise donne Ã  ses membres un sens du but
 et signification.
 
 #### Chant communautaire
 
-« L'adoration » est généralement considérée comme la partie la plus importante d'un
+Â«Â L'adorationÂ Â» est gÃ©nÃ©ralement considÃ©rÃ©e comme la partie la plus importante d'un
 service religieux par ses membres. Un bon groupe et de bonnes chansons font
-'culter' un moment fort de la semaine pour de nombreuses églises. Le chef d'adoration
-apprécie l'expérience de diriger cet événement à haute énergie, le groupe apprécie
-créant de superbes effets musicaux, les chanteurs aiment avoir leur voix
-projeté par l'AP, la congrégation profite de la voix et du physique
-entraînement. Un bon moment est passé par tous! Ceci n'est pas destiné à être un
-analyse cynique du culte, mais une reconnaissance honnête de l'humain
-aspect du culte. Faire de la musique et chanter en communauté est quelque chose qui
-est universellement apprécié par les humains. Chanter dans un service religieux devrait
-ont les éléments supplémentaires d'exprimer l'amour pour Dieu et la foi en son
-vérités éternelles. Le chant joue un rôle important dans le renforcement des valeurs et
-créer une communauté. Chanter doit être amusant et stimulant. C'est ce que
-Dieu l'a inventé pour.
+'culter' un moment fort de la semaine pour de nombreuses Ã©glises. Le chef d'adoration
+apprÃ©cie l'expÃ©rience de diriger cet Ã©vÃ©nement Ã  haute Ã©nergie, le groupe apprÃ©cie
+crÃ©ant de superbes effets musicaux, les chanteurs aiment avoir leur voix
+projetÃ© par l'AP, la congrÃ©gation profite de la voix et du physique
+entraÃ®nement. Un bon moment est passÃ© par tous! Ceci n'est pas destinÃ© Ã  Ãªtre un
+analyse cynique du culte, mais une reconnaissance honnÃªte de l'humain
+aspect du culte. Faire de la musique et chanter en communautÃ© est quelque chose qui
+est universellement apprÃ©ciÃ© par les humains. Chanter dans un service religieux devrait
+ont les Ã©lÃ©ments supplÃ©mentaires d'exprimer l'amour pour Dieu et la foi en son
+vÃ©ritÃ©s Ã©ternelles. Le chant joue un rÃ´le important dans le renforcement des valeurs et
+crÃ©er une communautÃ©. Chanter doit Ãªtre amusant et stimulant. C'est ce que
+Dieu l'a inventÃ© pour.
 
 #### Bons sermons
 
-Certaines églises sont fières de fournir d'excellents sermons. Quoi
-considéré comme excellent peut aller d'hilarant à savant
-exposition, de l'allégorie imaginative à la révélation de
-significations. Les sermons sont recherchés et élaborés, puis transformés en
-ressources pédagogiques et livres. Les gens adorent s'asseoir sous ça
-enseigner et rentrer à la maison en sentant qu'ils ont été correctement nourris avec le mot
-de Dieu. Mais ces auditeurs sont-ils des disciples plus pieux et plus obéissants
-que ceux qui ont un enseignement moins inspiré ? Dieu doit être le juge de
-cette. Mais il est certainement vrai que de nombreux chrétiens aiment en savoir plus
-et plus sur la Bible et sont beaucoup plus heureux d'être enseignés qu'ils ne le sont
-la mettre en pratique. Un service ou un groupe de maison est souvent jugé bon
-où une nouvelle interprétation a été donnée à un ancien passage familier
-lui donner vie d'une nouvelle manière. Nous rentrons à la maison avec le bourdonnement satisfaisant de
-nouvelle connaissance. L'Église peut stimuler notre intellect et nous exciter avec de nouvelles
+Certaines Ã©glises sont fiÃ¨res de fournir d'excellents sermons. Quoi
+considÃ©rÃ© comme excellent peut aller d'hilarant Ã  savant
+exposition, de l'allÃ©gorie imaginative Ã  la rÃ©vÃ©lation de
+significations. Les sermons sont recherchÃ©s et Ã©laborÃ©s, puis transformÃ©s en
+ressources pÃ©dagogiques et livres. Les gens adorent s'asseoir sous Ã§a
+enseigner et rentrer Ã  la maison en sentant qu'ils ont Ã©tÃ© correctement nourris avec le mot
+de Dieu. Mais ces auditeurs sont-ils des disciples plus pieux et plus obÃ©issants
+que ceux qui ont un enseignement moins inspirÃ© ? Dieu doit Ãªtre le juge de
+cette. Mais il est certainement vrai que de nombreux chrÃ©tiens aiment en savoir plus
+et plus sur la Bible et sont beaucoup plus heureux d'Ãªtre enseignÃ©s qu'ils ne le sont
+la mettre en pratique. Un service ou un groupe de maison est souvent jugÃ© bon
+oÃ¹ une nouvelle interprÃ©tation a Ã©tÃ© donnÃ©e Ã  un ancien passage familier
+lui donner vie d'une nouvelle maniÃ¨re. Nous rentrons Ã  la maison avec le bourdonnement satisfaisant de
+nouvelle connaissance. L'Ã‰glise peut stimuler notre intellect et nous exciter avec de nouvelles
 notions.
 
 #### Devoir religieux
 
-Beaucoup de gens vont à l'église sans aucun sentiment d'anticipation. Ils ne
-attendons avec impatience la communion, l'adoration ou l'enseignement. L'église est
+Beaucoup de gens vont Ã  l'Ã©glise sans aucun sentiment d'anticipation. Ils ne
+attendons avec impatience la communion, l'adoration ou l'enseignement. L'Ã©glise est
 pas une source de joie, de force ou d'encouragement. C'est juste quelque chose
 ils le font chaque dimanche parce que. Parce que c'est ce qu'ils font toujours. Parce que
-c'est ce que font les chrétiens. Parce que la lettre aux Hébreux dit que nous
-ne doit pas négliger de se rencontrer. D'une certaine manière, il remplit un
+c'est ce que font les chrÃ©tiens. Parce que la lettre aux HÃ©breux dit que nous
+ne doit pas nÃ©gliger de se rencontrer. D'une certaine maniÃ¨re, il remplit un
 obligation religieuse. Nous faisons soit ce que Dieu attend de nous, soit
 ce que les autres attendent de nous. Si nous devons encourager
-personnes à venir à l'église et déplorant le fait que beaucoup sont irréguliers
-participants, c'est peut-être parce que l'église est involontairement devenue un
+personnes Ã  venir Ã  l'Ã©glise et dÃ©plorant le fait que beaucoup sont irrÃ©guliers
+participants, c'est peut-Ãªtre parce que l'Ã©glise est involontairement devenue un
 question de devoir religieux pour nous aussi.
 
-#### Une expérience mystique
+#### Une expÃ©rience mystique
 
-Au cours des premiers siècles de l'église, peut-être le point culminant de
-la fréquentation de l'église était le partage de la Sainte Communion - le corps mystique
-et le sang de Jésus. Seuls les croyants baptisés ont été autorisés à participer
-et beaucoup ont risqué leur vie pour partager le repas sacré. Dans les églises où
-la communion est partagée la plupart des semaines, elle devient souvent la plus importante
-raison de la fréquentation de l'église. C'est étonnant à la lumière de Jésus
-l'enseignement, l'histoire de l'église et le témoignage actuel que tant d'églises
-partager la communion si rarement. L'Église nous donne l'occasion de
-exprimer et partager notre union mystique avec Jésus par le pain et
+Au cours des premiers siÃ¨cles de l'Ã©glise, peut-Ãªtre le point culminant de
+la frÃ©quentation de l'Ã©glise Ã©tait le partage de la Sainte Communion - le corps mystique
+et le sang de JÃ©sus. Seuls les croyants baptisÃ©s ont Ã©tÃ© autorisÃ©s Ã  participer
+et beaucoup ont risquÃ© leur vie pour partager le repas sacrÃ©. Dans les Ã©glises oÃ¹
+la communion est partagÃ©e la plupart des semaines, elle devient souvent la plus importante
+raison de la frÃ©quentation de l'Ã©glise. C'est Ã©tonnant Ã  la lumiÃ¨re de JÃ©sus
+l'enseignement, l'histoire de l'Ã©glise et le tÃ©moignage actuel que tant d'Ã©glises
+partager la communion si rarement. L'Ã‰glise nous donne l'occasion de
+exprimer et partager notre union mystique avec JÃ©sus par le pain et
 vin.
 
-#### Régulation
+#### RÃ©gulation
 
-Un tout autre type de raison pour l'église est ce que nous pourrions appeler
-régulation. Je suppose que presque toutes les églises et dénominations ont
-a commencé par un mouvement de Dieu et un sens de la révélation. Quelqu'un commence un
-église qui grandit et ils implantent une deuxième église. Ils veulent préserver
-les valeurs et les vérités qui ont été à la base de la fondation de l'église
-et qui, selon eux, ont joué un rôle important dans la croissance de l'église.modèle. Une approche courante consiste à demander « Quels sont nos
-distinctifs ?" En d'autres termes, pourquoi existons-nous séparément du
-baptistes et méthodistes ? Les signes distinctifs comprendront généralement certains
-accent mis sur la doctrine, un modèle de culte et une structure pour l'église
-gouvernement. Mais est-ce bon, nécessaire et agréable à Dieu ? Où nous
-essaient de corriger certaines erreurs courantes, ce peut être la bonne chose à faire
-faire, mais je ne vois aucune justification à ce règlement lorsqu'il s'agit d'un
-question de choix et d'emphase plutôt que de vérité et d'erreur. Pourquoi devrais-je
-une église ou une génération a défini les paramètres du culte pour une autre ? Pouvez
-Dieu n'est-il pas digne de confiance pour conduire les autres dans une vie digne de l'évangile ?
+Un tout autre type de raison pour l'Ã©glise est ce que nous pourrions appeler
+rÃ©gulation. Je suppose que presque toutes les Ã©glises et dÃ©nominations ont
+a commencÃ© par un mouvement de Dieu et un sens de la rÃ©vÃ©lation. Quelqu'un commence un
+Ã©glise qui grandit et ils implantent une deuxiÃ¨me Ã©glise. Ils veulent prÃ©server
+les valeurs et les vÃ©ritÃ©s qui ont Ã©tÃ© Ã  la base de la fondation de l'Ã©glise
+et qui, selon eux, ont jouÃ© un rÃ´le important dans la croissance de l'Ã©glise.modÃ¨le. Une approche courante consiste Ã  demander Â«Â Quels sont nos
+distinctifs ?" En d'autres termes, pourquoi existons-nous sÃ©parÃ©ment du
+baptistes et mÃ©thodistes ? Les signes distinctifs comprendront gÃ©nÃ©ralement certains
+accent mis sur la doctrine, un modÃ¨le de culte et une structure pour l'Ã©glise
+gouvernement. Mais est-ce bon, nÃ©cessaire et agrÃ©able Ã  Dieu ? OÃ¹ nous
+essaient de corriger certaines erreurs courantes, ce peut Ãªtre la bonne chose Ã  faire
+faire, mais je ne vois aucune justification Ã  ce rÃ¨glement lorsqu'il s'agit d'un
+question de choix et d'emphase plutÃ´t que de vÃ©ritÃ© et d'erreur. Pourquoi devrais-je
+une Ã©glise ou une gÃ©nÃ©ration a dÃ©fini les paramÃ¨tres du culte pour une autre ? Pouvez
+Dieu n'est-il pas digne de confiance pour conduire les autres dans une vie digne de l'Ã©vangile ?
 
 #### Puissance
 
-Le contrôle et la réglementation sont des conditions préalables au pouvoir et à l'autorité. Certains
-les gens ont soif de pouvoir et d'autorité et ils utilisent l'église
-structures pour acquérir et exercer ce pouvoir. Mais c'est quelque chose qui
-Jésus a spécifiquement parlé contre.
+Le contrÃ´le et la rÃ©glementation sont des conditions prÃ©alables au pouvoir et Ã  l'autoritÃ©. Certains
+les gens ont soif de pouvoir et d'autoritÃ© et ils utilisent l'Ã©glise
+structures pour acquÃ©rir et exercer ce pouvoir. Mais c'est quelque chose qui
+JÃ©sus a spÃ©cifiquement parlÃ© contre.
 
-Mais Jésus les rappela à lui et dit : « Vous savez que les chefs de
+Mais JÃ©sus les rappela Ã  lui et dit : Â« Vous savez que les chefs de
 les Gentils dominent sur eux, et ceux qui sont un grand exercice
-autorité sur eux. Mais il n'en sera pas ainsi parmi vous ; mais qui que ce soit
-désire devenir grand parmi vous, qu'il soit votre serviteur. Et quiconque
-désire être le premier parmi vous, qu'il soit votre esclave --- comme le Fils
-de l'homme n'est pas venu pour être servi, mais pour servir et donner à sa vie une
-rançon pour plusieurs. » (Mt 20 :25-28)
+autoritÃ© sur eux. Mais il n'en sera pas ainsi parmi vous ; mais qui que ce soit
+dÃ©sire devenir grand parmi vous, qu'il soit votre serviteur. Et quiconque
+dÃ©sire Ãªtre le premier parmi vous, qu'il soit votre esclave --- comme le Fils
+de l'homme n'est pas venu pour Ãªtre servi, mais pour servir et donner Ã  sa vie une
+ranÃ§on pour plusieurs. Â» (Mt 20Â :25-28)
 
-Certaines personnes veulent être le chef. Ils veulent recevoir l'honneur et
+Certaines personnes veulent Ãªtre le chef. Ils veulent recevoir l'honneur et
 reconnaissance de leurs semblables. Ils veulent exercer le pouvoir et
-peut-être veulent-ils aussi de la richesse. Ou peut-être qu'ils veulent un endroit où ils peuvent
-exposer leurs idées ou impressionner les gens avec leurs dons de parole ou
-même divertissement. Les églises offrent un moyen de contrôle aux personnes qui
-veulent établir un royaume pour eux-mêmes.
+peut-Ãªtre veulent-ils aussi de la richesse. Ou peut-Ãªtre qu'ils veulent un endroit oÃ¹ ils peuvent
+exposer leurs idÃ©es ou impressionner les gens avec leurs dons de parole ou
+mÃªme divertissement. Les Ã©glises offrent un moyen de contrÃ´le aux personnes qui
+veulent Ã©tablir un royaume pour eux-mÃªmes.
 
 #### Collecte de fonds
 
-Pour diverses raisons, les membres d'église ont tendance à être mieux lotis
-financièrement que les non-membres de l'église de la même communauté. Église
-les membres sont également plus susceptibles de donner de l'argent à une bonne cause que
-non membres de l'église. Les églises offrent donc un moyen efficace de
-collecte de fonds. Les dénominations peuvent rapporter encore plus d'argent. Mais le grand
-la majorité de l'argent collecté dans les églises est dépensé au sein de l'église pour
-salaires et bâtiments. Certaines églises donnent 1/10 de ce qu'elles collectent à
+Pour diverses raisons, les membres d'Ã©glise ont tendance Ã  Ãªtre mieux lotis
+financiÃ¨rement que les non-membres de l'Ã©glise de la mÃªme communautÃ©. Ã‰glise
+les membres sont Ã©galement plus susceptibles de donner de l'argent Ã  une bonne cause que
+non membres de l'Ã©glise. Les Ã©glises offrent donc un moyen efficace de
+collecte de fonds. Les dÃ©nominations peuvent rapporter encore plus d'argent. Mais le grand
+la majoritÃ© de l'argent collectÃ© dans les Ã©glises est dÃ©pensÃ© au sein de l'Ã©glise pour
+salaires et bÃ¢timents. Certaines Ã©glises donnent 1/10 de ce qu'elles collectent Ã 
 missions, beaucoup ne le font pas. Il n'en reste pas moins qu'environ 9/10 de l'argent
-les membres de l'église donnent est dépensé pour eux-mêmes -- améliorer « l'église
-expérience". C'est aussi un fait qu'il n'y a pas une seule instance ou
-mention de la collecte de fonds pour la gestion de l'église dans la Bible.
+les membres de l'Ã©glise donnent est dÃ©pensÃ© pour eux-mÃªmes -- amÃ©liorer Â« l'Ã©glise
+expÃ©rience". C'est aussi un fait qu'il n'y a pas une seule instance ou
+mention de la collecte de fonds pour la gestion de l'Ã©glise dans la Bible.
 
 #### Division du travail
 
-Les églises ont une sorte de structure, comprenant généralement un leadership
-structure, une sorte de "déclaration de foi", un format pour les services,
-une façon acceptée de prendre des décisions de leadership et souvent une forme de
-relation de surveillance avec une famille d'églises similaires. Ceux-ci sont
-éléments communs à tout type de corps organisé de personnes, qu'il s'agisse
-religieux ou laïque. Il y a deux raisons fondamentales à ces structures :
-division du travail et contrôle. Les gens se réunissent parce qu'ils veulent
-réaliser quelque chose qu'ils ne peuvent pas réaliser par eux-mêmes. C'est la division de
-la main d'oeuvre. Comme Paul l'a dit, le corps est composé de plusieurs parties différentes,
-chacun jouant son rôle. Mais pour que ces parties travaillent ensemble pour un
-but il doit y avoir une tête dirigeant les pièces. C'est là où
-le contrôle entre en jeu. Si quelqu'un a une vision pour réaliser quelque chose, il
-ne peuvent pas réaliser par eux-mêmes, ils doivent recruter des adeptes qui
-coopérer avec eux, faire leur offre, afin que le grand travail puisse être
-accompli. C'est la vision de l'église qui nous est présentée dans le
-Épîtres, avec Christ Lui-même étant la tête dirigeant l'église, Son
+Les Ã©glises ont une sorte de structure, comprenant gÃ©nÃ©ralement un leadership
+structure, une sorte de "dÃ©claration de foi", un format pour les services,
+une faÃ§on acceptÃ©e de prendre des dÃ©cisions de leadership et souvent une forme de
+relation de surveillance avec une famille d'Ã©glises similaires. Ceux-ci sont
+Ã©lÃ©ments communs Ã  tout type de corps organisÃ© de personnes, qu'il s'agisse
+religieux ou laÃ¯que. Il y a deux raisons fondamentales Ã  ces structures :
+division du travail et contrÃ´le. Les gens se rÃ©unissent parce qu'ils veulent
+rÃ©aliser quelque chose qu'ils ne peuvent pas rÃ©aliser par eux-mÃªmes. C'est la division de
+la main d'oeuvre. Comme Paul l'a dit, le corps est composÃ© de plusieurs parties diffÃ©rentes,
+chacun jouant son rÃ´le. Mais pour que ces parties travaillent ensemble pour un
+but il doit y avoir une tÃªte dirigeant les piÃ¨ces. C'est lÃ  oÃ¹
+le contrÃ´le entre en jeu. Si quelqu'un a une vision pour rÃ©aliser quelque chose, il
+ne peuvent pas rÃ©aliser par eux-mÃªmes, ils doivent recruter des adeptes qui
+coopÃ©rer avec eux, faire leur offre, afin que le grand travail puisse Ãªtre
+accompli. C'est la vision de l'Ã©glise qui nous est prÃ©sentÃ©e dans le
+Ã‰pÃ®tres, avec Christ Lui-mÃªme Ã©tant la tÃªte dirigeant l'Ã©glise, Son
 corps, dans la mission mondiale.
 
-#### Une raison d'être église
+#### Une raison d'Ãªtre Ã©glise
 
-Nous avons mentionné une série de raisons pour lesquelles les gens aiment l'église et sans aucun doute
-chacun a sa place dans les desseins de Dieu pour son peuple rassemblé. Mais le
-Le Nouveau Testament est étonnamment silencieux sur bon nombre de ces aspects derelations entre les croyants et vivre l'évangile en tant que disciples
-de Jésus.
+Nous avons mentionnÃ© une sÃ©rie de raisons pour lesquelles les gens aiment l'Ã©glise et sans aucun doute
+chacun a sa place dans les desseins de Dieu pour son peuple rassemblÃ©. Mais le
+Le Nouveau Testament est Ã©tonnamment silencieux sur bon nombre de ces aspects derelations entre les croyants et vivre l'Ã©vangile en tant que disciples
+de JÃ©sus.
 
-Ce serait un exercice sain si nous devions considérer sérieusement la
-raisons pour lesquelles les gens viennent dans nos églises et pourquoi nous voulons qu'ils viennent.
+Ce serait un exercice sain si nous devions considÃ©rer sÃ©rieusement la
+raisons pour lesquelles les gens viennent dans nos Ã©glises et pourquoi nous voulons qu'ils viennent.
 
-### Sa présence [^1]
+### Sa prÃ©sence [^1]
 
-L'église n'est pas seulement le rassemblement du peuple de Dieu ; c'est la présence de
-Jésus parmi Son peuple. Sans sa présence, il n'y a pas d'église.
+L'Ã©glise n'est pas seulement le rassemblement du peuple de Dieu ; c'est la prÃ©sence de
+JÃ©sus parmi Son peuple. Sans sa prÃ©sence, il n'y a pas d'Ã©glise.
 
-« Car là où deux ou trois sont réunis en mon nom, je suis là en
+Â« Car lÃ  oÃ¹ deux ou trois sont rÃ©unis en mon nom, je suis lÃ  en
 au milieu d'eux." (Mt 18:20)
 
-Mais sa présence n'est pas avec nous simplement pour observer, réconforter ou entendre
-nos prières, mais pour nous conduire dans sa mission. La promesse de sa présence
+Mais sa prÃ©sence n'est pas avec nous simplement pour observer, rÃ©conforter ou entendre
+nos priÃ¨res, mais pour nous conduire dans sa mission. La promesse de sa prÃ©sence
 est venu avec une commission:
 
-« Tout pouvoir m'a été donné dans les cieux et sur la terre. Allez donc
+Â« Tout pouvoir m'a Ã©tÃ© donnÃ© dans les cieux et sur la terre. Allez donc
 et faites de toutes les nations des disciples, les baptisant au nom de la
-Père et du Fils et du Saint-Esprit, leur apprenant à observer
-tout ce que je t'ai commandé ; Et voilà, je suis toujours avec toi, même
-jusqu'à la fin des temps." (Mt 28:18-20)
+PÃ¨re et du Fils et du Saint-Esprit, leur apprenant Ã  observer
+tout ce que je t'ai commandÃ© ; Et voilÃ , je suis toujours avec toi, mÃªme
+jusqu'Ã  la fin des temps." (Mt 28:18-20)
 
-Lorsque nous sommes engagés dans sa mission, nous pouvons être assurés de sa
-présence autoritaire. Mais quand nous sommes distraits par l'introspection et
-petite politique de l'église, nous risquons gravement que Jésus retire son
-présence:
+Lorsque nous sommes engagÃ©s dans sa mission, nous pouvons Ãªtre assurÃ©s de sa
+prÃ©sence autoritaire. Mais quand nous sommes distraits par l'introspection et
+petite politique de l'Ã©glise, nous risquons gravement que JÃ©sus retire son
+prÃ©sence:
 
-Écris à l'ange de l'église d'Éphèse : « Ces choses disent celui qui
-tient les sept étoiles dans sa main droite, qui marche au milieu du
-sept chandeliers d'or... Si vous ne vous repentez pas, je viendrai à vous et
-enlève ton chandelier de sa place." (Ap 2:1,5)
+Ã‰cris Ã  l'ange de l'Ã©glise d'Ã‰phÃ¨se : Â« Ces choses disent celui qui
+tient les sept Ã©toiles dans sa main droite, qui marche au milieu du
+sept chandeliers d'or... Si vous ne vous repentez pas, je viendrai Ã  vous et
+enlÃ¨ve ton chandelier de sa place." (Ap 2:1,5)
 
-L'Église est un ministère PAR Jésus, pas un ministère POUR Jésus et devrait être
-mesurée non par notre présence mais par sa présence. Mais remarquons-nous même
-La présence de Jésus ? Si le leader ne peut pas être là, nous pensons : « Que devons-nous
-faire?" Nous ressentons l'absence du "chef" plus que l'absence de Jésus !
-Quelle différence cela ferait d'avoir Jésus dans l'équipe de direction ? Nous
-devrait dire "Que ferait Jésus s'il était ici...?" et puis dire
-"Jésus EST ici, alors..."
+L'Ã‰glise est un ministÃ¨re PAR JÃ©sus, pas un ministÃ¨re POUR JÃ©sus et devrait Ãªtre
+mesurÃ©e non par notre prÃ©sence mais par sa prÃ©sence. Mais remarquons-nous mÃªme
+La prÃ©sence de JÃ©sus ? Si le leader ne peut pas Ãªtre lÃ , nous pensonsÂ : Â«Â Que devons-nous
+faire?" Nous ressentons l'absence du "chef" plus que l'absence de JÃ©sus !
+Quelle diffÃ©rence cela ferait d'avoir JÃ©sus dans l'Ã©quipe de direction ? Nous
+devrait dire "Que ferait JÃ©sus s'il Ã©tait ici...?" et puis dire
+"JÃ©sus EST ici, alors..."
 
-### Connaître sa présence
+### ConnaÃ®tre sa prÃ©sence
 
-Jésus a dit à ses disciples de prêcher en disant : « Le Royaume de Dieu est à
-main." Et "Le Royaume de Dieu s'est approché de vous aujourd'hui." Il a dit que
-Lui et le Père feraient leur demeure avec nous. Il a dit nos anges
-veille sur nous. Il a dit qu'il serait avec nous et que nous pouvons répondre aux
-Père où que nous soyons avec une simple prière. Elisée pria : " SEIGNEUR ouvre
-ses yeux pour qu'il voie. » Alors l'Éternel ouvrit les yeux des jeunes
-homme, et il a vu. Et voici, la montagne était pleine de chevaux et
-des chars de feu tout autour d'Elisée. (2R 6:17).
+JÃ©sus a dit Ã  ses disciples de prÃªcher en disant : Â« Le Royaume de Dieu est Ã 
+main." Et "Le Royaume de Dieu s'est approchÃ© de vous aujourd'hui." Il a dit que
+Lui et le PÃ¨re feraient leur demeure avec nous. Il a dit nos anges
+veille sur nous. Il a dit qu'il serait avec nous et que nous pouvons rÃ©pondre aux
+PÃ¨re oÃ¹ que nous soyons avec une simple priÃ¨re. ElisÃ©e pria : " SEIGNEUR ouvre
+ses yeux pour qu'il voie. Â» Alors l'Ã‰ternel ouvrit les yeux des jeunes
+homme, et il a vu. Et voici, la montagne Ã©tait pleine de chevaux et
+des chars de feu tout autour d'ElisÃ©e. (2R 6:17).
 
-Nous ne devrions pas penser au paradis et à l'armée céleste comme étant quelque part
-autre. Ils sont avec nous et autour de nous. Quand on tend la main à
-guérir, n'imaginez pas qu'un e-mail spirituel soit envoyé au ciel pour
-avertir le Père d'envoyer un certain pouvoir de guérison par courrier angélique. Lorsque
-nous servons, nous sommes le ciel rendu visible aux yeux qui ne peuvent pas voir. Jésus
-est juste là avec nous, administrant Son amour.
+Nous ne devrions pas penser au paradis et Ã  l'armÃ©e cÃ©leste comme Ã©tant quelque part
+autre. Ils sont avec nous et autour de nous. Quand on tend la main Ã 
+guÃ©rir, n'imaginez pas qu'un e-mail spirituel soit envoyÃ© au ciel pour
+avertir le PÃ¨re d'envoyer un certain pouvoir de guÃ©rison par courrier angÃ©lique. Lorsque
+nous servons, nous sommes le ciel rendu visible aux yeux qui ne peuvent pas voir. JÃ©sus
+est juste lÃ  avec nous, administrant Son amour.
 
-Par la foi, nous connaissons sa présence, et en agissant selon cette foi, nous voyons le
-résultats de sa présence. Cela devrait être au cœur de ce que cela signifie
-pour nous d'être et de faire l'église. Dieu demeurant avec son peuple ; Christ agissant
-à travers Son Corps.
+Par la foi, nous connaissons sa prÃ©sence, et en agissant selon cette foi, nous voyons le
+rÃ©sultats de sa prÃ©sence. Cela devrait Ãªtre au cÅ“ur de ce que cela signifie
+pour nous d'Ãªtre et de faire l'Ã©glise. Dieu demeurant avec son peuple ; Christ agissant
+Ã  travers Son Corps.
 
-## Commission de Jésus
+## Commission de JÃ©sus
 
-### Fais ce que je t'ai commandé
+### Fais ce que je t'ai commandÃ©
 
-La Grande Commission doit être parmi les écritures les plus connues par
-Les chrétiens:
+La Grande Commission doit Ãªtre parmi les Ã©critures les plus connues par
+Les chrÃ©tiens:
 
-« Tout pouvoir m'a été donné dans les cieux et sur la terre. Allez donc
+Â« Tout pouvoir m'a Ã©tÃ© donnÃ© dans les cieux et sur la terre. Allez donc
 et faites de toutes les nations des disciples, les baptisant au nom de la
-Père et du Fils et du Saint-Esprit, leur apprenant à observer
-tout ce que je t'ai commandé ; Et voilà, je suis toujours avec toi, même
-jusqu'à la fin des temps." (Mt 28:18-20)
+PÃ¨re et du Fils et du Saint-Esprit, leur apprenant Ã  observer
+tout ce que je t'ai commandÃ© ; Et voilÃ , je suis toujours avec toi, mÃªme
+jusqu'Ã  la fin des temps." (Mt 28:18-20)
 
-Il est trop facile d'imaginer cette commission « d'aller faire des disciples
+Il est trop facile d'imaginer cette commission Â« d'aller faire des disciples
 de toutes les nations" s'applique aux missionnaires mais pas au reste d'entre nous,
-et non à notre église locale. Ou nous supposons que nous obéissons aux
-commande en courant et en fréquentant l'église. Mais il y a un très important
-chose à remarquer à propos de cette commission. Jésus n'a pas dit " enseignez-leur tousdit "apprenez-leur à m'obéir". Cela met un accent assez différent sur
-des choses. Lorsqu'un cheval est dressé ou qu'un chien-guide est dressé,
-il est entraîné à obéir. Ce n'est pas la même chose qu'être enseigné
-cours à l'école. Notre système éducatif est conçu pour nous apprendre à penser
-et comprendre et acquérir des connaissances. On peut facilement supposer que l'enseignement en
-l'église est similaire, sauf que nous apprenons à connaître Dieu. Certes, nous le faisons
-veulent en savoir plus sur Dieu et que les gens pensent profondément et intelligemment
-à propos de Dieu. Nous apprécions donc l'enseignement sur Dieu. Mais l'accent de
-La commission de Jésus n'enseigne pas la connaissance, mais l'obéissance à Jésus.
+et non Ã  notre Ã©glise locale. Ou nous supposons que nous obÃ©issons aux
+commande en courant et en frÃ©quentant l'Ã©glise. Mais il y a un trÃ¨s important
+chose Ã  remarquer Ã  propos de cette commission. JÃ©sus n'a pas dit " enseignez-leur tousdit "apprenez-leur Ã  m'obÃ©ir". Cela met un accent assez diffÃ©rent sur
+des choses. Lorsqu'un cheval est dressÃ© ou qu'un chien-guide est dressÃ©,
+il est entraÃ®nÃ© Ã  obÃ©ir. Ce n'est pas la mÃªme chose qu'Ãªtre enseignÃ©
+cours Ã  l'Ã©cole. Notre systÃ¨me Ã©ducatif est conÃ§u pour nous apprendre Ã  penser
+et comprendre et acquÃ©rir des connaissances. On peut facilement supposer que l'enseignement en
+l'Ã©glise est similaire, sauf que nous apprenons Ã  connaÃ®tre Dieu. Certes, nous le faisons
+veulent en savoir plus sur Dieu et que les gens pensent profondÃ©ment et intelligemment
+Ã  propos de Dieu. Nous apprÃ©cions donc l'enseignement sur Dieu. Mais l'accent de
+La commission de JÃ©sus n'enseigne pas la connaissance, mais l'obÃ©issance Ã  JÃ©sus.
 
-Enseigner l'obéissance à Jésus n'est pas la même chose qu'enseigner les histoires et
-paraboles de Jésus. Ce n'est pas la même chose que d'enseigner les doctrines de
-salut et grâce et résurrection. Ce n'est pas la même chose que prêcher
-l'évangile et conduire les gens à Christ. Toutes ces choses sont bonnes, mais
-ils ne sont pas la grande commission. Il n'y a qu'une seule façon de remplir les
-grande mission et c'est d'enseigner aux gens à *obéir* à Jésus.
+Enseigner l'obÃ©issance Ã  JÃ©sus n'est pas la mÃªme chose qu'enseigner les histoires et
+paraboles de JÃ©sus. Ce n'est pas la mÃªme chose que d'enseigner les doctrines de
+salut et grÃ¢ce et rÃ©surrection. Ce n'est pas la mÃªme chose que prÃªcher
+l'Ã©vangile et conduire les gens Ã  Christ. Toutes ces choses sont bonnes, mais
+ils ne sont pas la grande commission. Il n'y a qu'une seule faÃ§on de remplir les
+grande mission et c'est d'enseigner aux gens Ã  *obÃ©ir* Ã  JÃ©sus.
 
-Les gens doivent apprendre à obéir à Jésus. Cela ne vient pas naturellement.
-Il faut leur apprendre à lire la Bible, en particulier les évangiles,
-comment écouter Jésus leur parler par le Saint-Esprit, comment
+Les gens doivent apprendre Ã  obÃ©ir Ã  JÃ©sus. Cela ne vient pas naturellement.
+Il faut leur apprendre Ã  lire la Bible, en particulier les Ã©vangiles,
+comment Ã©couter JÃ©sus leur parler par le Saint-Esprit, comment
 croire et lui faire confiance et comment faire ce qu'il dit de faire.
 
-La formation de disciple est comme la mécanique automobile ; un groupe d'apprentis affluant
+La formation de disciple est comme la mÃ©canique automobile ; un groupe d'apprentis affluant
 le manuel, discuter de ce que cela signifie et comment le faire, puis sortir
 et d'essayer.
 
 ### Commencer petit
 
-Jésus a dit : « Là où deux ou trois sont réunis en mon nom, je suis
-là au milieu d'eux" (Mt 18, 20).
+JÃ©sus a dit : Â« LÃ  oÃ¹ deux ou trois sont rÃ©unis en mon nom, je suis
+lÃ  au milieu d'eux" (Mt 18, 20).
 
-L'unité de base de l'église est deux et trois qui s'encouragent mutuellement dans
-obéissance à Jésus. C'est un bon point de départ. Il n'y a pas un seul
-commande d'initier des églises, mais plutôt de faire des disciples. Si nous ne pouvons pas
-découvrir la présence et la volonté de Jésus par groupes de deux ou trois, puis
-nous ne pouvons pas nous attendre à le faire avec un groupe plus important. Si nous ne pouvons pas multiplier
-groupes de 2 ou 3 nous ne multiplierons jamais l'église.[^2]
+L'unitÃ© de base de l'Ã©glise est deux et trois qui s'encouragent mutuellement dans
+obÃ©issance Ã  JÃ©sus. C'est un bon point de dÃ©part. Il n'y a pas un seul
+commande d'initier des Ã©glises, mais plutÃ´t de faire des disciples. Si nous ne pouvons pas
+dÃ©couvrir la prÃ©sence et la volontÃ© de JÃ©sus par groupes de deux ou trois, puis
+nous ne pouvons pas nous attendre Ã  le faire avec un groupe plus important. Si nous ne pouvons pas multiplier
+groupes de 2 ou 3 nous ne multiplierons jamais l'Ã©glise.[^2]
 
-Être disciple est une aventure de foi. Il faut que les gens soient ouverts et
-réels les uns avec les autres et d'être prêts à prendre des risques et à faire
+ÃŠtre disciple est une aventure de foi. Il faut que les gens soient ouverts et
+rÃ©els les uns avec les autres et d'Ãªtre prÃªts Ã  prendre des risques et Ã  faire
 erreurs. Faire des disciples est une entreprise qui prend du temps et qui requiert une
-des relations. Plus à ce sujet plus tard.
+des relations. Plus Ã  ce sujet plus tard.
 
 ### Quoi? Pas de professeur de bible ?
 
-Nous ne devons pas penser que chaque petit groupe a besoin d'un personnel qualifié et formé
-leader. Trois nouveaux croyants peuvent lire les écritures ensemble,
-apprendre du Saint-Esprit et voir Dieu répondre à leurs prières. C'est le
-essence de l'église.
+Nous ne devons pas penser que chaque petit groupe a besoin d'un personnel qualifiÃ© et formÃ©
+leader. Trois nouveaux croyants peuvent lire les Ã©critures ensemble,
+apprendre du Saint-Esprit et voir Dieu rÃ©pondre Ã  leurs priÃ¨res. C'est le
+essence de l'Ã©glise.
 
-Il ne faut pas retenir les gens parce qu'ils n'ont pas été formés. Nous devons
-pas enseigner aux gens à dépendre de nous pour comprendre le mot. Elles doivent
-savent qu'ils peuvent se nourrir. Ils doivent savoir que Jésus lui-même a
-les a mandatés et les envoie avec Son autorité pour faire Son travail. Ils
-doivent savoir qu'ils peuvent dépendre du Saint-Esprit et des Écritures pour être
+Il ne faut pas retenir les gens parce qu'ils n'ont pas Ã©tÃ© formÃ©s. Nous devons
+pas enseigner aux gens Ã  dÃ©pendre de nous pour comprendre le mot. Elles doivent
+savent qu'ils peuvent se nourrir. Ils doivent savoir que JÃ©sus lui-mÃªme a
+les a mandatÃ©s et les envoie avec Son autoritÃ© pour faire Son travail. Ils
+doivent savoir qu'ils peuvent dÃ©pendre du Saint-Esprit et des Ã‰critures pour Ãªtre
 leur enseignant.
 
 En tant qu'enseignants, nous devons semer la semence de la parole de Dieu dans le
-cœurs, pas notre remix du mot. Notre travail n'est pas de donner des messages
-à propos de la parole, mais pour démontrer notre conviction que Jésus Lui-même a
+cÅ“urs, pas notre remix du mot. Notre travail n'est pas de donner des messages
+Ã  propos de la parole, mais pour dÃ©montrer notre conviction que JÃ©sus Lui-mÃªme a
 les mots de la vie.
 
-« Car la parole de Dieu est vivante et active.
-l'épée, elle pénètre jusqu'à diviser l'âme et l'esprit, les jointures et
-moelle; il juge les pensées et les attitudes du cœur." (He 4,12)
+Â«Â Car la parole de Dieu est vivante et active.
+l'Ã©pÃ©e, elle pÃ©nÃ¨tre jusqu'Ã  diviser l'Ã¢me et l'esprit, les jointures et
+moelle; il juge les pensÃ©es et les attitudes du cÅ“ur." (He 4,12)
 
-Peux-tu faire ça? Pensons-nous que nous pouvons l'améliorer? Alors pourquoi élevons-nous
-nos sermons sur le mot plutôt que sur le mot lui-même ? [^3]
+Peux-tu faire Ã§a? Pensons-nous que nous pouvons l'amÃ©liorer? Alors pourquoi Ã©levons-nous
+nos sermons sur le mot plutÃ´t que sur le mot lui-mÃªme ? [^3]
 
-### Action de première ligne dès le départ
+### Action de premiÃ¨re ligne dÃ¨s le dÃ©part
 
-Jésus a choisi des pêcheurs sans instruction pour être ses disciples et les a envoyés
-en mission immédiatement. Ils n'étaient pas formés à l'étude de la Bible et
-direction. Ils ne savaient pas comment prêcher ou diriger des réunions de prière.
-Néanmoins, Jésus leur envoya :
+JÃ©sus a choisi des pÃªcheurs sans instruction pour Ãªtre ses disciples et les a envoyÃ©s
+en mission immÃ©diatement. Ils n'Ã©taient pas formÃ©s Ã  l'Ã©tude de la Bible et
+direction. Ils ne savaient pas comment prÃªcher ou diriger des rÃ©unions de priÃ¨re.
+NÃ©anmoins, JÃ©sus leur envoya :
 
-Alors Jésus leur dit encore : « Paix à vous ! Comme le Père m'a envoyé, je
+Alors JÃ©sus leur dit encore : Â« Paix Ã  vous ! Comme le PÃ¨re m'a envoyÃ©, je
 vous envoie aussi." (Jean 20:21)
 
-« Voici, je vous envoie comme des brebis au milieu des loups.
-sages comme les serpents et inoffensifs comme les colombes. » (Mt 10 :16)immédiatement les nouveaux croyants en mission.[^4] Mais ils doivent savoir que c'est
-non pas nous qui les envoyons, mais Jésus, et ils marchent avec son autorité :
+Â« Voici, je vous envoie comme des brebis au milieu des loups.
+sages comme les serpents et inoffensifs comme les colombes. Â» (Mt 10Â :16)immÃ©diatement les nouveaux croyants en mission.[^4] Mais ils doivent savoir que c'est
+non pas nous qui les envoyons, mais JÃ©sus, et ils marchent avec son autoritÃ© :
 
-« Tout pouvoir m'a été donné dans les cieux et sur la terre. Allez donc
+Â« Tout pouvoir m'a Ã©tÃ© donnÃ© dans les cieux et sur la terre. Allez donc
 et faites de toutes les nations des disciples, les baptisant au nom de la
-Père et du Fils et du Saint-Esprit, leur apprenant à observer
-tout ce que je t'ai commandé ; Et voilà, je suis toujours avec toi, même
-jusqu'à la fin des temps." (Mt 28:18-20)
+PÃ¨re et du Fils et du Saint-Esprit, leur apprenant Ã  observer
+tout ce que je t'ai commandÃ© ; Et voilÃ , je suis toujours avec toi, mÃªme
+jusqu'Ã  la fin des temps." (Mt 28:18-20)
 
-La mission pour laquelle nous sommes envoyés est également claire ; faire ce que Jésus a fait :
+La mission pour laquelle nous sommes envoyÃ©s est Ã©galement claire ; faire ce que JÃ©sus a fait :
 
 Puis il rassembla ses douze disciples et leur donna puissance et
-l'autorité sur tous les démons, et pour guérir les maladies. Il les a envoyés prêcher
-le royaume de Dieu et de guérir les malades. (Lc 9,1-2)
+l'autoritÃ© sur tous les dÃ©mons, et pour guÃ©rir les maladies. Il les a envoyÃ©s prÃªcher
+le royaume de Dieu et de guÃ©rir les malades. (Lc 9,1-2)
 
-Telle doit être notre attente dès le début de la nouvelle
-vie en Christ. Nous devons enseigner l'obéissance remplie de foi dès le premier jour. "Voir
-un, faites-en un, enseignez-en un." Un nouveau croyant n'a qu'à observer le ministère
-une fois avant qu'il/elle ne doive avoir lui-même. Ayant exercé le ministère
-une fois, ils peuvent commencer à transmettre immédiatement ce qu'ils ont appris.
+Telle doit Ãªtre notre attente dÃ¨s le dÃ©but de la nouvelle
+vie en Christ. Nous devons enseigner l'obÃ©issance remplie de foi dÃ¨s le premier jour. "Voir
+un, faites-en un, enseignez-en un." Un nouveau croyant n'a qu'Ã  observer le ministÃ¨re
+une fois avant qu'il/elle ne doive avoir lui-mÃªme. Ayant exercÃ© le ministÃ¨re
+une fois, ils peuvent commencer Ã  transmettre immÃ©diatement ce qu'ils ont appris.
 
 ## Aller en son nom
 
 L'essence du discipulat, et donc l'accomplissement du grand
 commission, est incroyablement simple; groupes de deux ou trois croyants
-expérimenter la présence de Jésus et administrer la vérité évangélique et
-guérison dans son autorité aux incroyants.
+expÃ©rimenter la prÃ©sence de JÃ©sus et administrer la vÃ©ritÃ© Ã©vangÃ©lique et
+guÃ©rison dans son autoritÃ© aux incroyants.
 
-Alors comment et où allez-vous commencer votre groupe de deux ou trois ?
-Jésus nous donne des instructions claires et simples :
+Alors comment et oÃ¹ allez-vous commencer votre groupe de deux ou trois ?
+JÃ©sus nous donne des instructions claires et simples :
 
-« Maintenant, quelle que soit la ville ou la ville où vous entrez, demandez qui en est digne, et
-restez-y jusqu'à ce que vous sortiez." (Mt 10:11)
+Â« Maintenant, quelle que soit la ville ou la ville oÃ¹ vous entrez, demandez qui en est digne, et
+restez-y jusqu'Ã  ce que vous sortiez." (Mt 10:11)
 
-Nous commençons par nous rendre dans un endroit et demander aux gens « qui a besoin d'entendre le
-évangile?" Nous sommes susceptibles d'être dirigés vers de pauvres âmes désespérées dont
-les vies sont en lambeaux. Ensuite, nous faisons ce que Jésus a dit de faire :
+Nous commenÃ§ons par nous rendre dans un endroit et demander aux gens Â«Â qui a besoin d'entendre le
+Ã©vangile?" Nous sommes susceptibles d'Ãªtre dirigÃ©s vers de pauvres Ã¢mes dÃ©sespÃ©rÃ©es dont
+les vies sont en lambeaux. Ensuite, nous faisons ce que JÃ©sus a dit de faire :
 
-« En chemin, prêchez en disant : « Le royaume des cieux est proche. » Guérir le
-malades, purifie les lépreux, ressuscite les morts, chasse les démons. Librement vous
-avez reçu, donnez gratuitement." (Mt 10:7-8)
+Â«Â En chemin, prÃªchez en disantÂ :Â Â«Â Le royaume des cieux est proche.Â Â» GuÃ©rir le
+malades, purifie les lÃ©preux, ressuscite les morts, chasse les dÃ©mons. Librement vous
+avez reÃ§u, donnez gratuitement." (Mt 10:7-8)
 
-Nous offrons la guérison et la délivrance à ceux qui en ont besoin, et nous commençons notre
-« église » dans le foyer des nouveaux croyants, pas le nôtre (Mt 10 :11 ci-dessus). Cette
-veillera à ce que l'Évangile atteigne toute la famille, pas seulement un individu.
-Les églises nées de vies transformées sont en meilleure santé.
+Nous offrons la guÃ©rison et la dÃ©livrance Ã  ceux qui en ont besoin, et nous commenÃ§ons notre
+Â«Â Ã©gliseÂ Â» dans le foyer des nouveaux croyants, pas le nÃ´tre (Mt 10Â :11 ci-dessus). Cette
+veillera Ã  ce que l'Ã‰vangile atteigne toute la famille, pas seulement un individu.
+Les Ã©glises nÃ©es de vies transformÃ©es sont en meilleure santÃ©.
 
-Puis, suivant à nouveau l'exemple de Jésus, nous baptisons les nouveaux croyants
-immédiatement et publiquement et qu'ils baptisent leurs convertis :
+Puis, suivant Ã  nouveau l'exemple de JÃ©sus, nous baptisons les nouveaux croyants
+immÃ©diatement et publiquement et qu'ils baptisent leurs convertis :
 
-Par conséquent, lorsque le Seigneur sut que les pharisiens avaient entendu que Jésus
-fait et baptise plus de disciples que Jean (bien que Jésus lui-même n'ait pas
-baptiser, mais ses disciples), il quitta la Judée et repartit pour
-Galilée. (Jn 4:1-3)
+Par consÃ©quent, lorsque le Seigneur sut que les pharisiens avaient entendu que JÃ©sus
+fait et baptise plus de disciples que Jean (bien que JÃ©sus lui-mÃªme n'ait pas
+baptiser, mais ses disciples), il quitta la JudÃ©e et repartit pour
+GalilÃ©e. (Jn 4:1-3)
 
-Alors comment commençons-nous? Nous commençons *dans* la récolte et commençons petit avec 2 ou
+Alors comment commenÃ§ons-nous? Nous commenÃ§ons *dans* la rÃ©colte et commenÃ§ons petit avec 2 ou
 3.
 
 ### La semence et les sols
 
-Jésus a donné des instructions sur notre mission à la fois directement et à travers
-paraboles. La parabole des sols est très instructive :
+JÃ©sus a donnÃ© des instructions sur notre mission Ã  la fois directement et Ã  travers
+paraboles. La parabole des sols est trÃ¨s instructive :
 
-« Écoutez ! Voici, un semeur est sorti pour semer. Et il arriva, comme il semait,
-qu'une graine est tombée au bord du chemin ; et les oiseaux du ciel sont venus et
-l'a dévoré. Certains sont tombés sur un sol caillouteux, où il n'y avait pas beaucoup
-Terre; et aussitôt il surgit parce qu'il n'y avait pas de profondeur de terre.
-Mais quand le soleil se levait, il était brûlé, et parce qu'il n'avait pas de racine, il
-flétri. Et quelque semence tomba parmi les épines; et les épines ont grandi
-et l'étouffa, et il ne donna aucune récolte. Mais d'autres graines sont tombées sur de bonnes
-sol et a donné une récolte qui a poussé, augmenté et produit :
+Â« Ã‰coutez ! Voici, un semeur est sorti pour semer. Et il arriva, comme il semait,
+qu'une graine est tombÃ©e au bord du chemin ; et les oiseaux du ciel sont venus et
+l'a dÃ©vorÃ©. Certains sont tombÃ©s sur un sol caillouteux, oÃ¹ il n'y avait pas beaucoup
+Terre; et aussitÃ´t il surgit parce qu'il n'y avait pas de profondeur de terre.
+Mais quand le soleil se levait, il Ã©tait brÃ»lÃ©, et parce qu'il n'avait pas de racine, il
+flÃ©tri. Et quelque semence tomba parmi les Ã©pines; et les Ã©pines ont grandi
+et l'Ã©touffa, et il ne donna aucune rÃ©colte. Mais d'autres graines sont tombÃ©es sur de bonnes
+sol et a donnÃ© une rÃ©colte qui a poussÃ©, augmentÃ© et produit :
 trente fois, quelque soixante et quelque cent." Et Il leur dit : "Il
-qui a des oreilles pour entendre, qu'il entende!" Mais quand il était seul, ceux qui l'entouraient
+qui a des oreilles pour entendre, qu'il entende!" Mais quand il Ã©tait seul, ceux qui l'entouraient
 Lui avec les douze l'interrogea sur la parabole. Et il leur dit :
-« Il vous a été donné de connaître le mystère du royaume de Dieu, mais
-à ceux qui sont à l'extérieur, toutes choses viennent en paraboles, de sorte que 'Voyant
+Â« Il vous a Ã©tÃ© donnÃ© de connaÃ®tre le mystÃ¨re du royaume de Dieu, mais
+Ã  ceux qui sont Ã  l'extÃ©rieur, toutes choses viennent en paraboles, de sorte que 'Voyant
 ils peuvent voir et ne pas percevoir, et en entendant ils peuvent entendre et non
-comprendre; De peur qu'ils ne se retournent, Et que leurs péchés leur soient pardonnés.'"
-Et Il leur dit : « Ne comprenez-vous pas cette parabole ?Voici quelques leçons importantes :
+comprendre; De peur qu'ils ne se retournent, Et que leurs pÃ©chÃ©s leur soient pardonnÃ©s.'"
+Et Il leur dit : Â« Ne comprenez-vous pas cette parabole ?Voici quelques leÃ§ons importantesÂ :
 
 - Vous avez besoin d'une bonne semence -- la Parole de Dieu.
 
-- Vous avez besoin d'une bonne terre pour faire pousser une église.
+- Vous avez besoin d'une bonne terre pour faire pousser une Ã©glise.
 
 - Vous ne pouvez pas savoir quel sol est bon.
 
-- Les trois quarts de la graine seront stériles.
+- Les trois quarts de la graine seront stÃ©riles.
 
 - Les deux tiers de la croissance seront infructueux.
 
-Si nous avons des oreilles pour entendre et accepter ces vérités fondamentales sur la semence
-mot, nous économiserons beaucoup de chagrin d'amour en essayant de faire
-les situations stériles portent leurs fruits. Concentrez-vous sur le sol fructifère
+Si nous avons des oreilles pour entendre et accepter ces vÃ©ritÃ©s fondamentales sur la semence
+mot, nous Ã©conomiserons beaucoup de chagrin d'amour en essayant de faire
+les situations stÃ©riles portent leurs fruits. Concentrez-vous sur le sol fructifÃ¨re
 et ne perdez pas de temps sur le reste.
 
-"Mais quelle que soit la ville où vous entrez, et qu'ils ne vous reçoivent pas, sortez en
-ses rues et dire : " La poussière même de ta ville qui s'attache à nous nous
-essuyer contre vous. Sachez néanmoins ceci, que le royaume de Dieu
-s'est approché de vous. Mais je te dis que ce sera plus supportable dans
-ce jour-là pour Sodome que pour cette ville." (Lc 10, 10-12)
+"Mais quelle que soit la ville oÃ¹ vous entrez, et qu'ils ne vous reÃ§oivent pas, sortez en
+ses rues et dire : " La poussiÃ¨re mÃªme de ta ville qui s'attache Ã  nous nous
+essuyer contre vous. Sachez nÃ©anmoins ceci, que le royaume de Dieu
+s'est approchÃ© de vous. Mais je te dis que ce sera plus supportable dans
+ce jour-lÃ  pour Sodome que pour cette ville." (Lc 10, 10-12)
 
 "Et celui qui ne prend pas sa croix et ne me suit pas n'est pas digne de
 Moi." (Mt 10:38)
 
-Que les gens féconds soient une provocation pour les infructueux. Jésus
-n'a pas manqué de compassion pour les gens stériles, mais Il les a quand même envoyés
-une façon. Selon l'interprétation de Jésus de cette parabole, infructueuse
-les gens sont stériles parce qu'ils n'ont pas abandonné le monde
-des fruits. Ils veulent le monde et un peu de Jésus. Jésus a dit que tu ne peux pas
-servir deux maîtres et Il l'a dit aux gens.
+Que les gens fÃ©conds soient une provocation pour les infructueux. JÃ©sus
+n'a pas manquÃ© de compassion pour les gens stÃ©riles, mais Il les a quand mÃªme envoyÃ©s
+une faÃ§on. Selon l'interprÃ©tation de JÃ©sus de cette parabole, infructueuse
+les gens sont stÃ©riles parce qu'ils n'ont pas abandonnÃ© le monde
+des fruits. Ils veulent le monde et un peu de JÃ©sus. JÃ©sus a dit que tu ne peux pas
+servir deux maÃ®tres et Il l'a dit aux gens.
 
 ### Trouver un bon sol
 
-Bien que nous ne puissions pas être sûrs d'avoir trouvé un bon sol jusqu'à ce que nous voyions son
-fruit, Jésus nous a dit où chercher :
+Bien que nous ne puissions pas Ãªtre sÃ»rs d'avoir trouvÃ© un bon sol jusqu'Ã  ce que nous voyions son
+fruit, JÃ©sus nous a dit oÃ¹ chercher :
 
-- les méchants : « Je ne suis pas venu appeler *les* justes, mais des pécheurs,
-    > à la repentance." (Lc 5:32)
+- les mÃ©chants : Â« Je ne suis pas venu appeler *les* justes, mais des pÃ©cheurs,
+    > Ã  la repentance." (Lc 5:32)
 
-- les pauvres : « Dieu a choisi les pauvres de ce monde *pour être* riches en
-    > la foi et les héritiers du royaume qu'il a promis à ceux qui aiment
+- les pauvres : Â« Dieu a choisi les pauvres de ce monde *pour Ãªtre* riches en
+    > la foi et les hÃ©ritiers du royaume qu'il a promis Ã  ceux qui aiment
     > Lui ?" (Jacques 2:5)
 
-- les enfants : « à moins que vous ne vous convertissiez et deveniez aussi petit
+- les enfants : Â« Ã  moins que vous ne vous convertissiez et deveniez aussi petit
     > enfants, vous n'entrerez en aucun cas dans le royaume des cieux." (Matt
     > 18:3)
 
 ```{=html}
 <!-- -->
 ```
-- les désespérés : « Demandez, et il vous sera donné ; cherchez, et vous
+- les dÃ©sespÃ©rÃ©s : Â« Demandez, et il vous sera donnÃ© ; cherchez, et vous
     trouvera; frappez, et l'on vous ouvrira." (Matthieu 7:7 LSG)
 
-- les gens méprisés : « Dieu a choisi les choses folles du monde pour
+- les gens mÃ©prisÃ©s : Â« Dieu a choisi les choses folles du monde pour
     confondre les sages, et Dieu a choisi les choses faibles des
     monde pour faire honte aux choses qui sont puissantes; et le socle
-    choses du monde et les choses qui sont méprisées que Dieu a
-    choisis, et les choses qui ne le sont pas, pour anéantir les choses
-    c'est-à-dire qu'aucune chair ne se glorifie en sa présence. » (1Co 1:27-29)
+    choses du monde et les choses qui sont mÃ©prisÃ©es que Dieu a
+    choisis, et les choses qui ne le sont pas, pour anÃ©antir les choses
+    c'est-Ã -dire qu'aucune chair ne se glorifie en sa prÃ©sence. Â» (1Co 1:27-29)
 
-La police sait où est la bonne terre ; leur demander!
+La police sait oÃ¹ est la bonne terre ; leur demander!
 
-### Éviter le mauvais sol
+### Ã‰viter le mauvais sol
 
 - Autodidactes : "pas beaucoup de sages selon la chair, pas beaucoup
-    puissants, pas beaucoup de nobles, sont appelés. » (1Co 1:26)
+    puissants, pas beaucoup de nobles, sont appelÃ©s. Â» (1Co 1:26)
 
-- Les justes : « Ceux qui sont bien n'ont pas besoin d'un
-    médecin, mais ceux qui sont malades. je ne suis pas venu appeler le
-    justes, mais pécheurs, à la repentance." (Lc 5:31-32)
+- Les justes : Â« Ceux qui sont bien n'ont pas besoin d'un
+    mÃ©decin, mais ceux qui sont malades. je ne suis pas venu appeler le
+    justes, mais pÃ©cheurs, Ã  la repentance." (Lc 5:31-32)
 
 - Les riches : " Comme il est difficile pour ceux qui ont des richesses d'entrer
     le royaume de Dieu ! Car il est plus facile pour un chameau de traverser le
     trou d'une aiguille que pour un homme riche d'entrer dans le royaume de Dieu."
     (Lu 18:24-25)
 
-Jésus n'a pas vraiment encouragé les disciples tièdes, il les a envoyés
-une façon! Jésus aimait les gens en les confrontant à leurs choix. Il a envoyé
-le jeune souverain riche, qu'il aimait, s'éloigna. Faire autrement est cruel,
-égoïste et contre-productif ! [^5]
+JÃ©sus n'a pas vraiment encouragÃ© les disciples tiÃ¨des, il les a envoyÃ©s
+une faÃ§on! JÃ©sus aimait les gens en les confrontant Ã  leurs choix. Il a envoyÃ©
+le jeune souverain riche, qu'il aimait, s'Ã©loigna. Faire autrement est cruel,
+Ã©goÃ¯ste et contre-productif ! [^5]
 
 Or, comme il partait sur la route, l'un d'eux accourut, s'agenouilla devant lui,
-et lui demanda : « Bon Maître, que dois-je faire pour hériter l'éternel
-vie ? » Alors Jésus lui dit : « Pourquoi m'appelles-tu bon ? Personne n'est bon
-mais Un, c'est-à-dire Dieu. "Tu connais les commandements : 'Ne t'engage pas
-adultère", "Ne pas assassiner", "Ne pas voler", "Ne pas porter de faux témoignage",
-'Ne fraude pas,' 'Honore ton père et ta mère.'" Et il répondit
-et lui dit : « Maître, j'ai gardé toutes ces choses dès ma jeunesse.
-Alors Jésus, le regardant, l'aimait et lui dit : « Une chose que tu
-manque : passe ton chemin, vends tout ce que tu as et donne aux pauvres, et tuMoi." Mais il fut triste à cette parole, et s'en alla triste, car il avait
+et lui demanda : Â« Bon MaÃ®tre, que dois-je faire pour hÃ©riter l'Ã©ternel
+vie ? Â» Alors JÃ©sus lui dit : Â« Pourquoi m'appelles-tu bon ? Personne n'est bon
+mais Un, c'est-Ã -dire Dieu. "Tu connais les commandements : 'Ne t'engage pas
+adultÃ¨re", "Ne pas assassiner", "Ne pas voler", "Ne pas porter de faux tÃ©moignage",
+'Ne fraude pas,' 'Honore ton pÃ¨re et ta mÃ¨re.'" Et il rÃ©pondit
+et lui dit : Â« MaÃ®tre, j'ai gardÃ© toutes ces choses dÃ¨s ma jeunesse.
+Alors JÃ©sus, le regardant, l'aimait et lui dit : Â« Une chose que tu
+manque : passe ton chemin, vends tout ce que tu as et donne aux pauvres, et tuMoi." Mais il fut triste Ã  cette parole, et s'en alla triste, car il avait
 grandes possessions. (Mc 10:17-20)
 
-### Le sol préparé par Dieu
+### Le sol prÃ©parÃ© par Dieu
 
-En plus de ces conseils généraux sur les endroits où chercher un bon sol,
-nous pouvons nous attendre à ce que le Saint-Esprit nous conduise sur une bonne terre où il a été
-préparer le terrain pour recevoir la parole.
+En plus de ces conseils gÃ©nÃ©raux sur les endroits oÃ¹ chercher un bon sol,
+nous pouvons nous attendre Ã  ce que le Saint-Esprit nous conduise sur une bonne terre oÃ¹ il a Ã©tÃ©
+prÃ©parer le terrain pour recevoir la parole.
 
-« Il a fait d'un seul sang chaque nation d'hommes pour habiter sur toute la face
-de la terre, et a déterminé leurs temps préétablis et le
+Â« Il a fait d'un seul sang chaque nation d'hommes pour habiter sur toute la face
+de la terre, et a dÃ©terminÃ© leurs temps prÃ©Ã©tablis et le
 limites de leurs demeures, afin qu'ils cherchent le Seigneur, dans le
-espérons qu'ils pourraient le chercher à tâtons et le trouver, bien qu'il ne soit pas loin
-de chacun de nous ; » (Ac 17:26-27)
+espÃ©rons qu'ils pourraient le chercher Ã  tÃ¢tons et le trouver, bien qu'il ne soit pas loin
+de chacun de nousÂ ;Â Â» (Ac 17:26-27)
 
-"Mais quelle que soit la maison dans laquelle vous entrez, dites d'abord 'Paix à cette maison.' Et si
-un fils de paix est là, ta paix y reposera ; sinon, ça va
-revenir vers toi. Et rester dans la même maison, manger et boire de tels
+"Mais quelle que soit la maison dans laquelle vous entrez, dites d'abord 'Paix Ã  cette maison.' Et si
+un fils de paix est lÃ , ta paix y reposera ; sinon, Ã§a va
+revenir vers toi. Et rester dans la mÃªme maison, manger et boire de tels
 les choses qu'elles donnent, car l'ouvrier est digne de son salaire. Ne pas aller
 de maison en maison." (Lc 10, 5-7)
 
-Certains points importants découlent de ces écritures :
+Certains points importants dÃ©coulent de ces Ã©crituresÂ :
 
-- Dieu a fixé les temps et les lieux pour que les gens vivent afin qu'ils puissent
-    chercher et trouver Dieu : attendez-vous à ce que votre famille, vos voisins, vos collègues de travail
-    et d'autres connaissances à avoir été placés dans votre cercle par Dieu afin
+- Dieu a fixÃ© les temps et les lieux pour que les gens vivent afin qu'ils puissent
+    chercher et trouver DieuÂ : attendez-vous Ã  ce que votre famille, vos voisins, vos collÃ¨gues de travail
+    et d'autres connaissances Ã  avoir Ã©tÃ© placÃ©s dans votre cercle par Dieu afin
     ils pourraient le trouver.
 
-- Allez dans les maisons et les familles des gens avec l'évangile. Ne vous attendez pas
-    à venir dans votre église.
+- Allez dans les maisons et les familles des gens avec l'Ã©vangile. Ne vous attendez pas
+    Ã  venir dans votre Ã©glise.
 
-- Apporter la paix et la guérison de l'Évangile à toute la famille, pas seulement
+- Apporter la paix et la guÃ©rison de l'Ã‰vangile Ã  toute la famille, pas seulement
     personnes.
 
-- Si une famille vous reçoit, nouez une amitié étroite avec elle.
+- Si une famille vous reÃ§oit, nouez une amitiÃ© Ã©troite avec elle.
 
-- N'allez pas de maison en maison ; laissez la famille faire cela, en invitant leurs
-    amis pour partager leur découverte.
+- N'allez pas de maison en maisonÂ ; laissez la famille faire cela, en invitant leurs
+    amis pour partager leur dÃ©couverte.
 
-Si vous ne pouvez pas rendre visite aux gens chez eux, cherchez un endroit où les gens
-se connaissent, comme un club ou un café populaire ou un bar local.[^6]
+Si vous ne pouvez pas rendre visite aux gens chez eux, cherchez un endroit oÃ¹ les gens
+se connaissent, comme un club ou un cafÃ© populaire ou un bar local.[^6]
 
-## De la graine à la récolte
+## De la graine Ã  la rÃ©colte
 
-### Comment passer du semis à la récolte ?
+### Comment passer du semis Ã  la rÃ©colte ?
 
-« Le royaume de Dieu est comme une graine de moutarde qui, lorsqu'elle est semée sur le
-terre, est plus petit que toutes les graines sur terre; mais quand il est semé, il
+Â« Le royaume de Dieu est comme une graine de moutarde qui, lorsqu'elle est semÃ©e sur le
+terre, est plus petit que toutes les graines sur terre; mais quand il est semÃ©, il
 grandit et devient plus grand que toutes les herbes, et pousse grand
-branches, afin que les oiseaux du ciel nichent à son ombre." (Mc
+branches, afin que les oiseaux du ciel nichent Ã  son ombre." (Mc
 4:30-32)
 
-"Le royaume des cieux est comme le levain, qu'une femme a pris et a caché dans
-trois mesures de farine jusqu'à ce que tout soit levé." (Matthieu 13:31-33)
+"Le royaume des cieux est comme le levain, qu'une femme a pris et a cachÃ© dans
+trois mesures de farine jusqu'Ã  ce que tout soit levÃ©." (Matthieu 13:31-33)
 
-Ces paraboles indiquent que Dieu ne veut pas que nous nous préoccupions de nous-mêmes
-avec comment faire grandir le Royaume. Notre tâche est de semer la graine de sa parole
-avec la guérison et la paix et laissez Dieu faire pousser la semence. Tandis que la graine est
-en grandissant, nous devons nous préparer pour la moisson en priant pour les ouvriers :
+Ces paraboles indiquent que Dieu ne veut pas que nous nous prÃ©occupions de nous-mÃªmes
+avec comment faire grandir le Royaume. Notre tÃ¢che est de semer la graine de sa parole
+avec la guÃ©rison et la paix et laissez Dieu faire pousser la semence. Tandis que la graine est
+en grandissant, nous devons nous prÃ©parer pour la moisson en priant pour les ouvriers :
 
-« La moisson est vraiment grande, mais les ouvriers sont peu nombreux ; priez donc
-le maître de la moisson d'envoyer des ouvriers à sa moisson." (Lc
+Â« La moisson est vraiment grande, mais les ouvriers sont peu nombreux ; priez donc
+le maÃ®tre de la moisson d'envoyer des ouvriers Ã  sa moisson." (Lc
 10:2)
 
-Ce que cela signifie en pratique, c'est que nous partageons l'évangile (semer la graine),
+Ce que cela signifie en pratique, c'est que nous partageons l'Ã©vangile (semer la graine),
 Dieu transforme la vie d'une personne (apporte la croissance), cette personne devient un
-disciple obéissant (porte du fruit) et ils servent Christ aux autres (nous
-récolter une moisson). Notre place dans ce processus est d'être un ami et un
-exemple, enseigner à un nouveau croyant comment dépendre de Christ et de sa parole
+disciple obÃ©issant (porte du fruit) et ils servent Christ aux autres (nous
+rÃ©colter une moisson). Notre place dans ce processus est d'Ãªtre un ami et un
+exemple, enseigner Ã  un nouveau croyant comment dÃ©pendre de Christ et de sa parole
 par le Saint-Esprit.
 
-Le royaume grandit en multipliant les disciples en bonne santé.[^7] Si une personne
-s'avère être un sol pauvre, nous devrions les encourager et les défier avec
-l'Évangile et leur faire choisir qui ils suivront. S'ils ne le font pas
-relever le défi et suivre Jésus fidèlement, alors ne perdez pas de temps
+Le royaume grandit en multipliant les disciples en bonne santÃ©.[^7] Si une personne
+s'avÃ¨re Ãªtre un sol pauvre, nous devrions les encourager et les dÃ©fier avec
+l'Ã‰vangile et leur faire choisir qui ils suivront. S'ils ne le font pas
+relever le dÃ©fi et suivre JÃ©sus fidÃ¨lement, alors ne perdez pas de temps
 sur eux. Cherchez un meilleur sol.
 
 ### Laissons Dieu faire grandir
 
-De nombreuses recherches ont été menées ces dernières années sur
-croissance de l'église, conduisant à des résultats surprenants. L'un est l'énorme
-sommes d'argent qui sont dépensées pour améliorer les installations de l'église pour les rendre
+De nombreuses recherches ont Ã©tÃ© menÃ©es ces derniÃ¨res annÃ©es sur
+croissance de l'Ã©glise, conduisant Ã  des rÃ©sultats surprenants. L'un est l'Ã©norme
+sommes d'argent qui sont dÃ©pensÃ©es pour amÃ©liorer les installations de l'Ã©glise pour les rendre
 plus attrayant -- un grand parking, des toilettes propres et abondantes et
-le travail des enfants spacieux et créatif étant considéré parmi les plus
+le travail des enfants spacieux et crÃ©atif Ã©tant considÃ©rÃ© parmi les plus
 atouts importants.
 
-Plans d'action de la mission, énoncés de vision, objectifs de croissance et église
-des consultants en croissance sont tous employés dans le but d'assurer que l'église
-continue de croître, mais l'une des découvertes les plus surprenantes est peut-être queplus l'église est grande, plus ses ressources sont détournées vers
+Plans d'action de la mission, Ã©noncÃ©s de vision, objectifs de croissance et Ã©glise
+des consultants en croissance sont tous employÃ©s dans le but d'assurer que l'Ã©glise
+continue de croÃ®tre, mais l'une des dÃ©couvertes les plus surprenantes est peut-Ãªtre queplus l'Ã©glise est grande, plus ses ressources sont dÃ©tournÃ©es vers
 maintenance et plus son taux de croissance est faible.
 
-C'est peut-être pourquoi Jésus ne nous a jamais dit de fonder des églises ; Il nous a dit de
-faire des disciples obéissants. Le seul moyen sûr de faire grandir une église est de continuer
-avec la grande mission : faire des disciples un à la fois en groupes de
+C'est peut-Ãªtre pourquoi JÃ©sus ne nous a jamais dit de fonder des Ã©glises ; Il nous a dit de
+faire des disciples obÃ©issants. Le seul moyen sÃ»r de faire grandir une Ã©glise est de continuer
+avec la grande mission : faire des disciples un Ã  la fois en groupes de
 deux ou trois.
 
-Nous devons faire ce que Jésus nous a appelés à faire et arrêter de nous occuper de nous-mêmes
-avec une croissance qui est la responsabilité de Dieu :
+Nous devons faire ce que JÃ©sus nous a appelÃ©s Ã  faire et arrÃªter de nous occuper de nous-mÃªmes
+avec une croissance qui est la responsabilitÃ© de Dieu :
 
-« J'ai planté, Apollos a arrosé, mais Dieu a fait croître.
+Â« J'ai plantÃ©, Apollos a arrosÃ©, mais Dieu a fait croÃ®tre.
 celui qui plante n'est rien, ni celui qui arrose, mais Dieu qui donne le
 augmenter." (1Co 3:6-7)
 
-Jésus a raconté un certain nombre de paraboles sur la croissance du Royaume, indiquant
-que c'est la responsabilité de Dieu :
+JÃ©sus a racontÃ© un certain nombre de paraboles sur la croissance du Royaume, indiquant
+que c'est la responsabilitÃ© de Dieu :
 
-« Le royaume de Dieu est comme si un homme répandait de la semence sur la terre,
+Â« Le royaume de Dieu est comme si un homme rÃ©pandait de la semence sur la terre,
 et devrait dormir la nuit et se lever le jour, et la graine devrait germer
-et grandir, lui-même ne sait pas comment. Car la terre donne des récoltes par
-lui-même : d'abord la lame, puis la tête, puis le grain plein dans le
-tête." (Mc 4,26-28)
+et grandir, lui-mÃªme ne sait pas comment. Car la terre donne des rÃ©coltes par
+lui-mÃªme : d'abord la lame, puis la tÃªte, puis le grain plein dans le
+tÃªte." (Mc 4,26-28)
 
-Jésus a également décrit sa croissance comme une levure travaillant tranquillement son chemin
-à travers toute la pâte. Dans toutes ces paraboles, l'implication est la
-même : notre travail est de semer la graine, la part de Dieu est de la faire grandir.
+JÃ©sus a Ã©galement dÃ©crit sa croissance comme une levure travaillant tranquillement son chemin
+Ã  travers toute la pÃ¢te. Dans toutes ces paraboles, l'implication est la
+mÃªme : notre travail est de semer la graine, la part de Dieu est de la faire grandir.
 
-### Comment pouvez-vous garder les choses sur la bonne voie ?
+### Comment pouvez-vous garder les choses sur la bonne voieÂ ?
 
-Dès que nous commençons à voir les fruits de nos semailles, nous deviendrons probablement
-soucieux de savoir comment garder les choses sur la bonne voie. C'est tout à fait naturel
-et propre. Nous voulons que nos enfants grandissent aussi équilibrés et matures
-les gens qui mènent une vie pieuse. Nous devons faire ce que nous pouvons pour promouvoir la santé
-croissance. Mais nous ne devrions pas essayer de créer des clones. Nous devons faire confiance à Jésus pour
-être le chef de son église et le Saint-Esprit pour diriger et enseigner son
-enfants. Pour imposer un contrôle sur de petits groupes et des églises afin de
-s'assurer qu'ils se conforment à un certain modèle que nous avons décidé est d'aller au-delà
+DÃ¨s que nous commenÃ§ons Ã  voir les fruits de nos semailles, nous deviendrons probablement
+soucieux de savoir comment garder les choses sur la bonne voie. C'est tout Ã  fait naturel
+et propre. Nous voulons que nos enfants grandissent aussi Ã©quilibrÃ©s et matures
+les gens qui mÃ¨nent une vie pieuse. Nous devons faire ce que nous pouvons pour promouvoir la santÃ©
+croissance. Mais nous ne devrions pas essayer de crÃ©er des clones. Nous devons faire confiance Ã  JÃ©sus pour
+Ãªtre le chef de son Ã©glise et le Saint-Esprit pour diriger et enseigner son
+enfants. Pour imposer un contrÃ´le sur de petits groupes et des Ã©glises afin de
+s'assurer qu'ils se conforment Ã  un certain modÃ¨le que nous avons dÃ©cidÃ© est d'aller au-delÃ 
 notre mission en tant que faiseurs de disciples.
 
-Nous ne pouvons pas non plus utiliser des règles et des structures pour garantir que les choses ne tournent pas mal.
-Il vaut mieux faire face à la réalité que si une personne veut pécher, elle
-volonté. Si un leader tombe dans le piège du diable, il est peu probable qu'il
-accepter la responsabilité. Je ne veux pas encourager le pessimisme, mais
-mettre en garde contre un contrôle inefficace et contre-productif. Les gens généralement
-s'inquiéter de l'hérésie s'infiltrant là où les dirigeants sont sans éducation, mais dans
-pratique, où les gens lisent chacun les Écritures pour eux-mêmes et
-partageant honnêtement les uns avec les autres alors qu'ils poursuivent la mission de Dieu, il y a
-beaucoup moins de danger d'hérésie que dans les églises où un leader instruit
-préside aux croyances de sa congrégation.
+Nous ne pouvons pas non plus utiliser des rÃ¨gles et des structures pour garantir que les choses ne tournent pas mal.
+Il vaut mieux faire face Ã  la rÃ©alitÃ© que si une personne veut pÃ©cher, elle
+volontÃ©. Si un leader tombe dans le piÃ¨ge du diable, il est peu probable qu'il
+accepter la responsabilitÃ©. Je ne veux pas encourager le pessimisme, mais
+mettre en garde contre un contrÃ´le inefficace et contre-productif. Les gens gÃ©nÃ©ralement
+s'inquiÃ©ter de l'hÃ©rÃ©sie s'infiltrant lÃ  oÃ¹ les dirigeants sont sans Ã©ducation, mais dans
+pratique, oÃ¹ les gens lisent chacun les Ã‰critures pour eux-mÃªmes et
+partageant honnÃªtement les uns avec les autres alors qu'ils poursuivent la mission de Dieu, il y a
+beaucoup moins de danger d'hÃ©rÃ©sie que dans les Ã©glises oÃ¹ un leader instruit
+prÃ©side aux croyances de sa congrÃ©gation.
 
-Jésus était parfaitement clair et sans phase que 3 graines sur 4 peuvent
-s'avérera finalement infructueuse, que l'ivraie grandira avec le blé, que
-les faux prophètes feront des merveilles sans jamais connaître Jésus, que
-des talents seront donnés qui sont enterrés et dont beaucoup tomberont. Dans
-la lumière de cela, nous devons faire confiance à Jésus avec son église. Nos tentatives de
-protéger ce que nous avons en le couvrant avec des règles n'ont pour effet que
-d'étouffer la croissance et le développement.
+JÃ©sus Ã©tait parfaitement clair et sans phase que 3 graines sur 4 peuvent
+s'avÃ©rera finalement infructueuse, que l'ivraie grandira avec le blÃ©, que
+les faux prophÃ¨tes feront des merveilles sans jamais connaÃ®tre JÃ©sus, que
+des talents seront donnÃ©s qui sont enterrÃ©s et dont beaucoup tomberont. Dans
+la lumiÃ¨re de cela, nous devons faire confiance Ã  JÃ©sus avec son Ã©glise. Nos tentatives de
+protÃ©ger ce que nous avons en le couvrant avec des rÃ¨gles n'ont pour effet que
+d'Ã©touffer la croissance et le dÃ©veloppement.
 
-Nous devons bien enseigner, avertir les personnes qui s'éloignent de la simplicité de la
-Evangile ou qui sont pris au piège par la mondanité et prient pour le
-intervention. Mais au final, il faut lâcher prise. Dans nos soins pour l'église
-il ne faut pas finir par garder les sols pauvres, mais se donner à
-travailler avec la bonne terre.[^8] Il est peu probable que Jésus soit content si notre
-l'église lui présente un auditoire de consommateurs, si grand soit-il
+Nous devons bien enseigner, avertir les personnes qui s'Ã©loignent de la simplicitÃ© de la
+Evangile ou qui sont pris au piÃ¨ge par la mondanitÃ© et prient pour le
+intervention. Mais au final, il faut lÃ¢cher prise. Dans nos soins pour l'Ã©glise
+il ne faut pas finir par garder les sols pauvres, mais se donner Ã 
+travailler avec la bonne terre.[^8] Il est peu probable que JÃ©sus soit content si notre
+l'Ã©glise lui prÃ©sente un auditoire de consommateurs, si grand soit-il
 nombre ou bien instruits de ses membres.
 
 ### Direction
 
-Jusqu'à présent, j'ai évité de parler de l'église car elle peut si facilement
-consommer toutes nos énergies sans faire avancer un peu le Royaume de Dieu.
-Ce n'est pas que je pense que l'église est mauvaise - je ne le pense pas. Je pense que l'église est
-le Corps de Jésus. C'est l'héritage de Jésus et de son épouse. Cependant, je fais
+Jusqu'Ã  prÃ©sent, j'ai Ã©vitÃ© de parler de l'Ã©glise car elle peut si facilement
+consommer toutes nos Ã©nergies sans faire avancer un peu le Royaume de Dieu.
+Ce n'est pas que je pense que l'Ã©glise est mauvaise - je ne le pense pas. Je pense que l'Ã©glise est
+le Corps de JÃ©sus. C'est l'hÃ©ritage de JÃ©sus et de son Ã©pouse. Cependant, je fais
 pense que nous avons souvent les choses hors de perspective dans notre vision de ce que
-l'église devrait ressembler. Un domaine important à cet égard est l'église
-leadership, qui a généralement été très hiérarchique dans le but deMais Jésus les rappela à lui et leur dit : « Vous savez que ces
-qui sont considérés comme des dirigeants sur les Gentils dominent sur eux, et leurs
-les grands exercent leur autorité sur eux. Pourtant, il n'en sera pas ainsi parmi
-tu; mais celui qui désire devenir grand parmi vous sera votre
-serviteur. Et celui d'entre vous qui voudra être le premier sera l'esclave de tous."
+l'Ã©glise devrait ressembler. Un domaine important Ã  cet Ã©gard est l'Ã©glise
+leadership, qui a gÃ©nÃ©ralement Ã©tÃ© trÃ¨s hiÃ©rarchique dans le but deMais JÃ©sus les rappela Ã  lui et leur dit : Â« Vous savez que ces
+qui sont considÃ©rÃ©s comme des dirigeants sur les Gentils dominent sur eux, et leurs
+les grands exercent leur autoritÃ© sur eux. Pourtant, il n'en sera pas ainsi parmi
+tu; mais celui qui dÃ©sire devenir grand parmi vous sera votre
+serviteur. Et celui d'entre vous qui voudra Ãªtre le premier sera l'esclave de tous."
 (Mc 10:42-44)
 
-Il est important pour nous de remarquer que Jésus dit expressément que parmi les
-les Gentils « les dirigeants exercent leur autorité sur eux.
-qu'il en soit ainsi parmi vous. » Selon Jésus, le but du leadership au sein de
-le Royaume de Dieu n'est PAS d'exercer l'autorité, mais de servir. Serviteur
-leadership est une expression largement utilisée dans l'église, pourtant il semble y avoir
-aucune diminution de l'exercice de l'autorité sur les membres de l'église.
-Le leadership sans l'exercice de l'autorité est tellement contre-intuitif
-qu'on ne le voit presque jamais. Pourtant, je suggère que nos églises et notre église
+Il est important pour nous de remarquer que JÃ©sus dit expressÃ©ment que parmi les
+les Gentils Â«Â les dirigeants exercent leur autoritÃ© sur eux.
+qu'il en soit ainsi parmi vous. Â» Selon JÃ©sus, le but du leadership au sein de
+le Royaume de Dieu n'est PAS d'exercer l'autoritÃ©, mais de servir. Serviteur
+leadership est une expression largement utilisÃ©e dans l'Ã©glise, pourtant il semble y avoir
+aucune diminution de l'exercice de l'autoritÃ© sur les membres de l'Ã©glise.
+Le leadership sans l'exercice de l'autoritÃ© est tellement contre-intuitif
+qu'on ne le voit presque jamais. Pourtant, je suggÃ¨re que nos Ã©glises et notre Ã©glise
 les mouvements seraient beaucoup plus sains si nous devions prendre ces mots
-de Jésus au sérieux dans la direction de notre église. Personne ne doit être persuadé
-faire quelque chose dans le Royaume de Dieu à cause d'un appel à notre
-l'autorité en tant que dirigeants. Notre appel devrait toujours être que nos membres
-suivre Jésus et que nous donnions l'exemple. Paul a dit: "Suivez-moi comme je
-suivre le Christ." Amen à cela. Mais "mettre en ligne parce que je suis des dieux
-chef nommé et oint" est tout simplement contraire à Jésus explicite
+de JÃ©sus au sÃ©rieux dans la direction de notre Ã©glise. Personne ne doit Ãªtre persuadÃ©
+faire quelque chose dans le Royaume de Dieu Ã  cause d'un appel Ã  notre
+l'autoritÃ© en tant que dirigeants. Notre appel devrait toujours Ãªtre que nos membres
+suivre JÃ©sus et que nous donnions l'exemple. Paul a dit: "Suivez-moi comme je
+suivre le Christ." Amen Ã  cela. Mais "mettre en ligne parce que je suis des dieux
+chef nommÃ© et oint" est tout simplement contraire Ã  JÃ©sus explicite
 enseignement.
 
-Cependant, dans les lettres, nous recevons des exhortations à obéir à notre église
+Cependant, dans les lettres, nous recevons des exhortations Ã  obÃ©ir Ã  notre Ã©glise
 dirigeants:
 
-Obéissez à ceux qui vous dominent et soyez soumis, car ils veillent sur
-vos âmes, comme ceux qui doivent rendre compte. Qu'ils le fassent avec joie et
-non avec chagrin, car cela ne vous serait pas profitable. (Hé 13:17)
+ObÃ©issez Ã  ceux qui vous dominent et soyez soumis, car ils veillent sur
+vos Ã¢mes, comme ceux qui doivent rendre compte. Qu'ils le fassent avec joie et
+non avec chagrin, car cela ne vous serait pas profitable. (HÃ© 13:17)
 
-Et nous vous exhortons, frères, à reconnaître ceux qui travaillent parmi vous, et
-sont sur vous dans le Seigneur et vous avertissent, et de les estimer très
-très amoureux pour l'amour de leur travail. Soyez en paix entre vous. (1e
+Et nous vous exhortons, frÃ¨res, Ã  reconnaÃ®tre ceux qui travaillent parmi vous, et
+sont sur vous dans le Seigneur et vous avertissent, et de les estimer trÃ¨s
+trÃ¨s amoureux pour l'amour de leur travail. Soyez en paix entre vous. (1e
 5:12-13)
 
-Que les anciens qui gouvernent bien soient considérés comme dignes d'un double honneur,
+Que les anciens qui gouvernent bien soient considÃ©rÃ©s comme dignes d'un double honneur,
 surtout ceux qui travaillent dans la parole et la doctrine. (1Ti 5:17)
 
-Je vous exhorte, frères... à vous soumettre aussi à ceux-là, et à tous
+Je vous exhorte, frÃ¨res... Ã  vous soumettre aussi Ã  ceux-lÃ , et Ã  tous
 qui travaille et travaille avec nous. (1Co 16:16 )
 
 Se soumettre les uns aux autres dans la crainte de Dieu. (Ep 5:21)
 
-Faites paître le troupeau de Dieu qui est parmi vous, servant de surveillants, non
-par contrainte mais volontairement, non pour un gain malhonnête mais avec empressement ; ni comme
-étant les seigneurs de ceux qui vous sont confiés, mais étant des exemples pour les
-troupeau; ... De même, vous les plus jeunes, soumettez-vous à votre
-aînés. Oui, soyez tous soumis les uns aux autres et vêtus
-avec humilité, car « Dieu résiste aux orgueilleux, Mais fait grâce aux
+Faites paÃ®tre le troupeau de Dieu qui est parmi vous, servant de surveillants, non
+par contrainte mais volontairement, non pour un gain malhonnÃªte mais avec empressementÂ ; ni comme
+Ã©tant les seigneurs de ceux qui vous sont confiÃ©s, mais Ã©tant des exemples pour les
+troupeau; ... De mÃªme, vous les plus jeunes, soumettez-vous Ã  votre
+aÃ®nÃ©s. Oui, soyez tous soumis les uns aux autres et vÃªtus
+avec humilitÃ©, car Â« Dieu rÃ©siste aux orgueilleux, Mais fait grÃ¢ce aux
 humble." (1P 5:2-5)
 
-Il y a clairement une hypothèse ici de dirigeants au pouvoir et de saints
-obéir, mais cette relation biblique doit rester en harmonie avec
-paroles de Jésus. Notre soumission doit être joyeuse, remplie de foi et agréable
-au Christ. L'obéissance ne doit pas nous conduire à aller à l'encontre de notre conscience ou
-notre compréhension de ce qui plaît et honore Jésus, mais devrait honorer
-Jésus et ceux qu'il a appelés à nous conduire.
+Il y a clairement une hypothÃ¨se ici de dirigeants au pouvoir et de saints
+obÃ©ir, mais cette relation biblique doit rester en harmonie avec
+paroles de JÃ©sus. Notre soumission doit Ãªtre joyeuse, remplie de foi et agrÃ©able
+au Christ. L'obÃ©issance ne doit pas nous conduire Ã  aller Ã  l'encontre de notre conscience ou
+notre comprÃ©hension de ce qui plaÃ®t et honore JÃ©sus, mais devrait honorer
+JÃ©sus et ceux qu'il a appelÃ©s Ã  nous conduire.
 
-#### Voici quelques suggestions pour réfléchir au leadership : [^9]
+#### Voici quelques suggestions pour rÃ©flÃ©chir au leadershipÂ : [^9]
 
-- Faites confiance à Dieu pour diriger.
+- Faites confiance Ã  Dieu pour diriger.
 
 - N'essayez pas de pousser les choses trop vite.
 
-- Ne l'organisez pas tant que vous n'avez pas un *it* à organiser. Commencer avec
+- Ne l'organisez pas tant que vous n'avez pas un *it* Ã  organiser. Commencer avec
     la vie!
 
-- Encourager l'autorité distribuée; chacun vivant dans et sous Jésus
-    l'autorité, ne pas déléguer l'autorité à travers une hiérarchie.
+- Encourager l'autoritÃ© distribuÃ©e; chacun vivant dans et sous JÃ©sus
+    l'autoritÃ©, ne pas dÃ©lÃ©guer l'autoritÃ© Ã  travers une hiÃ©rarchie.
 
 - Le leadership implique d'aller de l'avant, pas de micro-management.
 
 - Assurez-vous que les dirigeants ne s'accrochent pas trop fort ou ne se font pas
     indispensable.
 
-- Mener à mettre de l'ordre, mais pas contrôler.
+- Mener Ã  mettre de l'ordre, mais pas contrÃ´ler.
 
-- Offrir une responsabilité volontaire ; n'exigez pas l'assujettissement.
+- Offrir une responsabilitÃ© volontaireÂ ; n'exigez pas l'assujettissement.
 
-- Enseignez aux disciples à obéir à Jésus, à ne pas devenir dépendants de nous.
+- Enseignez aux disciples Ã  obÃ©ir Ã  JÃ©sus, Ã  ne pas devenir dÃ©pendants de nous.
 
-- Créer un environnement qui permet l'échec et restaure les gens
+- CrÃ©er un environnement qui permet l'Ã©chec et restaure les gens
     vite.
 
 - Prenez des risques et faites des erreurs.
 
-### Anciens et apôtres
+### Anciens et apÃ´tres
 
-La direction de l'église du NT se compose de Jésus le chef, des anciens/dirigeants et duPaul a demandé à Tite de nommer des anciens dans les églises dont il avait la charge.
-C'est la norme du Nouveau Testament pour les églises locales d'avoir un ou plusieurs
-les aînés pour s'en occuper. Mais Paul met en garde de ne pas nommer de croyants novices
-qui manquent de maturité dans leur foi. La raison en est que les jeunes croyants sont
-souvent désireux de devenir anciens en raison de l'estime qu'il leur donne. Mais
-Jésus nous montre le vrai cœur d'un ancien :
+La direction de l'Ã©glise du NT se compose de JÃ©sus le chef, des anciens/dirigeants et duPaul a demandÃ© Ã  Tite de nommer des anciens dans les Ã©glises dont il avait la charge.
+C'est la norme du Nouveau Testament pour les Ã©glises locales d'avoir un ou plusieurs
+les aÃ®nÃ©s pour s'en occuper. Mais Paul met en garde de ne pas nommer de croyants novices
+qui manquent de maturitÃ© dans leur foi. La raison en est que les jeunes croyants sont
+souvent dÃ©sireux de devenir anciens en raison de l'estime qu'il leur donne. Mais
+JÃ©sus nous montre le vrai cÅ“ur d'un ancien :
 
-« Mais quand il vit les foules, il fut ému de compassion pour elles,
-parce qu'ils étaient fatigués et dispersés, comme des brebis sans berger.
+Â« Mais quand il vit les foules, il fut Ã©mu de compassion pour elles,
+parce qu'ils Ã©taient fatiguÃ©s et dispersÃ©s, comme des brebis sans berger.
 (Matthieu 9:36)
 
-« Prenez donc garde à vous-mêmes et à tout le troupeau, parmi lesquels les
-Le Saint-Esprit vous a établis surveillants, pour paître l'église de Dieu qui
-Il a racheté avec Son propre sang. (Actes 20:28)
+Â« Prenez donc garde Ã  vous-mÃªmes et Ã  tout le troupeau, parmi lesquels les
+Le Saint-Esprit vous a Ã©tablis surveillants, pour paÃ®tre l'Ã©glise de Dieu qui
+Il a rachetÃ© avec Son propre sang. (Actes 20:28)
 
-Un ancien devrait être un croyant avec un cœur brisé pour les perdus ; déplacé
-avec compassion pour les captifs et passionnée par Jésus. Tel que
-personne est susceptible de diriger une église saine.
+Un ancien devrait Ãªtre un croyant avec un cÅ“ur brisÃ© pour les perdus ; dÃ©placÃ©
+avec compassion pour les captifs et passionnÃ©e par JÃ©sus. Tel que
+personne est susceptible de diriger une Ã©glise saine.
 
-En plus des anciens, Dieu donne des « dons » d'apôtres, de prophètes,
-enseignants, évangélistes et pasteurs pour aider à équiper l'église pour le ministère
-(Eph 4). Bien que le NT ne précise pas comment ces ministères
-liés à l'église locale et à la mission, il semble que les cinq dons
-diriger et motiver l'implantation d'églises et poser les fondements de la vérité
-et pratique pour les églises. Pendant ce temps, les anciens/dirigeants et les saints
-sur la tâche de former des disciples et de se multiplier. Sans doute certaines églises
-avaient des dons de ministère de résident tandis que d'autres ont reçu des commentaires de visites
-ministères.
+En plus des anciens, Dieu donne des Â«Â donsÂ Â» d'apÃ´tres, de prophÃ¨tes,
+enseignants, Ã©vangÃ©listes et pasteurs pour aider Ã  Ã©quiper l'Ã©glise pour le ministÃ¨re
+(Eph 4). Bien que le NT ne prÃ©cise pas comment ces ministÃ¨res
+liÃ©s Ã  l'Ã©glise locale et Ã  la mission, il semble que les cinq dons
+diriger et motiver l'implantation d'Ã©glises et poser les fondements de la vÃ©ritÃ©
+et pratique pour les Ã©glises. Pendant ce temps, les anciens/dirigeants et les saints
+sur la tÃ¢che de former des disciples et de se multiplier. Sans doute certaines Ã©glises
+avaient des dons de ministÃ¨re de rÃ©sident tandis que d'autres ont reÃ§u des commentaires de visites
+ministÃ¨res.
 
-[^10]Un ancien est un homme qui est appelé et doté par Dieu, qui avec d'autres
-les anciens ont la responsabilité de diriger une église locale. Écriture
-le dépeint comme un homme qui est :
+[^10]Un ancien est un homme qui est appelÃ© et dotÃ© par Dieu, qui avec d'autres
+les anciens ont la responsabilitÃ© de diriger une Ã©glise locale. Ã‰criture
+le dÃ©peint comme un homme qui est :
 
-- Façonné par le ministère apostolique
+- FaÃ§onnÃ© par le ministÃ¨re apostolique
 
 - Capable de se diriger
 
 - Capable de diriger sa famille
 
-- Capable de diriger son église locale
+- Capable de diriger son Ã©glise locale
 
-L'ancien est responsable du discipulat quotidien de l'église
-et se préoccupe à juste titre des détails de la vie des individus et de la
-défis et plaisirs particuliers de vivre le Royaume dans le
-communauté.
+L'ancien est responsable du discipulat quotidien de l'Ã©glise
+et se prÃ©occupe Ã  juste titre des dÃ©tails de la vie des individus et de la
+dÃ©fis et plaisirs particuliers de vivre le Royaume dans le
+communautÃ©.
 
-La maîtrise de soi est la qualification prédominante pour l'ancien et est la
-la seule chose que Paul dit à Timothée d'enseigner aux jeunes hommes ! Apprendre à diriger
-vous-même est la préparation clé nécessaire pour diriger les autres. Si les jeunes hommes
-peuvent gagner cette bataille tôt, alors ils deviendront bien
+La maÃ®trise de soi est la qualification prÃ©dominante pour l'ancien et est la
+la seule chose que Paul dit Ã  TimothÃ©e d'enseigner aux jeunes hommes ! Apprendre Ã  diriger
+vous-mÃªme est la prÃ©paration clÃ© nÃ©cessaire pour diriger les autres. Si les jeunes hommes
+peuvent gagner cette bataille tÃ´t, alors ils deviendront bien
 dirigeants.[^11]
 
-Le diable tend des pièges aux anciens ! Chaque aîné potentiel doit honnêtement
-se demander où sont ses points faibles. Où le diable posera-t-il son
-piège? L'orgueil est un piège commun, mais il peut y en avoir d'autres. Ne pas nommer
-les anciens à la hâte; examiner leur caractère et le fruit de leur foi.
+Le diable tend des piÃ¨ges aux anciens ! Chaque aÃ®nÃ© potentiel doit honnÃªtement
+se demander oÃ¹ sont ses points faibles. OÃ¹ le diable posera-t-il son
+piÃ¨ge? L'orgueil est un piÃ¨ge commun, mais il peut y en avoir d'autres. Ne pas nommer
+les anciens Ã  la hÃ¢te; examiner leur caractÃ¨re et le fruit de leur foi.
 
-Un aîné ne doit pas être un novice, de peur qu'en étant gonflé d'orgueil il tombe
-dans la même condamnation que le diable. De plus, il doit avoir une bonne
-témoignage parmi ceux qui sont dehors, de peur qu'il ne tombe dans l'opprobre et
-le piège du diable. (1Tm 3:6-7)
+Un aÃ®nÃ© ne doit pas Ãªtre un novice, de peur qu'en Ã©tant gonflÃ© d'orgueil il tombe
+dans la mÃªme condamnation que le diable. De plus, il doit avoir une bonne
+tÃ©moignage parmi ceux qui sont dehors, de peur qu'il ne tombe dans l'opprobre et
+le piÃ¨ge du diable. (1Tm 3:6-7)
 
-Les aînés doivent être transparents. Ce que vous voyez est ce que vous obtenez. Leur "oui"
-signifie « oui » et leur « non » signifie « non ». Les anciens et les diacres doivent être
-des gens au cœur pur et à l'esprit ouvert en qui vous savez avoir confiance. Si
-ils n'ont pas été dignes de confiance dans la gestion des richesses du monde, ne
+Les aÃ®nÃ©s doivent Ãªtre transparents. Ce que vous voyez est ce que vous obtenez. Leur "oui"
+signifie Â«Â ouiÂ Â» et leur Â«Â nonÂ Â» signifie Â«Â nonÂ Â». Les anciens et les diacres doivent Ãªtre
+des gens au cÅ“ur pur et Ã  l'esprit ouvert en qui vous savez avoir confiance. Si
+ils n'ont pas Ã©tÃ© dignes de confiance dans la gestion des richesses du monde, ne
 confiez-leur de vraies richesses.[^12]
 
-« Celui qui est fidèle dans ce qui est le moins est fidèle aussi dans beaucoup ; et il
-qui est injuste dans ce qui est le moins est injuste aussi dans beaucoup. Par conséquent, si vous
-n'ont pas été fidèles au Mammon injuste, qui s'engagera à
+Â« Celui qui est fidÃ¨le dans ce qui est le moins est fidÃ¨le aussi dans beaucoup ; et il
+qui est injuste dans ce qui est le moins est injuste aussi dans beaucoup. Par consÃ©quent, si vous
+n'ont pas Ã©tÃ© fidÃ¨les au Mammon injuste, qui s'engagera Ã 
 ta confiance dans les vraies richesses ?" (Lc 16, 10-11)
 
-Les anciens doivent honorer la prêtrise de tous les croyants et devraient donc
+Les anciens doivent honorer la prÃªtrise de tous les croyants et devraient donc
 toujours rechercher l'avis et l'esprit de ceux qu'ils dirigent et les impliquer dans
-le processus de prise de décision.
+le processus de prise de dÃ©cision.
 
-Les dons du ministère, en particulier les apôtres et les prophètes, sont appelés à
-avoir une vision plus large et une perspective plus large sur ce qui se passe. Là
-tend à être une tension saine entre les aînés qui veulent renforcer
-leur travail local avec plus de dirigeants, et les apôtres qui veulent pousser
-ces dirigeants dans de nouvelles œuvres. De plus, les apôtres et les prophètes sontcomment ils sont répondus. Cela produit une autre tension saine entre
-le pragmatisme d'un ancien et l'idéalisme relatif d'un apôtre ou
-prophète. Ce n'est pas que l'un a raison et l'autre tort, mais que les deux
-des voix et des influences sont nécessaires. L'aîné a le Dieu donné
-responsabilité de diriger et de prendre soin. Les dons du ministère ont le
-responsabilité de provoquer. Pour cette raison, les aînés doivent être continuellement
-imaginés et équipés par les apôtres et leurs équipes.
+Les dons du ministÃ¨re, en particulier les apÃ´tres et les prophÃ¨tes, sont appelÃ©s Ã 
+avoir une vision plus large et une perspective plus large sur ce qui se passe. LÃ 
+tend Ã  Ãªtre une tension saine entre les aÃ®nÃ©s qui veulent renforcer
+leur travail local avec plus de dirigeants, et les apÃ´tres qui veulent pousser
+ces dirigeants dans de nouvelles Å“uvres. De plus, les apÃ´tres et les prophÃ¨tes sontcomment ils sont rÃ©pondus. Cela produit une autre tension saine entre
+le pragmatisme d'un ancien et l'idÃ©alisme relatif d'un apÃ´tre ou
+prophÃ¨te. Ce n'est pas que l'un a raison et l'autre tort, mais que les deux
+des voix et des influences sont nÃ©cessaires. L'aÃ®nÃ© a le Dieu donnÃ©
+responsabilitÃ© de diriger et de prendre soin. Les dons du ministÃ¨re ont le
+responsabilitÃ© de provoquer. Pour cette raison, les aÃ®nÃ©s doivent Ãªtre continuellement
+imaginÃ©s et Ã©quipÃ©s par les apÃ´tres et leurs Ã©quipes.
 
-Les enseignants auront un don particulier pour comprendre l'étendue des
-vérité dans les Écritures, offrant une perspective et un équilibre doctrinaux.
-Ils aident à révéler des vérités simples qui sont si facilement obscurcies par
-tradition ou pensée mondaine. Ils aident les saints à gagner le
-confiance pour sonder les Écritures par eux-mêmes et prendre à la fois les
+Les enseignants auront un don particulier pour comprendre l'Ã©tendue des
+vÃ©ritÃ© dans les Ã‰critures, offrant une perspective et un Ã©quilibre doctrinaux.
+Ils aident Ã  rÃ©vÃ©ler des vÃ©ritÃ©s simples qui sont si facilement obscurcies par
+tradition ou pensÃ©e mondaine. Ils aident les saints Ã  gagner le
+confiance pour sonder les Ã‰critures par eux-mÃªmes et prendre Ã  la fois les
 la viande et le lait de la parole. Ils ne feront pas la promotion de leur propre sagesse
-avec de nouvelles interprétations, mais font appel à la simplicité de l'Évangile et
-le témoignage de l'Esprit pour clarifier les Écritures.
+avec de nouvelles interprÃ©tations, mais font appel Ã  la simplicitÃ© de l'Ã‰vangile et
+le tÃ©moignage de l'Esprit pour clarifier les Ã‰critures.
 
-## Un modèle pour la multiplication
+## Un modÃ¨le pour la multiplication
 
-La mission de Jésus pour le discipulat implique de multiplier les disciples qui
-conduit à multiplier les dirigeants et à multiplier les églises. Paul était obéissant
-à cela, se déplaçant rapidement d'un endroit à un autre en laissant une traînée de
-jeunes églises derrière lui. Une partie de la stratégie de Paul consistait à maintenir une
-modèle simple qu'il enseignait partout où il allait :
+La mission de JÃ©sus pour le discipulat implique de multiplier les disciples qui
+conduit Ã  multiplier les dirigeants et Ã  multiplier les Ã©glises. Paul Ã©tait obÃ©issant
+Ã  cela, se dÃ©plaÃ§ant rapidement d'un endroit Ã  un autre en laissant une traÃ®nÃ©e de
+jeunes Ã©glises derriÃ¨re lui. Une partie de la stratÃ©gie de Paul consistait Ã  maintenir une
+modÃ¨le simple qu'il enseignait partout oÃ¹ il allait :
 
-Joignez-vous à d'autres pour suivre mon exemple, frères, et prenez note de
-ceux qui vivent selon le modèle que nous vous avons donné. (Ph 3:17)
+Joignez-vous Ã  d'autres pour suivre mon exemple, frÃ¨res, et prenez note de
+ceux qui vivent selon le modÃ¨le que nous vous avons donnÃ©. (Ph 3:17)
 
-« Tiens bon le modèle de paroles sonores que tu as entendu de moi, en
-la foi et l'amour qui sont en Jésus-Christ." (2Tm 1:13)
+Â«Â Tiens bon le modÃ¨le de paroles sonores que tu as entendu de moi, en
+la foi et l'amour qui sont en JÃ©sus-Christ." (2Tm 1:13)
 
-"Mais Dieu soit remercié de ce que, bien que vous fussiez esclaves du péché, vous obéissiez
-du cœur cette forme de doctrine à laquelle tu as été livré. » (Ro
+"Mais Dieu soit remerciÃ© de ce que, bien que vous fussiez esclaves du pÃ©chÃ©, vous obÃ©issiez
+du cÅ“ur cette forme de doctrine Ã  laquelle tu as Ã©tÃ© livrÃ©. Â» (Ro
 6:17)
 
-"C'est pourquoi je vous exhorte, imitez-moi. C'est pourquoi j'ai envoyé Timothée
-à toi, qui es mon fils bien-aimé et fidèle dans le Seigneur, qui rappelleras
-vous de mes voies en Christ, comme j'enseigne partout dans chaque église." (1Co
+"C'est pourquoi je vous exhorte, imitez-moi. C'est pourquoi j'ai envoyÃ© TimothÃ©e
+Ã  toi, qui es mon fils bien-aimÃ© et fidÃ¨le dans le Seigneur, qui rappelleras
+vous de mes voies en Christ, comme j'enseigne partout dans chaque Ã©glise." (1Co
 4:16-17)
 
-Paul ne nous donne pas son modèle sous une forme simple, mais il peut être
-discerné de ses lettres, et se résume peut-être par ses
-thèmes de la foi, de l'espérance et de l'amour :
+Paul ne nous donne pas son modÃ¨le sous une forme simple, mais il peut Ãªtre
+discernÃ© de ses lettres, et se rÃ©sume peut-Ãªtre par ses
+thÃ¨mes de la foi, de l'espÃ©rance et de l'amour :
 
-« Et maintenant, demeurez foi, espérance, amour, ces trois ; mais le plus grand de ces
+Â«Â Et maintenant, demeurez foi, espÃ©rance, amour, ces troisÂ ; mais le plus grand de ces
 est l'amour." (1Co 13:13)
 
-"se souvenant sans cesse de votre œuvre de foi, travail d'amour, et
-patience d'espérance en notre Seigneur Jésus-Christ devant notre Dieu et
-Père," (1Th 1:3)
+"se souvenant sans cesse de votre Å“uvre de foi, travail d'amour, et
+patience d'espÃ©rance en notre Seigneur JÃ©sus-Christ devant notre Dieu et
+PÃ¨re," (1Th 1:3)
 
-« Mais soyons sobres, nous qui sommes du jour, revêtons la cuirasse de
-la foi et l'amour, et comme un casque l'espérance du salut." (1Th 5:8)
+Â« Mais soyons sobres, nous qui sommes du jour, revÃªtons la cuirasse de
+la foi et l'amour, et comme un casque l'espÃ©rance du salut." (1Th 5:8)
 
-uvres de foi - guérir les malades et délivrer les gens des pièges
-du diable; des travaux d'amour - nous aimer les uns les autres comme Jésus nous aime;
-patience d'espérance - vivre sa vie à partir de notre position sûre en Christ.
-Ceux-ci sont alors l'ADN de notre discipulat et devraient être dans tous les aspects de
-notre vie d'église privée et corporative.
+uvres de foi - guÃ©rir les malades et dÃ©livrer les gens des piÃ¨ges
+du diable; des travaux d'amour - nous aimer les uns les autres comme JÃ©sus nous aime;
+patience d'espÃ©rance - vivre sa vie Ã  partir de notre position sÃ»re en Christ.
+Ceux-ci sont alors l'ADN de notre discipulat et devraient Ãªtre dans tous les aspects de
+notre vie d'Ã©glise privÃ©e et corporative.
 
-Chaque disciple, chaque réunion, chaque ministère doit avoir *tout* l'ADN à
-en même temps[^13] ; oeuvres de foi, travaux d'amour et espérance patiente en
-la vue de notre Dieu et Père.
+Chaque disciple, chaque rÃ©union, chaque ministÃ¨re doit avoir *tout* l'ADN Ã 
+en mÃªme temps[^13]Â ; oeuvres de foi, travaux d'amour et espÃ©rance patiente en
+la vue de notre Dieu et PÃ¨re.
 
-### Évangélisation
+### Ã‰vangÃ©lisation
 
-La vie missionnaire, c'est : se faire des amis, organiser des fêtes, raconter des histoires et
-Donner des cadeaux. Cela semble à la fois tout à fait possible et amusant ![^14]
+La vie missionnaire, c'est : se faire des amis, organiser des fÃªtes, raconter des histoires et
+Donner des cadeaux. Cela semble Ã  la fois tout Ã  fait possible et amusantÂ ![^14]
 
 Les disciples doivent chercher un bon sol dans lequel semer la graine du
-mot. Mais que doit-on semer ? Comment devons-nous présenter l'évangile ? Pour
-décennies, l'église a utilisé des tracts avec un résumé de "l'évangile" pour
-évangélisme. Ceux-ci parlent généralement du problème de notre péché, le
-solution dans la croix et une "prière des pécheurs". Ne le penses-tu pas
-étrange que cet "évangile" ne soit présenté sous cette forme nulle part dans
-écriture. Il est encore plus étrange que cet « évangile » ne puisse être facilement
-tiré des quatre évangiles. Nous faisons bien de tenir compte de l'Evangile que le
-Le Saint-Esprit a déjà conçu pour nous : Jean a dit :
+mot. Mais que doit-on semer ? Comment devons-nous prÃ©senter l'Ã©vangile ? Pour
+dÃ©cennies, l'Ã©glise a utilisÃ© des tracts avec un rÃ©sumÃ© de "l'Ã©vangile" pour
+Ã©vangÃ©lisme. Ceux-ci parlent gÃ©nÃ©ralement du problÃ¨me de notre pÃ©chÃ©, le
+solution dans la croix et une "priÃ¨re des pÃ©cheurs". Ne le penses-tu pas
+Ã©trange que cet "Ã©vangile" ne soit prÃ©sentÃ© sous cette forme nulle part dans
+Ã©criture. Il est encore plus Ã©trange que cet Â« Ã©vangile Â» ne puisse Ãªtre facilement
+tirÃ© des quatre Ã©vangiles. Nous faisons bien de tenir compte de l'Evangile que le
+Le Saint-Esprit a dÃ©jÃ  conÃ§u pour nous : Jean a dit :
 
-Jésus a fait beaucoup d'autres signes miraculeux en présence de ses disciples,
-qui ne sont pas enregistrés dans ce livre. Mais ceux-ci sont écrits afin que vous puissiezvous pouvez avoir la vie en son nom. (Jn 20:30-31)
+JÃ©sus a fait beaucoup d'autres signes miraculeux en prÃ©sence de ses disciples,
+qui ne sont pas enregistrÃ©s dans ce livre. Mais ceux-ci sont Ã©crits afin que vous puissiezvous pouvez avoir la vie en son nom. (Jn 20:30-31)
 
-Ces versets décrivent précisément ce que nous essayons d'accomplir avec notre
-petits tracts. Il est temps que nous suivions les écritures inspirées plutôt
-que d'essayer de les améliorer avec nos versets sélectionnés. La réalité est
-que les non-sauvés ne s'intéressent pas aux *moyens* de notre salut
+Ces versets dÃ©crivent prÃ©cisÃ©ment ce que nous essayons d'accomplir avec notre
+petits tracts. Il est temps que nous suivions les Ã©critures inspirÃ©es plutÃ´t
+que d'essayer de les amÃ©liorer avec nos versets sÃ©lectionnÃ©s. La rÃ©alitÃ© est
+que les non-sauvÃ©s ne s'intÃ©ressent pas aux *moyens* de notre salut
 que nos tracts tentent d'expliquer. Ils ont besoin d'entendre de vraies bonnes nouvelles.
 Les signes que John enregistre sont un moyen puissant de partager ce bon
 nouvelles.
 
-John a sélectionné sept *signes* *miraculeux* :
+John a sÃ©lectionnÃ© sept *signes* *miraculeux*Â :
 
 1. De l'eau dans du vin (Jn 2:1-12)
 
-2. Guérison du fils du fonctionnaire (Jn 4:46-54)
+2. GuÃ©rison du fils du fonctionnaire (Jn 4:46-54)
 
-3. Guérison d'un paralytique à la piscine de Bethesda (Jn 5:1-17)
+3. GuÃ©rison d'un paralytique Ã  la piscine de Bethesda (Jn 5:1-17)
 
 4. Nourrir 5000 (Jn 6:1-14)
 
 5. Marcher sur l'eau (Jn 6,15-25)
 
-6. Guérison de l'aveugle-né (Jn 9:1-41)
+6. GuÃ©rison de l'aveugle-nÃ© (Jn 9:1-41)
 
-7. La résurrection de Lazare (Jn 11, 1-46)
+7. La rÃ©surrection de Lazare (Jn 11, 1-46)
 
-Une méthode qui s'est avérée très puissante consiste à demander à un chercheur de prendre
-une histoire par semaine et lisez-la tous les jours. Chaque semaine, rencontrez-les et demandez-leur :
+Une mÃ©thode qui s'est avÃ©rÃ©e trÃ¨s puissante consiste Ã  demander Ã  un chercheur de prendre
+une histoire par semaine et lisez-la tous les jours. Chaque semaine, rencontrez-les et demandez-leurÂ :
 
 1. Que vous dit cette histoire sur les gens ?
 
-2. Que vous dit cette histoire à propos de Jésus ?
+2. Que vous dit cette histoire Ã  propos de JÃ©sus ?
 
 3. Que dit cette histoire sur vous ?
 
@@ -1011,95 +1011,95 @@ une histoire par semaine et lisez-la tous les jours. Chaque semaine, rencontrez-
 
 ### Groupe de transformation de la vie (LTG)
 
-Le bloc de construction de l'église est 2-3 disciples en intime
-relation amoureuse. À travers le monde, les LTG unisexes, les groupes de formation de disciples,
-Les triplés - appelez-les comme vous voulez - se sont avérés être l'essentiel
-fondement de la multiplication des églises.
+Le bloc de construction de l'Ã©glise est 2-3 disciples en intime
+relation amoureuse. Ã€ travers le monde, les LTG unisexes, les groupes de formation de disciples,
+Les triplÃ©s - appelez-les comme vous voulez - se sont avÃ©rÃ©s Ãªtre l'essentiel
+fondement de la multiplication des Ã©glises.
 
-Avec 4 ou plus, il est très facile pour une personne de dériver dans le
-fond, ou pour former des sous-groupes. Les groupes de 2-3 sont la taille idéale
-pour la responsabilité et la mission :[^15]
+Avec 4 ou plus, il est trÃ¨s facile pour une personne de dÃ©river dans le
+fond, ou pour former des sous-groupes. Les groupes de 2-3 sont la taille idÃ©ale
+pour la responsabilitÃ© et la missionÂ :[^15]
 
-« Après cela, le Seigneur en nomma soixante-douze autres et leur en envoya deux par
-deux devant lui dans chaque ville et endroit où il allait se rendre. » (Lc
-10 : 1).
+Â« AprÃ¨s cela, le Seigneur en nomma soixante-douze autres et leur en envoya deux par
+deux devant lui dans chaque ville et endroit oÃ¹ il allait se rendre. Â» (Lc
+10Â :Â 1).
 
-Pendant qu'ils adoraient le Seigneur et jeûnaient, le Saint-Esprit dit :
-« Mettez-moi à part Barnabas et Saul pour l'œuvre à laquelle j'ai appelé
-eux. » Ainsi, après avoir jeûné et prié, ils mirent les mains sur
-eux et les a renvoyés. (Actes 13 :2-3).
+Pendant qu'ils adoraient le Seigneur et jeÃ»naient, le Saint-Esprit dit :
+Â« Mettez-moi Ã  part Barnabas et Saul pour l'Å“uvre Ã  laquelle j'ai appelÃ©
+eux. Â» Ainsi, aprÃ¨s avoir jeÃ»nÃ© et priÃ©, ils mirent les mains sur
+eux et les a renvoyÃ©s. (Actes 13Â :2-3).
 
-La réunion hebdomadaire du LTG recommandée est la suivante :
+La rÃ©union hebdomadaire du LTG recommandÃ©e est la suivanteÂ :
 
-1. Chacun a une carte de responsabilité (voir ci-dessous). On lit les questions
-    et tous répondent.
+1. Chacun a une carte de responsabilitÃ© (voir ci-dessous). On lit les questions
+    et tous rÃ©pondent.
 
 2. Chaque semaine, un livre de la Bible est choisi pour la lecture. 20-30 chapitres
-    sont lus chaque semaine. Ainsi, un livre court peut être lu plusieurs fois.
-    L'Écriture est ainsi lue dans son contexte, dans son intégralité et
-    à plusieurs reprises.
+    sont lus chaque semaine. Ainsi, un livre court peut Ãªtre lu plusieurs fois.
+    L'Ã‰criture est ainsi lue dans son contexte, dans son intÃ©gralitÃ© et
+    Ã  plusieurs reprises.
 
-3. A moins que *tous* n'aient rempli le nombre de chapitres convenu, le même
-    livre est lu *à nouveau* la semaine suivante (crée une incitation à
+3. A moins que *tous* n'aient rempli le nombre de chapitres convenu, le mÃªme
+    livre est lu *Ã  nouveau* la semaine suivante (crÃ©e une incitation Ã 
     terminer la lecture).
 
-4. Demandez "ce que Jésus vous a dit, et ce que vous allez faire à propos de
-    ce? Vivez-vous diligemment dans le bien de ce que Dieu a dit à
+4. Demandez "ce que JÃ©sus vous a dit, et ce que vous allez faire Ã  propos de
+    ce? Vivez-vous diligemment dans le bien de ce que Dieu a dit Ã 
     tu?"
 
-5. Une liste est dressée des personnes pour lesquelles on prie pour venir à Christ, chacune
+5. Une liste est dressÃ©e des personnes pour lesquelles on prie pour venir Ã  Christ, chacune
     personne fournissant 3 noms. Chacun prie pour un sur la liste chacun
-    journée.
+    journÃ©e.
 
-Les questions suggérées pour la carte de responsabilité sont les suivantes :
+Les questions suggÃ©rÃ©es pour la carte de responsabilitÃ© sont les suivantesÂ :
 
 1. Avez-vous sagement investi votre vie dans le Royaume de Dieu cette semaine ?
 
-2. Avez-vous accordé suffisamment de temps pour communiquer avec votre conjoint ?
+2. Avez-vous accordÃ© suffisamment de temps pour communiquer avec votre conjoint ?
 
-3. Avez-vous été cohérent dans les discussions, la formation et la discipline
+3. Avez-vous Ã©tÃ© cohÃ©rent dans les discussions, la formation et la discipline
     vos enfants?
 
-4. Êtes-vous réconcilié avec tout le monde dans la mesure où cela dépend de vous ?
+4. ÃŠtes-vous rÃ©conciliÃ© avec tout le monde dans la mesure oÃ¹ cela dÃ©pend de vous ?
 
-5. Y a-t-il des personnes ou des situations que vous essayez d'éviter ou
-    contrôler?
+5. Y a-t-il des personnes ou des situations que vous essayez d'Ã©viter ou
+    contrÃ´ler?
 
-6. La gestion de votre travail et de votre argent a-t-elle été pieuse, honnête, fidèle
-    et généreux ?
+6. La gestion de votre travail et de votre argent a-t-elle Ã©tÃ© pieuse, honnÃªte, fidÃ¨le
+    et gÃ©nÃ©reux ?
 
-7. Avez-vous été exposé à du matériel sexuellement séduisant ou avez-vous autorisé votre
-    l'esprit de s'attarder sur des pensées sexuelles inappropriées ?
+7. Avez-vous Ã©tÃ© exposÃ© Ã  du matÃ©riel sexuellement sÃ©duisant ou avez-vous autorisÃ© votre
+    l'esprit de s'attarder sur des pensÃ©es sexuelles inappropriÃ©esÂ ?
 
-8. Avez-vous cédé à un comportement addictif cette semaine ? -- Expliquer.
+8. Avez-vous cÃ©dÃ© Ã  un comportement addictif cette semaine ? -- Expliquer.
 
-9. Quelle est votre propre question sur la responsabilité personnelle ?
+9. Quelle est votre propre question sur la responsabilitÃ© personnelleÂ ?
 
-10. Avez-vous été complètement honnête avec moi ?
+10. Avez-vous Ã©tÃ© complÃ¨tement honnÃªte avec moi ?
 
-### Église Famille
+### Ã‰glise Famille
 
-12-15 est la taille idéale pour la famille de l'église. Il permet une intimité avec
-la diversité. Vous pouvez veiller au bien-être de l'autre. Ce groupe est un
-famille et devrait faire des choses familiales. Il n'est pas destiné à la mission, ni à
-direction. Il est destiné à la fraternité et à la pastorale. C'est le
-groupe dans lequel les enfants sont élevés.au fur et à mesure qu'il grandit, il faut chercher l'opportunité d'envoyer une petite équipe
-(2-3) pour commencer une nouvelle église. En envoyer deux ou trois en mission, c'est beaucoup moins
+12-15 est la taille idÃ©ale pour la famille de l'Ã©glise. Il permet une intimitÃ© avec
+la diversitÃ©. Vous pouvez veiller au bien-Ãªtre de l'autre. Ce groupe est un
+famille et devrait faire des choses familiales. Il n'est pas destinÃ© Ã  la mission, ni Ã 
+direction. Il est destinÃ© Ã  la fraternitÃ© et Ã  la pastorale. C'est le
+groupe dans lequel les enfants sont Ã©levÃ©s.au fur et Ã  mesure qu'il grandit, il faut chercher l'opportunitÃ© d'envoyer une petite Ã©quipe
+(2-3) pour commencer une nouvelle Ã©glise. En envoyer deux ou trois en mission, c'est beaucoup moins
 douloureux que de couper une famille en deux.[^16]
 
-#### La prière du Seigneur
+#### La priÃ¨re du Seigneur
 
-La prière du Seigneur est censée être un modèle pour que son peuple communie
-avec Lui (il est entièrement au pluriel). ça fait un super
-modèle pour une réunion église-famille.[^17]
+La priÃ¨re du Seigneur est censÃ©e Ãªtre un modÃ¨le pour que son peuple communie
+avec Lui (il est entiÃ¨rement au pluriel). Ã§a fait un super
+modÃ¨le pour une rÃ©union Ã©glise-famille.[^17]
 
-- Adorer Dieu notre Père
+- Adorer Dieu notre PÃ¨re
 
-- Abandonnez-vous à sa mission : sa volonté faite sur terre.
+- Abandonnez-vous Ã  sa mission : sa volontÃ© faite sur terre.
 
-- Prière pour les besoins quotidiens
+- PriÃ¨re pour les besoins quotidiens
 
-- Réconciliation et pardon entre nous.
+- RÃ©conciliation et pardon entre nous.
 
 - Orientation et protection dans le combat spirituel/moral.
 
@@ -1107,165 +1107,165 @@ modèle pour une réunion église-famille.[^17]
 
 #### Communion
 
-La communion est symbolique du cœur même de l'Évangile et Jésus a voulu
-il doit être répété quotidiennement dans le cadre du souper. Il a été célébré par le
-famille de l'église comme repas, manger ensemble comme le font les familles :
+La communion est symbolique du cÅ“ur mÃªme de l'Ã‰vangile et JÃ©sus a voulu
+il doit Ãªtre rÃ©pÃ©tÃ© quotidiennement dans le cadre du souper. Il a Ã©tÃ© cÃ©lÃ©brÃ© par le
+famille de l'Ã©glise comme repas, manger ensemble comme le font les familles :
 
-« Ils rompirent le pain dans leurs maisons et mangèrent ensemble avec joie et sincérité
-cœurs" (Actes 2:46).
+Â« Ils rompirent le pain dans leurs maisons et mangÃ¨rent ensemble avec joie et sincÃ©ritÃ©
+cÅ“urs" (Actes 2:46).
 
-Lorsque vous vous réunissez, ce n'est pas la Cène du Seigneur que vous mangez, car comme vous
+Lorsque vous vous rÃ©unissez, ce n'est pas la CÃ¨ne du Seigneur que vous mangez, car comme vous
 manger, chacun de vous va de l'avant sans attendre personne d'autre. Une
-reste affamé, un autre s'enivre. (1Cor 11:20-21)
+reste affamÃ©, un autre s'enivre. (1Cor 11:20-21)
 
-Il ne fait aucun doute qu'il s'agissait de repas complets avec beaucoup à manger et
-assez d'alcool pour que les gens se saoulent ! Difficilement comparable à une galette
-et une gorgée de vin. Nous avons utilisé à tort l'avertissement de Paul pour empêcher
-« personnes indignes » de partager la communion :
+Il ne fait aucun doute qu'il s'agissait de repas complets avec beaucoup Ã  manger et
+assez d'alcool pour que les gens se saoulent ! Difficilement comparable Ã  une galette
+et une gorgÃ©e de vin. Nous avons utilisÃ© Ã  tort l'avertissement de Paul pour empÃªcher
+Â«Â personnes indignesÂ Â» de partager la communionÂ :
 
-Par conséquent, quiconque mange le pain ou boit la coupe du Seigneur dans un
-indigne sera coupable de péché contre le corps et le sang de
+Par consÃ©quent, quiconque mange le pain ou boit la coupe du Seigneur dans un
+indigne sera coupable de pÃ©chÃ© contre le corps et le sang de
 le Seigneur. Un homme doit s'examiner avant de manger du pain et
-boissons de la tasse. Pour toute personne qui mange et boit sans reconnaître
-le corps du Seigneur mange et boit le jugement sur lui-même. (1Cor
+boissons de la tasse. Pour toute personne qui mange et boit sans reconnaÃ®tre
+le corps du Seigneur mange et boit le jugement sur lui-mÃªme. (1Cor
 11:27-29)
 
-Mais Paul ne dit pas que quiconque devrait être exclu, ou s'exclure lui-même ;
-plutôt que tous devraient partager, avec aucun exclu par les personnes qui ont un
+Mais Paul ne dit pas que quiconque devrait Ãªtre exclu, ou s'exclure lui-mÃªme ;
+plutÃ´t que tous devraient partager, avec aucun exclu par les personnes qui ont un
 mauvaise attitude envers les autres. Nulle part la Bible ne dit que les incroyants
-doit être exclu de la communion. Il dit plutôt que nous devrions nous souvenir
-et proclamer Jésus chaque fois que nous partageons le souper. Quoi de plus naturel
+doit Ãªtre exclu de la communion. Il dit plutÃ´t que nous devrions nous souvenir
+et proclamer JÃ©sus chaque fois que nous partageons le souper. Quoi de plus naturel
 et pourtant provocateur d'une bonne discussion avec un incroyant que de partager
-un repas et proclamer le Christ en rendant grâce pour cela. C'est ce que
-le souper du Seigneur était censé être. Rappelez-vous que la première personne Jésus
-a partagé le pain et le vin avec Judas Iscariot - celui qui est indigne,
-personne incrédule là-bas!
+un repas et proclamer le Christ en rendant grÃ¢ce pour cela. C'est ce que
+le souper du Seigneur Ã©tait censÃ© Ãªtre. Rappelez-vous que la premiÃ¨re personne JÃ©sus
+a partagÃ© le pain et le vin avec Judas Iscariot - celui qui est indigne,
+personne incrÃ©dule lÃ -bas!
 
-Nos soupers quotidiens d'action de grâce, que ce soit à la maison en famille ou
-avec notre famille d'église, devrait être si plein d'amour que tous les incroyants
-le partager avec nous devrait tomber amoureux de Jésus et de son peuple. Ce
-reflète le génie de Jésus qu'un acte sociable que nous faisons tous les jours
-devrait être transformé en une proclamation naturelle et un rappel de son
+Nos soupers quotidiens d'action de grÃ¢ce, que ce soit Ã  la maison en famille ou
+avec notre famille d'Ã©glise, devrait Ãªtre si plein d'amour que tous les incroyants
+le partager avec nous devrait tomber amoureux de JÃ©sus et de son peuple. Ce
+reflÃ¨te le gÃ©nie de JÃ©sus qu'un acte sociable que nous faisons tous les jours
+devrait Ãªtre transformÃ© en une proclamation naturelle et un rappel de son
 grand amour pour nous.[^18]
 
 #### Enfants[^19]
 
-La famille de l'église en mission ensemble est le lieu approprié pour les enfants
-grandir en Dieu. Des enfants qui voient des vies transformées et des personnes perdues
-aimé grandir pour aimer les perdus aussi. Ils connaissent la puissance de l'Evangile
+La famille de l'Ã©glise en mission ensemble est le lieu appropriÃ© pour les enfants
+grandir en Dieu. Des enfants qui voient des vies transformÃ©es et des personnes perdues
+aimÃ© grandir pour aimer les perdus aussi. Ils connaissent la puissance de l'Evangile
 et y croire.
 
-Quand un enfant reçoit le seigneur, il reçoit la plénitude de Dieu, pas un
+Quand un enfant reÃ§oit le seigneur, il reÃ§oit la plÃ©nitude de Dieu, pas un
 version jeu pour enfant. La foi enfantine et le Saint-Esprit qui habite
-fait un agent puissant du royaume de Dieu. On devrait s'attendre à de grandes choses
+fait un agent puissant du royaume de Dieu. On devrait s'attendre Ã  de grandes choses
 de nos enfants. Ils ont souvent les meilleures questions, les plus profondes
-pensées et la foi la plus forte. Laissez les enfants s'occuper pendant un
-temps pendant lequel les adultes partagent, mais invitez-les ensuite à partager leur propre
-pensées et ce qu'ils pensent est important.
+pensÃ©es et la foi la plus forte. Laissez les enfants s'occuper pendant un
+temps pendant lequel les adultes partagent, mais invitez-les ensuite Ã  partager leur propre
+pensÃ©es et ce qu'ils pensent est important.
 
-La société place la responsabilité du développement de nos enfants sur
-éducateurs, mais Dieu place cette responsabilité dans les familles. Les
-l'église a suivi la société et fournit l'école du dimanche. L'église elle-même
-a cessé d'être un milieu familial pour devenir un milieu éducatif et
-environnement institutionnel. C'est une grande perte et un écart par rapport à Dieu
-intention. L'église est une famille et les enfants sont une famille. Nous ne devrions pas
-sépare les.prier et que les parents voient les enfants faire de même. les parents qui
-manque de compétences parentales peuvent apprendre en voyant d'autres parents s'occuper de leur
-les enfants de la famille de l'église.
+La sociÃ©tÃ© place la responsabilitÃ© du dÃ©veloppement de nos enfants sur
+Ã©ducateurs, mais Dieu place cette responsabilitÃ© dans les familles. Les
+l'Ã©glise a suivi la sociÃ©tÃ© et fournit l'Ã©cole du dimanche. L'Ã©glise elle-mÃªme
+a cessÃ© d'Ãªtre un milieu familial pour devenir un milieu Ã©ducatif et
+environnement institutionnel. C'est une grande perte et un Ã©cart par rapport Ã  Dieu
+intention. L'Ã©glise est une famille et les enfants sont une famille. Nous ne devrions pas
+sÃ©pare les.prier et que les parents voient les enfants faire de mÃªme. les parents qui
+manque de compÃ©tences parentales peuvent apprendre en voyant d'autres parents s'occuper de leur
+les enfants de la famille de l'Ã©glise.
 
-### Famille des Églises
+### Famille des Ã‰glises
 
-Alors que les églises implantent d'autres églises un réseau naturel de relations
-entre les églises surgit. 100-150 est le nombre maximum de sens
-relations que la plupart des gens peuvent gérer. Jésus a laissé derrière 120
-disciples. Les réseaux d'églises de maison se développent très rarement au-delà (disons
-15 églises). Au-delà de cela, vous devez lancer un nouveau réseau. Direction
-des équipes de 4 à 7 (idéalement 5) servent au sein d'un réseau d'églises fournissant
+Alors que les Ã©glises implantent d'autres Ã©glises un rÃ©seau naturel de relations
+entre les Ã©glises surgit. 100-150 est le nombre maximum de sens
+relations que la plupart des gens peuvent gÃ©rer. JÃ©sus a laissÃ© derriÃ¨re 120
+disciples. Les rÃ©seaux d'Ã©glises de maison se dÃ©veloppent trÃ¨s rarement au-delÃ  (disons
+15 Ã©glises). Au-delÃ  de cela, vous devez lancer un nouveau rÃ©seau. Direction
+des Ã©quipes de 4 Ã  7 (idÃ©alement 5) servent au sein d'un rÃ©seau d'Ã©glises fournissant
 encouragements et provocations.
 
-### Multiplier les églises
+### Multiplier les Ã©glises
 
-Si nous comptons sur les croisades pour démarrer des églises, alors nous commençons par un
-stratégie qui empêche la reproduction de l'église, car elle sème une dépendance
-sur autre chose (une autre croisade) pour accoucher. Si une église doit être
-auto-reproductrice, son démarrage ne doit dépendre d'aucun
+Si nous comptons sur les croisades pour dÃ©marrer des Ã©glises, alors nous commenÃ§ons par un
+stratÃ©gie qui empÃªche la reproduction de l'Ã©glise, car elle sÃ¨me une dÃ©pendance
+sur autre chose (une autre croisade) pour accoucher. Si une Ã©glise doit Ãªtre
+auto-reproductrice, son dÃ©marrage ne doit dÃ©pendre d'aucun
 ressource.[^20]
 
-De plus, la croissance doit se développer à partir de deux et trois *en* églises.
-Rassembler une foule de « convertis » et ensuite essayer de former des LTG est très
-difficile, et en tant que modèle de croissance, c'est un échec.
+De plus, la croissance doit se dÃ©velopper Ã  partir de deux et trois *en* Ã©glises.
+Rassembler une foule de Â«Â convertisÂ Â» et ensuite essayer de former des LTG est trÃ¨s
+difficile, et en tant que modÃ¨le de croissance, c'est un Ã©chec.
 
-##### Certains ingrédients essentiels pour une multiplication efficace de l'église sont :[^21]
+##### Certains ingrÃ©dients essentiels pour une multiplication efficace de l'Ã©glise sontÂ :[^21]
 
-1. Prière extraordinaire
+1. PriÃ¨re extraordinaire
 
-2. Évangélisation abondante
+2. Ã‰vangÃ©lisation abondante
 
-3. Implantation intentionnelle d'églises qui se reproduisent rapidement
+3. Implantation intentionnelle d'Ã©glises qui se reproduisent rapidement
 
-4. Accepter l'autorité de la parole de Dieu.
+4. Accepter l'autoritÃ© de la parole de Dieu.
 
-5. Leadership laïc local - chaque fois qu'un mouvement commence à exiger
-    leadership éduqué, il s'arrête brutalement.
+5. Leadership laÃ¯c local - chaque fois qu'un mouvement commence Ã  exiger
+    leadership Ã©duquÃ©, il s'arrÃªte brutalement.
 
-6. Églises de maison.
+6. Ã‰glises de maison.
 
-7. Direction décentralisée -- ne nécessitant pas l'approbation d'un organisme central
+7. Direction dÃ©centralisÃ©e -- ne nÃ©cessitant pas l'approbation d'un organisme central
     direction.
 
-8. Auto-réplication à tous les niveaux - disciples, églises, dirigeants,
-    familles d'églises (réseaux).
+8. Auto-rÃ©plication Ã  tous les niveaux - disciples, Ã©glises, dirigeants,
+    familles d'Ã©glises (rÃ©seaux).
 
-9. Structure minimale dictée par la vie de l'église, non imposée
+9. Structure minimale dictÃ©e par la vie de l'Ã©glise, non imposÃ©e
     d'en haut.
 
-10. Zéro dépendance vis-à-vis des ressources extérieures.
+10. ZÃ©ro dÃ©pendance vis-Ã -vis des ressources extÃ©rieures.
 
-11. Poussé par des disciples transformés qui ne peuvent s'empêcher de partager le bien
+11. PoussÃ© par des disciples transformÃ©s qui ne peuvent s'empÃªcher de partager le bien
     nouvelles.
 
 12. Tenus ensemble par des relations et non par une organisation.
 
-13. Conversions familiales/groupe/communauté, pas des conversions individuelles.
+13. Conversions familiales/groupe/communautÃ©, pas des conversions individuelles.
 
-[^1] : parties de cette section citées dans Organic Church, P54
+[^1]Â :Â parties de cette section citÃ©es dans Organic Church, P54
 
-[^2] : extrait de Organic Church, P99
+[^2]Â : extrait de Organic Church, P99
 
-[^3] : extrait de Organic Church, P66
+[^3]Â : extrait de Organic Church, P66
 
-[^4] : extrait de Organic Church, P132
+[^4]Â : extrait de Organic Church, P132
 
 [^5] : extrait de Organic Church, P71
 
-[^6] : extrait de Organic Church, P177
+[^6]Â : extrait de Organic Church, P177
 
-[^7] : extrait de Organic Church, P98
+[^7]Â : extrait de Organic Church, P98
 
-[^8] : extrait de Organic Church, P69
+[^8]Â : extrait de Organic Church, P69
 
-[^9] : Quelques points cités de Organic Church.
+[^9] : Quelques points citÃ©s de Organic Church.
 
-[^10] : PJ Smyth, « Le monde a besoin de plus d'aînés » P11
+[^10]Â : PJ Smyth, Â«Â Le monde a besoin de plus d'aÃ®nÃ©sÂ Â» P11
 
-[^11] : PJ Smyth, « Le monde a besoin de plus d'aînés » P15
+[^11]Â : PJ Smyth, Â«Â Le monde a besoin de plus d'aÃ®nÃ©sÂ Â» P15
 
-[^12] : PJ Smyth, « Le monde a besoin de plus d'aînés » P20
+[^12]Â : PJ Smyth, Â«Â Le monde a besoin de plus d'aÃ®nÃ©sÂ Â» P20
 
-[^13] : extrait de l'Église organique, P118
+[^13]Â : extrait de l'Ã‰glise organique, P118
 
-[^14] : extrait de Church 3.0, P206
+[^14]Â : extrait de Church 3.0, P206
 
-[^15] : extrait de Church 3.0, P140
+[^15]Â : extrait de Church 3.0, P140
 
-[^16] : extrait de Church 3.0, P155
+[^16]Â : extrait de Church 3.0, P155
 
-[^17] : extrait de Church 3.0, P205
+[^17]Â : extrait de Church 3.0, P205
 
-[^18] : extrait de Church 3.0, P200
+[^18]Â : extrait de Church 3.0, P200
 
-[^19] : extrait de Church 3.0, P210-220
+[^19]Â : extrait de Church 3.0, P210-220
 
-[^20] : extrait de Church 3.0, P81.
+[^20]Â : extrait de Church 3.0, P81.
 
-[^21] : extrait de Church 3.0, P70 et 84.
+[^21]Â : extrait de Church 3.0, P70 et 84.

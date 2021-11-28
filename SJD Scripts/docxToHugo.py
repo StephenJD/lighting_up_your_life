@@ -12,7 +12,7 @@ pdfRootFolder = r"static\pdf"
 #outMDfrenchPath = Join-Path -Path webRootPath -ChildPath "\content\French\Teaching Materials"
 #outPDFenglishPath = Join-Path -Path webRootPath -ChildPath "\static\pdf\English\Teaching Materials"
 #outPDFfrenchPath = Join-Path -Path webRootPath -ChildPath "\static\pdf\French\Teaching Materials"
-docxToMDcmd = "pandoc"
+pandocCmd = "pandoc"
 docxToPdfCmd = r"C:\Hugo\docto105\docto"
 
 englishMDfolder = webRootPath / mdRootFolder /languages[0]
@@ -63,7 +63,7 @@ def createMDfile(sourcePath, destPath, name):
   if fileNeedsUpdating(sourcePath, file):
     parms = ("-s", "-f", "docx", sourcePath,"-t", "markdown", "-o", file)
     print("Created:", name + ".md")
-    subprocess.run([docxToMDcmd, *parms], shell=False)
+    subprocess.run([pandocCmd, *parms], shell=False)
   else:
     file = False
   return file
@@ -78,7 +78,7 @@ def prependToFile(originalfile, string):
       original.close()
       originalfile.unlink()
       temp.close()
-      tempFile.rename(originalfile)
+      tempFile.replace(originalfile)
 
 def createHeader (englishTitle, type, language):
   if language != 'en':
@@ -95,9 +95,15 @@ def createHeader (englishTitle, type, language):
 def createPDF(sourcePath, destPath, name):
   file = destPath / (name + ".pdf")
   if fileNeedsUpdating(sourcePath, file):
-    parms = ("-f", sourcePath, "-O", file, "-T", "wdFormatPDF", "-OX", ".pdf")
-    print("Created:", name + ".pdf")
-    subprocess.run([docxToPdfCmd, *parms], shell=False)
+    #tempName = sourcePath.replace('c:\\Hugo\\Temp.md')  
+    tempPDF = Path('c:\\Hugo\\Temp.pdf')
+    fromMD_Parms = ("-f", "markdown", sourcePath,"-t", "pdf", "-o", tempPDF, "--pdf-engine=xelatex" , "--toc")
+    fromDocxParms = ("-f", sourcePath, "-O", file, "-T", "wdFormatPDF", "-OX", ".pdf")
+    print("Created:", file)
+    #subprocess.run([docxToPdfCmd, *fromDocxParms], shell=False)
+    subprocess.run([pandocCmd, *fromMD_Parms], shell=False)
+    #tempName.replace(sourcePath)
+    tempPDF.replace(file)
 
 def createMDtranslation(sourceFile, destPath, name, language):
   destFile = destPath / (name + '.md')
@@ -133,7 +139,7 @@ def createMDtranslation(sourceFile, destPath, name, language):
         translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
         translation.write(translated)
         translation.close()
-        tempName.rename(destFile)
+        tempName.replace(destFile)
 
 def updateWebsite():
   ParmsAdd = ("add", "..")
@@ -162,12 +168,18 @@ def checkForUpdatedFiles():
     # Create English .pdf files
     englishPDFpath = englishPDFfolder / docFolder
     haveMadeNewFolder(englishPDFpath)
-    createPDF(sourceDoc, englishPDFpath, docName)
+    #createPDF(sourceDoc, englishPDFpath, docName)
+    englishMDfile = englishMDpath / (docName + '.md')
+    createPDF(englishMDfile, englishPDFpath, docName)
 
     frenchMDpath = frenchMDfolder / docFolder
     createMDfolder(frenchMDpath, 'fr')
-    sourceFile = englishMDpath / (docName + '.md')
-    createMDtranslation(sourceFile, frenchMDpath, docName,'fr')
+    createMDtranslation(englishMDfile, frenchMDpath, docName,'fr')
+    # Create French .pdf files
+    frenchPDFpath = frenchPDFfolder / docFolder
+    frenchMDfile = frenchMDpath / (docName + '.md')
+    haveMadeNewFolder(frenchPDFpath)
+    createPDF(frenchMDfile, frenchPDFpath, docName) 
 
   updateWebsite()
 

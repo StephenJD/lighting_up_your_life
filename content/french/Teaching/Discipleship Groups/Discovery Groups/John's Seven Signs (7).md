@@ -2,109 +2,109 @@
 type: document
 translationKey: John's Seven Signs (7)
 title: Les sept signes de Jean (7)---
-**^37Â ^**Mais certains d'entre eux ont dit : « Il a rendu la vue à l'aveugle, n'a pas
-il? N'aurait-il pas pu empêcher Lazare de mourir ?"
+**^37Â ^**Mais certains d'entre eux ont ditÂ : "Il a rendu la vue Ã  l'aveugle,
+il? N'aurait-il pas pu empÃªcher Lazare de mourir ?"
 
-**^38Â ^**Profondément ému une fois de plus, Jésus se rendit au tombeau, qui était un
-grotte avec une pierre placée à l'entrée.Â **^39Â ^**"Prenez la pierre
-loin ! » ordonna Jésus.
+**^38Â ^**ProfondÃ©ment Ã©mu une fois de plus, JÃ©sus se rendit au tombeau, qui Ã©tait un
+grotte avec une pierre placÃ©e Ã  l'entrÃ©e. **^39Â ^**"Prenez la pierre
+loin ! Â» ordonna JÃ©sus.
 
-Martha, la sœur du mort, répondit : " Il y aura une mauvaise odeur,
-Seigneur. Il a été enterré quatre jours !"
+Martha, la sÅ“ur du mort, rÃ©pondit : " Il y aura une mauvaise odeur,
+Seigneur. Il a Ã©tÃ© enterrÃ© quatre jours !"
 
-**^40Â ^**Jésus lui dit : "Ne t'ai-je pas dit que tu verrais
-La gloire de Dieu si vous avez cru?"Â **^41Â ^**Ils ont emporté la pierre. Jésus
-leva les yeux et dit : « Je te remercie, Père, d'avoir écouté
-moi.Â **^42Â ^**Je sais que vous m'écoutez toujours, mais je dis ceci pour le
-à cause des gens d'ici, afin qu'ils croient que tu as envoyé
-moi."Â **^43Â ^**Après avoir dit cela, il a crié d'une voix forte,
-"Lazare, sors !"Â **^44Â ^**Il est sorti, les mains et les pieds enveloppés dans
-draps funéraires, et avec un chiffon autour de son visage. « Détachez-le », a dit Jésus
+**^40Â ^**JÃ©sus lui dit : "Ne t'ai-je pas dit que tu verrais
+La gloire de Dieu si vous croyezÂ ?"Â **^41Â ^**Ils ont emportÃ© la pierre. JÃ©sus
+leva les yeux et dit : Â« Je te remercie, PÃ¨re, d'avoir Ã©coutÃ©
+moi. **^42Â ^**Je sais que tu m'Ã©coutes toujours, mais je dis Ã§a pour le
+Ã  cause des gens d'ici, afin qu'ils croient que tu as envoyÃ©
+moi."Â **^43Â ^**AprÃ¨s avoir dit cela, il a criÃ© d'une voix forteÂ :
+Â« Lazare, sors ! **^44Â ^**Il est sorti, les mains et les pieds enveloppÃ©s dans
+draps funÃ©raires, et avec un chiffon autour de son visage. Â«Â DÃ©tachez-leÂ Â», a dit JÃ©sus
 eux, "et laissez-le aller."
 
-**^45Â ^**Beaucoup de gens qui étaient venus rendre visite à Marie ont vu ce que Jésus
-l'ont fait, et ils ont cru en lui.**^46Â ^**Mais certains d'entre eux sont retournés au
-pharisiens et leur raconta ce que Jésus avait fait.
+**^45Â ^**Beaucoup de ceux qui Ã©taient venus rendre visite Ã  Marie virent ce que JÃ©sus
+l'ont fait, et ils ont cru en lui.**^46Â ^**Mais certains d'entre eux sont retournÃ©s au
+pharisiens et leur raconta ce que JÃ©sus avait fait.
 
 *(Traduction des bonnes nouvelles)*\
-**Sept signes miraculeux de Jésus**
+**Sept signes miraculeux de JÃ©sus**
 
-**Septième signe : Jean 11 :1-46\
-La résurrection de Lazare**
+**SeptiÃ¨me signeÂ : Jean 11Â :1-46\
+La rÃ©surrection de Lazare**
 
-Un homme du nom de Lazare, qui habitait Béthanie, tomba malade. Béthanie était la
-ville où Marie et sa sœur Marthe vivaient.Â (**^2Â ^**Cette Marie était la
+Un homme du nom de Lazare, qui habitait BÃ©thanie, tomba malade. BÃ©thanie Ã©tait la
+ville oÃ¹ vivaient Mary et sa sÅ“ur Marthe. (**^2Â ^**Cette Marie Ã©tait la
 celui qui versa le parfum sur les pieds du Seigneur et les essuya avec elle
-Cheveu; c'était son frère Lazare qui était malade.)Â **^3Â ^**Les sœurs envoyèrent
-Jésus un message : « Seigneur, ton cher ami est malade.
+Cheveu; c'Ã©tait son frÃ¨re Lazare qui Ã©tait malade.)Â **^3Â ^**Les sÅ“urs envoyÃ¨rent
+JÃ©sus un message : Â« Seigneur, ton cher ami est malade.
 
-**^4Â ^**Quand Jésus l'entendit, il dit : "Le résultat final de cette maladie
+**^4Â ^**Quand JÃ©sus l'entendit, il dit : "Le rÃ©sultat final de cette maladie
 ne sera pas la mort de Lazare ; cela s'est produit afin d'amener
-gloire à Dieu, et ce sera le moyen par lequel le Fils de Dieu
+gloire Ã  Dieu, et ce sera le moyen par lequel le Fils de Dieu
 recevoir la gloire."
 
-**^5Â ^**Jésus aimait Marthe et sa soeur et Lazare.Â **^6Â ^**Pourtant quand
-il a appris que Lazare était malade, il est resté où il était pendant
-encore deux jours.Â **^7Â ^**Puis il dit aux disciples : " Retournons à
-Judée."
+**^5Â ^**JÃ©sus aimait Marthe, sa sÅ“ur et Lazare. **^6Â ^**Mais quand
+il a appris que Lazare Ã©tait malade, il est restÃ© oÃ¹ il Ã©tait pendant
+Deux jours de plus. **^7Â ^**Puis il dit aux disciples : Â« Retournons Ã 
+JudÃ©e."
 
-**^8Â ^**"Maître", répondirent les disciples, "il y a peu de temps, le
-les gens là-bas voulaient te lapider; et comptez-vous y retourner ?"
+**^8Â ^**"MaÃ®tre", rÃ©pondirent les disciples, "il y a peu de temps, le
+les gens lÃ -bas voulaient te lapider; et comptez-vous y retourner ?"
 
-**^9Â ^**Jésus a dit : "Un jour a douze heures, n'est-ce pas ? Alors ceux qui
-marchez en plein jour ne trébuchez pas, car ils voient la lumière de ce
-monde.Â **^10Â ^**Mais s'ils marchent pendant la nuit, ils trébuchent, car
-ils n'ont pas de lumière."Â **^11Â ^**Jésus a dit ceci et a ensuite ajouté : « Notre
-l'ami Lazare s'est endormi, mais je vais aller le réveiller."
+**^9Â ^** JÃ©sus a ditÂ : "Un jour a douze heures, n'est-ce pasÂ ? Alors ceux qui
+marchez en plein jour ne trÃ©buchez pas, car ils voient la lumiÃ¨re de ce
+monde. **^10Â ^**Mais s'ils marchent la nuit, ils trÃ©buchent, car
+ils n'ont pas de lumiÃ¨re."Â **^11Â ^** JÃ©sus a dit ceci et a ensuite ajoutÃ©Â : "Notre
+l'ami Lazare s'est endormi, mais je vais aller le rÃ©veiller."
 
-**^12Â ^**Les disciples répondirent : « S'il dort, Seigneur, il obtiendra
+**^12Â ^**Les disciples rÃ©pondirentÂ :Â Â«Â S'il dort, Seigneur, il obtiendra
 bien."
 
-**^13Â ^**Jésus voulait dire que Lazare était mort, mais ils pensaient qu'il voulait dire
-sommeil naturel.**^14Â ^**Alors Jésus leur dit clairement : « Lazare est
-mort,Â **^15Â ^**mais pour votre bien, je suis heureux de ne pas être avec lui, alors
+**^13Â ^** JÃ©sus voulait dire que Lazare Ã©tait mort, mais ils pensaient qu'il voulait dire
+sommeil naturel. **^14Â ^**Alors JÃ©sus leur dit clairement : Â«Â Lazare est
+mort,Â **^15Â ^**mais pour votre bien, je suis content de ne pas Ãªtre avec lui, alors
 que tu croiras. Allons vers lui."
 
-**^16Â ^**Thomas (appelé le Jumeau) a dit à ses compagnons disciples : « Laissez-nous
+**^16Â ^**Thomas (appelÃ© le Jumeau) a dit Ã  ses compagnons disciplesÂ :Â Â«Â Laissez-nous
 allez tous avec l'Instructeur, afin que nous puissions mourir avec lui!"
 
-**^7Â ^**Quand Jésus est arrivé, il a découvert que Lazare avait été enterré quatre
-jours avant.Â **^18Â ^**Bethany était à moins de trois kilomètres de
-Jérusalem,Â **^19Â ^**et de nombreux Judéens étaient venus voir Marthe et Marie pour
-les consoler de la mort de leur frère.
+**^7Â ^**Quand JÃ©sus arriva, il dÃ©couvrit que Lazare avait Ã©tÃ© enterrÃ© quatre
+jours avant. **^18Â ^**Bethany Ã©tait Ã  moins de trois kilomÃ¨tres de
+JÃ©rusalem,Â **^19Â ^**et de nombreux JudÃ©ens Ã©taient venus voir Marthe et Marie pour
+les consoler de la mort de leur frÃ¨re.
 
-**^20Â ^**Quand Marthe apprit que Jésus venait, elle sortit pour rencontrer
-lui, mais Marie resta dans la maison.Â **^21Â ^**Marthe dit à Jésus : « Si
-tu étais là, Seigneur, mon frère ne serait pas mort !Â **^22Â ^**Mais je
-sachez que même maintenant Dieu vous donnera tout ce que vous lui demanderez."
+**^20Â ^**Quand Marthe apprit que JÃ©sus venait, elle sortit pour rencontrer
+lui, mais Marie est restÃ©e dans la maison. **^21Â ^**Marthe dit Ã  JÃ©susÂ :Â Â«Â Si
+tu Ã©tais lÃ , Seigneur, mon frÃ¨re ne serait pas mort ! **^22Â ^**Mais je
+sachez que mÃªme maintenant Dieu vous donnera tout ce que vous lui demanderez."
 
-**^23Â ^**"Ton frère ressuscitera", lui dit Jésus.
+**^23Â ^** "Ton frÃ¨re ressuscitera", lui dit JÃ©sus.
 
-**^24Â ^**"Je sais," répondit-elle, "qu'il ressuscitera le dernier
-journée."
+**^24Â ^**"Je sais", rÃ©pondit-elle, "qu'il ressuscitera le dernier
+journÃ©e."
 
-**^25Â ^**Jésus lui dit : "Je suis la résurrection et la vie. Ceux
-qui croient en moi vivront, même s'ils meurent;Â **^26Â ^**et ceux
-qui vivent et croient en moi ne mourront jamais. Croyez-vous cela?"Messie, le Fils de Dieu, qui devait venir dans le monde."
+**^25Â ^**JÃ©sus lui dit : "Je suis la rÃ©surrection et la vie. Ceux
+qui croient en moi vivront, mÃªme s'ils meurent; **^26Â ^**et ceux
+qui vivent et croient en moi ne mourront jamais. Croyez-vous cela?"
 
-**^28Â ^**Après que Martha ait dit cela, elle est revenue et a appelé sa sœur
-Marie en privé. « Le Maître est ici, lui dit-elle, et il demande
-vous."Â **^29Â ^**Quand Mary entendit cela, elle se leva et se dépêcha de rencontrer
-lui.Â (**^30Â ^**Jésus n'était pas encore arrivé au village, mais
-à l'endroit où Marthe l'avait rencontré.)**^31Â ^**Les gens qui étaient dans
-la maison avec Marie la réconfortant l'a suivie quand ils l'ont vue se lever
-et dépêchez-vous. Ils pensaient qu'elle allait pleurer dans la tombe
-là.
+**^27Â ^**"Oui, SeigneurÂ !" elle a rÃ©pondu. "Je crois que tu es le**^28Â ^**AprÃ¨s que Martha ait dit cela, elle est revenue et a appelÃ© sa sÅ“ur
+Marie en privÃ©. Â« Le MaÃ®tre est ici, lui dit-elle, et il demande
+toi."Â **^29Â ^**Quand Mary entendit cela, elle se leva et se dÃ©pÃªcha de rencontrer
+lui. (**^30Â ^**JÃ©sus n'Ã©tait pas encore arrivÃ© au village, mais
+Ã  l'endroit oÃ¹ Marthe l'avait rencontrÃ©.)**^31Â ^**Les gens qui Ã©taient dans
+la maison avec Marie la rÃ©confortant l'a suivie quand ils l'ont vue se lever
+et dÃ©pÃªchez-vous. Ils pensaient qu'elle allait pleurer dans la tombe
+lÃ .
 
-**^32Â ^**Marie est arrivée là où était Jésus, et dès qu'elle l'a vu, elle
-tomba à ses pieds. « Seigneur, dit-elle, si tu avais été ici, mon frère
+**^32Â ^**Marie est arrivÃ©e lÃ  oÃ¹ Ã©tait JÃ©sus, et dÃ¨s qu'elle l'a vu, elle
+tomba Ã  ses pieds. Â« Seigneur, dit-elle, si tu avais Ã©tÃ© ici, mon frÃ¨re
 ne serait pas mort!"
 
-**^33Â ^**Jésus l'a vue pleurer, et il a vu comment les gens avec elle étaient
-pleurer aussi; son cœur a été touché, et il a été profondément
-déplacé.Â **^34Â ^**"Où l'avez-vous enterré ?" leur a-t-il demandé.
+**^33Â ^**JÃ©sus la vit pleurer, et il vit comment les gens avec elle Ã©taient
+pleurer aussi; son cÅ“ur a Ã©tÃ© touchÃ©, et il a Ã©tÃ© profondÃ©ment
+dÃ©placÃ©. **^34Â ^**"OÃ¹ l'avez-vous enterrÃ©Â ?" leur a-t-il demandÃ©.
 
-« Viens et vois, Seigneur », ont-ils répondu.
+Â«Â Viens et vois, SeigneurÂ Â», ont-ils rÃ©pondu.
 
-**^35Â ^**Jésus pleura.Â **^36Â ^**"Voyez combien il l'aimait!" les personnes
-mentionné.
+**^35Â ^**JÃ©sus pleura. **^36Â ^**"Voyez Ã  quel point il l'aimaitÂ !" les personnes
+mentionnÃ©.

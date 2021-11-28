@@ -6,7 +6,7 @@ Lisez une histoire par jour pendant 1 semaine.
 
 1. Que vous dit cette histoire sur les gens ?
 
-2. Que vous dit cette histoire à propos de Jésus ?
+2. Que vous dit cette histoire Ã  propos de JÃ©sus ?
 
 3. Que dit cette histoire sur vous ?
 
@@ -14,376 +14,376 @@ Lisez une histoire par jour pendant 1 semaine.
 
 # Le premier signe : Jean 2:1-12 De l'eau dans du vin
 
-Deux jours plus tard, il y avait un mariage dans la ville de Cana en Galilée.
-La mère de Jésus était là,Â **^2Â ^**et Jésus et ses disciples avaient aussi
-été invité au mariage.Â **^3Â ^**Lorsque le vin eut coulé,
-La mère de Jésus lui dit : "Ils n'ont plus de vin."
+Deux jours plus tard, il y avait un mariage dans la ville de Cana en GalilÃ©e.
+La mÃ¨re de JÃ©sus Ã©tait lÃ ,Â **^2Â ^**et JÃ©sus et ses disciples avaient aussi
+Ã©tÃ© invitÃ© au mariage. **^3Â ^**Lorsque le vin eut coulÃ©,
+La mÃ¨re de JÃ©sus lui dit : "Ils n'ont plus de vin."
 
-**^4Â ^** « Vous ne devez pas me dire quoi faire », a répondu Jésus. « Mon temps a
+**^4Â ^** Â«Â Vous ne devez pas me dire quoi faireÂ Â», a rÃ©pondu JÃ©sus. Â« Mon temps a
 pas encore venu."
 
-**^5Â ^**La mère de Jésus a alors dit aux serviteurs : "Faites tout ce qu'il dira
+**^5Â ^**La mÃ¨re de JÃ©sus dit alors aux serviteursÂ : "Faites tout ce qu'il dira
 tu."
 
-**^6Â ^**Les Juifs ont des règles concernant le lavage rituel, et à cette fin
-six jarres d'eau en pierre étaient là, chacune assez grande pour contenir entre
-vingt et trente gallons.Â **^7Â ^**Jésus dit aux serviteurs : « Remplissez
-ces jarres avec de l'eau." Ils les remplirent à ras bord,Â **^8Â ^**et puis
-il leur dit : "Maintenant, puisez de l'eau et apportez-la à l'homme en charge
-du festin." Ils lui prirent l'eau,Â **^9Â ^**qui avait maintenant tourné
-en vin, et il le goûta. Il ne savait pas d'où venait ce vin
-de (mais, bien sûr, les serviteurs qui avaient puisé l'eau savaient) ; donc
-il appela le fiancéÂ **^10Â ^** et lui dit : « Tous les autres servent
-le meilleur vin d'abord, et après que les invités ont beaucoup bu, il sert
-le vin ordinaire. Mais vous avez gardé le meilleur vin jusqu'à présent !"
+**^6Â ^**Les Juifs ont des rÃ¨gles concernant le lavage rituel, et Ã  cette fin
+six jarres d'eau en pierre Ã©taient lÃ , chacune assez grande pour contenir entre
+vingt et trente gallons. **^7Â ^**JÃ©sus dit aux serviteurs : Â«Â Remplissez
+ces jarres avec de l'eau." Ils les remplirent Ã  ras bord,Â **^8Â ^**et puis
+il leur dit : "Maintenant, puisez de l'eau et apportez-la Ã  l'homme en charge
+du festin." Ils lui prirent l'eau,Â **^9Â ^** qui Ã©tait maintenant devenue
+en vin, et il le goÃ»ta. Il ne savait pas d'oÃ¹ venait ce vin
+de (mais, bien sÃ»r, les serviteurs qui avaient puisÃ© l'eau savaient) ; donc
+il a appelÃ© le mariÃ©Â **^10Â ^** et lui a ditÂ : "Â Tous les autres servent
+le meilleur vin d'abord, et aprÃ¨s que les invitÃ©s ont beaucoup bu, il sert
+le vin ordinaire. Mais vous avez gardÃ© le meilleur vin jusqu'Ã  prÃ©sent !"
 
-**^11Â ^**Jésus a accompli ce premier miracle à Cana en Galilée ; là, il
-révéla sa gloire, et ses disciples crurent en lui.
+**^11Â ^** JÃ©sus a accompli ce premier miracle Ã  Cana en GalilÃ©eÂ ; lÃ , il
+rÃ©vÃ©la sa gloire, et ses disciples crurent en lui.
 
-**^12Â ^**Après cela, Jésus et sa mère, ses frères et ses disciples sont allés
-à Capharnaüm et y resta quelques jours.
+**^12Â ^**AprÃ¨s cela, JÃ©sus et sa mÃ¨re, ses frÃ¨res et ses disciples sont allÃ©s
+Ã  CapharnaÃ¼m et y resta quelques jours.
 
-# Deuxième signe : Jean 4:46-54 Guérison du fils du fonctionnaire
+# DeuxiÃ¨me signe : Jean 4:46-54 GuÃ©rison du fils du fonctionnaire
 
-**^46Â ^**Puis Jésus retourna à Cana en Galilée, où il s'était tourné
-l'eau en vin. Un fonctionnaire du gouvernement était là dont le fils était malade
-à Capharnaüm.Â **^47Â ^**Quand il apprit que Jésus était venu de Judée pour
-Galilée, il alla vers lui et lui demanda d'aller à Capharnaüm et de guérir son
-fils, qui était sur le point de mourir.Â **^48Â ^**Jésus lui dit : « Aucun de vous ne voudra
-croyez jamais à moins que vous ne voyiez des miracles et des prodiges."
+**^46Â ^**Puis JÃ©sus retourna Ã  Cana en GalilÃ©e, oÃ¹ il s'Ã©tait tournÃ©
+l'eau en vin. Un fonctionnaire du gouvernement Ã©tait lÃ  dont le fils Ã©tait malade
+Ã  CapharnaÃ¼m. **^47Â ^**Quand il apprit que JÃ©sus Ã©tait venu de JudÃ©e pour
+GalilÃ©e, il alla vers lui et lui demanda d'aller Ã  CapharnaÃ¼m et de guÃ©rir son
+fils, qui Ã©tait sur le point de mourir. **^48Â ^**JÃ©sus lui dit : "Aucun de vous ne
+croyez jamais Ã  moins que vous ne voyiez des miracles et des prodiges."
 
-**^49Â ^**« Monsieur », a répondu le fonctionnaire, « venez avec moi avant mon enfant
+**^49Â ^**Â«Â MonsieurÂ Â», a rÃ©pondu le fonctionnaire, Â«Â venez avec moi avant mon enfant
 meurt."
 
-**^50Â ^**Jésus lui dit : « Va, ton fils vivra ! »
+**^50Â ^**JÃ©sus lui dit : Â«Â Va, ton fils vivraÂ !Â Â»
 
-L'homme crut aux paroles de Jésus et partit.Â **^51Â ^** Sur le chemin du retour, son
-les domestiques l'ont rencontré avec les nouvelles, « votre garçon va vivre !
+L'homme crut aux paroles de JÃ©sus et partit. **^51Â ^** Sur le chemin du retour, son
+les domestiques l'ont rencontrÃ© avec les nouvelles, Â« votre garÃ§on va vivre !
 
-**^52Â ^**Il leur a demandé à quelle heure son fils allait mieux, et
-ils ont répondu : "Il était une heure hier après-midi quand la fièvre
-l'a quitté."Â **^53Â ^**Alors le père se souvint que c'était à ce moment-là
-l'heure où Jésus lui avait dit : « Ton fils vivra. Alors lui et tous ses
+**^52Â ^**Il leur a demandÃ© Ã  quelle heure son fils allait mieux, et
+ils ont rÃ©pondu : "Il Ã©tait une heure hier aprÃ¨s-midi quand la fiÃ¨vre
+l'a quittÃ©."Â **^53Â ^**Alors le pÃ¨re se souvint que c'Ã©tait Ã  ce moment-lÃ 
+l'heure oÃ¹ JÃ©sus lui avait dit : Â« Ton fils vivra. Alors lui et tous ses
 la famille croyait.
 
-**^54Â ^**Ce fut le deuxième miracle que Jésus accomplit après sa venue
-de la Judée à la Galilée.
+**^54Â ^**Ce fut le deuxiÃ¨me miracle que JÃ©sus accomplit aprÃ¨s sa venue
+de la JudÃ©e Ã  la GalilÃ©e.
 
-# Troisième signe : Jean 5:1-17 Guérison d'un paralytique à la piscine
+# TroisiÃ¨me signe : Jean 5:1-17 GuÃ©rison d'un paralytique Ã  la piscine
 
-Après cela, Jésus est allé à Jérusalem pour un religieux
-festival.Â **^2Â ^** Près de la porte des moutons à Jérusalem, il y a une piscine avec
-cinq porches ; en hébreu, cela s'appelle Bethzatha.Â **^3Â ^**Une grande foule de
+AprÃ¨s cela, JÃ©sus est allÃ© Ã  JÃ©rusalem pour un religieux
+Festival. **^2Â ^** PrÃ¨s de la porte des moutons Ã  JÃ©rusalem, il y a une piscineÂ avec
+cinq porches ; en hÃ©breu, cela s'appelle Bethzatha. **^3Â ^**Une grande foule de
 des malades gisaient sur les porches, les aveugles, les boiteux et les
-paralysé.Â **^5Â ^**Il y avait là un homme qui était malade depuis trente-huit
-ans.**^6Â ^**Jésus l'a vu allongé là, et il a su que l'homme avait
-été malade pendant si longtemps; alors il lui a demandé : « Voulez-vous obtenir
+paralysÃ©. **^5Â ^** Il y avait lÃ  un homme qui Ã©tait malade depuis trente-huit
+annÃ©es. **^6Â ^**JÃ©sus l'a vu Ã©tendu lÃ , et il a su que l'homme avait
+Ã©tÃ© malade pendant si longtemps; alors il lui a demandÃ© : Â« Voulez-vous obtenir
 bien?"
 
-**^7Â ^**Le malade répondit : " Monsieur, je n'ai personne ici pour me mettre
-dans la piscine quand l'eau est agitée ; pendant que j'essaye d'entrer,
+**^7Â ^**Le malade rÃ©ponditÂ : "Â Monsieur, je n'ai personne ici pour me mettre
+dans la piscine quand l'eau est agitÃ©e ; pendant que j'essaye d'entrer,
 quelqu'un d'autre y arrive en premier."
 
-**^8Â ^**Jésus lui dit : « Lève-toi, prends ta natte, et
-marcher."Â **^9Â ^**Immédiatement l'homme se rétablit ; il ramassa sa natte et
-commencé à marcher.
+**^8Â ^**JÃ©sus lui dit : Â«Â LÃ¨ve-toi, prends ta natte, et
+marcher."Â **^9Â ^**ImmÃ©diatement, l'homme se rÃ©tablitÂ ; il ramassa sa natte et
+commencÃ© Ã  marcher.
 
-Le jour où cela s'est produit était un sabbat,Â **^10Â ^**donc les autorités juives
-dit à l'homme qui avait été guéri : « Ceci est un sabbat, et c'est contre
+Le jour oÃ¹ cela s'est produit Ã©tait un sabbat,Â **^10Â ^**donc les autoritÃ©s juives
+dit Ã  l'homme qui avait Ã©tÃ© guÃ©ri : Â« Ceci est un sabbat, et c'est contre
 notre Loi pour que tu portes ta natte."
 
-**^11Â ^**Il a répondu : "L'homme qui m'a fait du bien m'a dit de prendre mon**^12Â ^**Ils lui ont demandé : "Qui est l'homme qui t'a dit de faire ça ?"
+**^11Â ^**Il a rÃ©ponduÂ : "L'homme qui m'a fait du bien m'a dit de prendre mon
+tapis et marche."**^13Â ^**Mais l'homme qui avait Ã©tÃ© guÃ©ri ne savait pas qui Ã©tait JÃ©sus, car
+il y avait foule Ã  cet endroit, et JÃ©sus s'Ã©tait Ã©clipsÃ©.
 
-**^13Â ^**Mais l'homme qui avait été guéri ne savait pas qui était Jésus, car
-il y avait foule à cet endroit, et Jésus s'était éclipsé.
+**^14Â ^**Par la suite, JÃ©sus le trouva dans le Temple et lui dit : Â«Â Ecoute, tu
+vont bien maintenant; alors arrÃªtez de pÃ©cher ou quelque chose de pire peut vous arriver."
 
-**^14Â ^**Par la suite, Jésus le trouva dans le Temple et lui dit : « Ecoute, tu
-vont bien maintenant; alors arrêtez de pécher ou quelque chose de pire peut vous arriver."
-
-**^15Â ^**Puis l'homme est parti et a dit aux autorités juives qu'il était
-Jésus qui l'avait guéri.Â **^16Â ^**Alors ils se mirent à persécuter Jésus,
-parce qu'il avait fait cette guérison un jour de sabbat.Â **^17Â ^**Jésus répondit
-eux, "Mon Père travaille toujours, et moi aussi je dois travailler."
+**^15Â ^**Puis l'homme est parti et a dit aux autoritÃ©s juives qu'il Ã©tait
+JÃ©sus qui l'avait guÃ©ri. **^16Â ^**Alors ils ont commencÃ© Ã  persÃ©cuter JÃ©sus,
+parce qu'il avait fait cette guÃ©rison un jour de sabbat. **^17Â ^** JÃ©sus a rÃ©pondu
+eux, "Mon PÃ¨re travaille toujours, et moi aussi je dois travailler."
 
 Lisez une histoire par jour pendant 1 semaine.
 
 5. Que vous dit cette histoire sur les gens ?
 
-6. Que vous dit cette histoire à propos de Jésus ?
+6. Que vous dit cette histoire Ã  propos de JÃ©sus ?
 
 7. Que dit cette histoire sur vous ?
 
 8. Qui a besoin d'entendre cette histoire ?
 
-# Quatrième signe : Jean 6:1-14 Jésus nourrit cinq mille
+# QuatriÃ¨me signe : Jean 6:1-14 JÃ©sus nourrit cinq mille
 
-Après cela, Jésus traversa le lac de Galilée (ou le lac de Tibériade, comme il est
-aussi appelé).Â **^2Â ^**Une foule nombreuse le suivait, car ils avaient vu
-ses miracles de guérison des malades.Â **^3Â ^**Jésus monta une colline et s'assit
-avec ses disciples.Â **^4Â ^**Le temps de la fête de la Pâque était
-près.Â **^5Â ^**Jésus regarda autour de lui et vit qu'une grande foule arrivait
-à lui, alors il a demandé à Philippe, "Où pouvons-nous acheter assez de nourriture pour nourrir tous
-ces gens ?"Â (**^6Â ^**Il a dit cela pour tester Philip ; en fait, il a déjà
+AprÃ¨s cela, JÃ©sus traversa le lac de GalilÃ©e (ou le lac de TibÃ©riade, comme il est
+aussi appelÃ©). **^2Â ^**Une foule nombreuse le suivait, car ils avaient vu
+ses miracles de guÃ©rison des malades. **^3Â ^**JÃ©sus monta une colline et s'assit
+avec ses disciples. **^4Â ^**L'heure de la fÃªte de la PÃ¢que Ã©tait
+Ã  proximitÃ©. **^5Â ^** JÃ©sus regarda autour de lui et vit qu'une grande foule arrivait
+Ã  lui, alors il a demandÃ© Ã  Philippe, "OÃ¹ pouvons-nous acheter assez de nourriture pour nourrir tous
+ces gensÂ ?"Â (**^6Â ^**Il a dit cela pour tester PhilipÂ ; en fait, il a dÃ©jÃ 
 savait ce qu'il ferait.)
 
-**^7Â ^**Philip a répondu : "Pour que tout le monde en ait ne serait-ce qu'un peu, il faudrait
-prenez plus de deux cents pièces d'argent pour acheter assez de pain."
+**^7Â ^**Philip a rÃ©ponduÂ : "Pour que tout le monde en ait ne serait-ce qu'un peu, il faudrait
+prenez plus de deux cents piÃ¨ces d'argent pour acheter assez de pain."
 
-**^8Â ^**Un autre de ses disciples, Andrew, qui était Simon Peter\'s
-frère, a dit,Â **^9Â ^**"Il y a un garçon ici qui a cinq pains de
+**^8Â ^**Un autre de ses disciples, Andrew, qui Ã©tait Simon Peter\'s
+frÃ¨re, a dit,Â **^9Â ^**"Il y a un garÃ§on ici qui a cinq pains de
 pain d'orge et deux poissons. Mais ils ne seront certainement pas suffisants pour tous
 ces gens."
 
-**^10Â ^**« Faites asseoir les gens », leur dit Jésus. (Il y en avait beaucoup
-d'herbe là-bas.) Alors tout le peuple s'assit; il y avait environ cinq
-mille hommes.**^11Â ^**Jésus prit le pain, remercia Dieu, et
-distribué aux gens qui étaient assis là. Il a fait de même
-avec le poisson, et ils en avaient tous autant qu'ils voulaient.Â **^12Â ^**Quand
-ils étaient tous pleins, il dit à ses disciples : « Rassemblez les morceaux qui restent
-plus de; ne perdons pas un peu."Â **^13Â ^**Alors ils les rassemblèrent tous et
+**^10Â ^** Â«Â Faites asseoir les gensÂ Â», leur dit JÃ©sus. (Il y en avait beaucoup
+d'herbe lÃ -bas.) Alors tout le peuple s'assit; il y avait environ cinq
+mille hommes. **^11Â ^**JÃ©sus prit le pain, rendit grÃ¢ces Ã  Dieu et
+distribuÃ© aux gens qui Ã©taient assis lÃ . Il a fait de mÃªme
+avec le poisson, et ils en avaient tous autant qu'ils voulaient. **^12Â ^**Quand
+ils Ã©taient tous pleins, il dit Ã  ses disciples : Â« Rassemblez les morceaux qui restent
+plus de; ne perdons pas un peu."Â **^13Â ^**Alors ils les rassemblÃ¨rent tous et
 rempli douze paniers avec les morceaux qui restaient des cinq orges
-pains que le peuple avait mangés.
+pains que le peuple avait mangÃ©s.
 
-**^14Â ^**En voyant ce miracle que Jésus avait accompli, les gens là-bas
-dit: "C'est certainement le Prophète qui devait venir dans le monde!"
+**^14Â ^**En voyant ce miracle que JÃ©sus avait accompli, les gens lÃ -bas
+dit: "C'est certainement le ProphÃ¨te qui devait venir dans le monde!"
 
-# Cinquième signe : Jean 6:15-25 Jésus marche sur l'eau
+# CinquiÃ¨me signe : Jean 6:15-25 JÃ©sus marche sur l'eau
 
-**^15Â ^**Jésus savait qu'ils allaient venir le saisir pour
+**^15Â ^**JÃ©sus savait qu'ils allaient venir le saisir pour
 le faire roi par la force ; il repartit donc seul vers les collines.
 
-**^16Â ^**Le soir venu, les disciples de Jésus descendirent au
-lac,Â **^17Â ^** est monté dans un bateau et est retourné à travers le lac vers
-Capharnaüm. La nuit est venue, et Jésus n'était toujours pas venu à
-eux.Â **^18Â ^**À ce moment-là, un vent fort soufflait et remuait le
-l'eau. **^19Â ^**Les disciples avaient ramé environ trois ou quatre milles quand
-ils virent Jésus marchant sur l'eau, s'approchant de la barque, et ils furent
-terrifiés.**^20Â ^**"N'ayez pas peur," leur dit Jésus, "c'est
-Moi!"Â **^21Â ^**Puis ils l'ont volontairement emmené dans le bateau, et immédiatement
-le bateau a atteint la terre à l'endroit où ils se dirigeaient.
+**^16Â ^**Le soir venu, les disciples de JÃ©sus descendirent au
+lac,Â **^17Â ^** est montÃ© dans un bateau et est retournÃ© Ã  travers le lac vers
+CapharnaÃ¼m. La nuit est venue, et JÃ©sus n'Ã©tait toujours pas venu Ã 
+eux. **^18Â ^**Ã€ ce moment-lÃ , un vent fort soufflait et remuait le
+l'eau. **^19Â ^**Les disciples avaient ramÃ© environ trois ou quatre milles quand
+ils virent JÃ©sus marchant sur l'eau, s'approchant de la barque, et ils furent
+terrifiÃ©s.**^20Â ^**"N'ayez pas peur," leur dit JÃ©sus, "c'est
+Moi!"Â **^21Â ^**Puis ils l'ont volontairement emmenÃ© dans le bateau, et immÃ©diatement
+le bateau a atteint la terre Ã  l'endroit oÃ¹ ils se dirigeaient.
 
-**^22Â ^**Le lendemain, la foule qui était restée de l'autre côté de la
-lac s'est rendu compte qu'il n'y avait eu qu'un seul bateau là-bas. Ils savaient que
-Jésus n'y était pas allé avec ses disciples, mais qu'ils étaient partis
-sans lui. **^23Â ^**D'autres bateaux, qui étaient de Tibériade, sont venus à
-rivage près de l'endroit où la foule avait mangé le pain après le Seigneur
-avait rendu grâce.Â **^24Â ^**Quand la foule vit que Jésus n'était pas là,
-ni ses disciples, ils montèrent dans ces barques et allèrent à Capharnaüm,
-à sa recherche.
+**^22Â ^**Le lendemain, la foule qui Ã©tait restÃ©e de l'autre cÃ´tÃ© de la
+lac s'est rendu compte qu'il n'y avait eu qu'un seul bateau lÃ -bas. Ils savaient que
+JÃ©sus n'y Ã©tait pas allÃ© avec ses disciples, mais qu'ils Ã©taient partis
+sans lui. **^23Â ^**D'autres bateaux, qui venaient de TibÃ©riade, sont venus Ã 
+rivage prÃ¨s de l'endroit oÃ¹ la foule avait mangÃ© le pain aprÃ¨s le Seigneur
+avait rendu grÃ¢ce. **^24Â ^**Quand la foule a vu que JÃ©sus n'Ã©tait pas lÃ ,
+ni ses disciples, ils montÃ¨rent dans ces barques et allÃ¨rent Ã  CapharnaÃ¼m,
+Ã  sa recherche.
 
-**^25Â ^**Lorsque les gens trouvèrent Jésus de l'autre côté du lac, ils
-lui dit : « Maître, quand êtes-vous arrivé ici ?Alors que Jésus marchait, il vit un homme qui était né
-aveugle. **^2Â ^**Ses disciples lui demandèrent : "Maître, dont le péché l'a causé
-être né aveugle ? Était-ce son propre péché ou celui de ses parents ? »
+**^25Â ^**Lorsque les gens trouvÃ¨rent JÃ©sus de l'autre cÃ´tÃ© du lac, ils
+lui dit : Â« MaÃ®tre, quand Ãªtes-vous arrivÃ© ici ?
 
-**^3Â ^**Jésus répondit : « Son cécité n'a rien à voir avec ses péchés
-ou les péchés de ses parents. Il est aveugle pour que la puissance de Dieu puisse être vue à
-travailler en lui.Â **^4Â ^**Tant qu'il fait jour, nous devons faire le travail de lui
-qui m'a envoyé ; la nuit arrive quand personne ne peut travailler.Â **^5Â ^**Pendant que je suis dans
-le monde, je suis la lumière du monde."
+# SixiÃ¨me signe : Jean 9Â :1-41 GuÃ©rison de l'aveugle-nÃ©
 
-**^6Â ^**Après avoir dit cela, Jésus a craché sur le sol et a fait de la boue
-avec la salive; il a frotté la boue sur les yeux de l'homme **^7Â ^** et a dit
-lui : « Va te laver le visage dans la piscine de Siloé. (Ce nom signifie
-"Envoyé.") Alors l'homme alla, se lava le visage, et revint en voyant.
+Alors que JÃ©sus marchait, il vit un homme qui Ã©tait nÃ©Ãªtre nÃ© aveugle ? Ã‰tait-ce son propre pÃ©chÃ© ou celui de ses parentsÂ ?Â Â»
+
+**^3Â ^**JÃ©sus rÃ©ponditÂ :Â Â«Â Son cÃ©citÃ© n'a rien Ã  voir avec ses pÃ©chÃ©s
+ou les pÃ©chÃ©s de ses parents. Il est aveugle pour que la puissance de Dieu puisse Ãªtre vue Ã 
+travailler en lui. **^4Â ^** Tant qu'il fait jour, nous devons faire le travail de lui
+qui m'a envoyÃ©Â ; la nuit arrive quand personne ne peut travailler. **^5Â ^**Pendant que je suis dans
+le monde, je suis la lumiÃ¨re du monde."
+
+**^6Â ^**AprÃ¨s avoir dit cela, JÃ©sus a crachÃ© par terre et a fait de la boue
+avec la salive; il a frottÃ© la boue sur les yeux de l'hommeÂ **^7Â ^** et a dit
+lui : Â« Va te laver le visage dans la piscine de SiloÃ©. (Ce nom signifie
+"EnvoyÃ©.") Alors l'homme alla, se lava le visage, et revint en voyant.
 
 **^8Â ^**Ses voisins donc, et les gens qui l'avaient vu mendier
-avant cela, a demandé: "N'est-ce pas l'homme qui avait l'habitude de s'asseoir et de mendier?"
+avant cela, a demandÃ©: "N'est-ce pas l'homme qui avait l'habitude de s'asseoir et de mendier?"
 
-**^9Â ^**Certains ont dit : « C'est lui », mais d'autres ont dit : « Non, il ne l'est pas ; il
+**^9Â ^**Â Certains ont ditÂ :Â Â«Â C'est luiÂ Â», mais d'autres ont ditÂ :Â Â«Â Non, il ne l'est pasÂ ; il
 lui ressemble tout simplement."
 
-Alors l'homme lui-même a dit: "Je suis l'homme."
+Alors l'homme lui-mÃªme a dit: "Je suis l'homme."
 
-**^10Â ^**"Comment voyez-vous maintenant ?" lui ont-ils demandé.
+**^10Â ^**"Comment voyez-vous maintenantÂ ?" lui ont-ils demandÃ©.
 
-**^11Â ^**Il a répondu : "L'homme appelé Jésus a fait de la boue, l'a frottée sur
-mes yeux, et m'a dit d'aller à Siloé et de me laver le visage. Alors je suis allé, et comme
-dès que je me suis lavé, j'ai pu voir."
+**^11Â ^**Il a rÃ©ponduÂ : "L'homme appelÃ© JÃ©sus a fait de la boue, l'a frottÃ©e sur
+mes yeux, et m'a dit d'aller Ã  SiloÃ© et de me laver le visage. Alors je suis allÃ©, et comme
+dÃ¨s que je me suis lavÃ©, j'ai pu voir."
 
-**^12Â ^**"Où est-il ?" ils ont demandé.
+**^12Â ^**"OÃ¹ est-ilÂ ?" ils ont demandÃ©.
 
-"Je ne sais pas," répondit-il.
+"Je ne sais pas," rÃ©pondit-il.
 
-**^13Â ^**Puis ils prirent chez les pharisiens l'homme qui avait été
-aveugle.Â **^14Â ^**Le jour où Jésus a fait la boue et l'a guéri de son
-la cécité était un sabbat. **^15Â ^**Les pharisiens, alors, ont demandé à l'homme
-comment il avait recouvré la vue. Il leur a dit : « Il a mis de la boue sur
-mes yeux; Je me suis lavé le visage et maintenant je peux voir."
+**^13Â ^**Puis ils prirent chez les pharisiens l'homme qui avait Ã©tÃ©
+aveugle. **^14Â ^**Le jour oÃ¹ JÃ©sus a fait la boue et l'a guÃ©ri de ses
+la cÃ©citÃ© Ã©tait un sabbat. **^15Â ^**Les pharisiens ont alors demandÃ© Ã  l'homme
+comment il avait recouvrÃ© la vue. Il leur a dit : Â« Il a mis de la boue sur
+mes yeux; Je me suis lavÃ© le visage et maintenant je peux voir."
 
-**^16Â ^**Certains pharisiens ont dit : « L'homme qui a fait cela ne peut pas être
-de Dieu, car il n'obéit pas à la loi du sabbat."
+**^16Â ^**Certains pharisiens ont ditÂ : "L'homme qui a fait cela ne peut pas Ãªtre
+de Dieu, car il n'obÃ©it pas Ã  la loi du sabbat."
 
-D'autres, cependant, disaient : « Comment un homme qui est un pécheur peut-il accomplir de telles
+D'autres, cependant, disaient : Â« Comment un homme qui est un pÃ©cheur peut-il accomplir de telles
 miracles comme ceux-ci?" Et il y avait une division parmi eux.
 
-**^17Â ^**Alors les Pharisiens demandèrent une fois de plus à l'homme : « Vous dites qu'il vous a guéri
-de votre cécité --- eh bien, que dites-vous de lui ? »
+**^17Â ^**Alors les pharisiens demandÃ¨rent une fois de plus Ã  l'hommeÂ : Â«Â Vous dites qu'il vous a guÃ©ri
+de votre cÃ©citÃ© --- eh bien, que dites-vous de luiÂ ?Â Â»
 
-"C'est un prophète", répondit l'homme.
+"C'est un prophÃ¨te", rÃ©pondit l'homme.
 
-**^18Â ^**Les autorités juives, cependant, ne voulaient pas croire
-qu'il avait été aveugle et qu'il pouvait maintenant voir, jusqu'à ce qu'ils appellent son
-parentsÂ **^19Â ^**et leur a demandé : "Est-ce votre fils ? Vous dites qu'il était
+**^18Â ^**Les autoritÃ©s juives, cependant, ne voulaient pas croire
+qu'il avait Ã©tÃ© aveugle et qu'il pouvait maintenant voir, jusqu'Ã  ce qu'ils appellent son
+parentsÂ **^19Â ^** et leur a demandÃ©Â : Â«Â Est-ce votre filsÂ ? Vous dites qu'il Ã©tait
 aveugle de naissance; comment se fait-il alors qu'il puisse voir maintenant ?"
 
-**^20Â ^**Ses parents ont répondu : "Nous savons qu'il est notre fils, et nous savons
-qu'il est né aveugle.Â **^21Â ^**Mais nous ne savons pas comment il est
-maintenant capable de voir, et nous ne savons pas qui l'a guéri de sa cécité. Demande lui;
-il est assez vieux, et il peut répondre de lui-même!"Â **^22Â ^**Ses parents
-ont dit cela parce qu'ils avaient peur des autorités juives, qui avaient
-déjà convenu que quiconque disait croire que Jésus était le
-Le Messie serait expulsé de la synagogue. **^23Â ^**C'est pourquoi son
-les parents ont dit : « Il est assez vieux, demandez-lui !
+**^20Â ^**Ses parents ont rÃ©ponduÂ : "Nous savons qu'il est notre fils, et nous savons
+qu'il est nÃ© aveugle. **^21Â ^**Mais nous ne savons pas comment il est
+maintenant capable de voir, et nous ne savons pas qui l'a guÃ©ri de sa cÃ©citÃ©. Demande lui;
+il est assez vieux, et il peut rÃ©pondre de lui-mÃªmeÂ !"Â **^22Â ^**Ses parents
+ont dit cela parce qu'ils avaient peur des autoritÃ©s juives, qui avaient
+dÃ©jÃ  convenu que quiconque disait croire que JÃ©sus Ã©tait le
+Le Messie serait expulsÃ© de la synagogue. **^23Â ^**C'est pourquoi son
+les parents ont dit : Â« Il est assez vieux, demandez-lui !
 
-**^24Â ^**Une seconde fois, ils rappelèrent l'aveugle de naissance,
-et lui dit : « Promets devant Dieu que tu diras la vérité !
-sache que cet homme qui t'a guéri est un pécheur."
+**^24Â ^**Une deuxiÃ¨me fois, ils rappelÃ¨rent l'aveugle de naissance,
+et lui dit : Â« Promets devant Dieu que tu diras la vÃ©ritÃ© !
+sache que cet homme qui t'a guÃ©ri est un pÃ©cheur."
 
-**^25Â ^**"Je ne sais pas s'il est pécheur ou non", répondit l'homme. "Une
-chose que je sais : j'étais aveugle, et maintenant je vois."
+**^25Â ^** "Je ne sais pas s'il est pÃ©cheur ou non", rÃ©pondit l'homme. "Une
+chose que je sais : j'Ã©tais aveugle, et maintenant je vois."
 
-**^26Â ^**"Qu'est-ce qu'il t'a fait ?" ils ont demandé. "Comment t'a-t-il guéri de
-ta cécité ?"
+**^26Â ^**"Qu'est-ce qu'il t'a faitÂ ?" ils ont demandÃ©. "Comment t'a-t-il guÃ©ri de
+ta cÃ©citÃ© ?"
 
-**^27Â ^**"Je vous l'ai déjà dit," répondit-il, "et vous ne voudriez pas
-Ecoutez. Pourquoi veux-tu l'entendre à nouveau? Peut-être que vous aussi, vous aimeriez
-être ses disciples ?"
+**^27Â ^**"Je vous l'ai dÃ©jÃ  dit," rÃ©pondit-il, "et vous ne voudriez pas
+Ecoutez. Pourquoi veux-tu l'entendre Ã  nouveau? Peut-Ãªtre que vous aussi, vous aimeriez
+Ãªtre ses disciples ?"
 
-**^28Â ^**Ils l'insultèrent et dirent : « Vous êtes le disciple de cet homme ;
-mais nous sommes les disciples de Moïse.Â **^29Â ^**Nous savons que Dieu a parlé à Moïse ;
-quant à cet homme, cependant, nous ne savons même pas d'où il vient!"
+**^28Â ^**Ils l'insultÃ¨rent et lui direntÂ :Â Â«Â Vous Ãªtes le disciple de cet hommeÂ ;
+mais nous sommes les disciples de MoÃ¯se. **^29Â ^**Nous savons que Dieu a parlÃ© Ã  MoÃ¯seÂ ;
+quant Ã  cet homme, cependant, nous ne savons mÃªme pas d'oÃ¹ il vient!"
 
-**^30Â ^**L'homme répondit : « Quelle chose étrange ! Vous ne
-sais d'où il vient, mais il m'a guéri de ma cécité !Â **^31Â ^**Nous
-sachez que Dieu n'écoute pas les pécheurs ; il écoute les gens qui
-respectez-le et faites ce qu'il veut qu'ils fassent.Â **^32Â ^**Depuis lepersonne de naissance aveugle.Â **^33Â ^**À moins que cet homme ne vienne de Dieu, il ne
-être capable de faire quelque chose."
+**^30Â ^**L'homme rÃ©ponditÂ :Â Â«Â Quelle chose Ã©trangeÂ ! Vous ne
+sais d'oÃ¹ il vient, mais il m'a guÃ©ri de ma cÃ©citÃ© ! **^31Â ^**Nous
+sachez que Dieu n'Ã©coute pas les pÃ©cheurs ; il Ã©coute les gens qui
+le respecter et faire ce qu'il veut qu'ils fassent. **^32Â ^**Depuis le
+dÃ©but du monde, personne n'a jamais entendu parler de quelqu'un qui ait vu un
+personne aveugle de naissance. **^33Â ^** Ã€ moins que cet homme ne vienne de Dieu, il ne
+Ãªtre capable de faire quelque chose."essaient de nous instruire?" Et ils le chassÃ¨rent de la synagogue.
 
-**^34Â ^**Ils répondirent : "Tu es né et tu as grandi dans le péché --- et tu
-essaient de nous instruire?" Et ils le chassèrent de la synagogue.
+**^35Â ^**Quand JÃ©sus a entendu ce qui s'Ã©tait passÃ©, il a trouvÃ© l'homme et a demandÃ©
+lui : Â« Croyez-vous au Fils de l'homme ?
 
-**^35Â ^**Quand Jésus a entendu ce qui s'était passé, il a trouvé l'homme et a demandé
-lui : « Croyez-vous au Fils de l'homme ?
-
-**^36Â ^**L'homme répondit : « Dites-moi qui il est, monsieur, afin que je puisse
+**^36Â ^**L'homme rÃ©ponditÂ :Â Â«Â Dites-moi qui il est, monsieur, afin que je puisse
 crois en lui!"
 
-**^37Â ^**Jésus lui dit : "Tu l'as déjà vu, et il est le
+**^37Â ^**JÃ©sus lui dit : Â« Tu l'as dÃ©jÃ  vu, et il est le
 celui qui parle avec vous maintenant."
 
-**^38Â ^**"Je crois, Seigneur !" dit l'homme, et il s'agenouilla devant Jésus.
+**^38Â ^**"Je crois, SeigneurÂ !" dit l'homme, et il s'agenouilla devant JÃ©sus.
 
-**^39Â ^**Jésus a dit : "Je suis venu dans ce monde pour juger, afin que les aveugles
+**^39Â ^**JÃ©sus a ditÂ : "Je suis venu dans ce monde pour juger, afin que les aveugles
 devrait voir et ceux qui voient devraient devenir aveugles.
 
-**^40Â ^**Certains pharisiens qui étaient là avec lui l'entendirent dire cela et
-lui a demandé: "Vous ne voulez sûrement pas dire que nous sommes aveugles aussi?"
+**^40Â ^**Certains pharisiens qui Ã©taient lÃ  avec lui l'ont entendu dire cela et
+lui a demandÃ©: "Vous ne voulez sÃ»rement pas dire que nous sommes aveugles aussi?"
 
-**^41Â ^**Jésus répondit : « Si vous étiez aveugle, vous ne seriez pas
-coupable; mais puisque vous prétendez que vous pouvez voir, cela signifie que vous êtes
+**^41Â ^** JÃ©sus rÃ©ponditÂ :Â Â«Â Si vous Ã©tiez aveugle, vous ne seriez pas
+coupable; mais puisque vous prÃ©tendez que vous pouvez voir, cela signifie que vous Ãªtes
 toujours coupable."
 
-# Septième signe : Jean 11 :1-46 La résurrection de Lazare
+# SeptiÃ¨me signe : Jean 11Â :1-46 La rÃ©surrection de Lazare
 
-Un homme du nom de Lazare, qui habitait Béthanie, tomba malade. Béthanie était la
-ville où Marie et sa sœur Marthe vivaient.Â (**^2Â ^**Cette Marie était la
+Un homme du nom de Lazare, qui habitait BÃ©thanie, tomba malade. BÃ©thanie Ã©tait la
+ville oÃ¹ vivaient Mary et sa sÅ“ur Marthe. (**^2Â ^**Cette Marie Ã©tait la
 celui qui versa le parfum sur les pieds du Seigneur et les essuya avec elle
-Cheveu; c'était son frère Lazare qui était malade.)Â **^3Â ^**Les sœurs envoyèrent
-Jésus un message : « Seigneur, ton cher ami est malade.
+Cheveu; c'Ã©tait son frÃ¨re Lazare qui Ã©tait malade.)Â **^3Â ^**Les sÅ“urs envoyÃ¨rent
+JÃ©sus un message : Â« Seigneur, ton cher ami est malade.
 
-**^4Â ^**Quand Jésus l'entendit, il dit : "Le résultat final de cette maladie
+**^4Â ^**Quand JÃ©sus l'entendit, il dit : "Le rÃ©sultat final de cette maladie
 ne sera pas la mort de Lazare ; cela s'est produit afin d'amener
-gloire à Dieu, et ce sera le moyen par lequel le Fils de Dieu
+gloire Ã  Dieu, et ce sera le moyen par lequel le Fils de Dieu
 recevoir la gloire."
 
-**^5Â ^**Jésus aimait Marthe et sa soeur et Lazare.Â **^6Â ^**Pourtant quand
-il a appris que Lazare était malade, il est resté où il était pendant
-encore deux jours.Â **^7Â ^**Puis il dit aux disciples : " Retournons à
-Judée."
+**^5Â ^**JÃ©sus aimait Marthe, sa sÅ“ur et Lazare. **^6Â ^**Mais quand
+il a appris que Lazare Ã©tait malade, il est restÃ© oÃ¹ il Ã©tait pendant
+Deux jours de plus. **^7Â ^**Puis il dit aux disciples : Â« Retournons Ã 
+JudÃ©e."
 
-**^8Â ^**"Maître", répondirent les disciples, "il y a peu de temps, le
-les gens là-bas voulaient te lapider; et comptez-vous y retourner ?"
+**^8Â ^**"MaÃ®tre", rÃ©pondirent les disciples, "il y a peu de temps, le
+les gens lÃ -bas voulaient te lapider; et comptez-vous y retourner ?"
 
-**^9Â ^**Jésus a dit : "Un jour a douze heures, n'est-ce pas ? Alors ceux qui
-marchez en plein jour ne trébuchez pas, car ils voient la lumière de ce
-monde.Â **^10Â ^**Mais s'ils marchent pendant la nuit, ils trébuchent, car
-ils n'ont pas de lumière."Â **^11Â ^**Jésus a dit ceci et a ensuite ajouté : « Notre
-l'ami Lazare s'est endormi, mais je vais aller le réveiller."
+**^9Â ^** JÃ©sus a ditÂ : "Un jour a douze heures, n'est-ce pasÂ ? Alors ceux qui
+marchez en plein jour ne trÃ©buchez pas, car ils voient la lumiÃ¨re de ce
+monde. **^10Â ^**Mais s'ils marchent la nuit, ils trÃ©buchent, car
+ils n'ont pas de lumiÃ¨re."Â **^11Â ^** JÃ©sus a dit ceci et a ensuite ajoutÃ©Â : "Notre
+l'ami Lazare s'est endormi, mais je vais aller le rÃ©veiller."
 
-**^12Â ^**Les disciples répondirent : « S'il dort, Seigneur, il obtiendra
+**^12Â ^**Les disciples rÃ©pondirentÂ :Â Â«Â S'il dort, Seigneur, il obtiendra
 bien."
 
-**^13Â ^**Jésus voulait dire que Lazare était mort, mais ils pensaient qu'il voulait dire
-sommeil naturel.**^14Â ^**Alors Jésus leur dit clairement : « Lazare est
-mort,Â **^15Â ^**mais pour votre bien, je suis heureux de ne pas être avec lui, alors
+**^13Â ^** JÃ©sus voulait dire que Lazare Ã©tait mort, mais ils pensaient qu'il voulait dire
+sommeil naturel. **^14Â ^**Alors JÃ©sus leur dit clairement : Â«Â Lazare est
+mort,Â **^15Â ^**mais pour votre bien, je suis content de ne pas Ãªtre avec lui, alors
 que tu croiras. Allons vers lui."
 
-**^16Â ^**Thomas (appelé le Jumeau) a dit à ses compagnons disciples : « Laissez-nous
+**^16Â ^**Thomas (appelÃ© le Jumeau) a dit Ã  ses compagnons disciplesÂ :Â Â«Â Laissez-nous
 allez tous avec l'Instructeur, afin que nous puissions mourir avec lui!"
 
-**^7Â ^**Quand Jésus est arrivé, il a découvert que Lazare avait été enterré quatre
-jours avant.Â **^18Â ^**Bethany était à moins de trois kilomètres de
-Jérusalem,Â **^19Â ^**et de nombreux Judéens étaient venus voir Marthe et Marie pour
-les consoler de la mort de leur frère.
+**^7Â ^**Quand JÃ©sus arriva, il dÃ©couvrit que Lazare avait Ã©tÃ© enterrÃ© quatre
+jours avant. **^18Â ^**Bethany Ã©tait Ã  moins de trois kilomÃ¨tres de
+JÃ©rusalem,Â **^19Â ^**et de nombreux JudÃ©ens Ã©taient venus voir Marthe et Marie pour
+les consoler de la mort de leur frÃ¨re.
 
-**^20Â ^**Quand Marthe apprit que Jésus venait, elle sortit pour rencontrer
-lui, mais Marie resta dans la maison.Â **^21Â ^**Marthe dit à Jésus : « Si
-tu étais là, Seigneur, mon frère ne serait pas mort !Â **^22Â ^**Mais je
-sachez que même maintenant Dieu vous donnera tout ce que vous lui demanderez."
+**^20Â ^**Quand Marthe apprit que JÃ©sus venait, elle sortit pour rencontrer
+lui, mais Marie est restÃ©e dans la maison. **^21Â ^**Marthe dit Ã  JÃ©susÂ :Â Â«Â Si
+tu Ã©tais lÃ , Seigneur, mon frÃ¨re ne serait pas mort ! **^22Â ^**Mais je
+sachez que mÃªme maintenant Dieu vous donnera tout ce que vous lui demanderez."
 
-**^23Â ^**"Ton frère ressuscitera", lui dit Jésus.
+**^23Â ^** "Ton frÃ¨re ressuscitera", lui dit JÃ©sus.
 
-**^24Â ^**"Je sais," répondit-elle, "qu'il ressuscitera le dernier
-journée."
+**^24Â ^**"Je sais", rÃ©pondit-elle, "qu'il ressuscitera le dernier
+journÃ©e."
 
-**^25Â ^**Jésus lui dit : "Je suis la résurrection et la vie. Ceux
-qui croient en moi vivront, même s'ils meurent;Â **^26Â ^**et ceux
+**^25Â ^**JÃ©sus lui dit : "Je suis la rÃ©surrection et la vie. Ceux
+qui croient en moi vivront, mÃªme s'ils meurent; **^26Â ^**et ceux
 qui vivent et croient en moi ne mourront jamais. Croyez-vous cela?"
 
-**^27Â ^**"Oui, Seigneur !" elle a répondu. "Je crois que tu es le
+**^27Â ^**"Oui, SeigneurÂ !" elle a rÃ©pondu. "Je crois que tu es le
 Messie, le Fils de Dieu, qui devait venir dans le monde."
 
-**^28Â ^**Après que Martha ait dit cela, elle est revenue et a appelé sa sœur
-Marie en privé. « Le Maître est ici, lui dit-elle, et il demandelui.Â (**^30Â ^**Jésus n'était pas encore arrivé au village, mais
-à l'endroit où Marthe l'avait rencontré.)**^31Â ^**Les gens qui étaient dans
-la maison avec Marie la réconfortant l'a suivie quand ils l'ont vue se lever
-et dépêchez-vous. Ils pensaient qu'elle allait pleurer dans la tombe
-là.
+**^28Â ^**AprÃ¨s que Martha ait dit cela, elle est revenue et a appelÃ© sa sÅ“ur
+Marie en privÃ©. Â« Le MaÃ®tre est ici, lui dit-elle, et il demande
+toi."Â **^29Â ^**Quand Mary entendit cela, elle se leva et se dÃ©pÃªcha de rencontrer
+lui. (**^30Â ^**JÃ©sus n'Ã©tait pas encore arrivÃ© au village, mais
+Ã  l'endroit oÃ¹ Marthe l'avait rencontrÃ©.)**^31Â ^**Les gens qui Ã©taient danset dÃ©pÃªchez-vous. Ils pensaient qu'elle allait pleurer dans la tombe
+lÃ .
 
-**^32Â ^**Marie est arrivée là où était Jésus, et dès qu'elle l'a vu, elle
-tomba à ses pieds. « Seigneur, dit-elle, si tu avais été ici, mon frère
+**^32Â ^**Marie est arrivÃ©e lÃ  oÃ¹ Ã©tait JÃ©sus, et dÃ¨s qu'elle l'a vu, elle
+tomba Ã  ses pieds. Â« Seigneur, dit-elle, si tu avais Ã©tÃ© ici, mon frÃ¨re
 ne serait pas mort!"
 
-**^33Â ^**Jésus l'a vue pleurer, et il a vu comment les gens avec elle étaient
-pleurer aussi; son cœur a été touché, et il a été profondément
-déplacé.Â **^34Â ^**"Où l'avez-vous enterré ?" leur a-t-il demandé.
+**^33Â ^**JÃ©sus la vit pleurer, et il vit comment les gens avec elle Ã©taient
+pleurer aussi; son cÅ“ur a Ã©tÃ© touchÃ©, et il a Ã©tÃ© profondÃ©ment
+dÃ©placÃ©. **^34Â ^**"OÃ¹ l'avez-vous enterrÃ©Â ?" leur a-t-il demandÃ©.
 
-« Viens et vois, Seigneur », ont-ils répondu.
+Â«Â Viens et vois, SeigneurÂ Â», ont-ils rÃ©pondu.
 
-**^35Â ^**Jésus pleura.Â **^36Â ^**"Voyez combien il l'aimait!" les personnes
-mentionné.
+**^35Â ^**JÃ©sus pleura. **^36Â ^**"Voyez Ã  quel point il l'aimaitÂ !" les personnes
+mentionnÃ©.
 
-**^37Â ^**Mais certains d'entre eux ont dit : « Il a rendu la vue à l'aveugle, n'a pas
-il? N'aurait-il pas pu empêcher Lazare de mourir ?"
+**^37Â ^**Mais certains d'entre eux ont ditÂ : "Il a rendu la vue Ã  l'aveugle,
+il? N'aurait-il pas pu empÃªcher Lazare de mourir ?"
 
-**^38Â ^**Profondément ému une fois de plus, Jésus se rendit au tombeau, qui était un
-grotte avec une pierre placée à l'entrée.Â **^39Â ^**"Prenez la pierre
-loin ! » ordonna Jésus.
+**^38Â ^**ProfondÃ©ment Ã©mu une fois de plus, JÃ©sus se rendit au tombeau, qui Ã©tait un
+grotte avec une pierre placÃ©e Ã  l'entrÃ©e. **^39Â ^**"Prenez la pierre
+loin ! Â» ordonna JÃ©sus.
 
-Martha, la sœur du mort, répondit : " Il y aura une mauvaise odeur,
-Seigneur. Il a été enterré quatre jours !"
+Martha, la sÅ“ur du mort, rÃ©pondit : " Il y aura une mauvaise odeur,
+Seigneur. Il a Ã©tÃ© enterrÃ© quatre jours !"
 
-**^40Â ^**Jésus lui dit : "Ne t'ai-je pas dit que tu verrais
-La gloire de Dieu si vous avez cru?"Â **^41Â ^**Ils ont emporté la pierre. Jésus
-leva les yeux et dit : « Je te remercie, Père, d'avoir écouté
-moi.Â **^42Â ^**Je sais que vous m'écoutez toujours, mais je dis ceci pour le
-à cause des gens d'ici, afin qu'ils croient que tu as envoyé
-moi."Â **^43Â ^**Après avoir dit cela, il a crié d'une voix forte,
-"Lazare, sors !"Â **^44Â ^**Il est sorti, les mains et les pieds enveloppés dans
-draps funéraires, et avec un chiffon autour de son visage. « Détachez-le », a dit Jésus
+**^40Â ^**JÃ©sus lui dit : "Ne t'ai-je pas dit que tu verrais
+La gloire de Dieu si vous croyezÂ ?"Â **^41Â ^**Ils ont emportÃ© la pierre. JÃ©sus
+leva les yeux et dit : Â« Je te remercie, PÃ¨re, d'avoir Ã©coutÃ©
+moi. **^42Â ^**Je sais que tu m'Ã©coutes toujours, mais je dis Ã§a pour le
+Ã  cause des gens d'ici, afin qu'ils croient que tu as envoyÃ©
+moi."Â **^43Â ^**AprÃ¨s avoir dit cela, il a criÃ© d'une voix forteÂ :
+Â« Lazare, sors ! **^44Â ^**Il est sorti, les mains et les pieds enveloppÃ©s dans
+draps funÃ©raires, et avec un chiffon autour de son visage. Â«Â DÃ©tachez-leÂ Â», a dit JÃ©sus
 eux, "et laissez-le aller."
 
-**^45Â ^**Beaucoup de gens qui étaient venus rendre visite à Marie ont vu ce que Jésus
-l'ont fait, et ils ont cru en lui.**^46Â ^**Mais certains d'entre eux sont retournés au
-pharisiens et leur raconta ce que Jésus avait fait.
+**^45Â ^**Beaucoup de ceux qui Ã©taient venus rendre visite Ã  Marie virent ce que JÃ©sus
+l'ont fait, et ils ont cru en lui.**^46Â ^**Mais certains d'entre eux sont retournÃ©s au
+pharisiens et leur raconta ce que JÃ©sus avait fait.

@@ -1,367 +1,367 @@
 ---
 type: document
 translationKey: Our Vision for Simple Church
-title: Notre vision pour une église simple---
-# Notre vision pour une église simple
+title: Notre vision pour une Ã©glise simple---
+# Notre vision pour une Ã©glise simple
 
-## Obéissez à mes ordres
+## ObÃ©issez Ã  mes ordres
 
-Jésus n'a pas fait grand cas des commandements. Il ne nous a pas laissé avec le
-Dix Commandements du Christ, en effet la plupart de ses instructions sont cachées
+JÃ©sus n'a pas fait grand cas des commandements. Il ne nous a pas laissÃ© avec le
+Dix Commandements du Christ, en effet la plupart de ses instructions sont cachÃ©es
 dans ses sermons et ses paraboles et n'apparaissent pas comme des commandements. Mais
 il y a deux exceptions notables.
 
-> \"Mon commandement est le suivant : aimez-vous comme je vous ai aimés.\" (John
+> \"Mon commandement est le suivantÂ : aimez-vous comme je vous ai aimÃ©s.\" (John
 > 15:12)
 >
 > \"Allez donc faire de toutes les nations des disciples, les baptisant en
-> le nom du Père et du Fils et du Saint-Esprit, et
-> enseignez-leur à obéir à tout ce que je vous ai commandé.\" (Mt 28 :19)
+> le nom du PÃ¨re et du Fils et du Saint-Esprit, et
+> enseignez-leur Ã  obÃ©ir Ã  tout ce que je vous ai commandÃ©.\" (Mt 28Â :19)
 
-Au vu de ces deux grands commandements de Jésus, la devise de *Life For
-Libéria* est :
+Au vu de ces deux grands commandements de JÃ©sus, la devise de *Life For
+LibÃ©ria* est :
 
 **"Aimez-vous les uns les autres, allez et faites des disciples"**
 
 ## Heureux ceux qui entendent ma parole et la font
 
-Tout au long de l'histoire, Dieu a lutté pour que son peuple entende et obéisse
-Sa parole, et ce fut le cri constant des prophètes pour la
-les gens à revenir aux voies du Seigneur. Tout au long du ministère de Jésus
-nous le voyons essayer de détourner l'attention des gens de leur religion
-traditions et faire de la simple obéissance à Dieu leur priorité. Nous croyons
-que Dieu nous a appelés à porter cet appel du Saint-Esprit à notre
-amis au Libéria.
+Tout au long de l'histoire, Dieu a luttÃ© pour que son peuple entende et obÃ©isse
+Sa parole, et ce fut le cri constant des prophÃ¨tes pour la
+les gens Ã  revenir aux voies du Seigneur. Tout au long du ministÃ¨re de JÃ©sus
+nous le voyons essayer de dÃ©tourner l'attention des gens de leur religion
+traditions et faire de la simple obÃ©issance Ã  Dieu leur prioritÃ©. Nous croyons
+que Dieu nous a appelÃ©s Ã  porter cet appel du Saint-Esprit Ã  notre
+amis au LibÃ©ria.
 
 Notre cri et notre message pour vous est de mesurer tout ce que vous faites par ces
-deux commandements de Jésus, et que cela soit le test de sa valeur : « Aimez-vous
+deux commandements de JÃ©sus, et que cela soit le test de sa valeur : Â« Aimez-vous
 un autre; allez et faites des disciples".
 
 ## Traditions inutiles
 
-Jésus a dit : « Vous avez une belle manière de mettre de côté les commandements de Dieu dans
+JÃ©sus a dit : Â« Vous avez une belle maniÃ¨re de mettre de cÃ´tÃ© les commandements de Dieu dans
 afin d'observer vos propres traditions!" (Marc 7:9). Nous sommes tous coupables, en
-nos efforts pour établir des églises, de la tendance à adopter des traditions
-et copier les pratiques que nous voyons dans d'autres églises simplement parce que « c'est
-ce que font les églises". Au lieu de cela, nous devrions tout tester par rapport à la
-écritures et en particulier les commandements de s'aimer les uns les autres et d'aller
+nos efforts pour Ã©tablir des Ã©glises, de la tendance Ã  adopter des traditions
+et copier les pratiques que nous voyons dans d'autres Ã©glises simplement parce que Â« c'est
+ce que font les Ã©glises". Au lieu de cela, nous devrions tout tester par rapport Ã  la
+Ã©critures et en particulier les commandements de s'aimer les uns les autres et d'aller
 faire des disciples. Nous ne devons pas supposer que ce que nous ou d'autres avons toujours
-fait est ce que Jésus nous appelle à faire.
+fait est ce que JÃ©sus nous appelle Ã  faire.
 
 ## Mon joug est facile
 
-Jésus nous invite à prendre son joug sur nous « Car mon joug est facile et mon
-fardeau est léger" (Matthieu 11:30). Mais malheureusement, nous avons tendance à porter de lourds jougs
-sur les croyants à travers nos traditions. Pour l'église primitive, c'était le
-poids lourd des traditions juives qu'il a fallu se débarrasser :
+JÃ©sus nous invite Ã  prendre son joug sur nous Â« Car mon joug est facile et mon
+fardeau est lÃ©ger" (Matthieu 11:30). Mais malheureusement, nous avons tendance Ã  porter de lourds jougs
+sur les croyants Ã  travers nos traditions. Pour l'Ã©glise primitive, c'Ã©tait le
+poids lourd des traditions juives qu'il a fallu se dÃ©barrasser :
 
 > "Maintenant, pourquoi essayez-vous de tester Dieu en mettant le cou de
-> Gentils un joug que ni nous ni nos ancêtres n'avons pu
+> Gentils un joug que ni nous ni nos ancÃªtres n'avons pu
 > ours ?" (Actes 15:10)
 
 Mais qu'en est-il de nous ? En tant que leaders dans le Corps du Christ, nous devrons donner
-rendre compte à Jésus des fardeaux que nous avons mis sur le cou de nos
-personnes que Jésus a invitées à partager son joug. Prenez un moment pour
-réfléchir à tout ce que nous demandons aux gens de faire et de s'engager à maintenir
-nos bâtiments d'église et la gestion de nos programmes d'église. Est-ce que Jésus
-décrire cela comme un joug facile et un fardeau léger ? Pouvons-nous justifier le
-exigences que nous imposons aux membres de l'église par le fruit qu'elle porte dans
-obéissance aux commandements de s'aimer les uns les autres et d'aller faire des disciples ?
+rendre compte Ã  JÃ©sus des fardeaux que nous avons mis sur le cou de nos
+personnes que JÃ©sus a invitÃ©es Ã  partager son joug. Prenez un moment pour
+rÃ©flÃ©chir Ã  tout ce que nous demandons aux gens de faire et de s'engager Ã  maintenir
+nos bÃ¢timents d'Ã©glise et la gestion de nos programmes d'Ã©glise. Est-ce que JÃ©sus
+dÃ©crire cela comme un joug facile et un fardeau lÃ©gerÂ ? Pouvons-nous justifier le
+exigences que nous imposons aux membres de l'Ã©glise par le fruit qu'elle porte dans
+obÃ©issance aux commandements de s'aimer les uns les autres et d'aller faire des disciples ?
 
 ## L'Evangile du Royaume
 
-Jésus et les apôtres ont prêché l'Évangile du Royaume. Nous obtenons un
-image claire de cet évangile du récit de Paul de ce que Jésus lui a dit
-à faire:
+JÃ©sus et les apÃ´tres ont prÃªchÃ© l'Ã‰vangile du Royaume. Nous obtenons un
+image claire de cet Ã©vangile du rÃ©cit de Paul de ce que JÃ©sus lui a dit
+Ã  faire:
 
-> "Je t'envoie vers eux pour leur ouvrir les yeux et les détourner de
-> des ténèbres à la lumière, et de la puissance de Satan à Dieu, afin qu'ils
-> peut recevoir le pardon des péchés et une place parmi ceux qui sont
-> sanctifié par la foi en moi." **Actes 26:18**
+> "Je t'envoie vers eux pour leur ouvrir les yeux et les dÃ©tourner de
+> des tÃ©nÃ¨bres Ã  la lumiÃ¨re, et de la puissance de Satan Ã  Dieu, afin qu'ils
+> peut recevoir le pardon des pÃ©chÃ©s et une place parmi ceux qui sont
+> sanctifiÃ© par la foi en moi." **Actes 26:18**
 
-L'Evangile du Royaume est ce que nous sommes appelés à prêcher. Il a
-plusieurs éléments clairs :
+L'Evangile du Royaume est ce que nous sommes appelÃ©s Ã  prÃªcher. Il a
+plusieurs Ã©lÃ©ments clairs :
 
-- **Je t'envoie à eux** -- Nous devons sortir et ne pas attendre des gens
+- **Je t'envoie Ã  eux** -- Nous devons sortir et ne pas attendre des gens
     venir chez nous.
 
 - **pour ouvrir leurs yeux** -- Nous essayons d'ouvrir leurs yeux pour qu'ils puissent
-    voir par eux-mêmes les ténèbres dans lesquelles ils vivent. Ceci est fait
-    en les interrogeant sur leur vie, en les écoutant et en les aidant
-    d'évaluer les choses dans lesquelles ils mettent leur espoir et leur confiance. Nous
+    voir par eux-mÃªmes les tÃ©nÃ¨bres dans lesquelles ils vivent. Ceci est fait
+    en les interrogeant sur leur vie, en les Ã©coutant et en les aidant
+    d'Ã©valuer les choses dans lesquelles ils mettent leur espoir et leur confiance. Nous
     ne peut pas ouvrir les yeux en leur disant simplement ce qu'ils devraient
     croire.changement de direction touchant tous les aspects de leur vie. C'est pour
-    accueillir et marcher dans la lumière de Dieu, et ne plus essayer de cacher leur
-    comportement dans l'obscurité.
+    accueillir et marcher dans la lumiÃ¨re de Dieu, et ne plus essayer de cacher leur
+    comportement dans l'obscuritÃ©.
 
-- **de la puissance de Satan à Dieu** -- le salut se détourne à la fois de
-    et la délivrance des œuvres, des voies et de la puissance de Satan. Nous devons
+- **de la puissance de Satan Ã  Dieu** -- le salut se dÃ©tourne Ã  la fois de
+    et la dÃ©livrance des Å“uvres, des voies et de la puissance de Satan. Nous devons
     rejeter le mal et les pratiques spirituelles traditionnelles africaines. Nous devons le faire
-    sois délivré des mauvais esprits et retranche toute malédiction. Nous devons
+    sois dÃ©livrÃ© des mauvais esprits et retranche toute malÃ©diction. Nous devons
     restez fermes dans la confiance qu'en tant qu'enfants de Dieu, Satan n'a pas
     pouvoir ou tenir sur nous.
 
-- **recevoir le pardon des péchés** -- Par notre foi et notre confiance en
-    Jésus comme le Roi suprême sur toutes choses dans le ciel et la terre (Eph
-    1:20-23), et par le Baptême d'eau et le Baptême dans le Saint
-    Esprit (Jean 3:5) nous sommes nés de nouveau et recevons un pardon complet
-    de nos péchés. Le pardon est donné librement et complètement en réponse
-    à notre foi en Jésus. Le pardon n'est pas et ne sera jamais donné
-    à cause de nos efforts pour vivre une vie sainte. Voir Hébreux 10:1-18.
+- **recevoir le pardon des pÃ©chÃ©s** -- Par notre foi et notre confiance en
+    JÃ©sus comme le Roi suprÃªme sur toutes choses dans le ciel et la terre (Eph
+    1:20-23), et par le BaptÃªme d'eau et le BaptÃªme dans le Saint
+    Esprit (Jean 3:5) nous sommes nÃ©s de nouveau et recevons un pardon complet
+    de nos pÃ©chÃ©s. Le pardon est donnÃ© librement et complÃ¨tement en rÃ©ponse
+    Ã  notre foi en JÃ©sus. Le pardon n'est pas et ne sera jamais donnÃ©
+    Ã  cause de nos efforts pour vivre une vie sainte. Voir HÃ©breux 10:1-18.
 
-- ** une place parmi ceux qui sont sanctifiés par la foi en moi ** -- Comme
-    disciples de Jésus, nous sommes accueillis par Jésus dans sa famille, et il
-    n'a pas honte de nous appeler ses frères et sœurs. être un disciple
-    c'est appartenir à la famille de Jésus et donner et recevoir de l'amour dans ce
-    famille. Parce que nos cœurs ont été changés par Jésus, nous voudrons
-    marcher dans la lumière et se détourner de toute sorte de ténèbres. Mais
-    quelle que soit la manière dont nous pouvons échouer, nous sommes en sécurité dans l'amour de Dieu et en Jésus
+- ** une place parmi ceux qui sont sanctifiÃ©s par la foi en moi ** -- Comme
+    disciples de JÃ©sus, nous sommes accueillis par JÃ©sus dans sa famille, et il
+    n'a pas honte de nous appeler ses frÃ¨res et sÅ“urs. Ãªtre un disciple
+    c'est appartenir Ã  la famille de JÃ©sus et donner et recevoir de l'amour dans ce
+    famille. Parce que nos cÅ“urs ont Ã©tÃ© changÃ©s par JÃ©sus, nous voudrons
+    marcher dans la lumiÃ¨re et se dÃ©tourner de toute sorte de tÃ©nÃ¨bres. Mais
+    quelle que soit la maniÃ¨re dont nous pouvons Ã©chouer, nous sommes en sÃ©curitÃ© dans l'amour de Dieu et en JÃ©sus
     qui se tient comme notre justice devant Dieu.
 
-C'est l'Evangile du Royaume que Jésus nous a chargé de
-prêcher. Nous veillons à maintenir à la fois la simplicité et la plénitude
+C'est l'Evangile du Royaume que JÃ©sus nous a chargÃ© de
+prÃªcher. Nous veillons Ã  maintenir Ã  la fois la simplicitÃ© et la plÃ©nitude
 de l'Evangile. Nous ne le compliquons pas avec des explications inutiles de
-vérités théologiques, mais nous ne le réduisons pas non plus à un appel simpliste
-entrer dans l'étreinte de notre Père céleste aimant. Le seul bon
-réponse à l'Evangile est la repentance, la foi et le baptême d'eau et la
-Esprit Saint. Nous ne pouvons laisser aucun de ces éléments de côté.
+vÃ©ritÃ©s thÃ©ologiques, mais nous ne le rÃ©duisons pas non plus Ã  un appel simpliste
+entrer dans l'Ã©treinte de notre PÃ¨re cÃ©leste aimant. Le seul bon
+rÃ©ponse Ã  l'Evangile est la repentance, la foi et le baptÃªme d'eau et la
+Esprit Saint. Nous ne pouvons laisser aucun de ces Ã©lÃ©ments de cÃ´tÃ©.
 
-## Christ en nous, l'espérance de la Gloire (Col 1:27)
+## Christ en nous, l'espÃ©rance de la Gloire (Col 1:27)
 
-La Bible dit très clairement que la justice se trouve en Dieu seul.
-Nous essayons d'être clairs et cohérents en enseignant que notre justice est
-basé uniquement sur le Christ. Lui seul est notre justice. L'accusateur a
-été jeté hors de la présence de Dieu et à la place Jésus se tient à notre place;
+La Bible dit trÃ¨s clairement que la justice se trouve en Dieu seul.
+Nous essayons d'Ãªtre clairs et cohÃ©rents en enseignant que notre justice est
+basÃ© uniquement sur le Christ. Lui seul est notre justice. L'accusateur a
+Ã©tÃ© jetÃ© hors de la prÃ©sence de Dieu et Ã  la place JÃ©sus se tient Ã  notre place;
 et Il est le Rayonnement de la propre justice de Dieu. Le meilleur
-l'obstacle à notre propre sanctification est l'auto-condamnation et la
-condamnation des autres (surtout des autres chrétiens). Nous sommes d'accord avec
-Paul, que le point de départ de notre croissance dans l'obéissance est qu'il y a
-n'y a pas de condamnation pour ceux qui sont en Jésus-Christ.
+l'obstacle Ã  notre propre sanctification est l'auto-condamnation et la
+condamnation des autres (surtout des autres chrÃ©tiens). Nous sommes d'accord avec
+Paul, que le point de dÃ©part de notre croissance dans l'obÃ©issance est qu'il y a
+n'y a pas de condamnation pour ceux qui sont en JÃ©sus-Christ.
 
-Dans notre enseignement et notre formation de disciples, notre point de départ est toujours le Christ notre
-La justice et l'amour inconditionnel de Dieu pour nous. Nous exerçons notre ministère et
+Dans notre enseignement et notre formation de disciples, notre point de dÃ©part est toujours le Christ notre
+La justice et l'amour inconditionnel de Dieu pour nous. Nous exerÃ§ons notre ministÃ¨re et
 prier avec Paul...
 
 > ... afin que de ses richesses glorieuses il vous fortifie avec puissance
-> par son Esprit dans votre être intérieur, afin que le Christ habite dans
-> vos cœurs par la foi. Et je prie pour que toi, étant enraciné et
-> établi dans l'amour, peut avoir le pouvoir, avec tous les saints, de
+> par son Esprit dans votre Ãªtre intÃ©rieur, afin que le Christ habite dans
+> vos cÅ“urs par la foi. Et je prie pour que toi, Ã©tant enracinÃ© et
+> Ã©tabli dans l'amour, peut avoir le pouvoir, avec tous les saints, de
 > saisir combien large et long et haut et profond est l'amour du Christ, et
-> connaître cet amour qui surpasse la connaissance - afin que vous soyez comblé de
-> la mesure de toute la plénitude de Dieu. Maintenant à celui qui est capable de faire
+> connaÃ®tre cet amour qui surpasse la connaissance - afin que vous soyez comblÃ© de
+> la mesure de toute la plÃ©nitude de Dieu. Maintenant Ã  celui qui est capable de faire
 > infiniment plus que tout ce que nous demandons ou imaginons, selon son pouvoir
-> qui est à l'œuvre en nous, à lui soit la gloire dans l'église et en Christ
-> Jésus à travers toutes les générations, pour toujours et à jamais ! Amen (Eph
+> qui est Ã  l'Å“uvre en nous, Ã  lui soit la gloire dans l'Ã©glise et en Christ
+> JÃ©sus Ã  travers toutes les gÃ©nÃ©rations, pour toujours et Ã  jamais ! Amen (Eph
 > 3:16-21)
 
-Mais ce n'est pas tout! En Christ, Dieu fait jaillir en nous sa plénitude (Eph
+Mais ce n'est pas tout! En Christ, Dieu fait jaillir en nous sa plÃ©nitude (Eph
 
-Je te dis la vérité, quiconque a foi en moi fera ce que j'ai
-été faire. Il fera des choses encore plus grandes que celles-ci, parce que je suis
-aller au Père. (13) Et je ferai tout ce que vous demanderez en mon nom, alors
-afin que le Fils rende gloire au Père. (14) Vous pouvez me demander## Guérison et délivrance
+Je te dis la vÃ©ritÃ©, quiconque a foi en moi fera ce que j'ai
+Ã©tÃ© faire. Il fera des choses encore plus grandes que celles-ci, parce que je suis
+aller au PÃ¨re. (13) Et je ferai tout ce que vous demanderez en mon nom, alors
+afin que le Fils rende gloire au PÃ¨re. (14) Vous pouvez me demander## GuÃ©rison et dÃ©livrance
 
-Jésus a placé la guérison et la délivrance au centre de son message évangélique et
-dit à ses disciples de faire de même. En obéissance à Jésus, nous gardons
-guérison et délivrance au centre de notre annonce et de notre partage de
-le gospel. Peu importe le résultat, nous continuons à proclamer la guérison et
-attendez-vous à ce que Dieu agisse. Nous agissons par obéissance à Jésus, non par crainte de
-échec. Mais nous ne nous arrêtons pas avec la guérison. L'Evangile est de restaurer
+JÃ©sus a placÃ© la guÃ©rison et la dÃ©livrance au centre de son message Ã©vangÃ©lique et
+dit Ã  ses disciples de faire de mÃªme. En obÃ©issance Ã  JÃ©sus, nous gardons
+guÃ©rison et dÃ©livrance au centre de notre annonce et de notre partage de
+le gospel. Peu importe le rÃ©sultat, nous continuons Ã  proclamer la guÃ©rison et
+attendez-vous Ã  ce que Dieu agisse. Nous agissons par obÃ©issance Ã  JÃ©sus, non par crainte de
+Ã©chec. Mais nous ne nous arrÃªtons pas avec la guÃ©rison. L'Evangile est de restaurer
 notre relation avec Dieu, et c'est toujours notre objectif et notre objectif.
 
-## Baptême
+## BaptÃªme
 
-En obéissance à Jésus, nous baptisons les nouveaux croyants dans l'eau dès que nous
-pouvez. Nous encourageons cela à être arrangé et exécuté comme c'était dans le Nouveau
-Testament -- dans un cadre familial (par le Groupe de Croissance), plutôt que comme un
-événement de l'église. Le baptême est la façon dont nous partageons la mort du Christ et
-résurrection. Il devrait inclure la délivrance de tout passé spirituel
-participation, malédictions, pratiques magiques ou superstitieuses, africaines ou
-rituels, croyances et pratiques ancestraux. Cela comprend la délivrance de
-expériences néfastes du passé de la part des parents et de toutes les autres personnes.
+En obÃ©issance Ã  JÃ©sus, nous baptisons les nouveaux croyants dans l'eau dÃ¨s que nous
+pouvez. Nous encourageons cela Ã  Ãªtre arrangÃ© et exÃ©cutÃ© comme c'Ã©tait dans le Nouveau
+Testament -- dans un cadre familial (par le Groupe de Croissance), plutÃ´t que comme un
+Ã©vÃ©nement de l'Ã©glise. Le baptÃªme est la faÃ§on dont nous partageons la mort du Christ et
+rÃ©surrection. Il devrait inclure la dÃ©livrance de tout passÃ© spirituel
+participation, malÃ©dictions, pratiques magiques ou superstitieuses, africaines ou
+rituels, croyances et pratiques ancestraux. Cela comprend la dÃ©livrance de
+expÃ©riences nÃ©fastes du passÃ© de la part des parents et de toutes les autres personnes.
 
-## Baptême dans le Saint-Esprit
+## BaptÃªme dans le Saint-Esprit
 
-Le baptême d'eau est suivi d'une prière pour recevoir le puissant baptême en
-le Saint-Esprit. Nous n'osons pas nous éloigner de l'enseignement de Jésus qu'à moins que nous
-sont nés d'eau et d'Esprit, nous ne pouvons pas faire partie du Royaume de Dieu
+Le baptÃªme d'eau est suivi d'une priÃ¨re pour recevoir le puissant baptÃªme en
+le Saint-Esprit. Nous n'osons pas nous Ã©loigner de l'enseignement de JÃ©sus qu'Ã  moins que nous
+sont nÃ©s d'eau et d'Esprit, nous ne pouvons pas faire partie du Royaume de Dieu
 (Jean 3:5).
 
-Tout comme pour la guérison et la délivrance, nous persistons à prier pour le
-transformation de la présence et de la puissance du Saint-Esprit pour nous-mêmes et pour
-autres, sachant qu'il est du bon plaisir au Père de donner le Saint
-Esprit à ceux qui demandent (Actes 1:8).
+Tout comme pour la guÃ©rison et la dÃ©livrance, nous persistons Ã  prier pour le
+transformation de la prÃ©sence et de la puissance du Saint-Esprit pour nous-mÃªmes et pour
+autres, sachant qu'il est du bon plaisir au PÃ¨re de donner le Saint
+Esprit Ã  ceux qui demandent (Actes 1:8).
 
-Nous encourageons les disciples à pratiquer les dons spirituels des langues (comme
-des moyens donnés par Dieu pour édifier notre vie spirituelle intérieure) et la prophétie
-(comme un moyen donné par Dieu pour édifier l'église). Ces cadeaux "passerelle"
-aide-nous à marcher plus profondément avec l'Esprit et à explorer toute la gamme
+Nous encourageons les disciples Ã  pratiquer les dons spirituels des langues (comme
+des moyens donnÃ©s par Dieu pour Ã©difier notre vie spirituelle intÃ©rieure) et la prophÃ©tie
+(comme un moyen donnÃ© par Dieu pour Ã©difier l'Ã©glise). Ces cadeaux "passerelle"
+aide-nous Ã  marcher plus profondÃ©ment avec l'Esprit et Ã  explorer toute la gamme
 de dons spirituels.
 
 ## Disciple comme apprentissage
 
-L'une des priorités de nombreuses églises est l'enseignement. Une bonne affaire
-du temps est consacré à la préparation et à la prestation de l'enseignement chaque semaine, et
-les membres de l'église sont invités à venir écouter tout cet enseignement. Nous aussi
-sont passionnés par le bon enseignement dans l'église, mais nous croyons aussi
-que l'accent mis sur l'enseignement dans de nombreuses églises est mal placé. Les
-problème est que la plupart des églises considèrent la compréhension comme un discipulat, ou
+L'une des prioritÃ©s de nombreuses Ã©glises est l'enseignement. Une bonne affaire
+du temps est consacrÃ© Ã  la prÃ©paration et Ã  la prestation de l'enseignement chaque semaine, et
+les membres de l'Ã©glise sont invitÃ©s Ã  venir Ã©couter tout cet enseignement. Nous aussi
+sont passionnÃ©s par le bon enseignement dans l'Ã©glise, mais nous croyons aussi
+que l'accent mis sur l'enseignement dans de nombreuses Ã©glises est mal placÃ©. Les
+problÃ¨me est que la plupart des Ã©glises considÃ¨rent la comprÃ©hension comme un discipulat, ou
 ils voient l'enseignement comme le principal moyen de devenir des disciples.
 
-Mais Jésus n'a pas dit « enseignez-leur tout ce que je vous ai commandé » ; Il
-a dit "apprenez-leur à ***obéir*** à tout ce que je vous ai commandé". Parce que
+Mais JÃ©sus n'a pas dit Â« enseignez-leur tout ce que je vous ai commandÃ© Â» ; Il
+a dit "apprenez-leur Ã  ***obÃ©ir*** Ã  tout ce que je vous ai commandÃ©". Parce que
 de cela, nous parlons de discipulat en tant qu'apprentissage. Le discipulat est
-pratiquer ce que Jésus nous a commandé, et le seul moyen efficace de
-disciple une autre personne est de démontrer et de pratiquer l'obéissance à
-Jésus.
+pratiquer ce que JÃ©sus nous a commandÃ©, et le seul moyen efficace de
+disciple une autre personne est de dÃ©montrer et de pratiquer l'obÃ©issance Ã 
+JÃ©sus.
 
-Pour cette raison, nous exhortons les dirigeants à minimiser l'accent mis sur l'enseignement
-sessions dans leurs églises et maximiser leur concentration sur la démonstration.
-L'enseignement devrait suffire à faire comprendre le
-démonstration et pas plus. Après avoir mis l'enseignement en pratique, le
-les apprentis peuvent être réunis pour discuter et poursuivre l'enseignement
-soutenir une obéissance plus fructueuse.
+Pour cette raison, nous exhortons les dirigeants Ã  minimiser l'accent mis sur l'enseignement
+sessions dans leurs Ã©glises et maximiser leur concentration sur la dÃ©monstration.
+L'enseignement devrait suffire Ã  faire comprendre le
+dÃ©monstration et pas plus. AprÃ¨s avoir mis l'enseignement en pratique, le
+les apprentis peuvent Ãªtre rÃ©unis pour discuter et poursuivre l'enseignement
+soutenir une obÃ©issance plus fructueuse.
 
-L'enseignement et la prédication doivent être une réponse aux exigences des
-l'apprentissage et sa valeur mesurée par rapport à son efficacité dans
-motivant l'obéissance au commandement de s'aimer les uns les autres et d'aller faire
+L'enseignement et la prÃ©dication doivent Ãªtre une rÃ©ponse aux exigences des
+l'apprentissage et sa valeur mesurÃ©e par rapport Ã  son efficacitÃ© dans
+motivant l'obÃ©issance au commandement de s'aimer les uns les autres et d'aller faire
 disciples.
 
 ## Le Corps du Christ
 
-Le Corps du Christ est «uni et maintenu ensemble par tout support
+Le Corps du Christ est Â«uni et maintenu ensemble par tout support
 ligament, grandit et se construit dans l'amour, comme chaque partie fait son
-travail" (Eph 4:16). C'est la description de l'église par le Saint-Esprit. C'est
-pas paralysé et paralysé avec des pièces non fonctionnelles, les membres sont
-pas en concurrence les uns avec les autres, il n'est pas lié par
+travail" (Eph 4:16). C'est la description de l'Ã©glise par le Saint-Esprit. C'est
+pas paralysÃ© et paralysÃ© avec des piÃ¨ces non fonctionnelles, les membres sont
+pas en concurrence les uns avec les autres, il n'est pas liÃ© par
 structures et programmes et coercition mais par *** chaque soutien
-ligament*** (les capacités que chacun a). Et il grandit, pas par
+ligament*** (les capacitÃ©s que chacun a). Et il grandit, pas par
 dirigeants, enseignement et programmes, mais en ***chaque*** partie faisant son
-travail. Et la croissance n'est pas mesurée par les fesses mais par ***l'amour***.disciples qui s'aiment, se soucient les uns des autres et s'édifient les uns les autres
-à travers tous leurs dons et capacités variés afin que le Royaume de Dieu
-est rendu visible dans leur communauté. Le Saint-Esprit guidera le
-église en nommant des dirigeants qui serviront l'église en la gardant
-concentrés sur les commandements de Jésus de s'aimer les uns les autres et d'aller faire
+travail. Et la croissance n'est pas mesurÃ©e par les fesses mais par ***l'amour***.disciples qui s'aiment, se soucient les uns des autres et s'Ã©difient les uns les autres
+Ã  travers tous leurs dons et capacitÃ©s variÃ©s afin que le Royaume de Dieu
+est rendu visible dans leur communautÃ©. Le Saint-Esprit guidera le
+Ã©glise en nommant des dirigeants qui serviront l'Ã©glise en la gardant
+concentrÃ©s sur les commandements de JÃ©sus de s'aimer les uns les autres et d'aller faire
 disciples.
 
-## Marcher dans la lumière
+## Marcher dans la lumiÃ¨re
 
-Être chrétien n'est pas un spectacle que nous montons, mais la vie que nous vivons. Jésus
-commande que nous marchions dans la vérité et la lumière devant Dieu et avec un seul
-un autre. Nous rejetons la prétention et nous nous réjouissons que Dieu soit heureux d'avoir
-communion avec nous malgré nos échecs. Alors on s'accepte et on
-un autre comme Jésus le fait. Nous acceptons l'enseignement de Jésus selon lequel il ne peut y avoir
-véritable communion entre nous à moins que nous ne soyons ouverts et véridiques avec l'un
-un autre. Nous essayons d'être ouverts et honnêtes et encourageons les autres à être ouverts
-et véridique.
+ÃŠtre chrÃ©tien n'est pas un spectacle que nous montons, mais la vie que nous vivons. JÃ©sus
+commande que nous marchions dans la vÃ©ritÃ© et la lumiÃ¨re devant Dieu et avec un seul
+un autre. Nous rejetons la prÃ©tention et nous nous rÃ©jouissons que Dieu soit heureux d'avoir
+communion avec nous malgrÃ© nos Ã©checs. Alors on s'accepte et on
+un autre comme JÃ©sus le fait. Nous acceptons l'enseignement de JÃ©sus selon lequel il ne peut y avoir
+vÃ©ritable communion entre nous Ã  moins que nous ne soyons ouverts et vÃ©ridiques avec l'un
+un autre. Nous essayons d'Ãªtre ouverts et honnÃªtes et encourageons les autres Ã  Ãªtre ouverts
+et vÃ©ridique.
 
-## Repas partagés
+## Repas partagÃ©s
 
-Les repas partagés étaient au cœur du ministère de Jésus et Il a dit à Son
-disciples de continuer à partager les repas (à la Dernière Cène). Traditionnel
-les églises ont abandonné ce commandement, mais nous cherchons à être obéissants. partagé
-les repas sont au cœur de notre fraternité et de notre rayonnement. Repas partagés
-conduire dans l'adoration, la prière et le ministère les uns envers les autres. Nous invitons les autres
-se joindre à nous où ils pourront témoigner de l'amour et de la fraternité entre
+Les repas partagÃ©s Ã©taient au cÅ“ur du ministÃ¨re de JÃ©sus et Il a dit Ã  Son
+disciples de continuer Ã  partager les repas (Ã  la DerniÃ¨re CÃ¨ne). Traditionnel
+les Ã©glises ont abandonnÃ© ce commandement, mais nous cherchons Ã  Ãªtre obÃ©issants. partagÃ©
+les repas sont au cÅ“ur de notre fraternitÃ© et de notre rayonnement. Repas partagÃ©s
+conduire dans l'adoration, la priÃ¨re et le ministÃ¨re les uns envers les autres. Nous invitons les autres
+se joindre Ã  nous oÃ¹ ils pourront tÃ©moigner de l'amour et de la fraternitÃ© entre
 croyants.
 
 ## Un lieu de rencontre
 
-Les églises sont devenues associées aux bâtiments d'église et cela
-l'association a posé de nombreux problèmes. Le message de l'évangélisation a
-devenir \"Aller à l'église\...\" au lieu d'apporter la guérison et la délivrance
-dans les maisons des gens. Le discipolat est devenu \"Allez à l'église\" à la place
-d'écouter et d'obéir à Jésus dans nos maisons. L'implantation d'églises a
-devenir une question d'ériger des bâtiments au lieu de planter des groupes de
-disciples. Les bâtiments d'église sont utilisés pour donner aux églises un sentiment de
-identité et prestige -- \"Personne ne prendra votre église au sérieux si vous
-n\'avez pas votre propre bâtiment\...\".
+Les Ã©glises sont devenues associÃ©es aux bÃ¢timents d'Ã©glise et cela
+l'association a posÃ© de nombreux problÃ¨mes. Le message de l'Ã©vangÃ©lisation a
+devenir \"Aller Ã  l'Ã©glise\...\" au lieu d'apporter la guÃ©rison et la dÃ©livrance
+dans les maisons des gens. Le discipolat est devenu \"Allez Ã  l'Ã©glise\" Ã  la place
+d'Ã©couter et d'obÃ©ir Ã  JÃ©sus dans nos maisons. L'implantation d'Ã©glises a
+devenir une question d'Ã©riger des bÃ¢timents au lieu de planter des groupes de
+disciples. Les bÃ¢timents d'Ã©glise sont utilisÃ©s pour donner aux Ã©glises un sentiment de
+identitÃ© et prestige -- \"Personne ne prendra votre Ã©glise au sÃ©rieux si vous
+n\'avez pas votre propre bÃ¢timent\...\".
 
-Jésus a dit que nous devrions être une lumière posée sur une colline, pas cachée. Lorsque
-à la recherche d'un lieu pour rassembler les croyants pour le culte, la communion, le partage
-repas et l'enseignement, nous cherchons d'abord des bâtiments publics où les croyants
-sont facilement visibles par la communauté et où les non-membres peuvent facilement venir
-et voir ce qui se passe. Le premier choix serait une hutte à palabres ou
-zone de marché ou tout autre lieu ouvert et public. Peut-être une clinique ou
-l'école peut être utilisable, ou une maison avec un grand porche. Si aucun endroit n'est
-disponibles, nous vous recommandons d'approcher les leaders de la communauté et de leur proposer
-que la communauté érige un lieu de rencontre convenable que l'église puisse
+JÃ©sus a dit que nous devrions Ãªtre une lumiÃ¨re posÃ©e sur une colline, pas cachÃ©e. Lorsque
+Ã  la recherche d'un lieu pour rassembler les croyants pour le culte, la communion, le partage
+repas et l'enseignement, nous cherchons d'abord des bÃ¢timents publics oÃ¹ les croyants
+sont facilement visibles par la communautÃ© et oÃ¹ les non-membres peuvent facilement venir
+et voir ce qui se passe. Le premier choix serait une hutte Ã  palabres ou
+zone de marchÃ© ou tout autre lieu ouvert et public. Peut-Ãªtre une clinique ou
+l'Ã©cole peut Ãªtre utilisable, ou une maison avec un grand porche. Si aucun endroit n'est
+disponibles, nous vous recommandons d'approcher les leaders de la communautÃ© et de leur proposer
+que la communautÃ© Ã©rige un lieu de rencontre convenable que l'Ã©glise puisse
 partager.
 
-Une église basée sur des groupes de croissance peut croître et se multiplier et implanter une église
-sans jamais avoir son propre bâtiment. Les bâtiments doivent être considérés comme un luxe
-pour les communautés qui peuvent bien se le permettre plutôt que comme une nécessité pour
+Une Ã©glise basÃ©e sur des groupes de croissance peut croÃ®tre et se multiplier et implanter une Ã©glise
+sans jamais avoir son propre bÃ¢timent. Les bÃ¢timents doivent Ãªtre considÃ©rÃ©s comme un luxe
+pour les communautÃ©s qui peuvent bien se le permettre plutÃ´t que comme une nÃ©cessitÃ© pour
 mission.
 
-## Église simple
+## Ã‰glise simple
 
 Notre attrait et notre vision est que nous examinons tout ce que nous faisons et
-tout ce que nous enseignons à la lumière des deux grands commandements de Jésus et retour
-à l'expression la plus simple de l'église qui est efficace dans l'accomplissement
+tout ce que nous enseignons Ã  la lumiÃ¨re des deux grands commandements de JÃ©sus et retour
+Ã  l'expression la plus simple de l'Ã©glise qui est efficace dans l'accomplissement
 ces commandes. Tout et n'importe quoi que nous ajoutons au plus simple
-expression de l'église doit être dans l'obéissance aux écritures et
-justifiable en termes d'efficacité et de fécondité dans l'amour et
+expression de l'Ã©glise doit Ãªtre dans l'obÃ©issance aux Ã©critures et
+justifiable en termes d'efficacitÃ© et de fÃ©conditÃ© dans l'amour et
 discipulat.
 
-Notre vision comprend des structures de leadership régionales et locales, des
-et apostolat, grands et petits rassemblements d'église, bâtiments d'église,
-écoles, formation théologique, aide aux pauvres etc. etc., Mais notre
-la priorité et le point de départ est le discipulat à travers les Groupes de Croissance. Nous
-les voir comme l'unité de base de l'église et le fondement essentiel de
-obéissance aux commandements de s'aimer les uns les autres et d'aller faire des disciples.
+Notre vision comprend des structures de leadership rÃ©gionales et locales, des
+et apostolat, grands et petits rassemblements d'Ã©glise, bÃ¢timents d'Ã©glise,
+Ã©coles, formation thÃ©ologique, aide aux pauvres etc. etc., Mais notre
+la prioritÃ© et le point de dÃ©part est le discipulat Ã  travers les Groupes de Croissance. Nous
+les voir comme l'unitÃ© de base de l'Ã©glise et le fondement essentiel de
+obÃ©issance aux commandements de s'aimer les uns les autres et d'aller faire des disciples.
 
-Notre approche est de construire l'église *à partir de* disciples obéissants, plutôt que
-essayer de faire des disciples obéissants à travers nos programmes d'église. Notre
-l'accent est donc principalement ascendant plutôt que descendant. Nous ne faisons pas
-croyez que vous avez besoin d'une « église » pour faire des disciples ; tu as plutôt besoin de discipleset puis voyez ce que le Saint-Esprit dit à propos de la croissance
+Notre approche est de construire l'Ã©glise *Ã  partir de* disciples obÃ©issants, plutÃ´t que
+essayer de faire des disciples obÃ©issants Ã  travers nos programmes d'Ã©glise. Notre
+l'accent est donc principalement ascendant plutÃ´t que descendant. Nous ne faisons pas
+croyez que vous avez besoin d'une Â« Ã©glise Â» pour faire des disciples ; tu as plutÃ´t besoin de discipleset puis voyez ce que le Saint-Esprit dit Ã  propos de la croissance
 Groupes en groupes religieux plus importants.
 
-La question des bâtiments d'église est également importante dans Simple Church. S'il te plaît
-voir "Comment les édifices de l'église Cripple the Gospel" sur le site Web pour un
+La question des bÃ¢timents d'Ã©glise est Ã©galement importante dans Simple Church. S'il te plaÃ®t
+voir "Comment les Ã©difices de l'Ã©glise Cripple the Gospel" sur le site Web pour un
 discussion sur ce sujet.
 
 ## Une vision du futur
 
-- Groupes de croissance en tant que fondement et unité de base de l'église et
+- Groupes de croissance en tant que fondement et unitÃ© de base de l'Ã©glise et
     discipulat.
 
-- Des communautés transformées grâce à des groupes de croissance qui s'adressent à leurs
-    voisins amoureux de l'Evangile du Royaume, y compris la guérison
-    et la délivrance.
+- Des communautÃ©s transformÃ©es grÃ¢ce Ã  des groupes de croissance qui s'adressent Ã  leurs
+    voisins amoureux de l'Evangile du Royaume, y compris la guÃ©rison
+    et la dÃ©livrance.
 
-- Croyants baptisés d'eau et du Saint-Esprit, marchant dans le
-    légers et sûrs de leur justice en Christ.
+- Croyants baptisÃ©s d'eau et du Saint-Esprit, marchant dans le
+    lÃ©gers et sÃ»rs de leur justice en Christ.
 
-- La formation de disciple principalement par l'apprentissage actif sans écoute
-    à l'enseignement.
+- La formation de disciple principalement par l'apprentissage actif sans Ã©coute
+    Ã  l'enseignement.
 
-- L'unité du Corps du Christ exprimée à travers la régularité
-    rassemblement de croyants pour un repas partagé et une prière en
-    obéissance au commandement de Jésus au dernier souper.
+- L'unitÃ© du Corps du Christ exprimÃ©e Ã  travers la rÃ©gularitÃ©
+    rassemblement de croyants pour un repas partagÃ© et une priÃ¨re en
+    obÃ©issance au commandement de JÃ©sus au dernier souper.
 
 - Charge minimale pour les croyants -- l'expression la plus simple possible de
-    église.
+    Ã©glise.
 
-- Insistance minimale sur les bâtiments de l'église - utilisation des installations existantes
+- Insistance minimale sur les bÃ¢timents de l'Ã©glise - utilisation des installations existantes
     la mesure du possible.
 
-- Séances d'enseignement réduites au minimum et immédiatement mises en œuvre
+- SÃ©ances d'enseignement rÃ©duites au minimum et immÃ©diatement mises en Å“uvre
     pratique par l'apprentissage.
 
-- Multiplier de nombreuses petites églises autonomes en relation
+- Multiplier de nombreuses petites Ã©glises autonomes en relation
     ensemble.
 
-- Leadership vu comme l'un des nombreux dons donnés pour servir le Corps
-    du Christ en le gardant concentré sur l'amour les uns des autres et
+- Leadership vu comme l'un des nombreux dons donnÃ©s pour servir le Corps
+    du Christ en le gardant concentrÃ© sur l'amour les uns des autres et
     disciples.
 
 - Leadership donnant l'exemple en apprenant aux autres et en marchant
-    lumière et vérité les uns avec les autres.
+    lumiÃ¨re et vÃ©ritÃ© les uns avec les autres.
 
-Nous espérons et prions pour que vous soyez inspiré par cette vision biblique pour
-discipulat et voudront se joindre à nous alors que nous cherchons à marcher avec Jésus
-notre frère, ami et roi.
+Nous espÃ©rons et prions pour que vous soyez inspirÃ© par cette vision biblique pour
+discipulat et voudront se joindre Ã  nous alors que nous cherchons Ã  marcher avec JÃ©sus
+notre frÃ¨re, ami et roi.
 
-Pour plus de détails sur les groupes de croissance et de nombreux autres aspects de
+Pour plus de dÃ©tails sur les groupes de croissance et de nombreux autres aspects de
 discipulat, consultez notre site Web :
 [www.LifeForLiberia.org.uk](http://www.LifeForLiberia.org.uk)

@@ -2,20 +2,20 @@
 type: document
 translationKey: Repentance and Righteousness
 title: Repentir et justice---
-# Repentance et justice Stephen Dolley, décembre 2018
+# Repentance et justice Stephen Dolley, dÃ©cembre 2018
 
 ## Introduction
 
 Les sujets de repentance et de justice suscitent souvent de fortes
-émotions parmi les chrétiens parce qu'elles sont toutes deux des doctrines fondamentales
-mais aussi parce qu'elles nous touchent profondément ; ils se rapportent à nos besoins les plus profonds
-d'acceptation et d'estime de soi. Les dirigeants ont souvent des opinions bien arrêtées sur
-les aspects doctrinaux parce qu'ils essaient de traiter avec l'église
-membres dont le comportement est parfois gênant. C'est important,
-par conséquent, que nous examinions attentivement les Écritures et essayions de les laisser
-nous instruire, plutôt que d'essayer simplement de justifier nos propres croyances.
+Ã©motions parmi les chrÃ©tiens parce qu'elles sont toutes deux des doctrines fondamentales
+mais aussi parce qu'elles nous touchent profondÃ©ment ; ils se rapportent Ã  nos besoins les plus profonds
+d'acceptation et d'estime de soi. Les dirigeants ont souvent des opinions bien arrÃªtÃ©es sur
+les aspects doctrinaux parce qu'ils essaient de traiter avec l'Ã©glise
+membres dont le comportement est parfois gÃªnant. C'est important,
+par consÃ©quent, que nous examinions attentivement les Ã‰critures et essayions de les laisser
+nous instruire, plutÃ´t que d'essayer simplement de justifier nos propres croyances.
 
-Dans cette étude, nous tenterons d'aborder deux questions fondamentales :
+Dans cette Ã©tude, nous tenterons d'aborder deux questions fondamentales :
 
 1. De quoi et quand devons-nous nous confesser et nous repentir ?
 
@@ -23,406 +23,406 @@ Dans cette étude, nous tenterons d'aborder deux questions fondamentales :
 
 ## Notre Tradition
 
-Le repentir est largement passé de mode dans la présentation de l'Evangile, dans
-réaction à la prédication puritaine du jugement de feu : « Les pécheurs
-mains d'un Dieu en colère". Il a été remplacé par l'appel à la
-l'amour : « Si seulement vous saviez à quel point Dieu vous aime passionnément, vous seriez
-accourez à ses bras ouverts". Une personne répondant à cet évangile de
-l'amour est alors typiquement encouragé à prier la prière du « pécheur », en demandant
-pour le pardon de leur caractère imparfait. On leur dit alors que
-ils sont pardonnés et ont maintenant la vie éternelle.
+Le repentir est largement passÃ© de mode dans la prÃ©sentation de l'Evangile, dans
+rÃ©action Ã  la prÃ©dication puritaine du jugement de feu : Â« Les pÃ©cheurs
+mains d'un Dieu en colÃ¨re". Il a Ã©tÃ© remplacÃ© par l'appel Ã  la
+l'amour : Â« Si seulement vous saviez Ã  quel point Dieu vous aime passionnÃ©ment, vous seriez
+accourez Ã  ses bras ouverts". Une personne rÃ©pondant Ã  cet Ã©vangile de
+l'amour est alors typiquement encouragÃ© Ã  prier la priÃ¨re du Â« pÃ©cheur Â», en demandant
+pour le pardon de leur caractÃ¨re imparfait. On leur dit alors que
+ils sont pardonnÃ©s et ont maintenant la vie Ã©ternelle.
 
-On nous apprend alors que pour continuer à être pardonné, nous devons garder
-confesser nos péchés et demander pardon aussi souvent que nous le savons
-d'avoir péché - faites de brefs comptes à Dieu. On nous apprend que nous
-sont des pécheurs, sauvés par grâce et bien que nous devions croître lentement dans
-justice, nous échouerons inévitablement à plusieurs reprises dans notre lutte
+On nous apprend alors que pour continuer Ã  Ãªtre pardonnÃ©, nous devons garder
+confesser nos pÃ©chÃ©s et demander pardon aussi souvent que nous le savons
+d'avoir pÃ©chÃ© - faites de brefs comptes Ã  Dieu. On nous apprend que nous
+sont des pÃ©cheurs, sauvÃ©s par grÃ¢ce et bien que nous devions croÃ®tre lentement dans
+justice, nous Ã©chouerons inÃ©vitablement Ã  plusieurs reprises dans notre lutte
 contre la tentation.
 
 ## Salut Repentir
 
-Alors, qu'enseignent les Écritures sur la repentance pour le salut ?
+Alors, qu'enseignent les Ã‰critures sur la repentance pour le salut ?
 
-> Jésus est allé en Galilée, proclamant la bonne nouvelle de Dieu. "Le temps
-> est venu, dit-il. Le royaume de Dieu s'est approché. Repentez-vous et
-> croyez à la bonne nouvelle !" **Marc 1:15**
+> JÃ©sus est allÃ© en GalilÃ©e, proclamant la bonne nouvelle de Dieu. "Le temps
+> est venu, dit-il. Le royaume de Dieu s'est approchÃ©. Repentez-vous et
+> croyez Ã  la bonne nouvelleÂ !" **Marc 1:15**
 >
-> La repentance pour le pardon des péchés sera prêchée en son nom à
+> La repentance pour le pardon des pÃ©chÃ©s sera prÃªchÃ©e en son nom Ã 
 > toutes les nations **Luc 24:47**
 >
-> Repentez-vous donc et tournez-vous vers Dieu, afin que vos péchés soient effacés
+> Repentez-vous donc et tournez-vous vers Dieu, afin que vos pÃ©chÃ©s soient effacÃ©s
 > **Actes 3:19**
 >
-> "Dieu a accordé le repentir qui mène à la vie." **Actes 11:18**
+> "Dieu a accordÃ© le repentir qui mÃ¨ne Ã  la vie." **Actes 11:18**
 
-Nous pouvons voir à partir de ces écritures que la repentance doit être prêchée comme un
-partie intégrante de l'Évangile et comme condition préalable au salut. Mais
-ce qui n'est pas si évident, c'est la nature de ce repentir. Citation de Marc
-ci-dessus nous oriente dans la bonne direction. La "bonne nouvelle" proclamée par Jésus
-était "Le temps est venu. Le royaume de Dieu est proche." Le bon
-réponse à cette nouvelle est "Repentez-vous et croyez que le temps est venu et
-le royaume de Dieu s'est approché."
+Nous pouvons voir Ã  partir de ces Ã©critures que la repentance doit Ãªtre prÃªchÃ©e comme un
+partie intÃ©grante de l'Ã‰vangile et comme condition prÃ©alable au salut. Mais
+ce qui n'est pas si Ã©vident, c'est la nature de ce repentir. Citation de Marc
+ci-dessus nous oriente dans la bonne direction. La "bonne nouvelle" proclamÃ©e par JÃ©sus
+Ã©tait "Le temps est venu. Le royaume de Dieu est proche." Le bon
+rÃ©ponse Ã  cette nouvelle est "Repentez-vous et croyez que le temps est venu et
+le royaume de Dieu s'est approchÃ©."
 
 La repentance pour le salut concerne notre croyance au Royaume ; il est
-pas concentré sur notre propre nature imparfaite :
+pas concentrÃ© sur notre propre nature imparfaite :
 
-> Je t'envoie vers eux pour leur ouvrir les yeux et les détourner de
-> des ténèbres à la lumière, et de la puissance de Satan à Dieu, afin qu'ils
-> peut recevoir le pardon des péchés et une place parmi ceux qui sont
-> sanctifié par la foi en moi.' **Actes 26:18**
+> Je t'envoie vers eux pour leur ouvrir les yeux et les dÃ©tourner de
+> des tÃ©nÃ¨bres Ã  la lumiÃ¨re, et de la puissance de Satan Ã  Dieu, afin qu'ils
+> peut recevoir le pardon des pÃ©chÃ©s et une place parmi ceux qui sont
+> sanctifiÃ© par la foi en moi.' **Actes 26:18**
 >
-> Car il nous a délivrés de la domination des ténèbres et nous a fait
-> dans le royaume du Fils qu'il aime, en qui nous avons la rédemption, la
-> pardon des péchés. **Col 1:13**
+> Car il nous a dÃ©livrÃ©s de la domination des tÃ©nÃ¨bres et nous a fait
+> dans le royaume du Fils qu'il aime, en qui nous avons la rÃ©demption, la
+> pardon des pÃ©chÃ©s. **Col 1:13**
 >
-> Mais vous êtes un peuple élu, un sacerdoce royal, une nation sainte, la
-> possession spéciale, afin que vous puissiez proclamer les louanges de celui qui a appelé
-> vous sortir des ténèbres dans sa merveilleuse lumière. Une fois que vous n'étiez pas un
-> peuple, mais maintenant tu es le peuple de Dieu ; une fois que vous n'aviez pas reçu
-> miséricorde, mais maintenant tu as reçu miséricorde. **1 Pierre 2:9-10**
+> Mais vous Ãªtes un peuple Ã©lu, un sacerdoce royal, une nation sainte, la
+> possession spÃ©ciale, afin que vous puissiez proclamer les louanges de celui qui a appelÃ©
+> vous sortir des tÃ©nÃ¨bres dans sa merveilleuse lumiÃ¨re. Une fois que vous n'Ã©tiez pas un
+> peuple, mais maintenant tu es le peuple de Dieu ; une fois que vous n'aviez pas reÃ§u
+> misÃ©ricorde, mais maintenant tu as reÃ§u misÃ©ricorde. **1 Pierre 2:9-10**
 
-La repentance, qui signifie changer de direction, consiste à se détourner de
-des ténèbres à la lumière, de la puissance de Satan à Dieu, du royaume de
-ténèbres au Royaume de Jésus, d'être "pas un peuple" à devenir
+La repentance, qui signifie changer de direction, consiste Ã  se dÃ©tourner de
+des tÃ©nÃ¨bres Ã  la lumiÃ¨re, de la puissance de Satan Ã  Dieu, du royaume de
+tÃ©nÃ¨bres au Royaume de JÃ©sus, d'Ãªtre "pas un peuple" Ã  devenir
 un membre du peuple de Dieu.
 
 C'est le langage biblique de la repentance pour le salut. Si nous parlons
-au lieu de mentir, de tricher, d'être égoïste et méchant, d'être lubriquecaractère plutôt qu'au royaume dont ils sont involontairement un
+au lieu de mentir, de tricher, d'Ãªtre Ã©goÃ¯ste et mÃ©chant, d'Ãªtre lubriquecaractÃ¨re plutÃ´t qu'au royaume dont ils sont involontairement un
 partie.
 
-Dire à quelqu'un qu'il devra un jour faire face à un juge pour répondre de
-leurs méfaits peuvent être vrais, mais cela ne dirige pas une personne vers le
+Dire Ã  quelqu'un qu'il devra un jour faire face Ã  un juge pour rÃ©pondre de
+leurs mÃ©faits peuvent Ãªtre vrais, mais cela ne dirige pas une personne vers le
 genre de repentir qui est requis.
 
-Une personne n'a pas besoin d'être reconnue coupable de son péché personnel pour
-être sauvé; ils doivent être convaincus que leur vision du monde est fausse. Ils
+Une personne n'a pas besoin d'Ãªtre reconnue coupable de son pÃ©chÃ© personnel pour
+Ãªtre sauvÃ©; ils doivent Ãªtre convaincus que leur vision du monde est fausse. Ils
 sont sur le chemin de leur vie, faisant de leur mieux pour progresser vers un
 Meilleur futur. Puis un jour, ils rencontrent quelqu'un qui leur dit qu'ils sont
-dirigé dans la mauvaise direction. S'ils sont convaincus, ils seront
-énormément reconnaissant ! Ils regretteront tout le temps et l'énergie qu'ils ont
-passé dans la mauvaise direction et faire demi-tour et commencer à se diriger
-une nouvelle orientation. Qu'ils soient ou non un grand pécheur n'est pas
-particulièrement pertinent.
+dirigÃ© dans la mauvaise direction. S'ils sont convaincus, ils seront
+Ã©normÃ©ment reconnaissant ! Ils regretteront tout le temps et l'Ã©nergie qu'ils ont
+passÃ© dans la mauvaise direction et faire demi-tour et commencer Ã  se diriger
+une nouvelle orientation. Qu'ils soient ou non un grand pÃ©cheur n'est pas
+particuliÃ¨rement pertinent.
 
 La repentance pour le salut est un changement de vision du monde, un changement dans notre
-toute une façon de penser. C'est beaucoup plus comme changer de politique
-l'affiliation ou l'émigration vers un autre pays. En effet c'est un changement de
-religion -- de nos anciennes croyances pour croire que Jésus est
-Dieu-devenu-homme pour nous amener au Père juste et aimant.
+toute une faÃ§on de penser. C'est beaucoup plus comme changer de politique
+l'affiliation ou l'Ã©migration vers un autre pays. En effet c'est un changement de
+religion -- de nos anciennes croyances pour croire que JÃ©sus est
+Dieu-devenu-homme pour nous amener au PÃ¨re juste et aimant.
 
-La prière du pécheur, par conséquent, ne devrait pas être "J'ai péché. S'il vous plaît
-pardonnez-moi", mais "je me suis dirigé dans la mauvaise direction; Aller
+La priÃ¨re du pÃ©cheur, par consÃ©quent, ne devrait pas Ãªtre "J'ai pÃ©chÃ©. S'il vous plaÃ®t
+pardonnez-moi", mais "je me suis dirigÃ© dans la mauvaise direction; Aller
 avec les mensonges et la tromperie du royaume de ce monde. je veux
-détournez-vous de tout cela et suivez la lumière et la vérité de Jésus, le Fils de Dieu".
+dÃ©tournez-vous de tout cela et suivez la lumiÃ¨re et la vÃ©ritÃ© de JÃ©sus, le Fils de Dieu".
 
 ## Salut Pardon
 
-Nous avons vu que la repentance du salut est de la taille d'un royaume. Dans le même
-façon, le pardon est de la taille d'un royaume.
+Nous avons vu que la repentance du salut est de la taille d'un royaume. Dans le mÃªme
+faÃ§on, le pardon est de la taille d'un royaume.
 
-> "Repentez-vous donc et tournez-vous vers Dieu, afin que vos péchés soient effacés"
+> "Repentez-vous donc et tournez-vous vers Dieu, afin que vos pÃ©chÃ©s soient effacÃ©s"
 > **Actes 3:19**
 >
-> "... en qui nous avons la rédemption, le pardon des péchés." **Col
+> "... en qui nous avons la rÃ©demption, le pardon des pÃ©chÃ©s." **Col
 > 1:13**
 
-Le pardon du salut ne concerne pas les péchés individuels, ou notre
-caractère imparfait, mais avec le péché comme barrière entre nous et Dieu.
-**Tous** nos péchés sont effacés ; nous recevons le pardon de tous nos péchés,
-ceux du passé et ceux de l'avenir. Tous sont pardonnés pour ceux qui deviennent
+Le pardon du salut ne concerne pas les pÃ©chÃ©s individuels, ou notre
+caractÃ¨re imparfait, mais avec le pÃ©chÃ© comme barriÃ¨re entre nous et Dieu.
+**Tous** nos pÃ©chÃ©s sont effacÃ©sÂ ; nous recevons le pardon de tous nos pÃ©chÃ©s,
+ceux du passÃ© et ceux de l'avenir. Tous sont pardonnÃ©s pour ceux qui deviennent
 enfants de Dieu.
 
-> "Celui qui croit en Lui reçoit le pardon des péchés" **Actes
+> "Celui qui croit en Lui reÃ§oit le pardon des pÃ©chÃ©s" **Actes
 > 10:43**
 >
 > Car par un seul sacrifice il a rendu parfaits pour toujours ceux qui
-> rendu saint... "Je ne me souviendrai plus de leurs péchés et de leurs actes sans loi."
-> **Hé 10:14,17**
+> rendu saint... "Je ne me souviendrai plus de leurs pÃ©chÃ©s et de leurs actes sans loi."
+> **HÃ© 10:14,17**
 >
-> \"En lui nous avons la rédemption par son sang, le pardon de
-> péchés, selon les richesses de la grâce de Dieu\" **Éphésiens
+> \"En lui nous avons la rÃ©demption par son sang, le pardon de
+> pÃ©chÃ©s, selon les richesses de la grÃ¢ce de Dieu\" **Ã‰phÃ©siens
 > 1:7**
 
 Le pardon du salut est une promesse de Dieu de la Nouvelle Alliance. Dieu n'est plus
-conscient du péché envers ceux qui sont nés de nouveau.
+conscient du pÃ©chÃ© envers ceux qui sont nÃ©s de nouveau.
 
-## fraternité repentance
+## fraternitÃ© repentance
 
-S'étant repenti pour le salut, baptisé dans l'eau et né de nouveau par
-le Saint-Esprit nous rend justes pour toujours; purifié et pardonné
-nos péchés. Christ lui-même est devenu notre justice :
+S'Ã©tant repenti pour le salut, baptisÃ© dans l'eau et nÃ© de nouveau par
+le Saint-Esprit nous rend justes pour toujours; purifiÃ© et pardonnÃ©
+nos pÃ©chÃ©s. Christ lui-mÃªme est devenu notre justice :
 
 > Car par un seul sacrifice il a rendu parfaits pour toujours ceux qui
-> rendu saint... "Je ne me souviendrai plus de leurs péchés et de leurs actes sans loi."
-> **Hé 10:14,17**
+> rendu saint... "Je ne me souviendrai plus de leurs pÃ©chÃ©s et de leurs actes sans loi."
+> **HÃ© 10:14,17**
 >
-> Mais par son action, vous êtes en Jésus-Christ, qui est devenu pour nous sagesse dès
-> Dieu, et la justice et la sanctification, et la rédemption. **1 cor
+> Mais par son action, vous Ãªtes en JÃ©sus-Christ, qui est devenu pour nous sagesse dÃ¨s
+> Dieu, et la justice et la sanctification, et la rÃ©demption. **1 cor
 > 1h30**
 >
-> Il a fait de celui qui ne connaissait pas le péché un péché pour nous, afin que nous puissions
+> Il a fait de celui qui ne connaissait pas le pÃ©chÃ© un pÃ©chÃ© pour nous, afin que nous puissions
 > devenir la justice de Dieu en Lui. **2 Cor 5:21**
 
-Il n'y a plus rien à faire pour notre péché. Jésus a
-déjà tout fait :
+Il n'y a plus rien Ã  faire pour notre pÃ©chÃ©. JÃ©sus a
+dÃ©jÃ  tout fait :
 
-> Ainsi Christ a été sacrifié une seule fois pour ôter les péchés de plusieurs ; et il
-> apparaîtra une seconde fois, non pour porter le péché, mais pour apporter le salut à
-> ceux qui l'attendent. **Hébreux 9:28**
+> Ainsi Christ a Ã©tÃ© sacrifiÃ© une seule fois pour Ã´ter les pÃ©chÃ©s de plusieurs ; et il
+> apparaÃ®tra une seconde fois, non pour porter le pÃ©chÃ©, mais pour apporter le salut Ã 
+> ceux qui l'attendent. **HÃ©breux 9:28**
 
-Si nous sommes totalement et pour toujours pardonnés en tant qu'enfants de Dieu, quel est le
+Si nous sommes totalement et pour toujours pardonnÃ©s en tant qu'enfants de Dieu, quel est le
 lieu de repentance continue et de confession pour un croyant ? Enseignement
-sur la confession des chrétiens repose souvent sur un malentendu
+sur la confession des chrÃ©tiens repose souvent sur un malentendu
 de:
 
-> « Si nous prétendons être sans péché, nous nous trompons et la vérité est
-> pas en nous. Si nous confessons nos péchés, il est fidèle et juste et
-> pardonne-nous nos péchés et purifie-nous de toute injustice." **1 Jean
-> 1:8-9**il leur a annoncé; l'Évangile par lequel ils ont été sauvés ; les
-Evangile qui exige la repentance du royaume des ténèbres au
-Royaume de lumière (v5-7). Ceux qui nient leur besoin de repentance sont
-trompés, mais ceux qui confessent leur tromperie précédente sont rendus
-juste (v8-10). Ainsi, 1 Jean 1:8-9 parle d'une personne répondant à
-l'Évangile et l'avènement de la foi ; ce ne sont pas des instructions pour les croyants
-(voir \"Si nous confessons nos péchés\...\" à la fin de ce document).
+> Â« Si nous prÃ©tendons Ãªtre sans pÃ©chÃ©, nous nous trompons et la vÃ©ritÃ© est
+> pas en nous. Si nous confessons nos pÃ©chÃ©s, il est fidÃ¨le et juste et
+> pardonne-nous nos pÃ©chÃ©s et purifie-nous de toute injustice." **1 Jean
+> 1:8-9**il leur a annoncÃ©; l'Ã‰vangile par lequel ils ont Ã©tÃ© sauvÃ©s ; les
+Evangile qui exige la repentance du royaume des tÃ©nÃ¨bres au
+Royaume de lumiÃ¨re (v5-7). Ceux qui nient leur besoin de repentance sont
+trompÃ©s, mais ceux qui confessent leur tromperie prÃ©cÃ©dente sont rendus
+juste (v8-10). Ainsi, 1 Jean 1:8-9 parle d'une personne rÃ©pondant Ã 
+l'Ã‰vangile et l'avÃ¨nement de la foi ; ce ne sont pas des instructions pour les croyants
+(voir \"Si nous confessons nos pÃ©chÃ©s\...\" Ã  la fin de ce document).
 Les instructions pour les croyants viennent dans le chapitre suivant :
 
-> " Si quelqu'un commet un péché, nous avons un avocat auprès du Père --- Jésus
-> Christ, le Juste. Il est le sacrifice expiatoire pour nos péchés."
+> " Si quelqu'un commet un pÃ©chÃ©, nous avons un avocat auprÃ¨s du PÃ¨re --- JÃ©sus
+> Christ, le Juste. Il est le sacrifice expiatoire pour nos pÃ©chÃ©s."
 > **1 Jean 2:1**
 
-Ici, il n'y a aucune exigence de confession et de repentance. Nous avons déjà
-avoir un avocat à plein temps auprès du Père dont le sacrifice expiatoire est
-toujours suffisant. Nous ne sommes pas censés vivre avec une
-rappel de notre péché. En tant que croyants, nous vivons dans l'émerveillement de continuer
-pardon parce que la mort de Jésus nous a suffi. Nous sommes maintenant à
-vivre dans la joie de savoir que Jésus est notre justice.
+Ici, il n'y a aucune exigence de confession et de repentance. Nous avons dÃ©jÃ 
+avoir un avocat Ã  plein temps auprÃ¨s du PÃ¨re dont le sacrifice expiatoire est
+toujours suffisant. Nous ne sommes pas censÃ©s vivre avec une
+rappel de notre pÃ©chÃ©. En tant que croyants, nous vivons dans l'Ã©merveillement de continuer
+pardon parce que la mort de JÃ©sus nous a suffi. Nous sommes maintenant Ã 
+vivre dans la joie de savoir que JÃ©sus est notre justice.
 
-> « Ayant été justifiés par la foi, nous avons la paix avec Dieu par notre
-> Seigneur Jésus-Christ" **Rom 5:1**
+> Â« Ayant Ã©tÃ© justifiÃ©s par la foi, nous avons la paix avec Dieu par notre
+> Seigneur JÃ©sus-Christ" **Rom 5:1**
 >
-> Car vous tous qui avez été baptisés en Christ, vous vous êtes vêtus
+> Car vous tous qui avez Ã©tÃ© baptisÃ©s en Christ, vous vous Ãªtes vÃªtus
 > avec le Christ. **Gal 3:27**
 
-Le Saint-Esprit convainc les incroyants de péché, mais Son œuvre pour un
+Le Saint-Esprit convainc les incroyants de pÃ©chÃ©, mais Son Å“uvre pour un
 croyant doit les convaincre de leur justice en Christ :
 
-> Comptez-vous morts au péché mais vivants pour Dieu en Jésus-Christ... Vous
-> ont été libérés du péché et sont devenus esclaves de la justice.
+> Comptez-vous morts au pÃ©chÃ© mais vivants pour Dieu en JÃ©sus-Christ... Vous
+> ont Ã©tÃ© libÃ©rÃ©s du pÃ©chÃ© et sont devenus esclaves de la justice.
 > **Rom 6:11,18**
 >
-> Et maintenant, petits enfants, demeurez en Lui, afin que lorsqu'Il apparaîtra, nous puissions
+> Et maintenant, petits enfants, demeurez en Lui, afin que lorsqu'Il apparaÃ®tra, nous puissions
 > ayez confiance et n'ayez pas honte devant Lui de Sa venue. **1 Jean
 > 2:28**
 >
-> En Christ, tu as été porté à la plénitude. Il est à la tête de chaque
-> pouvoir et autorité. En lui, vous avez également été circoncis avec un
-> circoncision non effectuée par des mains humaines. Tout ton être, gouverné par
-> la chair, a été dépouillé quand vous avez été circoncis par Christ, ayant
-> été enterré avec lui au baptême, dans lequel vous avez également été élevé avec
-> lui par ta foi en l'œuvre de Dieu, qui l'a ressuscité du
-> mort. Quand tu étais mort dans tes péchés et dans l'incirconcision de
-> ta chair, Dieu t'a fait vivre avec Christ. Il nous a pardonné tous nos
-> péchés, ayant annulé la charge de notre dette légale, qui
-> s'est dressé contre nous et nous a condamnés; il l'a emporté, le clouant à
+> En Christ, tu as Ã©tÃ© portÃ© Ã  la plÃ©nitude. Il est Ã  la tÃªte de chaque
+> pouvoir et autoritÃ©. En lui, vous avez Ã©galement Ã©tÃ© circoncis avec un
+> circoncision non effectuÃ©e par des mains humaines. Tout ton Ãªtre, gouvernÃ© par
+> la chair, a Ã©tÃ© dÃ©pouillÃ© quand vous avez Ã©tÃ© circoncis par Christ, ayant
+> Ã©tÃ© enterrÃ© avec lui au baptÃªme, dans lequel vous avez Ã©galement Ã©tÃ© Ã©levÃ© avec
+> lui par ta foi en l'Å“uvre de Dieu, qui l'a ressuscitÃ© du
+> mort. Quand tu Ã©tais mort dans tes pÃ©chÃ©s et dans l'incirconcision de
+> ta chair, Dieu t'a fait vivre avec Christ. Il nous a pardonnÃ© tous nos
+> pÃ©chÃ©s, ayant annulÃ© la charge de notre dette lÃ©gale, qui
+> s'est dressÃ© contre nous et nous a condamnÃ©s; il l'a emportÃ©, le clouant Ã 
 > la croix. **Col 2:10-14**
 
-Notre conscience peut nous condamner même si nous savons que Dieu ne le fait pas. Les
-le diable est "l'accusateur des frères" (Ap 12:10). Paul nous met en garde
-se prémunir contre les flèches enflammées du malin en portant le plastron
+Notre conscience peut nous condamner mÃªme si nous savons que Dieu ne le fait pas. Les
+le diable est "l'accusateur des frÃ¨res" (Ap 12:10). Paul nous met en garde
+se prÃ©munir contre les flÃ¨ches enflammÃ©es du malin en portant le plastron
 de justice (Eph 6:14). Quelle justice pensez-vous que nous portons ?
 Les notres? Non! C'est la justice de Christ que nous portons. Le diable nous veut
-être conscient du péché; Dieu veut que nous soyons conscients du Christ :
+Ãªtre conscient du pÃ©chÃ©; Dieu veut que nous soyons conscients du Christ :
 
-> Depuis que tu as été ressuscité avec le Christ, mets ton cœur sur
-> les choses d'en haut, là où est Christ, assis à la droite de Dieu. Régler
-> vos pensées sur les choses d'en haut, pas sur les choses terrestres. Car tu es mort, et
-> votre vie est maintenant cachée avec Christ en Dieu. Quand le Christ, qui est votre
-> vie, apparaît, alors toi aussi tu apparaîtras avec lui dans la gloire. **Col
+> Depuis que tu as Ã©tÃ© ressuscitÃ© avec le Christ, mets ton cÅ“ur sur
+> les choses d'en haut, lÃ  oÃ¹ est Christ, assis Ã  la droite de Dieu. RÃ©gler
+> vos pensÃ©es sur les choses d'en haut, pas sur les choses terrestres. Car tu es mort, et
+> votre vie est maintenant cachÃ©e avec Christ en Dieu. Quand le Christ, qui est votre
+> vie, apparaÃ®t, alors toi aussi tu apparaÃ®tras avec lui dans la gloire. **Col
 > 3:1-4**
 
-Vous sentez-vous propre enduit de téflon ? Propre tout le temps ? Que ton péché et
-les défauts ne vous rendent pas et ne peuvent pas vous salir ou vous rendre coupable
-conscience? Que vous n'avez pas besoin de confesser vos péchés à Dieu pour
-approcher de lui avec joie et confiance ? C'est l'œuvre du Saint
-l'Esprit et notre responsabilité de disciples de nous convaincre de
-ces grandes vérités bibliques.
+Vous sentez-vous propre enduit de tÃ©flon ? Propre tout le temps ? Que ton pÃ©chÃ© et
+les dÃ©fauts ne vous rendent pas et ne peuvent pas vous salir ou vous rendre coupable
+conscience? Que vous n'avez pas besoin de confesser vos pÃ©chÃ©s Ã  Dieu pour
+approcher de lui avec joie et confiance ? C'est l'Å“uvre du Saint
+l'Esprit et notre responsabilitÃ© de disciples de nous convaincre de
+ces grandes vÃ©ritÃ©s bibliques.
 
-Nous devons savoir que nos péchés sont pardonnés comme un don gratuit, sans rien
+Nous devons savoir que nos pÃ©chÃ©s sont pardonnÃ©s comme un don gratuit, sans rien
 tout pour que nous y contribuions. Mais pour que nous ayons la conscience pure
-nous avons aussi besoin de savoir que Christ est notre justice. Notre identité est
+nous avons aussi besoin de savoir que Christ est notre justice. Notre identitÃ© est
 Christ, pas mucky moi. Ma conscience est sa conscience, ma confiance est
-sa confiance, ma justice est sa justice. Nous avons besoin de savoirNous n'avons pas besoin de confesser nos péchés et de demander pardon si nous sommes
-né de nouveau. Si le Saint-Esprit vit en nous, il change nos cœurs ainsi
-que nous ne voulons pas pécher. Mais si nous le faisons, "nous avons un avocat..." John
-nous dit que lorsque nous appartenons à Dieu et croyons en sa vérité, nos cœurs
+sa confiance, ma justice est sa justice. Nous avons besoin de savoirNous n'avons pas besoin de confesser nos pÃ©chÃ©s et de demander pardon si nous sommes
+nÃ© de nouveau. Si le Saint-Esprit vit en nous, il change nos cÅ“urs ainsi
+que nous ne voulons pas pÃ©cher. Mais si nous le faisons, "nous avons un avocat..." John
+nous dit que lorsque nous appartenons Ã  Dieu et croyons en sa vÃ©ritÃ©, nos cÅ“urs
 sera au repos et ne souffrira pas de condamnation :
 
-> C'est ainsi que nous savons que nous appartenons à la vérité et que nous fixons notre
-> cœurs tranquilles en sa présence : si nos cœurs nous condamnent, nous savons que
-> Dieu est plus grand que nos cœurs, et il sait tout. Chers amis,
-> si notre cœur ne nous condamne pas, nous avons confiance devant Dieu et
+> C'est ainsi que nous savons que nous appartenons Ã  la vÃ©ritÃ© et que nous fixons notre
+> cÅ“urs tranquilles en sa prÃ©sence : si nos cÅ“urs nous condamnent, nous savons que
+> Dieu est plus grand que nos cÅ“urs, et il sait tout. Chers amis,
+> si notre cÅ“ur ne nous condamne pas, nous avons confiance devant Dieu et
 > recevoir de lui tout ce que nous demandons, parce que nous gardons ses commandements et faisons
-> ce qui lui plaît. Et c'est son commandement : croire au nom de
-> son Fils, Jésus-Christ, et de nous aimer les uns les autres comme il nous l'a commandé. Les
+> ce qui lui plaÃ®t. Et c'est son commandement : croire au nom de
+> son Fils, JÃ©sus-Christ, et de nous aimer les uns les autres comme il nous l'a commandÃ©. Les
 > celui qui garde les commandements de Dieu vit en lui, et lui en eux. Et c'est
-> comment nous savons qu'il vit en nous : nous le savons par l'Esprit qu'il nous a donné.
+> comment nous savons qu'il vit en nous : nous le savons par l'Esprit qu'il nous a donnÃ©.
 > **1 Jean 3:19-24**
 
-Bien que nous nous repentions naturellement lorsque le Saint-Esprit nous révèle le péché,
-parfois nous nous endurcissons à notre péché et cela prend un peu plus drastique
-action du Seigneur pour nous confronter à notre folie :
+Bien que nous nous repentions naturellement lorsque le Saint-Esprit nous rÃ©vÃ¨le le pÃ©chÃ©,
+parfois nous nous endurcissons Ã  notre pÃ©chÃ© et cela prend un peu plus drastique
+action du Seigneur pour nous confronter Ã  notre folie :
 
 > C'est pour la discipline que vous endurez ; Dieu traite avec vous comme avec des fils ;
-> car quel fils y a-t-il que son père ne discipline pas ? \...Mais il
-> nous discipline pour notre bien, afin que nous puissions partager sa sainteté. ...
-> ensuite il donne le fruit paisible de la justice. ** Héb
+> car quel fils y a-t-il que son pÃ¨re ne discipline pas ? \...Mais il
+> nous discipline pour notre bien, afin que nous puissions partager sa saintetÃ©. ...
+> ensuite il donne le fruit paisible de la justice. ** HÃ©b
 > 12:7-11**
 >
-> 'Par conséquent, souviens-toi d'où tu es tombé, et repens-toi et fais le
-> actions que vous avez faites au début ; ou bien je viens vers toi et j'enlèverai
-> votre chandelier hors de sa place --- à moins que vous ne vous repentiez. **Tour. 2:5**
+> 'Par consÃ©quent, souviens-toi d'oÃ¹ tu es tombÃ©, et repens-toi et fais le
+> actions que vous avez faites au dÃ©butÂ ; ou bien je viens vers toi et j'enlÃ¨verai
+> votre chandelier hors de sa place --- Ã  moins que vous ne vous repentiez. **Tour. 2:5**
 
-La sainteté compte parce que nous nous sommes détournés des ténèbres pour la Lumière et
-nous voulons marcher dans la lumière et la vérité. Nous voulons profiter de la communion avec
-le Saint-Esprit et les uns avec les autres. Nous voudrons parler à Dieu de
-les domaines où nous manquons de la gloire de Dieu parce que nous voudrons Son
-aider à grandir davantage comme le Christ. Nous sommes susceptibles d'avouer notre court
-venues et le remercier pour sa grâce et son pardon.
+La saintetÃ© compte parce que nous nous sommes dÃ©tournÃ©s des tÃ©nÃ¨bres pour la LumiÃ¨re et
+nous voulons marcher dans la lumiÃ¨re et la vÃ©ritÃ©. Nous voulons profiter de la communion avec
+le Saint-Esprit et les uns avec les autres. Nous voudrons parler Ã  Dieu de
+les domaines oÃ¹ nous manquons de la gloire de Dieu parce que nous voudrons Son
+aider Ã  grandir davantage comme le Christ. Nous sommes susceptibles d'avouer notre court
+venues et le remercier pour sa grÃ¢ce et son pardon.
 
-Le problème de voir le repentir comme une exigence quotidienne pour traiter
-avec des actes pécheurs est qu'il nous encourage à voir notre relation avec
-Dieu comme étant basé sur la performance. Il nourrit l'incrédulité, l'autosatisfaction
-et tend à nous comparer aux autres :
+Le problÃ¨me de voir le repentir comme une exigence quotidienne pour traiter
+avec des actes pÃ©cheurs est qu'il nous encourage Ã  voir notre relation avec
+Dieu comme Ã©tant basÃ© sur la performance. Il nourrit l'incrÃ©dulitÃ©, l'autosatisfaction
+et tend Ã  nous comparer aux autres :
 
-> Vous, fous de Galates ! Qui vous a ensorcelé ? ... Êtes-vous si stupide?
-> Après avoir commencé par l'Esprit, essayez-vous maintenant de terminer
-> par la chair ? ... Abraham " crut en Dieu, et il fut crédité
-> à lui comme à justice." Comprenez donc que ceux qui ont la foi
+> Vous, fous de Galates ! Qui vous a ensorcelÃ© ? ... ÃŠtes-vous si stupide?
+> AprÃ¨s avoir commencÃ© par l'Esprit, essayez-vous maintenant de terminer
+> par la chair ? ... Abraham " crut en Dieu, et il fut crÃ©ditÃ©
+> Ã  lui comme Ã  justice." Comprenez donc que ceux qui ont la foi
 > sont des enfants d'Abraham. **Gal 3:1**
 
-La conscience du péché étouffe notre croissance. Cela entrave notre communion avec
-Dieu. Cela nous laisse une conscience entachée qui nous fait nous sentir sales
+La conscience du pÃ©chÃ© Ã©touffe notre croissance. Cela entrave notre communion avec
+Dieu. Cela nous laisse une conscience entachÃ©e qui nous fait nous sentir sales
 et incapable d'approcher Dieu avec confiance. La vantardise du Nouveau
 Alliance sur l'Ancien, c'est qu'elle nous donne une bonne conscience (au moins
-ça devrait le faire!):
+Ã§a devrait le faire!):
 
-> Les sacrifices de l'Ancienne Alliance n'ont pas pu éclaircir la conscience des
+> Les sacrifices de l'Ancienne Alliance n'ont pas pu Ã©claircir la conscience des
 > l'adorateur... Combien plus, alors, le sang du Christ...
-> purifier nos consciences des œuvres mortes afin que nous puissions servir le
-> Dieu vivant ! ... Approchons-nous de Dieu avec un cœur sincère et avec
-> la pleine assurance que la foi apporte, ayant nos cœurs aspergés de
+> purifier nos consciences des Å“uvres mortes afin que nous puissions servir le
+> Dieu vivant ! ... Approchons-nous de Dieu avec un cÅ“ur sincÃ¨re et avec
+> la pleine assurance que la foi apporte, ayant nos cÅ“urs aspergÃ©s de
 > purifie-nous d'une mauvaise conscience et lave notre corps avec
-> eau pure. **Hé 9:9, 14, 10:22**
+> eau pure. **HÃ© 9:9, 14, 10:22**
 
-## Le pardon de la fraternité
+## Le pardon de la fraternitÃ©
 
 Il y a une place pour le repentir, la confession et la demande de pardon :
 dans nos relations les uns avec les autres :
 
-> "pardonne nos péchés comme nous pardonnons aux autres..." **Matt 6:12**
+> "pardonne nos pÃ©chÃ©s comme nous pardonnons aux autres..." **Matt 6:12**
 >
-> \"Par conséquent, confessez vos péchés les uns aux autres et priez pour l'un
-> un autre, afin que tu sois guéri.\" **Jacques 5:16**
+> \"Par consÃ©quent, confessez vos pÃ©chÃ©s les uns aux autres et priez pour l'un
+> un autre, afin que tu sois guÃ©ri.\" **Jacques 5:16**
 
-Le péché crée des barrières et des difficultés entre les croyants :
+Le pÃ©chÃ© crÃ©e des barriÃ¨res et des difficultÃ©s entre les croyants :
 
-> Mais si nous marchons dans la lumière comme Lui est dans la lumière, nous avons la communion
-> les uns avec les autres, et le sang de Jésus-Christ son Fils nous purifie>
-> "D'ailleurs si ton frère pèche contre toi, va lui dire sa faute
-> entre vous et lui seul. S'il vous entend, vous avez gagné votre
-> frère. **Mat 18:15**
+> Mais si nous marchons dans la lumiÃ¨re comme Lui est dans la lumiÃ¨re, nous avons la communion
+> les uns avec les autres, et le sang de JÃ©sus-Christ son Fils nous purifie>
+> "D'ailleurs si ton frÃ¨re pÃ¨che contre toi, va lui dire sa faute
+> entre vous et lui seul. S'il vous entend, vous avez gagnÃ© votre
+> frÃ¨re. **Mat 18:15**
 
-Si nous sommes passés du royaume des ténèbres au royaume de la lumière,
-nous voudrons marcher ensemble dans la lumière et la vérité. nous voudrons
-pour traiter tous les problèmes de relation qui surviennent entre nous et nous
-être miséricordieux et miséricordieux en réponse à la grâce et à la miséricorde que nous avons
-reçu de Jésus.
+Si nous sommes passÃ©s du royaume des tÃ©nÃ¨bres au royaume de la lumiÃ¨re,
+nous voudrons marcher ensemble dans la lumiÃ¨re et la vÃ©ritÃ©. nous voudrons
+pour traiter tous les problÃ¨mes de relation qui surviennent entre nous et nous
+Ãªtre misÃ©ricordieux et misÃ©ricordieux en rÃ©ponse Ã  la grÃ¢ce et Ã  la misÃ©ricorde que nous avons
+reÃ§u de JÃ©sus.
 
 > Soyez gentils et compatissants les uns envers les autres, en vous pardonnant les uns les autres, juste
-> comme en Christ Dieu vous a pardonné. **Éph 4:32**
+> comme en Christ Dieu vous a pardonnÃ©. **Ã‰ph 4:32**
 >
-> C'est pourquoi, en tant que peuple élu de Dieu, saint et bien-aimé, revêtez-vous
-> vous-mêmes avec compassion, gentillesse, humilité, douceur et
+> C'est pourquoi, en tant que peuple Ã©lu de Dieu, saint et bien-aimÃ©, revÃªtez-vous
+> vous-mÃªmes avec compassion, gentillesse, humilitÃ©, douceur et
 > patience. Supportez-vous les uns les autres et pardonnez-vous les uns aux autres si l'un de vous
-> a un grief contre quelqu'un. Pardonnez comme le Seigneur vous a pardonné.
+> a un grief contre quelqu'un. Pardonnez comme le Seigneur vous a pardonnÃ©.
 > **Col 3:12-13**
 
 ## Discipulat
 
-Être disciple, c'est croire en Dieu, faire confiance à ses promesses et vivre
-la vie de foi confiante à laquelle il nous appelle. Pour que nous puissions le faire, nous
-besoin d'être beaucoup plus conscient de Christ en nous que du péché en nous. Constant
-les rappels de notre péché ne font rien pour nous aider à avancer dans la puissance du Saint
+ÃŠtre disciple, c'est croire en Dieu, faire confiance Ã  ses promesses et vivre
+la vie de foi confiante Ã  laquelle il nous appelle. Pour que nous puissions le faire, nous
+besoin d'Ãªtre beaucoup plus conscient de Christ en nous que du pÃ©chÃ© en nous. Constant
+les rappels de notre pÃ©chÃ© ne font rien pour nous aider Ã  avancer dans la puissance du Saint
 Esprit.
 
-Examinez les Écritures citées dans cette étude et demandez-vous « Qu'est-ce que
+Examinez les Ã‰critures citÃ©es dans cette Ã©tude et demandez-vous Â«Â Qu'est-ce que
 l'Esprit essayant de me convaincre ?
 
-Nous devons fixer nos yeux sur Jésus, sa justice, sa demeure
-présence, sa faveur, ses promesses :
+Nous devons fixer nos yeux sur JÃ©sus, sa justice, sa demeure
+prÃ©sence, sa faveur, ses promesses :
 
 > Je prie pour que de ses richesses glorieuses il vous fortifie avec
-> puissance par son Esprit dans votre être intérieur, afin que le Christ habite
-> dans vos cœurs par la foi. Et je prie pour que toi, étant enraciné et
-> établi dans l'amour, peut avoir le pouvoir, avec tous les saints du Seigneur
+> puissance par son Esprit dans votre Ãªtre intÃ©rieur, afin que le Christ habite
+> dans vos cÅ“urs par la foi. Et je prie pour que toi, Ã©tant enracinÃ© et
+> Ã©tabli dans l'amour, peut avoir le pouvoir, avec tous les saints du Seigneur
 > les gens, pour saisir combien large et long et haut et profond est l'amour de
-> Christ, et connaître cet amour qui surpasse toute connaissance --- afin que vous puissiez
-> être rempli à la mesure de toute la plénitude de Dieu. Maintenant à celui qui est
+> Christ, et connaÃ®tre cet amour qui surpasse toute connaissance --- afin que vous puissiez
+> Ãªtre rempli Ã  la mesure de toute la plÃ©nitude de Dieu. Maintenant Ã  celui qui est
 > capable de faire infiniment plus que tout ce que nous demandons ou imaginons, selon
-> sa puissance qui agit en nous, à lui soit gloire dans l'église et
-> en Jésus-Christ à travers toutes les générations, aux siècles des siècles ! Amen.
-> **Éph 3:16-21**
+> sa puissance qui agit en nous, Ã  lui soit gloire dans l'Ã©glise et
+> en JÃ©sus-Christ Ã  travers toutes les gÃ©nÃ©rations, aux siÃ¨cles des siÃ¨cles ! Amen.
+> **Ã‰ph 3:16-21**
 
-## Si nous confessons nos péchés\...
+## Si nous confessons nos pÃ©chÃ©s\...
 
-L'utilisation par Jean du mot \"nous\" dans \"Si nous confessons nos péchés\...\"(1 Jean
-1v9) a conduit beaucoup à penser que Jean dit que les chrétiens devraient
-confesser leurs péchés. Mais si nous suivons l'argument de John jusqu'au bout, et
+L'utilisation par Jean du mot \"nous\" dans \"Si nous confessons nos pÃ©chÃ©s\...\"(1 Jean
+1v9) a conduit beaucoup Ã  penser que Jean dit que les chrÃ©tiens devraient
+confesser leurs pÃ©chÃ©s. Mais si nous suivons l'argument de John jusqu'au bout, et
 remarquez comment il utilise \"nous\" alors nous pouvons voir qu'il doit parler
-incroyants venant à la foi.
+incroyants venant Ã  la foi.
 
-A partir des vv1-5, Jean signifie clairement lui-même et ses confrères apôtres lorsqu'il
-utilise \"nous\". Mais en v6 il écrit :
+A partir des vv1-5, Jean signifie clairement lui-mÃªme et ses confrÃ¨res apÃ´tres lorsqu'il
+utilise \"nous\". Mais en v6 il Ã©crit :
 
-> \"Si nous prétendons être en communion avec lui et pourtant marcher dans le
-> ténèbres, nous mentons et ne vivons pas la vérité.\"
+> \"Si nous prÃ©tendons Ãªtre en communion avec lui et pourtant marcher dans le
+> tÃ©nÃ¨bres, nous mentons et ne vivons pas la vÃ©ritÃ©.\"
 
-Ici, John ne peut absolument pas se dire lui-même lorsqu'il écrit \"nous\". Il
+Ici, John ne peut absolument pas se dire lui-mÃªme lorsqu'il Ã©crit \"nous\". Il
 utilise \"nous\" pour s'imaginer dans la peau d'un incroyant. En v7
-il continue de s'imaginer comme cet incroyant venant à la lumière
+il continue de s'imaginer comme cet incroyant venant Ã  la lumiÃ¨re
 de l'Evangile :
 
-> \"Mais si nous marchons dans la lumière, comme il est dans la lumière, nous avons
-> communion les uns avec les autres, et le sang de Jésus, son Fils, purifie
-> nous de tout péché.\"
+> \"Mais si nous marchons dans la lumiÃ¨re, comme il est dans la lumiÃ¨re, nous avons
+> communion les uns avec les autres, et le sang de JÃ©sus, son Fils, purifie
+> nous de tout pÃ©chÃ©.\"
 
-En v8 et v10, il est à nouveau clair qu'il utilise \"nous\" pour imaginer un
-incroyant, mais cette fois celui qui rejette la lumière :
+En v8 et v10, il est Ã  nouveau clair qu'il utilise \"nous\" pour imaginer un
+incroyant, mais cette fois celui qui rejette la lumiÃ¨re :
 
-> \"Si nous prétendons être sans péché, nous nous trompons et la vérité est
-> pas en nous.\" \... \"Si nous prétendons que nous n'avons pas péché, nous le faisons
+> \"Si nous prÃ©tendons Ãªtre sans pÃ©chÃ©, nous nous trompons et la vÃ©ritÃ© est
+> pas en nous.\" \... \"Si nous prÃ©tendons que nous n'avons pas pÃ©chÃ©, nous le faisons
 > sois un menteur et sa parole n'est pas en nous.\"
 
-Cela nous laisse donc avec le \"nous\" dans la v9 :
+Cela nous laisse donc avec le \"nous\" dans la v9Â :
 
-> \"Si nous confessons nos péchés, il est fidèle et juste et nous pardonnera
-> nos péchés et purifie-nous de toute injustice.\"
+> \"Si nous confessons nos pÃ©chÃ©s, il est fidÃ¨le et juste et nous pardonnera
+> nos pÃ©chÃ©s et purifie-nous de toute injustice.\"
 
-Qui est John par \"nous\" ? Eh bien, dans le précédent et le suivant
-phrases, il désigne clairement un incroyant qui a rencontré l'Evangile
-de Lumière -- celui qui accepte ou rejette le message. ça ne fait pas
-tout à fait sensé pour John de parler soudainement des chrétiens à cette
-point. Il s'agit bien évidemment des mêmes personnes qu'il a en tête depuis la v6 :
-incroyants rencontrant l'Evangile qui soit rejettent l'idée qu'ilset tournez-vous vers Lui pour le pardon salvateur. La V9 concerne ce qui se passe lorsqu'un
-l'incroyant sort des ténèbres dans la lumière. Le chapitre 2 concerne
-vivre en croyant. Là, la réponse à notre péché permanent est la
-défense éternelle et suffisance de Jésus - voir en particulier 2:1-2 et
+Qui est John par \"nous\"Â ? Eh bien, dans le prÃ©cÃ©dent et le suivant
+phrases, il dÃ©signe clairement un incroyant qui a rencontrÃ© l'Evangile
+de LumiÃ¨re -- celui qui accepte ou rejette le message. Ã§a ne fait pas
+tout Ã  fait sensÃ© pour John de parler soudainement des chrÃ©tiens Ã  cette
+point. Il s'agit bien Ã©videmment des mÃªmes personnes qu'il a en tÃªte depuis la v6 :
+incroyants rencontrant l'Evangile qui soit rejettent l'idÃ©e qu'ilset tournez-vous vers Lui pour le pardon salvateur. La V9 concerne ce qui se passe lorsqu'un
+l'incroyant sort des tÃ©nÃ¨bres dans la lumiÃ¨re. Le chapitre 2 concerne
+vivre en croyant. LÃ , la rÃ©ponse Ã  notre pÃ©chÃ© permanent est la
+dÃ©fense Ã©ternelle et suffisance de JÃ©sus - voir en particulier 2:1-2 et
 2:12.
 
 Donc, en conclusion, ce fameux passage de la lettre de Jean n'est PAS un
-instruction aux croyants de continuer à confesser leur péché, mais un
-instruction aux incroyants venant à la foi. Dieu ne veut pas que nous gardions
-souvenir de notre péché. Il l'a pardonné. Il veut que nous nous souvenions et
-célébrer le Christ qui est notre justice -- \"Concentrez-vous sur les choses
+instruction aux croyants de continuer Ã  confesser leur pÃ©chÃ©, mais un
+instruction aux incroyants venant Ã  la foi. Dieu ne veut pas que nous gardions
+souvenir de notre pÃ©chÃ©. Il l'a pardonnÃ©. Il veut que nous nous souvenions et
+cÃ©lÃ©brer le Christ qui est notre justice -- \"Concentrez-vous sur les choses
 ci-dessus, pas sur les choses ci-dessous\" Colossiens 3:1-3.
