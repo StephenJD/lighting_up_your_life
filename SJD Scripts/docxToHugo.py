@@ -124,7 +124,7 @@ def createMDtranslation(sourceFile, destPath, name, language):
             if line.startswith('title: '):               
               englishTitle = line[7:]
               translated = GoogleTranslator(source='en', target=language).translate(text=englishTitle)
-              line = line[:7] + translated
+              line = line[:7] + translated + '\n'
               translationBlock += line
             else:
               if blockLength > 5 and line == '---\n' :
