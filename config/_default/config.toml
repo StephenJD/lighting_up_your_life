@@ -35,20 +35,20 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [languages]
 	[languages.en]
-		languageName = English
+		languageName = "English"
 		title = "Life For Liberia"
 		weight = 1
-		contentDir: content/english
+		contentDir = "content/english"
 	[languages.fr]
-		languageName = French
+		languageName = "French"
 		title = "Life For Liberia"
 		weight = 2
-		contentDir: content/french
+		contentDir = "content/french"
 	[languages.es]
-		languageName = Spanish
+		languageName = "Spanish"
 		title = "Life For Liberia"
 		weight = 3
-		contentDir: content/spanish
+		contentDir = "content/spanish"
 		
 [permalinks]
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
@@ -121,5 +121,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [module]
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
-  [[module.imports]]	
-	path = "gitlab.pagedmedia.org/julientaq/pagedjs-hugo.git"
+  #[[module.imports]]	
+	#path = "gitlab.pagedmedia.org/julientaq/pagedjs-hugo.git"
