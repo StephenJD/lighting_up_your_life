@@ -90,6 +90,7 @@ def createHeader (englishTitle, type, language):
   contents += "\ngeometry: margin=2cm"
   contents += "\npapersize: a4"
   contents += "\noutput: pdf_document"
+  contents += "\npdf_document: null"
   contents += "\ntranslationKey: " + englishTitle  
   contents += "\ntitle: " + translated  
   contents += "\n---\n"
@@ -100,7 +101,7 @@ def createPDF(sourcePath, destPath, name):
   if fileNeedsUpdating(sourcePath, file):
     #tempName = sourcePath.replace('c:\\Hugo\\Temp.md')  
     tempPDF = Path('c:\\Hugo\\Temp.pdf')
-    fromMD_Parms = ("-f", "markdown", sourcePath,"-t", "pdf", "-o", tempPDF, "--pdf-engine=xelatex" , "--toc")
+    fromMD_Parms = ("-f", "markdown", sourcePath,"-t", "pdf", "-o", tempPDF, "--pdf-engine=xelatex" , "--toc", "-V geometry:margin=2cm")
     fromDocxParms = ("-f", sourcePath, "-O", file, "-T", "wdFormatPDF", "-OX", ".pdf")
     print("Created:", file)
     #subprocess.run([docxToPdfCmd, *fromDocxParms], shell=False)
