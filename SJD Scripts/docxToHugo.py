@@ -86,13 +86,13 @@ def createHeader (englishTitle, type, language):
   else:
     translated = englishTitle
   contents = "---"
+  contents += "\ntitle: " + translated  
   contents += "\ntype: " + type
+  contents += "\ntranslationKey: " + englishTitle  
   contents += "\ngeometry: margin=2cm"
   contents += "\ngeometry: a4paper"
-  contents += "\noutput: pdf_document"
-  contents += "\npdf_document: null"
-  contents += "\ntranslationKey: " + englishTitle  
-  contents += "\ntitle: " + translated  
+  #contents += "\noutput: pdf_document"
+  #contents += "\npdf_document: null"
   contents += "\n---\n"
   return contents
 
@@ -121,25 +121,28 @@ def createMDtranslation(sourceFile, destPath, name, language):
         for line in original:
           lineLen = len(line)
           if not headerCompleted:
-            if line.startswith('title: '):
-              headerCompleted = True               
+            if line.startswith('title: '):               
               englishTitle = line[7:]
               translated = GoogleTranslator(source='en', target=language).translate(text=englishTitle)
               line = line[:7] + translated
               translationBlock += line
-              translation.write(translationBlock)
-              translationBlock = ''
             else:
+              if blockLength > 5 and line == '---\n' :
+                headerCompleted = True
+                translation.write(translationBlock)
+                translationBlock = ''
+                blockLength = 0
               translationBlock += line
+              blockLength += lineLen
           elif blockLength + lineLen < 4000:
             translationBlock += line
             blockLength += lineLen
           else:
             translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
             print(translated[:10])
+            translation.write(translated)
             translationBlock = ''
             blockLength = 0;
-            translation.write(translated)
         translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
         translation.write(translated)
         translation.close()
@@ -167,23 +170,21 @@ def checkForUpdatedFiles():
     if mdFile:
       header = createHeader(docName, 'document', 'en')    
       prependToFile(mdFile, header)
-
+    englishMDfile = englishMDpath / (docName + '.md')
     
     # Create English .pdf files
-    englishPDFpath = englishPDFfolder / docFolder
-    haveMadeNewFolder(englishPDFpath)
-    #createPDF(sourceDoc, englishPDFpath, docName)
-    englishMDfile = englishMDpath / (docName + '.md')
-    createPDF(englishMDfile, englishPDFpath, docName)
+    #englishPDFpath = englishPDFfolder / docFolder
+    #haveMadeNewFolder(englishPDFpath)
+    #createPDF(englishMDfile, englishPDFpath, docName)
 
     frenchMDpath = frenchMDfolder / docFolder
     createMDfolder(frenchMDpath, 'fr')
     createMDtranslation(englishMDfile, frenchMDpath, docName,'fr')
     # Create French .pdf files
-    frenchPDFpath = frenchPDFfolder / docFolder
-    frenchMDfile = frenchMDpath / (docName + '.md')
-    haveMadeNewFolder(frenchPDFpath)
-    createPDF(frenchMDfile, frenchPDFpath, docName) 
+    #frenchPDFpath = frenchPDFfolder / docFolder
+    #frenchMDfile = frenchMDpath / (docName + '.md')
+    #haveMadeNewFolder(frenchPDFpath)
+    #createPDF(frenchMDfile, frenchPDFpath, docName) 
 
   updateWebsite()
 

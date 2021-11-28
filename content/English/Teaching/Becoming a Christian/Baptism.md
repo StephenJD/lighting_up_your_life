@@ -1,7 +1,9 @@
 ---
+title: Baptism
 type: document
 translationKey: Baptism
-title: Baptism
+geometry: margin=2cm
+geometry: a4paper
 ---
 # Baptism
 

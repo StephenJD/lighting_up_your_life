@@ -1,7 +1,9 @@
 ---
-type: document
+title: Baptêmetype: document
 translationKey: Baptism
-title: Baptême---
+geometry: margin=2cm
+geometry: a4paper
+---
 # Baptême
 
 ## Introduction
