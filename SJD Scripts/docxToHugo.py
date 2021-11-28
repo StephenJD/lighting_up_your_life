@@ -87,8 +87,9 @@ def createHeader (englishTitle, type, language):
     translated = englishTitle
   contents = "---"
   contents += "\ntype: " + type
-  contents += "geometry: margin=2cm"
-  contents += "papersize: a4"
+  contents += "\ngeometry: margin=2cm"
+  contents += "\npapersize: a4"
+  contents += "\noutput: pdf_document"
   contents += "\ntranslationKey: " + englishTitle  
   contents += "\ntitle: " + translated  
   contents += "\n---\n"
