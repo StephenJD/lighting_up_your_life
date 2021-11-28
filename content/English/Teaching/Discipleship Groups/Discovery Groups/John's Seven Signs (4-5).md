@@ -1,7 +1,7 @@
 ---
-title: John's Seven Signs (4-5)
-translationKey: John's Seven Signs (4-5)
 type: document
+translationKey: John's Seven Signs (4-5)
+title: John's Seven Signs (4-5)
 ---
 **^23 ^**Other boats, which were from Tiberias, came to shore near the
 place where the crowd had eaten the bread after the Lord had given

@@ -1,7 +1,7 @@
 ---
-title: Baptism
-translationKey: Baptism
 type: document
+translationKey: Baptism
+title: Baptism
 ---
 # Baptism
 

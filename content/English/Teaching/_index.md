@@ -1,4 +1,5 @@
 ---
-title: Teaching
 type: document-folder
+translationKey: Teaching
+title: Teaching
 ---

@@ -1,7 +1,7 @@
 ---
-title: John's Seven Signs (7)
-translationKey: John's Seven Signs (7)
 type: document
+translationKey: John's Seven Signs (7)
+title: John's Seven Signs (7)
 ---
 **^37 ^**But some of them said, "He gave sight to the blind man, didn\'t
 he? Could he not have kept Lazarus from dying?"

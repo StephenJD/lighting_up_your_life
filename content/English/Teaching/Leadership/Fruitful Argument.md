@@ -1,7 +1,7 @@
 ---
-title: Fruitful Argument
-translationKey: Fruitful Argument
 type: document
+translationKey: Fruitful Argument
+title: Fruitful Argument
 ---
 ## Fermenting a good vintage
 

@@ -1,7 +1,7 @@
 ---
-title: John's Seven Signs
-translationKey: John's Seven Signs
 type: document
+translationKey: John's Seven Signs
+title: John's Seven Signs
 ---
 Read one story every day for 1 wk.
 

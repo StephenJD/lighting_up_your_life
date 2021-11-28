@@ -1,7 +1,7 @@
 ---
-title: Our Vision for Simple Church
-translationKey: Our Vision for Simple Church
 type: document
+translationKey: Our Vision for Simple Church
+title: Our Vision for Simple Church
 ---
 # Our Vision for Simple Church
 

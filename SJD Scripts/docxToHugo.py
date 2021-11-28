@@ -1,6 +1,7 @@
 from pathlib import Path
 from datetime import datetime
 import subprocess
+from deep_translator import GoogleTranslator
 
 sourceRootPath = r"C:\Users\Stephen\Documents\Church_Published"
 webRootPath = Path.cwd().parent
@@ -16,7 +17,8 @@ docxToPdfCmd = r"C:\Hugo\docto105\docto"
 
 englishMDfolder = webRootPath / mdRootFolder /languages[0]
 englishPDFfolder = webRootPath / pdfRootFolder / languages[0]
-
+frenchMDfolder = webRootPath / mdRootFolder /languages[1]
+frenchPDFfolder = webRootPath / pdfRootFolder / languages[1]
 sourceRootStart = len(sourceRootPath)
 
 def haveMadeNewFolder(folder) :
@@ -25,7 +27,7 @@ def haveMadeNewFolder(folder) :
     return True
   return False
 
-def haveCreatedNewMDindex(mdDestinationPath):
+def haveCreatedNewMDindex(mdDestinationPath, language):
   DirectoryName = mdDestinationPath.name
   if DirectoryName == "content" :
     needsIndex = False
@@ -33,15 +35,15 @@ def haveCreatedNewMDindex(mdDestinationPath):
     filePath = mdDestinationPath / "_index.md"
     needsIndex = not filePath.exists()
     if needsIndex:
-      with filePath.open('w') as writeFile:
-        title = "title: " + DirectoryName
-        writeFile.write("---\n" + title + "\ntype: document-folder\n---\n")
+      with filePath.open('w', encoding="utf-8") as writeFile:
+        header = createHeader(DirectoryName, 'document-folder', language)  
+        writeFile.write(header)
   return needsIndex
 
-def createMDfolder(mdDestinationPath) :
+def createMDfolder(mdDestinationPath, language) :
   if haveMadeNewFolder(mdDestinationPath):
     outerFolder = mdDestinationPath
-    while haveCreatedNewMDindex(outerFolder):
+    while haveCreatedNewMDindex(outerFolder, language):
       outerFolder = outerFolder.parent
 
 def fileNeedsUpdating(sourceFile, convertedFile):
@@ -67,9 +69,9 @@ def createMDfile(sourcePath, destPath, name):
   return file
 
 def prependToFile(originalfile, string):
-    with originalfile.open('r') as original:
+    with originalfile.open('r', encoding="utf-8") as original:
       tempFile = originalfile.parent / 'tempFile.txt'
-      with tempFile.open('w') as temp: 
+      with tempFile.open('w', encoding="utf-8") as temp: 
         temp.write(string)
         for line in original:
           temp.write(line)
@@ -78,12 +80,17 @@ def prependToFile(originalfile, string):
       temp.close()
       tempFile.rename(originalfile)
 
-def insertHeader (docPath, docName, englishTitle):
-  contents = "---\ntitle: " + docName
-  contents += "\ntranslationKey: " + englishTitle
-  contents += "\ntype: document"
+def createHeader (englishTitle, type, language):
+  if language != 'en':
+    translated = GoogleTranslator(source='en', target=language).translate(text=englishTitle)
+  else:
+    translated = englishTitle
+  contents = "---"
+  contents += "\ntype: " + type
+  contents += "\ntranslationKey: " + englishTitle  
+  contents += "\ntitle: " + translated  
   contents += "\n---\n"
-  prependToFile(docPath, contents)
+  return contents
 
 def createPDF(sourcePath, destPath, name):
   file = destPath / (name + ".pdf")
@@ -92,11 +99,41 @@ def createPDF(sourcePath, destPath, name):
     print("Created:", name + ".pdf")
     subprocess.run([docxToPdfCmd, *parms], shell=False)
 
-def createMDtranslation(sourcePath, destPath, name):
-  file = destPath / name + ".pdf"
-  if fileNeedsUpdating(sourcePath, file):
-    parms = ("-f", sourcePath, "-O", file, "-T", "wdFormatPDF", "-OX", ".pdf")
-    #print("Created:", name + ".pdf")
+def createMDtranslation(sourceFile, destPath, name, language):
+  destFile = destPath / (name + '.md')
+  if fileNeedsUpdating(sourceFile, destFile):
+    tempName = destFile.with_suffix('.temp')
+    with sourceFile.open('r', encoding="utf-8") as original:
+      with tempName.open('w', encoding="utf-8") as translation: 
+        translationBlock = ''
+        blockLength = 0;
+        headerCompleted = False;
+        for line in original:
+          lineLen = len(line)
+          if not headerCompleted:
+            if line.startswith('title: '):
+              headerCompleted = True               
+              englishTitle = line[7:]
+              translated = GoogleTranslator(source='en', target=language).translate(text=englishTitle)
+              line = line[:7] + translated
+              translationBlock += line
+              translation.write(translationBlock)
+              translationBlock = ''
+            else:
+              translationBlock += line
+          elif blockLength + lineLen < 4000:
+            translationBlock += line
+            blockLength += lineLen
+          else:
+            translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
+            print(translated[:10])
+            translationBlock = ''
+            blockLength = 0;
+            translation.write(translated)
+        translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
+        translation.write(translated)
+        translation.close()
+        tempName.rename(destFile)
 
 def updateWebsite():
   ParmsAdd = ("add", "..")
@@ -115,14 +152,22 @@ def checkForUpdatedFiles():
     docFolder = str(sourceDoc.parent)[sourceRootStart:].strip('\\')
     # Create English .md files
     englishMDpath = englishMDfolder / docFolder
-    createMDfolder(englishMDpath)
+    createMDfolder(englishMDpath, 'en')
     mdFile = createMDfile(sourceDoc, englishMDpath, docName)
-    if mdFile: insertHeader(mdFile, docName, docName)
+    if mdFile:
+      header = createHeader(docName, 'document', 'en')    
+      prependToFile(mdFile, header)
+
     
     # Create English .pdf files
     englishPDFpath = englishPDFfolder / docFolder
     haveMadeNewFolder(englishPDFpath)
-    createPDF(sourceDoc, englishPDFpath, docName)    
+    createPDF(sourceDoc, englishPDFpath, docName)
+
+    frenchMDpath = frenchMDfolder / docFolder
+    createMDfolder(frenchMDpath, 'fr')
+    sourceFile = englishMDpath / (docName + '.md')
+    createMDtranslation(sourceFile, frenchMDpath, docName,'fr')
 
   updateWebsite()
 

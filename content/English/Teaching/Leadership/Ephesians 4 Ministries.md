@@ -1,7 +1,7 @@
 ---
-title: Ephesians 4 Ministries
-translationKey: Ephesians 4 Ministries
 type: document
+translationKey: Ephesians 4 Ministries
+title: Ephesians 4 Ministries
 ---
 # Ephesians 4 Ministries
 

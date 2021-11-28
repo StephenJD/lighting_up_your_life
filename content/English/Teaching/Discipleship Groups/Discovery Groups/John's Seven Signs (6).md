@@ -1,7 +1,7 @@
 ---
-title: John's Seven Signs (6)
-translationKey: John's Seven Signs (6)
 type: document
+translationKey: John's Seven Signs (6)
+title: John's Seven Signs (6)
 ---
 **^31 ^**We know that God does not listen to sinners; he does listen to
 people who respect him and do what he wants them to do. **^32 ^**Since

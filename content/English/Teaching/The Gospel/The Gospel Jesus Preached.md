@@ -1,7 +1,7 @@
 ---
-title: The Gospel Jesus Preached
-translationKey: The Gospel Jesus Preached
 type: document
+translationKey: The Gospel Jesus Preached
+title: The Gospel Jesus Preached
 ---
 # The Gospel Jesus Preached
 

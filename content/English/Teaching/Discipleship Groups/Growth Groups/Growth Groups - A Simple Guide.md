@@ -1,7 +1,7 @@
 ---
-title: Growth Groups - A Simple Guide
-translationKey: Growth Groups - A Simple Guide
 type: document
+translationKey: Growth Groups - A Simple Guide
+title: Growth Groups - A Simple Guide
 ---
 ## Growth Groups - A Simple Guide
 

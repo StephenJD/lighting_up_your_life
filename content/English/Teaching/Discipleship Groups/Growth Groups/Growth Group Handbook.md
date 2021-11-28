@@ -1,7 +1,7 @@
 ---
-title: Growth Group Handbook
-translationKey: Growth Group Handbook
 type: document
+translationKey: Growth Group Handbook
+title: Growth Group Handbook
 ---
 # The Growth Group Handbook
 

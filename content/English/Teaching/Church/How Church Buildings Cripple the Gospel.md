@@ -1,7 +1,7 @@
 ---
-title: How Church Buildings Cripple the Gospel
-translationKey: How Church Buildings Cripple the Gospel
 type: document
+translationKey: How Church Buildings Cripple the Gospel
+title: How Church Buildings Cripple the Gospel
 ---
 # How Church Buildings Cripple the Gospel
 

@@ -1,7 +1,7 @@
 ---
-title: Breaking Bread - Part 1
-translationKey: Breaking Bread - Part 1
 type: document
+translationKey: Breaking Bread - Part 1
+title: Breaking Bread - Part 1
 ---
 # Breaking Bread -- Part 1 -- The New Passover Supper
 

@@ -1,7 +1,7 @@
 ---
-title: Discovery Groups
-translationKey: Discovery Groups
 type: document
+translationKey: Discovery Groups
+title: Discovery Groups
 ---
 # Discovery Groups
 

@@ -1,7 +1,7 @@
 ---
-title: Leadership _ Jesus Style
-translationKey: Leadership _ Jesus Style
 type: document
+translationKey: Leadership _ Jesus Style
+title: Leadership _ Jesus Style
 ---
 # Leadership -- Jesus Style
 

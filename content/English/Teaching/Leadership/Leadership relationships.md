@@ -1,7 +1,7 @@
 ---
-title: Leadership relationships
-translationKey: Leadership relationships
 type: document
+translationKey: Leadership relationships
+title: Leadership relationships
 ---
 # Leadership relationships 
 

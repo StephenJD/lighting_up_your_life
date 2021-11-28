@@ -1,7 +1,7 @@
 ---
-title: What should the church to look like
-translationKey: What should the church to look like
 type: document
+translationKey: What should the church to look like
+title: What should the church to look like
 ---
 # What should the church to look like?
 

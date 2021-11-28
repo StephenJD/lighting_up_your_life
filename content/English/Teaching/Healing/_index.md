@@ -1,4 +1,5 @@
 ---
-title: Healing
 type: document-folder
+translationKey: Healing
+title: Healing
 ---

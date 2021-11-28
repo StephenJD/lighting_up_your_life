@@ -1,7 +1,7 @@
 ---
-title: Developing Leadership Teams
-translationKey: Developing Leadership Teams
 type: document
+translationKey: Developing Leadership Teams
+title: Developing Leadership Teams
 ---
 # Developing Leadership Teams
 

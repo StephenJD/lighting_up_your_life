@@ -1,7 +1,7 @@
 ---
-title: The Gospel of the Kingdom
-translationKey: The Gospel of the Kingdom
 type: document
+translationKey: The Gospel of the Kingdom
+title: The Gospel of the Kingdom
 ---
 # The Gospel of the Kingdom
 

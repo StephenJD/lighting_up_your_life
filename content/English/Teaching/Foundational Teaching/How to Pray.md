@@ -1,7 +1,7 @@
 ---
-title: How to Pray
-translationKey: How to Pray
 type: document
+translationKey: How to Pray
+title: How to Pray
 ---
 # How to Pray
 

@@ -1,7 +1,7 @@
 ---
-title: Repentance and Righteousness
-translationKey: Repentance and Righteousness
 type: document
+translationKey: Repentance and Righteousness
+title: Repentance and Righteousness
 ---
 # Repentance and Righteousness Stephen Dolley, Dec 2018
 

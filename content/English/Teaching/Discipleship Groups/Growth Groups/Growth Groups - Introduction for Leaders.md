@@ -1,7 +1,7 @@
 ---
-title: Growth Groups - Introduction for Leaders
-translationKey: Growth Groups - Introduction for Leaders
 type: document
+translationKey: Growth Groups - Introduction for Leaders
+title: Growth Groups - Introduction for Leaders
 ---
 # Growth Groups - Introduction for Leaders
 
