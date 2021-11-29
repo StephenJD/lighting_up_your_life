@@ -37,13 +37,13 @@ title = "Making Disciples"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "Teaching/"
+  url = "teaching"
   label = "Teaching"
   icon_pack = "fas"
   icon = "book-reader"
   
 #[cta_alt]
-#  url = "Teaching/"
+#  url = "teaching"
 #  label = "Teaching"
 
 # Note. An optional note to show underneath the links.
