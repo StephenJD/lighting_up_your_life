@@ -36,13 +36,13 @@ title = "The Mission in Liberia"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "blog/"
+  url = "blog"
   label = "Blog"
   icon_pack = "fas"
   icon = "newspaper"
   
 #[cta_alt]
-#  url = "blog/"
+#  url = "blog"
 #  label = "Blog"
 
 # Note. An optional note to show underneath the links.

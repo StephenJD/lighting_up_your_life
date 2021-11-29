@@ -1,4 +1,4 @@
-+++
++++   
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -37,19 +37,19 @@ title = "Community Development"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "practical-projects/"
+  url = "practical-projects"
   label = "Practical Projects"
   icon_pack = "fas"
   icon = "people-carry"
   
 #[cta_alt]
-#  url = "practical-projects/"
+#  url = "practical-projects"
 #  label = "Practical Projects"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
-+++
++++   
 
 <!-- For [Academic Website Builder](https://sourcethemes.com/academic/).
 
