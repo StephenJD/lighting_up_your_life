@@ -10,18 +10,21 @@
   url = "teaching" # Must be all lower-case. The correct language folder will be used
   weight = 10
   
-#[[languages.en.menu.main]]	
-		  
+#[[languages.en.menu.main]]
 [[main]]
   name = "Practical Projects"
   url = "practical-projects"
   weight = 20 
   
-#[[languages.en.menu.main]]		
- 
+#[[languages.en.menu.main]]
+	
 [[main]]
   name = "Blog"
   url = "blog"
   weight = 30
   
 #[[languages.fr.menu]]
+#[languages.fr.menu.main]
+#name = "Fr-Teaching"
+#url = "teaching" # Must be all lower-case. The correct language folder will be used
+#weight = 10

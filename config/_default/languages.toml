@@ -14,9 +14,6 @@
 	contentDir = "content/fr"
 	title = "Life por Liberia"
 	weight = 2
-    [languages.fr.params]
-		description = "Fr-Resources for Disciplship"
-
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
