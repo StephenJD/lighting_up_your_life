@@ -9,12 +9,19 @@
 	contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 	title = "Life For Liberia"
 	weight = 1
+			
 [fr]
 	languageName = "French"
 	contentDir = "content/fr"
 	title = "Life por Liberia"
 	weight = 2
-
+	[fr.menu]
+		[[fr.menu.main]]
+			name = "Fr Teaching"
+		[[fr.menu.main]]
+			name = "Fr Practical Projects"
+		[[fr.menu.main]]
+			name = "Fr Blog"
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
