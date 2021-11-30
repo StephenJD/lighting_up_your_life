@@ -25,6 +25,7 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false # to get default language prefixed in the default home url
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+disableLanguages = ['es','de']
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 100  # Number of items per page in paginated lists.
@@ -33,22 +34,12 @@ enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
-[languages]
-	[languages.en]
-		languageName = "English"
-		title = "Life For Liberia"
-		weight = 1
-		contentDir = "content/en"
-	[languages.fr]
-		languageName = "French"
-		title = "Life For Liberia"
-		weight = 2
-		contentDir = "content/fr"
-	[languages.es]
-		languageName = "Spanish"
-		title = "Life For Liberia"
-		weight = 3
-		contentDir = "content/es"
+
+#	[languages.es]
+#		languageName = "Spanish"
+#		title = "Elife es Liberia"
+#		weight = 3
+#		contentDir = "content/es"
 		
 [permalinks]
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.

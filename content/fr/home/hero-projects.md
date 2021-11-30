@@ -38,7 +38,7 @@ title = "Community Development"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "practical-projects/"
-  label = "Practical Projects"
+  label = "Fr_Practical Projects"
   icon_pack = "fas"
   icon = "people-carry"
   

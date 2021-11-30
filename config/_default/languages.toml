@@ -12,13 +12,12 @@
 [fr]
 	languageName = "French"
 	contentDir = "content/fr"
-	title = "Life For Liberia"
+	title = "Life por Liberia"
 	weight = 2
-[es]
-	languageName = "Spanish"
-	contentDir = "content/es"
-	title = "Life For Liberia"
-	weight = 3
+    [languages.fr.params]
+		description = "Fr-Resources for Disciplship"
+
+
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
