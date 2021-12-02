@@ -1,9 +1,10 @@
 ---
+title: Breaking Bread -- Part 1 -- The New Passover Supper
 type: document
-translationKey: Breaking Bread - Part 1
-title: Breaking Bread - Part 1
+translationKey: Breaking Bread -- Part 1 -- The New Passover Supper
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Breaking Bread -- Part 1 -- The New Passover Supper
 
 Luke 22:7-13 Then came the day of Unleavened Bread on which the Passover
 lamb had to be sacrificed. Jesus sent Peter and John, saying, "Go and

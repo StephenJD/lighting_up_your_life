@@ -1,9 +1,10 @@
 ---
+title: Developing Leadership Teams
 type: document
 translationKey: Developing Leadership Teams
-title: Developing Leadership Teams
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Developing Leadership Teams
 
 This teaching relates specifically to developing leadership teams, and
 assumes that the leaders have embraced the principles set out in

@@ -1,9 +1,10 @@
 ---
+title: Discovery Groups
 type: document
 translationKey: Discovery Groups
-title: Discovery Groups
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Discovery Groups
 
 Discovery groups are mixed-sex discipleship groups of up to about 12
 people. They are usually formed when reaching out to a new family,

@@ -1,5 +1,5 @@
 ---
-type: document-folder
-translationKey: The Gospel
-title: The Gospel
+title: The Gospeltype: document-folder
+translationKey: The Gospelgeometry: margin=2cm
+geometry: a4paper
 ---

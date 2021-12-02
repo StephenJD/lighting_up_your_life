@@ -1,9 +1,10 @@
 ---
+title: How to Pray
 type: document
 translationKey: How to Pray
-title: How to Pray
+geometry: margin=2cm
+geometry: a4paper
 ---
-# How to Pray
 
 ## Not Like the Pagans
 

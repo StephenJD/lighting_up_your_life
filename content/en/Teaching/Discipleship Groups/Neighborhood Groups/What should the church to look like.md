@@ -1,9 +1,10 @@
 ---
+title: What should the church to look like?
 type: document
-translationKey: What should the church to look like
-title: What should the church to look like
+translationKey: What should the church to look like?
+geometry: margin=2cm
+geometry: a4paper
 ---
-# What should the church to look like?
 
 The church is depicted by Paul as the Body of Christ -- each part joined
 in love and functioning in relation to the whole to embody Jesus in our

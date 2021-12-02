@@ -1,9 +1,10 @@
 ---
+title: Leadership -- Jesus Style
 type: document
-translationKey: Leadership _ Jesus Style
-title: Leadership _ Jesus Style
+translationKey: Leadership -- Jesus Style
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Leadership -- Jesus Style
 
 ## **Leadership is natural.** 
 

@@ -1,8 +1,11 @@
 ---
+title: John's Seven Signs (1-3)
 type: document
 translationKey: John's Seven Signs (1-3)
-title: John's Seven Signs (1-3)
+geometry: margin=2cm
+geometry: a4paper
 ---
+
 stirred up; while I am trying to get in, somebody else gets there
 first."
 

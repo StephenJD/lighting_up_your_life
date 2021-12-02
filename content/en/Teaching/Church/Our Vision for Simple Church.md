@@ -1,9 +1,10 @@
 ---
+title: Our Vision for Simple Church
 type: document
 translationKey: Our Vision for Simple Church
-title: Our Vision for Simple Church
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Our Vision for Simple Church
 
 ## Obey My Commands
 

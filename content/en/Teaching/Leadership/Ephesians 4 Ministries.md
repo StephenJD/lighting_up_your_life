@@ -1,9 +1,10 @@
 ---
+title: Ephesians 4 Ministries
 type: document
 translationKey: Ephesians 4 Ministries
-title: Ephesians 4 Ministries
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Ephesians 4 Ministries
 
 > So Christ himself gave the apostles, the prophets, the evangelists,
 > the pastors and teachers, to equip his people for works of service, so

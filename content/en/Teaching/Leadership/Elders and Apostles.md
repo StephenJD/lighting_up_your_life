@@ -1,9 +1,10 @@
 ---
+title: Elders and Apostles
 type: document
 translationKey: Elders and Apostles
-title: Elders and Apostles
+geometry: margin=2cm
+geometry: a4paper
 ---
-### Elders and Apostles
 
 NT church leadership consists of Jesus the head, elders/leaders and the
 saints, who are the foot-soldiers of the church.

@@ -1,8 +1,11 @@
 ---
+title: John's Seven Signs (4-5)
 type: document
 translationKey: John's Seven Signs (4-5)
-title: John's Seven Signs (4-5)
+geometry: margin=2cm
+geometry: a4paper
 ---
+
 **^23 ^**Other boats, which were from Tiberias, came to shore near the
 place where the crowd had eaten the bread after the Lord had given
 thanks. **^24 ^**When the crowd saw that Jesus was not there, nor his

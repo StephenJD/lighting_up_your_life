@@ -1,9 +1,10 @@
 ---
+title: Growth Groups - Introduction for Leaders
 type: document
 translationKey: Growth Groups - Introduction for Leaders
-title: Growth Groups - Introduction for Leaders
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Growth Groups - Introduction for Leaders
 
 Material drawn from: Organic Church and Church 3.0 by Neil Cole
 

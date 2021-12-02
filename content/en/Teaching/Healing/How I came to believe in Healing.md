@@ -1,9 +1,10 @@
 ---
+title: How I came to believe in healing
 type: document
-translationKey: How I came to believe in Healing
-title: How I came to believe in Healing
+translationKey: How I came to believe in healing
+geometry: margin=2cm
+geometry: a4paper
 ---
-# How I came to believe in healing
 
 Jesus' teaching about the Kingdom has had a profound effect on my life
 in recent years. Not just on my understanding, but on my faith and my

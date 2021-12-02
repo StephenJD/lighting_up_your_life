@@ -13,15 +13,21 @@
 [fr]
 	languageName = "French"
 	contentDir = "content/fr"
-	title = "Life por Liberia"
+	title = "La vie au Libéria"
 	weight = 2
 	[fr.menu]
 		[[fr.menu.main]]
-			name = "Fr Teaching"
+			name = "Enseignement"
+			url = "teaching"
+			weight = 10
 		[[fr.menu.main]]
-			name = "Fr Practical Projects"
+			name = "Projets pratiques"
+			url = "practical-projects"
+            weight = 20 
 		[[fr.menu.main]]
-			name = "Fr Blog"
+			name = "Blog"
+			url = "blog"
+			weight = 30
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"

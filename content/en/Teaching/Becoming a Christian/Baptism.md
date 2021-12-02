@@ -5,7 +5,6 @@ translationKey: Baptism
 geometry: margin=2cm
 geometry: a4paper
 ---
-# Baptism
 
 ## Introduction
 

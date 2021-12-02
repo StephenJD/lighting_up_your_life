@@ -1,9 +1,10 @@
 ---
+title: How Church Buildings Cripple the Gospel
 type: document
 translationKey: How Church Buildings Cripple the Gospel
-title: How Church Buildings Cripple the Gospel
+geometry: margin=2cm
+geometry: a4paper
 ---
-# How Church Buildings Cripple the Gospel
 
 ## A story
 

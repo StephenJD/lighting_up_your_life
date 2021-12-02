@@ -1,8 +1,11 @@
 ---
+title: Growth Group Reminder Card
 type: document
 translationKey: Growth Group Reminder Card
-title: Growth Group Reminder Card
+geometry: margin=2cm
+geometry: a4paper
 ---
+
 **Growth Group -- Two or three people listening to Jesus**
 
 **Love one another -- Go and make disciples**

@@ -1,8 +1,11 @@
 ---
+title: John's Seven Signs (6)
 type: document
 translationKey: John's Seven Signs (6)
-title: John's Seven Signs (6)
+geometry: margin=2cm
+geometry: a4paper
 ---
+
 **^31 ^**We know that God does not listen to sinners; he does listen to
 people who respect him and do what he wants them to do. **^32 ^**Since
 the beginning of the world nobody has ever heard of anyone giving sight

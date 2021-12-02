@@ -1,9 +1,10 @@
 ---
+title: The Growth Group Handbook
 type: document
-translationKey: Growth Group Handbook
-title: Growth Group Handbook
+translationKey: The Growth Group Handbook
+geometry: margin=2cm
+geometry: a4paper
 ---
-# The Growth Group Handbook
 
 This is a *How-to* guide for Growth Groups. For biblical background and
 more on the vision behind Growth Groups see *"Growth Groups -

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "The Mission in Liberia"
+title = "La mission au Libéria"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "newspaper-solid.svg"
@@ -37,7 +37,7 @@ title = "The Mission in Liberia"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "blog"
-  label = "Fr_Blog"
+  label = "Blog"
   icon_pack = "fas"
   icon = "newspaper"
   

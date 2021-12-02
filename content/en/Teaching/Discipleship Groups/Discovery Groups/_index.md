@@ -1,5 +1,5 @@
 ---
-type: document-folder
-translationKey: Discovery Groups
-title: Discovery Groups
+title: Discovery Groupstype: document-folder
+translationKey: Discovery Groupsgeometry: margin=2cm
+geometry: a4paper
 ---

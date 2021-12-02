@@ -1,9 +1,10 @@
 ---
+title: Listening To Jesus Conference
 type: document
 translationKey: Listening To Jesus Conference
-title: Listening To Jesus Conference
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Listening To Jesus Conference
 
 **Welcome to the Listening To Jesus conference.Aim**: To become a truly
 prophetic people who hear and obey our extraordinary Lord.

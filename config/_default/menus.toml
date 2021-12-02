@@ -2,7 +2,8 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-#[[languages.en.menu.main]]
+# This is the default-language menu
+# Specific values needing translation must be provided in languages.toml
 	
 [[main]]
   name = "Teaching"

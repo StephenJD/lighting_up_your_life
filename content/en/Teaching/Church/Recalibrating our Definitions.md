@@ -1,9 +1,10 @@
 ---
+title: Recalibrating our Definitions.
 type: document
-translationKey: Recalibrating our Definitions
-title: Recalibrating our Definitions
+translationKey: Recalibrating our Definitions.
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Recalibrating our Definitions.
 
 I believe we have grown so accustomed to services as we know them, that
 we need to question our assumptions and recalibrate our understanding of

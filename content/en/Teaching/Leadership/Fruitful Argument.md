@@ -1,8 +1,11 @@
 ---
+title: Fruitful Argument
 type: document
 translationKey: Fruitful Argument
-title: Fruitful Argument
+geometry: margin=2cm
+geometry: a4paper
 ---
+
 ## Fermenting a good vintage
 
 The familiar parable of the new and old wine is recorded by Matthew,

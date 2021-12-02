@@ -1,9 +1,10 @@
 ---
+title: The Gospel Jesus Preached
 type: document
 translationKey: The Gospel Jesus Preached
-title: The Gospel Jesus Preached
+geometry: margin=2cm
+geometry: a4paper
 ---
-# The Gospel Jesus Preached
 
 ## The Gospel before the cross
 

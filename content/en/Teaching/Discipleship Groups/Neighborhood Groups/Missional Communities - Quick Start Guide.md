@@ -1,9 +1,10 @@
 ---
+title: Missional Communities -- Quick-Start Guide
 type: document
-translationKey: Missional Communities - Quick Start Guide
-title: Missional Communities - Quick Start Guide
+translationKey: Missional Communities -- Quick-Start Guide
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Missional Communities -- Quick-Start Guide
 
 Missional Communities are how we obey the command to \"meet together to
 encourage one another to love and good deeds\" (Hebrews 10:24-25).

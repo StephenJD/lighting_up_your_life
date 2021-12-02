@@ -1,9 +1,10 @@
 ---
+title: Repentance and Righteousness Stephen Dolley, Dec 2018
 type: document
-translationKey: Repentance and Righteousness
-title: Repentance and Righteousness
+translationKey: Repentance and Righteousness Stephen Dolley, Dec 2018
+geometry: margin=2cm
+geometry: a4paper
 ---
-# Repentance and Righteousness Stephen Dolley, Dec 2018
 
 ## Introduction
 

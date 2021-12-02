@@ -1,5 +1,5 @@
 ---
-type: document-folder
-translationKey: Growth Groups
-title: Growth Groups
+title: Growth Groupstype: document-folder
+translationKey: Growth Groupsgeometry: margin=2cm
+geometry: a4paper
 ---

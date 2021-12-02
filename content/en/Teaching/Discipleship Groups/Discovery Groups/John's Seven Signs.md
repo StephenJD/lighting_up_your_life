@@ -1,8 +1,11 @@
 ---
+title: John's Seven Signs
 type: document
 translationKey: John's Seven Signs
-title: John's Seven Signs
+geometry: margin=2cm
+geometry: a4paper
 ---
+
 Read one story every day for 1 wk.
 
 1.  What does this story say to you about people?

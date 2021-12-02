@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Making Disciples"
+title = "Faire des disciples"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "book.svg"
@@ -38,7 +38,7 @@ title = "Making Disciples"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "teaching"
-  label = "Fr_Teaching"
+  label = "Enseignement"
   icon_pack = "fas"
   icon = "book-reader"
   

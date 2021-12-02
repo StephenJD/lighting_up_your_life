@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Community Development"
+title = "Développement communautaire"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "people-carry-solid.svg"
@@ -38,7 +38,7 @@ title = "Community Development"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "practical-projects/"
-  label = "Fr_Practical Projects"
+  label = "Projets pratiques"
   icon_pack = "fas"
   icon = "people-carry"
   

@@ -1,9 +1,10 @@
 ---
+title: The Gospel of the Kingdom
 type: document
 translationKey: The Gospel of the Kingdom
-title: The Gospel of the Kingdom
+geometry: margin=2cm
+geometry: a4paper
 ---
-# The Gospel of the Kingdom
 
 Jesus and the apostles preached and demonstrated a Gospel centred on the
 Kingdom of God. The cross was ***not*** the focus of their Gospel; their

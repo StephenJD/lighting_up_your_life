@@ -1,9 +1,10 @@
 ---
+title: Church - Jesus Style
 type: document
-translationKey: Church _ Jesus Style
-title: Church _ Jesus Style
+translationKey: Church - Jesus Style
+geometry: margin=2cm
+geometry: a4paper
 ---
-**Church - Jesus Style**
 
 Material drawn from: Organic Church, Church 3.0 by Neil Cole and The
 World needs more Elders by PJ Smythe.

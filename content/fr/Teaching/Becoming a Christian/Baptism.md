@@ -5,7 +5,6 @@ translationKey: Baptism
 geometry: margin=2cm
 geometry: a4paper
 ---
-# Baptême
 
 ## Introduction
 
@@ -91,7 +90,7 @@ commandes. (Mt 28 :19-20).
 > de l'eau, et cette eau symbolise le *baptême qui maintenant vous sauve* aussi --
 > non pas l'élimination des salissures du corps mais le gage d'une propreté
 > conscience envers Dieu. *Il vous sauve* par la résurrection de Jésus
-> Christ, qui est allé au ciel et est à la droite de Dieu - avec
+> Christ, qui est allé au ciel et est à la droite de Dieu - avec
 > anges, autorités et pouvoirs en soumission à lui. (1 Pierre 3:20-22)
 
 Pierre ne dit pas que le baptême *symbolise* notre mort et notre résurrection
@@ -248,7 +247,7 @@ Esprit dans une étude séparée.
 
 ## Conclusion
 
-Ni Jésus ni aucun écrivain du Nouveau Testament n'a jamais dit que le baptême est une
+Ni Jésus ni aucun écrivain du Nouveau Testament n'a jamais dit que le baptême est un
 symbole. Il est toujours présenté comme le *moyen* par lequel une personne entre
 le Royaume de Dieu. La mort de Jésus sur la croix et sa résurrection
 d'entre les morts est ce que *Jésus* a fait pour que nous puissions être sauvés, mais qu'est-ce que
@@ -303,7 +302,7 @@ Alors, quelles sont les réponses bibliques simples à nos questions d'ouverture
 - Le baptême doit-il être fait dans un cadre *église publique* ? -- Non. Il devrait
     être fait à n'importe quel endroit convenable.
 
-Comment notre enseignement et notre pratique doivent-ils être modifiés pour obéir
+Comment notre enseignement et notre pratique doivent-ils être changés pour obéir
 les écritures concernant le baptême ?
 
 # Écritures :
@@ -319,7 +318,7 @@ eux au nom du Père et du Fils et du Saint
 l'Esprit, et enseignez-leur à obéir à tout ce que je vous ai commandé.
 
 Marc 16 :15-16 Il leur dit : « Allez par tout le monde et prêchez le
-évangile à toute la création. Celui qui croira et sera baptisé sera sauvé,
+évangile à toute la création. Celui qui croira et se fera baptiser sera sauvé,
 mais celui qui ne croira pas sera condamné.
 
 Jean 3:5 Jésus répondit : « En vérité, je vous le dis, à moins que quelqu'un ne soit

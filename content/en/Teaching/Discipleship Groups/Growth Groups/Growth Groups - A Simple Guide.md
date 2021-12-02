@@ -1,9 +1,10 @@
 ---
+title: Growth Groups - A Simple Guide
 type: document
 translationKey: Growth Groups - A Simple Guide
-title: Growth Groups - A Simple Guide
+geometry: margin=2cm
+geometry: a4paper
 ---
-## Growth Groups - A Simple Guide
 
 Motto: **Love one another -- Go and make disciples**
 
@@ -11,7 +12,7 @@ A Growth Group is two or three people who meet regularly (usually once
 or twice a week) to be discipled by Jesus. Only one of the members needs
 to be a Christian, the others may be anyone who is curious about Jesus.
 
-### Two Commands
+## Two Commands
 
 Growth Groups are the most effective way of obeying Jesus\' two great
 commands:
@@ -22,7 +23,7 @@ commands:
 > of the Father and of the Son and of the Holy Spirit, teaching them to
 > observe all things that I have commanded you." (Matthew 28:19-20)
 
-### Two Promises
+## Two Promises
 
 Growth Groups depend on two promises Jesus made. This means that as we
 read scripture together we can trust the Holy Spirit to lead us to
@@ -34,7 +35,7 @@ Jesus:
 > \"The Spirit of truth will guide you into all the truth.\" (John
 > 16:13)
 
-### Two Warnings
+## Two Warnings
 
 Going to church does not mean we are disciples. We can even do bible
 study and still not be disciples. We must be obedient to Jesus and come
@@ -48,7 +49,7 @@ to know Jesus Himself, not just know the scriptures:
 > eternal life \... yet you refuse to come to me to have life." (John
 > 5:39-40)
 
-### Two Relationships
+## Two Relationships
 
 We are called into two types of relationship. Firstly our relationship
 with the Father; which is through knowing Jesus with the help of the
@@ -59,7 +60,7 @@ Secondly we are called to love one another. So we must learn to listen
 to one another in the Growth Group, and pray for one another, and love
 one another.
 
-### Four Questions
+## Four Questions
 
 When the Growth Group meets, you start by reading aloud the passage you
 have chosen. Each person should then repeat the passage in their own
@@ -93,7 +94,7 @@ friend or neighbour does Jesus want me to speak to about this passage?\"
 Then take turns to pray for each one in the group, and for your
 outreach.
 
-### Choosing a Passage
+## Choosing a Passage
 
 Your Pastor may recommend some particular passages for you to read to
 help you get started with your Growth Group. You should start with short
@@ -106,7 +107,7 @@ Go at the pace that suits your group. Do not wear people out with
 difficult passages or long meetings. You do not need to understand
 everything, just leave out passages you find difficult.
 
-### Starting New Groups
+## Starting New Groups
 
 Family groups are a great way to start. You might start meeting as a
 whole family, but should soon divide into threes (plus any small

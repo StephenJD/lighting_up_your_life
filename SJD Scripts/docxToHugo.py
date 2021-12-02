@@ -2,6 +2,7 @@ from pathlib import Path
 from datetime import datetime
 import subprocess
 from deep_translator import GoogleTranslator
+import ctypes
 
 sourceRootPath = r"C:\Users\Stephen\Documents\Church_Published"
 webRootPath = Path.cwd().parent
@@ -20,6 +21,9 @@ englishPDFfolder = webRootPath / pdfRootFolder / languages[0]
 frenchMDfolder = webRootPath / mdRootFolder /languages[1]
 frenchPDFfolder = webRootPath / pdfRootFolder / languages[1]
 sourceRootStart = len(sourceRootPath)
+
+def Msgbox(title, text, style):
+    return ctypes.windll.user32.MessageBoxW(0, str(text), str(title), style)
 
 def haveMadeNewFolder(folder) :
   if not folder.exists():
@@ -65,19 +69,22 @@ def createMDfile(sourcePath, destPath, name):
     file = False
   return file
 
-def getDocTitle(mdFile) :
+def getDocTitle(mdFile):
   with mdFile.open('r', encoding="utf-8") as file:
-    for line in file:
-      if line.startswith('# '):
+    line = file.readline()
+    if line.startswith('# '):
         return line[2:]
+    else:
+      return '¬' + line
 
 def prependToFile(originalfile, string):
     with originalfile.open('r', encoding="utf-8") as original:
       tempFile = originalfile.parent / 'tempFile.txt'
-      for line in original:
-        if line.startswith('# '):
-          break
-        
+      line = original.readline()
+      if not line.startswith('# '):
+        original.seek(0)
+        string += '\n'
+
       with tempFile.open('w', encoding="utf-8") as temp: 
         temp.write(string)
         for line in original:
@@ -94,9 +101,9 @@ def createHeader (englishTitle, type, language):
     translated = englishTitle
   contents = "---"
   contents += "\ntitle: " + translated  
-  contents += "\ntype: " + type
+  contents += "type: " + type
   contents += "\ntranslationKey: " + englishTitle  
-  contents += "\ngeometry: margin=2cm"
+  contents += "geometry: margin=2cm"
   contents += "\ngeometry: a4paper"
   #contents += "\noutput: pdf_document"
   #contents += "\npdf_document: null"
@@ -168,6 +175,7 @@ def checkForUpdatedFiles():
   #foreach(sourceDoc in Get-ChildItem -Path sourceRootPath -File -Recurse -Filter "*.docx") 
   for sourceDoc in Path(sourceRootPath).rglob('*.docx'):
     docName = sourceDoc.stem
+    if docName.startswith('~'): continue
     #docFolder = sourceDoc.Directory.Name
     docFolder = str(sourceDoc.parent)[sourceRootStart:].strip('\\')
     # Create English .md files
@@ -176,6 +184,14 @@ def checkForUpdatedFiles():
     mdFile = createMDfile(sourceDoc, englishMDpath, docName)
     if mdFile:
       title = getDocTitle(mdFile)
+      if title[0] == '¬':
+        msg = f'First line of "{docName}" is not Heading 1. It is\n'
+        msg += '"' + title[1:] + f'"\n Do you want to use {docName}?'
+        response = Msgbox(docFolder, msg, 1)
+        if (response == 2):
+          mdFile.unlink()
+          return
+        else: title = docName + '\n'
       header = createHeader(title, 'document', 'en')    
       prependToFile(mdFile, header)
     englishMDfile = englishMDpath / (docName + '.md')
