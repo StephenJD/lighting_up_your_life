@@ -33,11 +33,12 @@ def haveMadeNewFolder(folder) :
 
 def haveCreatedNewMDindex(mdDestinationPath, language):
   DirectoryName = mdDestinationPath.name
-  if DirectoryName == "content" :
+  filePath = mdDestinationPath / "_index.md"
+  needsIndex = not filePath.exists()
+  if DirectoryName == "content" or DirectoryName == language:
+    if not needsIndex: filePath.unlink()
     needsIndex = False
   else:
-    filePath = mdDestinationPath / "_index.md"
-    needsIndex = not filePath.exists()
     if needsIndex:
       with filePath.open('w', encoding="utf-8") as writeFile:
         header = createHeader(DirectoryName, 'document-folder', language)  
@@ -172,11 +173,9 @@ def updateWebsite():
   subprocess.run([Git, *ParmsPush], shell=False)
 
 def checkForUpdatedFiles():
-  #foreach(sourceDoc in Get-ChildItem -Path sourceRootPath -File -Recurse -Filter "*.docx") 
   for sourceDoc in Path(sourceRootPath).rglob('*.docx'):
     docName = sourceDoc.stem
     if docName.startswith('~'): continue
-    #docFolder = sourceDoc.Directory.Name
     docFolder = str(sourceDoc.parent)[sourceRootStart:].strip('\\')
     # Create English .md files
     englishMDpath = englishMDfolder / docFolder

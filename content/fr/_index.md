@@ -1,5 +1,5 @@
 ---
-title: frtype: document-folder
-translationKey: frgeometry: margin=2cm
+title: Enseignementtype: document-folder
+translationKey: Teachinggeometry: margin=2cm
 geometry: a4paper
 ---
