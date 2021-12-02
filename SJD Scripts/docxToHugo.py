@@ -33,12 +33,11 @@ def haveMadeNewFolder(folder) :
 
 def haveCreatedNewMDindex(mdDestinationPath, language):
   DirectoryName = mdDestinationPath.name
-  filePath = mdDestinationPath / "_index.md"
-  needsIndex = not filePath.exists()
   if DirectoryName == "content" or DirectoryName == language:
-    if not needsIndex: filePath.unlink()
     needsIndex = False
   else:
+    filePath = mdDestinationPath / "_index.md"
+    needsIndex = not filePath.exists()
     if needsIndex:
       with filePath.open('w', encoding="utf-8") as writeFile:
         header = createHeader(DirectoryName, 'document-folder', language)  
@@ -98,6 +97,7 @@ def prependToFile(originalfile, string):
 def createHeader (englishTitle, type, language):
   if language != 'en':
     translated = GoogleTranslator(source='en', target=language).translate(text=englishTitle)
+    translated += '\n'
   else:
     translated = englishTitle
   contents = "---"

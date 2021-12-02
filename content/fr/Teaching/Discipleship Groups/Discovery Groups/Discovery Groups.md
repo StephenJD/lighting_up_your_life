@@ -6,104 +6,104 @@ geometry: margin=2cm
 geometry: a4paper
 ---
 
-groupes de découverte sont des groupes de disciples mixtes allant jusqu'à environ 12
-personnes. Ils sont généralement formés lors de tendre la main à une nouvelle famille,
-groupe d'amitié ou de la communauté, ou par quelques réunions des Groupes de croissance
-ensemble pour l'encouragement mutuel.
+Les groupes de découverte sont des groupes de discipulat mixtes de jusqu'à environ 12
+personnes. Ils se forment généralement lorsqu'ils s'adressent à une nouvelle famille,
+groupe d'amitié ou communauté, ou par quelques réunions de groupes de croissance
+ensemble pour un encouragement mutuel.
 
-Comme les groupes de croissance sont limitées à un maximum de 4 personnes, une découverte
-Groupe est souvent plus approprié en atteignant des groupes * * des personnes plutôt
-que ceux et deux.
+Parce que les groupes de croissance sont limités à 4 personnes maximum, une découverte
+Le groupe est souvent plus approprié pour atteindre des *groupes* de personnes plutôt
+que des uns et des deux.
 
-Une fois que les gens dans un groupe Discovery commencent à s'engager à Jésus vous
-devrait les encourager à former des groupes de croissance pour plus d'efficacité
-discipling et de sensibilisation. Pendant ce temps, le groupe Discovery peut naturellement
-la transition vers une communauté Missional.
+Une fois que les membres d'un groupe de découverte commencent à s'engager envers Jésus, vous
+devrait les encourager à former des Groupes de Croissance pour
+le discipulat et la sensibilisation. Pendant ce temps, le groupe Discovery peut naturellement
+transition vers une communauté missionnaire.
 
-Comme pour les groupes de croissance, vous devez disciple pour l'obéissance et la mission
-d'un jour, ** même si les membres ne sont pas encore croyants **. Vous serez
-étonné de ce que l'Esprit Saint fera si vous attendez simplement les membres
-de prier et obéir à l'écriture dès le début. Groupes Découverte
-se sont révélés être un moyen très puissant d'introduction de l'Evangile à nouveau
-communautés à travers le monde, y compris les communautés musulmanes très fermées.
-Ils commencent souvent par des femmes et devraient toujours viser à inclure l'ensemble
+Comme avec les groupes de croissance, vous devriez faire des disciples pour l'obéissance et la mission
+dès le premier jour, **même si les membres ne sont pas encore croyants**. Vous serez
+étonné de ce que le Saint-Esprit fera si vous vous attendez simplement à ce que les membres
+prier et être obéissant aux Écritures dès le début. Groupes Découverte
+se sont révélés être un moyen très puissant d'introduire l'Évangile à de nouveaux
+communautés à travers le monde, y compris des communautés musulmanes très fermées.
+Ils sont souvent lancés par des femmes et doivent toujours viser à inclure des
 des familles.
 
-Ils sont particulièrement bons en atteignant les nouvelles communautés parce que les
-groupe apprend plus rapidement et plus collectivement se souvient quand
-travailler avec un individu. Découverte Les groupes offrent également une protection
-contre l'erreur, car ils sont auto-correction (voir 5.c ci-dessous).
+Ils sont particulièrement efficaces lorsqu'ils atteignent de nouvelles communautés parce que le
+le groupe apprend plus rapidement et collectivement se souvient plus que lorsque
+travailler avec un individu. Les groupes de découverte offrent également une protection
+contre l'erreur car ils sont auto-correcteurs (voir 5.c ci-dessous).
 
 ## Format pour une réunion du Groupe Découverte
 
-1. Donner grâce - être spécifiques et de répondre dans le culte.
+1. Remerciez -- soyez précis et répondez par l'adoration.
 
-2. Demandez de l'aide - la prière et l'action pour la pratique personnelle ou
+2. Demander de l'aide -- prière et action pour des raisons personnelles pratiques ou
     besoins spirituels.
 
-3. Atteindre les - prière et d'action pour les besoins pratiques ou spirituels dans
+3. Tendez la main - prière et action pour des besoins pratiques ou spirituels dans
     la communauté.
 
-4. Comment chaque besoin ou préoccupation évolué depuis la semaine dernière?
+4. Comment chaque besoin ou préoccupation a-t-il évolué depuis la semaine dernière ?
 
-5. Bible découverte:
+5. Découverte de la Bible :
 
-    une. Lire un passage de l'Écriture (voir la liste ci-dessous).
+    une. Lisez un passage de l'Écriture (voir la liste ci-dessous).
 
-    b. Une personne re-dit le passage dans leurs propres mots, comme si
-        > Dire à un ami.
+    b. Une personne raconte le passage dans ses propres mots, comme si
+        > en parler à un ami.
 
-    c. Demandez au groupe, « était quelque chose d'important manqué ou ajouté? » Si
-        > Quoi que ce soit a été ajouté, demandez « Où avez-vous qu'à partir de ce
-        > Passage? »
+    c. Demandez au groupe : « quelque chose d'important a-t-il été oublié ou ajouté ? » Si
+        > quelque chose a été ajouté, demandez "D'où avez-vous obtenu cela dans ce
+        > passage ?"
 
-    ré. Demandez à chaque personne les quatre questions de disciples:
+    ré. Posez à chaque personne les quatre questions sur le discipulat :
 
-> Qu'est-ce que cela nous dit sur les gens d \ 'caractère ou la nature?
+> Qu'est-ce que cela nous apprend sur le caractère ou la nature des gens ?
 >
-> Qu'est-ce que cela nous dit au sujet de Jésus ou de Dieu?
+> Qu'est-ce que cela nous apprend sur Jésus ou Dieu ?
 >
-> Qu'est-ce que Jésus veut me dire personnellement?
+> Qu'est-ce que Jésus veut me dire personnellement ?
 >
-> Qui Jésus veut me faire partager ce message avec?
+> Avec qui Jésus veut-il que je partage ce message ?
 
-6. Quand nous reverrons-nous?
+6. Quand nous reverrons-nous ?
 
-7. Quand allons-nous répondre aux besoins de la communauté / individuels que nous avons identifiés?
+7. Quand allons-nous répondre aux besoins communautaires/individuels que nous avons identifiés ?
 
-Chaque personne doit tenir un cahier du spirituel et pratique
-les actions qu'ils acceptent de prendre.
+Chaque personne doit tenir un cahier des aspects spirituels et pratiques
+actions qu'ils acceptent de prendre.
 
-## Confiants le Saint-Esprit
+## Faire confiance au Saint-Esprit
 
-Dès le début, nous devons laisser le Saint-Esprit faire Son travail avec son
-mot dans ses enfants. Ce principe surprenant a été découvert et
-prouvé maintes et maintes fois par des mouvements de multiplication de l'église dans tous les
-la culture à travers le monde:
+Dès le début, nous devons laisser le Saint-Esprit faire Son travail avec Son
+parole à ses enfants. Ce principe surprenant a été découvert et
+prouvé maintes et maintes fois par les mouvements de multiplication de l'église dans chaque
+culturelles à travers le monde :
 
-- Ne pas expliquer les Écritures aux gens perdus ou premiers convertis!
+- N'expliquez pas les Écritures aux personnes perdues ou aux premiers convertis !
 
-Au cœur de ce principe est que nous devons démontrer que nous permettons
-Écriture d'avoir autorité dans nos vies, pas que nous sommes une autorité
-sur l'écriture. Le Saint-Esprit a été envoyé par Jésus pour révéler sa
-gloire par l'Écriture. Nous devons le laisser faire son travail.
+Au cœur de ce principe se trouve que nous devons démontrer que nous permettons
+l'Écriture pour avoir de l'autorité dans nos vies, pas que nous sommes une autorité
+sur les écritures. Le Saint-Esprit a été envoyé par Jésus pour révéler Son
+gloire par l'Écriture. Nous devons Le laisser faire Son travail.
 
-Notre rôle est de guider les gens dans leur propre lecture et l'interprétation des
-Écriture, qui est ce que Philippe a fait pour l'eunuque dans Actes 8:31 (NIV a
-« Explique », mais la plupart des traductions ont « guide » qui est beaucoup plus proche de
-le grec). Aider quelqu'un à comprendre les paroles de l'Écriture et à
-poser les quatre questions de disciples et d'y répondre pour nous-mêmes est aussi
-autant que nous devons aller dans un groupe Discovery.
+Notre rôle est de guider les gens dans leur propre lecture et interprétation de
+écriture, ce que Philippe a fait pour l'eunuque dans Actes 8:31 (NIV a
+"explique" mais la plupart des traductions ont "guide" qui est beaucoup plus proche de
+le grec). Aider quelqu'un à comprendre les paroles des Écritures et à
+poser les quatre questions sur le discipulat et y répondre par nous-mêmes est aussi
+aussi loin que nous devons aller dans un groupe de découverte.
 
-Un autre point important est que si, par l'affichage de notre grande sagesse,
-nous faisons les gens sentent qu'ils ont besoin d'un expert pour comprendre
-écriture, alors nous empêcher la multiplication du groupe. Si chaque groupe
-sent ils ont besoin d'un enseignant de la Bible experts, le nombre de groupes
-devient limité au nombre d'experts disponibles.
+Un autre point important est que si, par la démonstration de notre grande sagesse,
+nous faisons sentir aux gens qu'ils ont besoin d'un expert pour comprendre
+l'Écriture, alors nous empêchons la multiplication du groupe. Si chaque groupe
+sent qu'ils ont besoin d'un enseignant de la Bible expert alors le nombre de groupes
+se limite au nombre d'experts disponibles.
 
-## Devenir Eglise
+## Devenir une Église
 
-Chaque fois qu'un membre d'un groupe Discovery décide de suivre Jésus, ilsle groupe. Lorsque plusieurs membres du groupe ont été baptisés -- devinez
+Chaque fois qu'un membre d'un groupe de découverte décide de suivre Jésus, ille groupe. Lorsque plusieurs membres du groupe ont été baptisés -- devinez
 quoi? Vous avez une église -- un groupe de personnes, dont certaines sont
 croyants, se réunissant au nom de Jésus et en sa présence. Ce qui se produit
 la suite vous appartient, mais nous espérons que vous multiplierez les groupes de croissance et
