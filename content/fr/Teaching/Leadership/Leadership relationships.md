@@ -1,7 +1,7 @@
 ---
 title: Relations de direction
 type: document
-translationKey: Leadership relationships 
+translationKey: Leadership relationships
 geometry: margin=2cm
 geometry: a4paper
 ---

@@ -1,5 +1,7 @@
 ---
-title: Foundational Teachingtype: document-folder
-translationKey: Foundational Teachinggeometry: margin=2cm
+title: Foundational Teaching
+type: document-folder
+translationKey: Foundational Teaching
+geometry: margin=2cm
 geometry: a4paper
 ---

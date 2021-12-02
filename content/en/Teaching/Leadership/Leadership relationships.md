@@ -1,7 +1,7 @@
 ---
-title: Leadership relationships 
+title: Leadership relationships
 type: document
-translationKey: Leadership relationships 
+translationKey: Leadership relationships
 geometry: margin=2cm
 geometry: a4paper
 ---

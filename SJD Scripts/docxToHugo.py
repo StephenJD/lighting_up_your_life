@@ -97,14 +97,13 @@ def prependToFile(originalfile, string):
 def createHeader (englishTitle, type, language):
   if language != 'en':
     translated = GoogleTranslator(source='en', target=language).translate(text=englishTitle)
-    translated += '\n'
   else:
     translated = englishTitle
   contents = "---"
-  contents += "\ntitle: " + translated  
-  contents += "type: " + type
-  contents += "\ntranslationKey: " + englishTitle  
-  contents += "geometry: margin=2cm"
+  contents += "\ntitle: " + translated.strip()  
+  contents += "\ntype: " + type
+  contents += "\ntranslationKey: " + englishTitle.strip() 
+  contents += "\ngeometry: margin=2cm"
   contents += "\ngeometry: a4paper"
   #contents += "\noutput: pdf_document"
   #contents += "\npdf_document: null"
@@ -190,7 +189,7 @@ def checkForUpdatedFiles():
         if (response == 2):
           mdFile.unlink()
           return
-        else: title = docName + '\n'
+        else: title = docName
       header = createHeader(title, 'document', 'en')    
       prependToFile(mdFile, header)
     englishMDfile = englishMDpath / (docName + '.md')

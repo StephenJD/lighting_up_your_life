@@ -1,5 +1,7 @@
 ---
-title: Churchtype: document-folder
-translationKey: Churchgeometry: margin=2cm
+title: Church
+type: document-folder
+translationKey: Church
+geometry: margin=2cm
 geometry: a4paper
 ---

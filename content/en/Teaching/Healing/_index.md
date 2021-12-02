@@ -1,5 +1,7 @@
 ---
-title: Healingtype: document-folder
-translationKey: Healinggeometry: margin=2cm
+title: Healing
+type: document-folder
+translationKey: Healing
+geometry: margin=2cm
 geometry: a4paper
 ---

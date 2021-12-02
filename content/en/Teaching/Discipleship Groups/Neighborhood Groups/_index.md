@@ -1,5 +1,7 @@
 ---
-title: Neighborhood Groupstype: document-folder
-translationKey: Neighborhood Groupsgeometry: margin=2cm
+title: Neighborhood Groups
+type: document-folder
+translationKey: Neighborhood Groups
+geometry: margin=2cm
 geometry: a4paper
 ---

@@ -1,5 +1,7 @@
 ---
-title: Listening To Jesustype: document-folder
-translationKey: Listening To Jesusgeometry: margin=2cm
+title: Listening To Jesus
+type: document-folder
+translationKey: Listening To Jesus
+geometry: margin=2cm
 geometry: a4paper
 ---

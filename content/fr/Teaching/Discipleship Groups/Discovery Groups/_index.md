@@ -1,6 +1,7 @@
 ---
 title: Groupes Découverte
 type: document-folder
-translationKey: Discovery Groupsgeometry: margin=2cm
+translationKey: Discovery Groups
+geometry: margin=2cm
 geometry: a4paper
 ---
