@@ -5,7 +5,7 @@ from deep_translator import GoogleTranslator
 
 sourceRootPath = r"C:\Users\Stephen\Documents\Church_Published"
 webRootPath = Path.cwd().parent
-languages = ('english','french')
+languages = ('en','fr')
 mdRootFolder = r"content"
 pdfRootFolder = r"static\pdf"
 #outMDenglishPath = Join-Path -Path webRootPath -ChildPath "\content\English\Teaching Materials"
@@ -56,9 +56,6 @@ def fileNeedsUpdating(sourceFile, convertedFile):
   return fileOutOfDate
 
 def createMDfile(sourcePath, destPath, name):
-  #print(sourcePath)
-  #print(destPath)
-  #print(name + ".md")
   file = destPath / (name + ".md")
   if fileNeedsUpdating(sourcePath, file):
     parms = ("-s", "-f", "docx", sourcePath,"-t", "markdown", "-o", file)
@@ -68,9 +65,19 @@ def createMDfile(sourcePath, destPath, name):
     file = False
   return file
 
+def getDocTitle(mdFile) :
+  with mdFile.open('r', encoding="utf-8") as file:
+    for line in file:
+      if line.startswith('# '):
+        return line[2:]
+
 def prependToFile(originalfile, string):
     with originalfile.open('r', encoding="utf-8") as original:
       tempFile = originalfile.parent / 'tempFile.txt'
+      for line in original:
+        if line.startswith('# '):
+          break
+        
       with tempFile.open('w', encoding="utf-8") as temp: 
         temp.write(string)
         for line in original:
@@ -168,7 +175,8 @@ def checkForUpdatedFiles():
     createMDfolder(englishMDpath, 'en')
     mdFile = createMDfile(sourceDoc, englishMDpath, docName)
     if mdFile:
-      header = createHeader(docName, 'document', 'en')    
+      title = getDocTitle(mdFile)
+      header = createHeader(title, 'document', 'en')    
       prependToFile(mdFile, header)
     englishMDfile = englishMDpath / (docName + '.md')
     
