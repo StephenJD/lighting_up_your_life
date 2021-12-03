@@ -199,7 +199,7 @@ def deleteRemovedFiles(sourceRootPath, languages):
           itemsToDelete.append(dirItem)
   
   for item in itemsToDelete:
-    subprocess.run(['MRDIR', str(item)], shell=True)
+    subprocess.run(['rmdir', str(item)], shell=True)
     #try:
       #for subitem in item.rglob('*'): subitem.unlink
       #os.chmod(item,0o777)
