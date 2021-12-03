@@ -178,11 +178,18 @@ def updateWebsite():
 
 def deleteRemovedFiles(sourceRootPath, languages):
   mdRootPath = Path.cwd().parent / "content"
-
+  itemToDelete = None
   for lang in languages:
     mdLangPath = mdRootPath / lang
     langRootStart = len(str(mdLangPath)) + 1   
     for dirItem in mdLangPath.rglob('*'):
+      if itemToDelete:
+        try:
+          itemToDelete.unlink()
+        except:
+          Msgbox("Delete File", f"Unable to delete {itemToDelete.name}", 0)
+        finally:
+          itemToDelete = None
       if 'home' in dirItem.parts: continue
       sourceItem = dirItem
       if dirItem.is_file():
@@ -196,10 +203,7 @@ def deleteRemovedFiles(sourceRootPath, languages):
         msg += f'Do you want to delete it from {lang} folder?'
         response = Msgbox("Deleted File", msg, 4)
         if response == 6 :
-          try:
-            dirItem.unlink()
-          except:
-            Msgbox("Delete File", f"Unable to delete {dirItem.name}", 0)
+          itemToDelete = dirItem
 
 def checkForUpdatedFiles():
   sourceRootPath, sourceLanguage, languages = readINI()
