@@ -3,7 +3,7 @@ from datetime import datetime
 import subprocess
 from deep_translator import GoogleTranslator
 import ctypes
-
+import os
 pandocCmd = "pandoc"
 docxToPdfCmd = r"C:\Hugo\docto105\docto"
 
@@ -199,10 +199,13 @@ def deleteRemovedFiles(sourceRootPath, languages):
           itemsToDelete.append(dirItem)
   
   for item in itemsToDelete:
-    try:
-      item.unlink()
-    except:
-      Msgbox("Delete File", f"Unable to delete {item.name}", 0)
+    subprocess.run(['MRDIR', str(item)], shell=True)
+    #try:
+      #for subitem in item.rglob('*'): subitem.unlink
+      #os.chmod(item,0o777)
+      #item.unlink()
+    #except:
+      #Msgbox("Delete File", f"Unable to delete {item.name}", 0)
 
 
 def checkForUpdatedFiles():
