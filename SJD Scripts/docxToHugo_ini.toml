@@ -1,4 +1,6 @@
 [Docx Root]
-	"C:\Users\Stephen\Documents\Church_Published"
+	C:\Users\Stephen\Documents\Church_Published
+[Docx Language]
+	en
 [Languages]
-	['en','fr']
+	[en,fr]

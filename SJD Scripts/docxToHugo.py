@@ -7,38 +7,23 @@ import ctypes
 def Msgbox(title, text, style):
     return ctypes.windll.user32.MessageBoxW(0, str(text), str(title), style)
 
-def getStarted() :
-  webRootPath = Path.cwd().parent
+def readINI() :
+  webRootPath = Path.cwd()
   iniPath = webRootPath / "docxToHugo_ini.toml"
+  docxRoot = webRootPath.parent / 'docx';
+  sourceLanguage = 'en'
+  languages = ['en']
   if iniPath.exists() :
       with iniPath.open('r', encoding="utf-8") as iniFile:
-        while iniFile.readable():
-          if iniFile.readline().strip() == "[Docx Root]":
-            docxRoot = iniFile.readline().strip()
-          if iniFile.readline().strip() == "[Languages]":
-            languages = iniFile.readline().strip('[] \t').split(',')
-
-        
-
-sourceRootPath = r"C:\Users\Stephen\Documents\Church_Published"
-webRootPath = Path.cwd().parent
-languages = ('en','fr')
-mdRootFolder = r"content"
-pdfRootFolder = r"static\pdf"
-#outMDenglishPath = Join-Path -Path webRootPath -ChildPath "\content\English\Teaching Materials"
-#outMDfrenchPath = Join-Path -Path webRootPath -ChildPath "\content\French\Teaching Materials"
-#outPDFenglishPath = Join-Path -Path webRootPath -ChildPath "\static\pdf\English\Teaching Materials"
-#outPDFfrenchPath = Join-Path -Path webRootPath -ChildPath "\static\pdf\French\Teaching Materials"
-pandocCmd = "pandoc"
-docxToPdfCmd = r"C:\Hugo\docto105\docto"
-
-englishMDfolder = webRootPath / mdRootFolder /languages[0]
-englishPDFfolder = webRootPath / pdfRootFolder / languages[0]
-frenchMDfolder = webRootPath / mdRootFolder /languages[1]
-frenchPDFfolder = webRootPath / pdfRootFolder / languages[1]
-sourceRootStart = len(sourceRootPath)
-
-
+        for line in iniFile:
+          line = line.strip()
+          if line == "[Docx Root]":
+            docxRoot = iniFile.readline().strip('\t\n "\'')
+          if line == "[Docx Language]":
+            sourceLanguage = iniFile.readline().strip('\t\n "\'')
+          if line == "[Languages]":
+            languages = iniFile.readline().strip('[] \t\n').split(',')
+  return docxRoot, sourceLanguage, languages
 
 def haveMadeNewFolder(folder) :
   if not folder.exists():
@@ -186,16 +171,52 @@ def updateWebsite():
   subprocess.run([Git, *ParmsCommit], shell=False)
   subprocess.run([Git, *ParmsPush], shell=False)
 
+def deleteRemovedFiles(sourceRootPath, languages):
+  mdRootPath = Path.cwd().parent / "content"
+
+  for lang in languages:
+    mdLangPath = mdRootPath / lang
+    langRootStart = len(str(mdLangPath))    
+    for dirItem in mdLangPath.iterdir():
+      if dirItem.stem == 'home': continue
+      if dirItem.is_file():
+        dirItem = dirItem.parent / (dirItem.stem + '.docx')
+      itemFolder = str(dirItem)[langRootStart:]
+      sourcePath = sourceRootPath / itemFolder     
+      if (sourcePath).exists(): 
+        continue
+      else:
+        msg = f'Item "{dirItem}" is missing from {sourceRootPath}\n'
+        msg += f'Do you want to delete it from {lang} folder?'
+        response = Msgbox("Deleted File", msg, 4)
+        if response == 6 : dirItem.unlink()
+
+
 def checkForUpdatedFiles():
-  getStarted()
-  for sourceDoc in Path(sourceRootPath).rglob('*.docx'):
+  sourceRootPath, sourceLanguage, languages = readINI()
+  msg = "Docx root is :" + sourceRootPath + '\n'
+  msg += "Source Language is: " + sourceLanguage + '\n'
+  msg += "Languages are: " + str(languages)
+  response = Msgbox("docxToHugo_ini.toml", msg, 1)
+  
+  webRootPath = Path.cwd().parent
+  mdRootPath = webRootPath / "content"
+  #pdfRootPath = webRootPath / "static/pdf"
+  pandocCmd = "pandoc"
+  docxToPdfCmd = r"C:\Hugo\docto105\docto"
+  sourceLanguageMDfolder = mdRootPath / sourceLanguage
+  #sourceLanguagePDFfolder = pdfRootPath / sourceLanguage
+  sourceRootStart = len(sourceRootPath)
+  sourceRootPath = Path(sourceRootPath)
+  deleteRemovedFiles(sourceRootPath, languages)
+  for sourceDoc in sourceRootPath.rglob('*.docx'):
     docName = sourceDoc.stem
     if docName.startswith('~'): continue
     docFolder = str(sourceDoc.parent)[sourceRootStart:].strip('\\')
-    # Create English .md files
-    englishMDpath = englishMDfolder / docFolder
-    createMDfolder(englishMDpath, 'en')
-    mdFile = createMDfile(sourceDoc, englishMDpath, docName)
+    # Create sourceLanguage .md files
+    sourceLanguageMDpath = sourceLanguageMDfolder / docFolder
+    createMDfolder(sourceLanguageMDpath, sourceLanguage)
+    mdFile = createMDfile(sourceDoc, sourceLanguageMDpath, docName)
     if mdFile:
       title = getDocTitle(mdFile)
       if title[0] == '¬':
@@ -208,22 +229,19 @@ def checkForUpdatedFiles():
         else: title = docName
       header = createHeader(title, 'document', 'en')    
       prependToFile(mdFile, header)
-    englishMDfile = englishMDpath / (docName + '.md')
+    sourceLanguageMDfile = sourceLanguageMDpath / (docName + '.md')
     
     # Create English .pdf files
     #englishPDFpath = englishPDFfolder / docFolder
     #haveMadeNewFolder(englishPDFpath)
-    #createPDF(englishMDfile, englishPDFpath, docName)
+    #createPDF(sourceLanguageMDfile, englishPDFpath, docName)
 
-    frenchMDpath = frenchMDfolder / docFolder
-    createMDfolder(frenchMDpath, 'fr')
-    createMDtranslation(englishMDfile, frenchMDpath, docName,'fr')
-    # Create French .pdf files
-    #frenchPDFpath = frenchPDFfolder / docFolder
-    #frenchMDfile = frenchMDpath / (docName + '.md')
-    #haveMadeNewFolder(frenchPDFpath)
-    #createPDF(frenchMDfile, frenchPDFpath, docName) 
-
+    for lang in languages:
+      if lang == sourceLanguage: continue
+      langMDpath = mdRootPath / lang / docFolder
+      createMDfolder(langMDpath, lang)
+      createMDtranslation(sourceLanguageMDfile, langMDpath, docName, lang)
+ 
   updateWebsite()
 
 checkForUpdatedFiles()
