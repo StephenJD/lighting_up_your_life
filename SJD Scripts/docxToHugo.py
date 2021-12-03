@@ -4,6 +4,9 @@ import subprocess
 from deep_translator import GoogleTranslator
 import ctypes
 
+pandocCmd = "pandoc"
+docxToPdfCmd = r"C:\Hugo\docto105\docto"
+
 def Msgbox(title, text, style):
     return ctypes.windll.user32.MessageBoxW(0, str(text), str(title), style)
 
@@ -51,7 +54,8 @@ def createMDfolder(mdDestinationPath, language) :
       outerFolder = outerFolder.parent
 
 def fileNeedsUpdating(sourceFile, convertedFile):
-  if convertedFile.exists():
+  if not sourceFile.exists(): fileOutOfDate = False
+  elif convertedFile.exists():
     convertedFileDate = datetime.fromtimestamp(convertedFile.stat().st_mtime)
     sourceFileDate = datetime.fromtimestamp(sourceFile.stat().st_mtime)
     fileOutOfDate = (sourceFileDate - convertedFileDate).total_seconds() > 120
@@ -65,6 +69,7 @@ def createMDfile(sourcePath, destPath, name):
     parms = ("-s", "-f", "docx", sourcePath,"-t", "markdown", "-o", file)
     print("Created:", name + ".md")
     subprocess.run([pandocCmd, *parms], shell=False)
+    if not file.exists(): file = False
   else:
     file = False
   return file
@@ -201,8 +206,7 @@ def checkForUpdatedFiles():
   webRootPath = Path.cwd().parent
   mdRootPath = webRootPath / "content"
   #pdfRootPath = webRootPath / "static/pdf"
-  pandocCmd = "pandoc"
-  docxToPdfCmd = r"C:\Hugo\docto105\docto"
+
   sourceLanguageMDfolder = mdRootPath / sourceLanguage
   #sourceLanguagePDFfolder = pdfRootPath / sourceLanguage
   sourceRootStart = len(sourceRootPath) + 1
