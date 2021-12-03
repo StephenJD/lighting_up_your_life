@@ -1,13 +1,5 @@
 {{ $current_page := . }}
-{{ $print_img := printf "%s/%s/%s" .Lang "images" "click-here-to-print.jpg" | relURL }}
-{{ $language := printf "%s" .Lang }}
-{{ if eq $language "en" }}
-	{{ $print_img := printf "%s/%s" "img" "click-here-to-print.en.jpg" | relURL }}
-	en: {{ $print_img}} 
-{{ else }}
-	{{ $print_img := printf "%s/%s/%s" .Lang "images" "click-here-to-print.jpg" | relURL }}
-	fr: {{ $print_img}} 
-{{ end }}
+{{ $print_img := printf "%s/%s%s%s" "img" "click-here-to-print." .Lang ".jpg" | relURL }}
 {{/* Check whether to show breadcrumb navigation. */}}
 {{ $breadcrumb_page_types := site.Params.breadcrumb.page_types | default dict }}
 {{ $show_breadcrumb := index $breadcrumb_page_types .Type | default false }}
