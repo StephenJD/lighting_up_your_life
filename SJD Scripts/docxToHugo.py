@@ -176,13 +176,12 @@ def deleteRemovedFiles(sourceRootPath, languages):
 
   for lang in languages:
     mdLangPath = mdRootPath / lang
-    langRootStart = len(str(mdLangPath))    
+    langRootStart = len(str(mdLangPath)) + 1   
     for dirItem in mdLangPath.iterdir():
       if dirItem.stem == 'home': continue
       if dirItem.is_file():
         dirItem = dirItem.parent / (dirItem.stem + '.docx')
-      itemFolder = str(dirItem)[langRootStart:]
-      sourcePath = sourceRootPath / itemFolder     
+      sourcePath = sourceRootPath / str(dirItem)[langRootStart:]     
       if (sourcePath).exists(): 
         continue
       else:
@@ -206,13 +205,13 @@ def checkForUpdatedFiles():
   docxToPdfCmd = r"C:\Hugo\docto105\docto"
   sourceLanguageMDfolder = mdRootPath / sourceLanguage
   #sourceLanguagePDFfolder = pdfRootPath / sourceLanguage
-  sourceRootStart = len(sourceRootPath)
+  sourceRootStart = len(sourceRootPath) + 1
   sourceRootPath = Path(sourceRootPath)
   deleteRemovedFiles(sourceRootPath, languages)
   for sourceDoc in sourceRootPath.rglob('*.docx'):
     docName = sourceDoc.stem
     if docName.startswith('~'): continue
-    docFolder = str(sourceDoc.parent)[sourceRootStart:].strip('\\')
+    docFolder = str(sourceDoc.parent)[sourceRootStart:]
     # Create sourceLanguage .md files
     sourceLanguageMDpath = sourceLanguageMDfolder / docFolder
     createMDfolder(sourceLanguageMDpath, sourceLanguage)
