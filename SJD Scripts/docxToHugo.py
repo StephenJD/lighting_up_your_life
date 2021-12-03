@@ -199,13 +199,9 @@ def deleteRemovedFiles(sourceRootPath, languages):
           itemsToDelete.append(dirItem)
   
   for item in itemsToDelete:
-    subprocess.run(['rmdir', str(item)], shell=True)
-    #try:
-      #for subitem in item.rglob('*'): subitem.unlink
-      #os.chmod(item,0o777)
-      #item.unlink()
-    #except:
-      #Msgbox("Delete File", f"Unable to delete {item.name}", 0)
+    for subitem in item.rglob('*'): 
+      subprocess.run(['rmdir', subitem], shell=True)
+    subprocess.run(['rmdir', item], shell=True)          
 
 
 def checkForUpdatedFiles():
