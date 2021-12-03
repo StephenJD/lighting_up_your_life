@@ -182,19 +182,24 @@ def deleteRemovedFiles(sourceRootPath, languages):
   for lang in languages:
     mdLangPath = mdRootPath / lang
     langRootStart = len(str(mdLangPath)) + 1   
-    for dirItem in mdLangPath.iterdir():
-      if dirItem.stem == 'home': continue
+    for dirItem in mdLangPath.rglob('*'):
+      if 'home' in dirItem.parts: continue
+      sourceItem = dirItem
       if dirItem.is_file():
-        dirItem = dirItem.parent / (dirItem.stem + '.docx')
-      sourcePath = sourceRootPath / str(dirItem)[langRootStart:]     
+        if dirItem.stem.strip('_') == 'index' : continue
+        sourceItem = dirItem.parent / (dirItem.stem + '.docx')
+      sourcePath = sourceRootPath / str(sourceItem)[langRootStart:]     
       if (sourcePath).exists(): 
         continue
       else:
-        msg = f'Item "{dirItem}" is missing from {sourceRootPath}\n'
+        msg = f'Item "{dirItem.name}" is missing from {sourceRootPath}\n'
         msg += f'Do you want to delete it from {lang} folder?'
         response = Msgbox("Deleted File", msg, 4)
-        if response == 6 : dirItem.unlink()
-
+        if response == 6 :
+          try:
+            dirItem.unlink()
+          except:
+            Msgbox("Delete File", f"Unable to delete {dirItem.name}", 0)
 
 def checkForUpdatedFiles():
   sourceRootPath, sourceLanguage, languages = readINI()
