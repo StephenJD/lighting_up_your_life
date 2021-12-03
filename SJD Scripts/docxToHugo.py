@@ -4,6 +4,22 @@ import subprocess
 from deep_translator import GoogleTranslator
 import ctypes
 
+def Msgbox(title, text, style):
+    return ctypes.windll.user32.MessageBoxW(0, str(text), str(title), style)
+
+def getStarted() :
+  webRootPath = Path.cwd().parent
+  iniPath = webRootPath / "docxToHugo_ini.toml"
+  if iniPath.exists() :
+      with iniPath.open('r', encoding="utf-8") as iniFile:
+        while iniFile.readable():
+          if iniFile.readline().strip() == "[Docx Root]":
+            docxRoot = iniFile.readline().strip()
+          if iniFile.readline().strip() == "[Languages]":
+            languages = iniFile.readline().strip('[] \t').split(',')
+
+        
+
 sourceRootPath = r"C:\Users\Stephen\Documents\Church_Published"
 webRootPath = Path.cwd().parent
 languages = ('en','fr')
@@ -22,8 +38,7 @@ frenchMDfolder = webRootPath / mdRootFolder /languages[1]
 frenchPDFfolder = webRootPath / pdfRootFolder / languages[1]
 sourceRootStart = len(sourceRootPath)
 
-def Msgbox(title, text, style):
-    return ctypes.windll.user32.MessageBoxW(0, str(text), str(title), style)
+
 
 def haveMadeNewFolder(folder) :
   if not folder.exists():
@@ -172,6 +187,7 @@ def updateWebsite():
   subprocess.run([Git, *ParmsPush], shell=False)
 
 def checkForUpdatedFiles():
+  getStarted()
   for sourceDoc in Path(sourceRootPath).rglob('*.docx'):
     docName = sourceDoc.stem
     if docName.startswith('~'): continue
