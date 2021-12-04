@@ -23,6 +23,8 @@ def readINI() :
       with iniPath.open('r', encoding="utf-8") as iniFile:
         for line in iniFile:
           line = line.strip()
+          if line == "[Hugo Website Root]":
+            webRootPath = iniFile.readline().strip('\t\n "\'')
           if line == "[Docx Root]":
             docxRoot = iniFile.readline().strip('\t\n "\'')
           if line == "[Docx Language]":
@@ -33,14 +35,16 @@ def readINI() :
             dateChanged = datetime.fromisoformat(iniFile.readline().strip(' \t\n'))     
       iniFile.close()
       if (iniFileDate - dateChanged).total_seconds() > 0:
-        updateINI(iniPath, docxRoot, sourceLanguage, languages)
+        updateINI(iniPath, webRootPath, docxRoot, sourceLanguage, languages)
         dateChanged = True
       else:  dateChanged = False   
   return docxRoot, sourceLanguage, languages, dateChanged
 
-def updateINI(iniFile, docxRoot, sourceLanguage, languages):
+def updateINI(iniFile, webRoot, docxRoot, sourceLanguage, languages):
   with iniFile.open('w', encoding="utf-8") as ini: 
-    ini.write("[Docx Root]\n   ")
+    ini.write("[Hugo Website Root]\n   ")
+    ini.write(str(webRoot))    
+    ini.write("\n[Docx Root]\n   ")
     ini.write(str(docxRoot))
     ini.write("\n[Docx Language]\n   ")
     ini.write(sourceLanguage)    
@@ -221,19 +225,12 @@ def deleteRemovedFiles(sourceRootPath, languages):
         if response == 6 :
           itemsToDelete.append(dirItem)
   
-  subprocess.run(['cd', Path.cwd()], shell=True)
-  subprocess.run(['dir'], shell=True)
   for item in itemsToDelete:
     for subitem in item.rglob('*'): 
-      if subitem.is_file():
-        subitem.unlink()
+      if subitem.is_file(): subitem.unlink()
+      elif subitem.is_dir(): item.rmdir()
     if item.is_dir(): item.rmdir()
-    elif item.is_file(): item.unlink()
-    #itemPath = str(item).replace('/','\\')
-    #itemPath = '"' + itemPath + '"'
-    #subprocess.run(['echo', itemPath], shell=True)
-    #subprocess.run(['rmdir /s /q ', itemPath], shell=True)          
-
+    elif item.is_file(): item.unlink()     
 
 def checkForUpdatedFiles():
   sourceRootPath, sourceLanguage, languages, updated = readINI()
