@@ -38,7 +38,7 @@ def readINI() :
         updateINI(iniPath, webRootPath, docxRoot, sourceLanguage, languages)
         dateChanged = True
       else:  dateChanged = False   
-  return docxRoot, sourceLanguage, languages, dateChanged
+  return webRootPath, docxRoot, sourceLanguage, languages, dateChanged
 
 def updateINI(iniFile, webRoot, docxRoot, sourceLanguage, languages):
   with iniFile.open('w', encoding="utf-8") as ini: 
@@ -194,14 +194,14 @@ def createMDtranslation(sourceFile, destPath, name, language):
         translation.close()
         tempName.replace(destFile)
 
-def updateWebsite():
-  ParmsAdd = ("add", "..")
+def updateWebsite(webRootPath):
+  ParmsAdd = ("add", ".")
   ParmsCommit = ("commit","-m", "Upload new content")
   ParmsPush = ("push", "origin", "main")
   Git = "git"
-  subprocess.run([Git, *ParmsAdd], shell=False)
-  subprocess.run([Git, *ParmsCommit], shell=False)
-  subprocess.run([Git, *ParmsPush], shell=False)
+  subprocess.run([Git, *ParmsAdd], shell=False, cwd=webRootPath)
+  subprocess.run([Git, *ParmsCommit], shell=False, cwd=webRootPath)
+  subprocess.run([Git, *ParmsPush], shell=False, cwd=webRootPath)
 
 def deleteRemovedFiles(sourceRootPath, languages):
   mdRootPath = Path.cwd().parent / "content"
@@ -233,15 +233,16 @@ def deleteRemovedFiles(sourceRootPath, languages):
     elif item.is_file(): item.unlink()     
 
 def checkForUpdatedFiles():
-  sourceRootPath, sourceLanguage, languages, updated = readINI()
+  webRootPath, sourceRootPath, sourceLanguage, languages, updated = readINI()
   if updated:
-    msg = "Docx root is :" + sourceRootPath + '\n'
-    msg += "Source Language is: " + sourceLanguage + '\n'
+    msg = "Hugo Website root is " + webRootPath + '\n\n'
+    msg += "Docx root is " + sourceRootPath + '\n\n'
+    msg += "Source Language is: " + sourceLanguage + '\n\n'
     msg += "Languages are: " + str(languages)
+    msg += "\n\nEdit docxToHugo_ini.toml to make changes"
     response = Msgbox("docxToHugo_ini.toml", msg, 1)
   
-  webRootPath = Path.cwd().parent
-  mdRootPath = webRootPath / "content"
+  mdRootPath = Path(webRootPath) / "content"
   #pdfRootPath = webRootPath / "static/pdf"
 
   sourceLanguageMDfolder = mdRootPath / sourceLanguage
@@ -282,6 +283,6 @@ def checkForUpdatedFiles():
       createMDfolder(langMDpath, lang)
       createMDtranslation(sourceLanguageMDfile, langMDpath, docName, lang)
  
-  updateWebsite()
+  updateWebsite(webRootPath)
 
 checkForUpdatedFiles()
