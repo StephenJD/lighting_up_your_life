@@ -4,6 +4,7 @@ import subprocess
 from deep_translator import GoogleTranslator
 import ctypes
 import os
+
 pandocCmd = "pandoc"
 docxToPdfCmd = r"C:\Hugo\docto105\docto"
 
@@ -16,7 +17,9 @@ def readINI() :
   docxRoot = webRootPath.parent / 'docx';
   sourceLanguage = 'en'
   languages = ['en']
+  dateChanged = False
   if iniPath.exists() :
+      iniFileDate = datetime.fromtimestamp(iniPath.stat().st_mtime)
       with iniPath.open('r', encoding="utf-8") as iniFile:
         for line in iniFile:
           line = line.strip()
@@ -25,8 +28,28 @@ def readINI() :
           if line == "[Docx Language]":
             sourceLanguage = iniFile.readline().strip('\t\n "\'')
           if line == "[Languages]":
-            languages = iniFile.readline().strip('[] \t\n').split(',')
-  return docxRoot, sourceLanguage, languages
+            languages = iniFile.readline().strip('[] \t\n').replace(' ', '').split(',')
+          if line == "[DateChanged]":
+            dateChanged = datetime.fromisoformat(iniFile.readline().strip(' \t\n'))     
+      iniFile.close()
+      if (iniFileDate - dateChanged).total_seconds() > 0:
+        updateINI(iniPath, docxRoot, sourceLanguage, languages)
+        dateChanged = True
+      else:  dateChanged = False   
+  return docxRoot, sourceLanguage, languages, dateChanged
+
+def updateINI(iniFile, docxRoot, sourceLanguage, languages):
+  with iniFile.open('w', encoding="utf-8") as ini: 
+    ini.write("[Docx Root]\n   ")
+    ini.write(str(docxRoot))
+    ini.write("\n[Docx Language]\n   ")
+    ini.write(sourceLanguage)    
+    ini.write("\n[Languages]\n   ")
+    languages = str(languages).replace("'","")
+    languages = languages.replace(" ","")
+    ini.write(languages)
+    ini.write("\n[DateChanged]\n   ")
+    ini.write(str(datetime.now()))
 
 def haveMadeNewFolder(folder) :
   if not folder.exists():
@@ -58,7 +81,7 @@ def fileNeedsUpdating(sourceFile, convertedFile):
   elif convertedFile.exists():
     convertedFileDate = datetime.fromtimestamp(convertedFile.stat().st_mtime)
     sourceFileDate = datetime.fromtimestamp(sourceFile.stat().st_mtime)
-    fileOutOfDate = (sourceFileDate - convertedFileDate).total_seconds() > 120
+    fileOutOfDate = (sourceFileDate - convertedFileDate).total_seconds() > 0
   else:
     fileOutOfDate = True
   return fileOutOfDate
@@ -198,18 +221,24 @@ def deleteRemovedFiles(sourceRootPath, languages):
         if response == 6 :
           itemsToDelete.append(dirItem)
   
+  subprocess.run(['cd', Path.cwd()], shell=True)
+  subprocess.run(['dir'], shell=True)
   for item in itemsToDelete:
-    for subitem in item.rglob('*'): 
-      subprocess.run(['rmdir', subitem], shell=True)
-    subprocess.run(['rmdir', item], shell=True)          
+    #for subitem in item.rglob('*'): 
+      #subprocess.run(['rmdir /s ', str(subitem)], shell=True)
+    itemPath = str(item).replace('/','\\')
+    #itemPath = '"' + itemPath + '"'
+    subprocess.run(['dir'], shell=True)
+    subprocess.run(['rmdir /s /q', itemPath], shell=True)          
 
 
 def checkForUpdatedFiles():
-  sourceRootPath, sourceLanguage, languages = readINI()
-  msg = "Docx root is :" + sourceRootPath + '\n'
-  msg += "Source Language is: " + sourceLanguage + '\n'
-  msg += "Languages are: " + str(languages)
-  response = Msgbox("docxToHugo_ini.toml", msg, 1)
+  sourceRootPath, sourceLanguage, languages, updated = readINI()
+  if updated:
+    msg = "Docx root is :" + sourceRootPath + '\n'
+    msg += "Source Language is: " + sourceLanguage + '\n'
+    msg += "Languages are: " + str(languages)
+    response = Msgbox("docxToHugo_ini.toml", msg, 1)
   
   webRootPath = Path.cwd().parent
   mdRootPath = webRootPath / "content"
