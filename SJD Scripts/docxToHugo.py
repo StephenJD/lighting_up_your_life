@@ -224,12 +224,15 @@ def deleteRemovedFiles(sourceRootPath, languages):
   subprocess.run(['cd', Path.cwd()], shell=True)
   subprocess.run(['dir'], shell=True)
   for item in itemsToDelete:
-    #for subitem in item.rglob('*'): 
-      #subprocess.run(['rmdir /s ', str(subitem)], shell=True)
-    itemPath = str(item).replace('/','\\')
+    for subitem in item.rglob('*'): 
+      if subitem.is_file():
+        subitem.unlink()
+    if item.is_dir(): item.rmdir()
+    elif item.is_file(): item.unlink()
+    #itemPath = str(item).replace('/','\\')
     #itemPath = '"' + itemPath + '"'
-    subprocess.run(['dir'], shell=True)
-    subprocess.run(['rmdir /s /q', itemPath], shell=True)          
+    #subprocess.run(['echo', itemPath], shell=True)
+    #subprocess.run(['rmdir /s /q ', itemPath], shell=True)          
 
 
 def checkForUpdatedFiles():
