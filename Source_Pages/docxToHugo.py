@@ -17,7 +17,7 @@ def readINI() :
   docxRoot = webRootPath.parent / 'docx';
   sourceLanguage = 'en'
   languages = ['en']
-  dateChanged = False
+  dateChanged = True
   if iniPath.exists() :
       iniFileDate = datetime.fromtimestamp(iniPath.stat().st_mtime)
       with iniPath.open('r', encoding="utf-8") as iniFile:
@@ -35,9 +35,9 @@ def readINI() :
             dateChanged = datetime.fromisoformat(iniFile.readline().strip(' \t\n'))     
       iniFile.close()
       if (iniFileDate - dateChanged).total_seconds() > 0:
-        updateINI(iniPath, webRootPath, docxRoot, sourceLanguage, languages)
         dateChanged = True
-      else:  dateChanged = False   
+      else:  dateChanged = False              
+  if dateChanged: updateINI(iniPath, webRootPath, docxRoot, sourceLanguage, languages)
   return webRootPath, docxRoot, sourceLanguage, languages, dateChanged
 
 def updateINI(iniFile, webRoot, docxRoot, sourceLanguage, languages):
@@ -235,8 +235,8 @@ def deleteRemovedFiles(sourceRootPath, languages):
 def checkForUpdatedFiles():
   webRootPath, sourceRootPath, sourceLanguage, languages, updated = readINI()
   if updated:
-    msg = "Hugo Website root is " + webRootPath + '\n\n'
-    msg += "Docx root is " + sourceRootPath + '\n\n'
+    msg = "Hugo Website root is " + str(webRootPath) + '\n\n'
+    msg += "Docx root is " + str(sourceRootPath) + '\n\n'
     msg += "Source Language is: " + sourceLanguage + '\n\n'
     msg += "Languages are: " + str(languages)
     msg += "\n\nEdit docxToHugo_ini.toml to make changes"
