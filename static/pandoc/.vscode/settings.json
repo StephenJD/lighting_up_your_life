@@ -1,0 +1,6 @@
+{
+    "cmake.generator": "NMake Makefiles",
+    "cmake.configureEnvironment": {
+        "PICO_SDK_PATH": "C:\\Users\\Stephen\\Documents\\MyData\\Arduino\\Arduino_SJD\\Pi-Pico"
+    }
+}
