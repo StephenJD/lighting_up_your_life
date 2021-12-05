@@ -1,7 +1,7 @@
 ---
-title: Contact Us
+title: Projets pratiques
 type: document-folder
-translationKey: Contact Us
+translationKey: Practical Projects
 geometry: margin=2cm
 geometry: a4paper
 ---

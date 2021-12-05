@@ -20,3 +20,13 @@
   name = "Blog"
   url = "blog"
   weight = 30
+  
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 40
+  
+[[main]]
+  name = "Contact Us"
+  url = "#contact"
+  weight = 50

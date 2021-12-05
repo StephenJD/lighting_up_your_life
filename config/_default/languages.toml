@@ -28,6 +28,14 @@
 			name = "Blog"
 			url = "blog"
 			weight = 30
+		[[fr.menu.main]]			
+			name = "À propos"
+			url = "#about"
+			weight = 40
+		[[fr.menu.main]]
+			name = "Nous contacter"
+			url = "#contact"
+			weight = 50
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
