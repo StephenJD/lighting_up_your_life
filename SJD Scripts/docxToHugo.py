@@ -247,7 +247,7 @@ def checkForUpdatedFiles():
 
   sourceLanguageMDfolder = mdRootPath / sourceLanguage
   #sourceLanguagePDFfolder = pdfRootPath / sourceLanguage
-  sourceRootStart = len(sourceRootPath) + 1
+  sourceRootStart = len(str(sourceRootPath)) + 1
   sourceRootPath = Path(sourceRootPath)
   deleteRemovedFiles(sourceRootPath, languages)
   for sourceDoc in sourceRootPath.rglob('*.docx'):

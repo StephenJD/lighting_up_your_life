@@ -12,9 +12,10 @@ def Msgbox(title, text, style):
     return ctypes.windll.user32.MessageBoxW(0, str(text), str(title), style)
 
 def readINI() :
-  webRootPath = Path.cwd()
-  iniPath = webRootPath / "docxToHugo_ini.toml"
-  docxRoot = webRootPath.parent / 'docx';
+  docxRoot = Path.cwd() 
+  iniPath = docxRoot / "docxToHugo.toml"
+  webRootPath = docxRoot.parent
+
   sourceLanguage = 'en'
   languages = ['en']
   dateChanged = True
