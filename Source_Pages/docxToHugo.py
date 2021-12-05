@@ -39,7 +39,7 @@ def readINI() :
         dateChanged = True
       else:  dateChanged = False              
   if dateChanged: updateINI(iniPath, webRootPath, docxRoot, sourceLanguage, languages)
-  return webRootPath, docxRoot, sourceLanguage, languages, dateChanged
+  return iniPath, webRootPath, docxRoot, sourceLanguage, languages, dateChanged
 
 def updateINI(iniFile, webRoot, docxRoot, sourceLanguage, languages):
   with iniFile.open('w', encoding="utf-8") as ini: 
@@ -234,13 +234,13 @@ def deleteRemovedFiles(sourceRootPath, languages):
     elif item.is_file(): item.unlink()     
 
 def checkForUpdatedFiles():
-  webRootPath, sourceRootPath, sourceLanguage, languages, updated = readINI()
+  ini_file, webRootPath, sourceRootPath, sourceLanguage, languages, updated = readINI()
   if updated:
     msg = "Hugo Website root is " + str(webRootPath) + '\n\n'
     msg += "Docx root is " + str(sourceRootPath) + '\n\n'
     msg += "Source Language is: " + sourceLanguage + '\n\n'
     msg += "Languages are: " + str(languages)
-    msg += "\n\nEdit docxToHugo_ini.toml to make changes"
+    msg += f"\n\nEdit {ini_file.name} to make changes"
     response = Msgbox("docxToHugo_ini.toml", msg, 1)
   
   mdRootPath = Path(webRootPath) / "content"
