@@ -17,14 +17,6 @@
 	weight = 2
 	[fr.menu]
 		[[fr.menu.main]]
-			name = "Enseignement"
-			url = "teaching"
-			weight = 10
-		[[fr.menu.main]]
-			name = "Projets pratiques"
-			url = "practical-projects"
-            weight = 20 
-		[[fr.menu.main]]
 			name = "Blog"
 			url = "blog"
 			weight = 30

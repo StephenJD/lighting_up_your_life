@@ -7,7 +7,7 @@
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://life-for-liberia.netlify.app/"
+baseurl = "https://lighting-up-your-life.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -25,7 +25,7 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false # to get default language prefixed in the default home url
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
-disableLanguages = ['es','de']
+disableLanguages = ['fr','es','de']
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 100  # Number of items per page in paginated lists.

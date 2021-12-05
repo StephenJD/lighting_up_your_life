@@ -6,27 +6,16 @@
 # Specific values needing translation must be provided in languages.toml
 	
 [[main]]
-  name = "Teaching"
-  #url = "#hero-teaching/" # link to home-page section rather than another page
-  url = "teaching" # Must be all lower-case. The correct language folder will be used
+  name = "About"
+  url = "#about"
   weight = 10
-  
-[[main]]
-  name = "Practical Projects"
-  url = "practical-projects"
-  weight = 20 
   
 [[main]]
   name = "Blog"
   url = "blog"
-  weight = 30
-  
-[[main]]
-  name = "About"
-  url = "#about"
-  weight = 40
-  
+  weight = 20
+   
 [[main]]
   name = "Contact Us"
   url = "#contact"
-  weight = 50
+  weight = 30
