@@ -1,25 +1,21 @@
 ---
-title: Lighting Up Your Life
+#title: Lighting Up Your Life
+headless: true  # This file represents a page section.
 type: document
 translationKey: Lighting Up Your Life
 geometry: margin=2cm
 geometry: a4paper
-weight: 20
-headless: true
+weight: 10
 ---
-text
-<p float="left">
 
-<img src="media/image1.jpeg" alt="Person holding bundle of mini string lights in hands" style="height:100vh; max-width:25%; object-fit: contain;"/> 
-
-<img src="media/image2.jpeg" alt="Hand reaching out to light" style="height:100vh; max-width:25%; object-fit: contain;"/>
-
-<img src="media/image3.jpeg" alt="Candles in day of the dead" style="height:100vh; max-width:25%; object-fit: contain;"/>
-
-<img src="media/image4.jpeg" alt="A hand touching a small plant" style="height:100vh; max-width:25%; object-fit: contain;"/>
-
-</p>
-
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size: 0px;" >
+  <tr>
+    <td><img src="media/image1.jpeg" height=350 style="display:block; font-size: 0px;"></td>
+    <td><img src="media/image2.jpeg" height=350 style="display:block; font-size: 0px;"></td>
+    <td><img src="media/image3.jpeg" height=350 style="display:block; font-size: 0px;"></td>
+    <td><img src="media/image4.jpeg" height=350 style="display:block; font-size: 0px;"></td>
+  </tr>
+ </table>
 
 Desmond Tutu said "Hope is being able to see that there is light despite
 all of the darkness." So, how do you find that Hope? That Light?
@@ -41,15 +37,16 @@ religious rules for you to follow -- this is an opportunity to read
 about Jesus for yourself, to discover whether Jesus really does bring
 light into the darkness.
 
-![Person outdoors in snow, wearing gloves making heart shape with
-hands](media/image5.jpeg){width="1.2401574803149606in"
-height="0.8267716535433071in"} ![House of paper with a heart against
-sunlight](media/image6.jpeg){width="1.2401574803149606in"
-height="0.8267716535433071in"} ![Hands reaching towards the
-sun](media/image7.jpeg){width="1.2244094488188977in"
-height="0.8267716535433071in"} ![Hands catching rainbow
-light](media/image8.jpeg){width="1.125984251968504in"
-height="0.8267716535433071in"}
+<table>
+  <tr>
+    <td><img src="media/image5.jpeg" height=350></td>
+    <td><img src="media/image6.jpeg" height=350></td>
+    <td><img src="media/image7.jpeg" height=350></td>
+    <td><img src="media/image8.jpeg" height=350></td>
+  </tr>
+ </table>
+
+In this envelope is an account of the life of Jesus from an eyewitness - the Gospel (which means "Good News") of Luke. 
 
 This is our suggested approach. You can read it by yourself or with
 someone else you think may be interested. It can help to discuss what
@@ -66,7 +63,7 @@ you think with others.
     2.  What does it show us about Jesus, or about God?
 
     3.  What can I take from this? Or what might God want to say to me
-        > through this?
+        through this?
 
     4.  Do I have a friend whom it would be good to share this with?
 
@@ -88,6 +85,6 @@ Here are some additional tips:
     it means. The point is to see what it means to you and to see what
     God might be saying to you as you read and think about it.
 
-We would love to hear from you. You can leave an anonymous note on our
-website. If you would like to read and discuss a bible story with one of
-our volunteers, you can request a meeting in a public place.
+We would love to hear from you. You can leave an anonymous note on our website.
+If you would like to discuss anything or would like a volunteer to pray for you,
+you can request a meeting in a public place.
