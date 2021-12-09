@@ -6,7 +6,6 @@
 <link href="/static/css/print.css" media="print" rel="stylesheet" type="text/css" >
 <div class="container-fluid docs">
   <div class="row flex-xl-nowrap">
-
     <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main"> 
 		<article class="article">
 
@@ -18,7 +17,7 @@
 		 {{ partial "sibling-pages.html" . }}
 		 
           <h1>{{ .Title }}</h1>
-		  <a href="javascript:window.print()"><img src="{{$print_img}}" alt="print this page" class="no-print" ></a>
+		  <a href="javascript:window.print()"><img src="{{$print_img}}" alt="print this page" class="no-print" > {{ partial "share.html" . }} </a>
 	{{/* Show ToC by default. */}}
     {{ if ne .Params.toc false }}
       <ul class="nav toc-top">

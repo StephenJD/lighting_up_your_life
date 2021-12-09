@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Life For Liberia"
+org_name = "Lighting Up Chinley"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Resources for Disciplship"
@@ -90,6 +90,13 @@ sharing_image = ""
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
 
+[Params.social]
+  facebook = true
+  linkedin = false
+  twitter = true
+  whatsapp = true
+  email = true
+  
 ############################
 ## Regional Settings
 ############################
@@ -116,6 +123,8 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 book_section_pager = false
 
 # Enable in-built social sharing buttons? (true/false)
+[share]
+[sharing]
 sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?

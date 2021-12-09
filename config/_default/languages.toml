@@ -7,7 +7,7 @@
 	#languageCode = "en"
 	languageName = "English"
 	contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-	title = "Life For Liberia"
+	title = "Light Up Your Life"
 	weight = 1
 			
 [fr]

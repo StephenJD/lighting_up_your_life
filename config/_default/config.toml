@@ -34,13 +34,7 @@ enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
-
-#	[languages.es]
-#		languageName = "Spanish"
-#		title = "Elife es Liberia"
-#		weight = 3
-#		contentDir = "content/es"
-		
+	
 [permalinks]
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
   authors = "/author/:slug/"
