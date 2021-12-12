@@ -2,7 +2,7 @@
 title: Luke's Gospel
 type: document
 translationKey: Bible
-menu: Read_Online
+menu: Read_Online_biblia
 ---
 <html>
 <body>
