@@ -47,7 +47,7 @@ light into the darkness.
   </tr>
  </table>
 
-In this envelope is an account of the life of Jesus from an eyewitness - the Gospel (which means "Good News") of Luke. 
+The Gospel (which means "Good News") of Luke is an account of the life of Jesus from an eyewitness - you can read it on this website.
 
 This is our suggested approach. You can read it by yourself or with
 someone else you think may be interested. It can help to discuss what
@@ -86,6 +86,6 @@ Here are some additional tips:
     it means. The point is to see what it means to you and to see what
     God might be saying to you as you read and think about it.
 
-We would love to hear from you. You can leave an anonymous note on our website.
+We would love to hear from you. You can leave an anonymous note via our contact form.
 If you would like to discuss anything or would like a volunteer to pray for you,
-you can request a meeting in a public place.
+just ask.
