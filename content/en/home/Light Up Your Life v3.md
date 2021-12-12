@@ -21,12 +21,12 @@ share: true
 Desmond Tutu said "Hope is being able to see that there is light despite
 all of the darkness." So, how do you find that Hope? That Light?
 
-Jesus said \"I am the Light of the World." What did he mean? How can he
-claim that? How can that be relevant to what we are experiencing here
+Jesus said \"I am the Light of the World. Whoever follows me will never walk in darkness, but will have the light of life." 
+What did he mean? How can he claim that? How can that be relevant to what we are experiencing here
 and now?
 
 Many people, whether they have any faith background or not, find great
-hope and peace in prayer and trying to understand God through Jesus and
+hope and peace in prayer and trying to relate to God through Jesus and
 his words. Many find that God sometimes speaks to them with comfort or
 wise guidance. It is a most wonderful feeling to know that God has
 spoken to you. You realise that you are not on your own and that He
