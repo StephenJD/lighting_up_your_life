@@ -1,0 +1,14 @@
+{{ $current_page := . }}
+<div class="container-fluid docs">
+  <div class="row justify-content-center">
+    <main class="py-md-3 pl-md-5 docs-content" role="main"> 
+		<article class="article">	 
+          <h1>{{ .Title }}</h1>
+		  {{ partial "share.html" . }}
+	      <div class="article-style">
+            {{ .Content }}
+          </div>
+        </article>
+    </main>
+  </div>
+</div>
