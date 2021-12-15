@@ -1,9 +1,18 @@
 from pathlib import Path
 from datetime import datetime
 import subprocess
+# Install deep_translator with: 
+# python.exe -m pip install --upgrade pip
+# pip install -U deep-translator
 from deep_translator import GoogleTranslator
 import ctypes
 import os
+# pip install pywin32 --upgrade
+import win32com
+from win32com.client import constants
+# pip install pandoc
+import pypandoc
+import mammoth
 
 pandocCmd = "pandoc"
 docxToPdfCmd = r"C:\Hugo\docto105\docto"
@@ -56,6 +65,14 @@ def updateINI(iniFile, webRoot, docxRoot, sourceLanguage, languages):
     ini.write("\n[DateChanged]\n   ")
     ini.write(str(datetime.now()))
 
+def save_as_docx(word, doc):
+  wb = word.Documents.Open(str(doc))
+  out_file = doc.with_suffix('.docx')
+  print(f"Converting {doc.name} to .docx")
+  wb.SaveAs2(str(out_file), FileFormat=16) # file format for docx
+  wb.Close()
+  doc.unlink()
+
 def haveMadeNewFolder(folder) :
   if not folder.exists():
     folder.mkdir(parents=True)
@@ -94,9 +111,14 @@ def fileNeedsUpdating(sourceFile, convertedFile):
 def createMDfile(sourcePath, destPath, name):
   file = destPath / (name + ".md")
   if fileNeedsUpdating(sourcePath, file):
-    parms = ("-s", "-f", "docx", sourcePath,"-t", "markdown", "-o", file)
+    #parms = ("-s", "-f", "docx", sourcePath,"-t", "markdown", "-o", file)
     print("Created:", name + ".md")
-    subprocess.run([pandocCmd, *parms], shell=False)
+    result = mammoth.convert_to_markdown(sourcePath)
+    with file.open('w', encoding="utf-8") as outFile:
+      outFile.write(result.value);
+    outFile.close()
+    #pypandoc.convert_file(str(sourcePath), 'markdown', outputfile=str(file)) 
+    #subprocess.run([pandocCmd, *parms], shell=False)
     if not file.exists(): file = False
   else:
     file = False
@@ -156,10 +178,20 @@ def createPDF(sourcePath, destPath, name):
     #tempName.replace(sourcePath)
     tempPDF.replace(file)
 
+def translateBlock(translationBlock, language):
+  try:
+    translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
+  except:
+    translated = None
+  if translated is None:
+    translated = translationBlock
+  return translated
+
 def createMDtranslation(sourceFile, destPath, name, language):
   destFile = destPath / (name + '.md')
   if fileNeedsUpdating(sourceFile, destFile):
     tempName = destFile.with_suffix('.temp')
+    print(f"Translating {name} into {language}")
     with sourceFile.open('r', encoding="utf-8") as original:
       with tempName.open('w', encoding="utf-8") as translation: 
         translationBlock = ''
@@ -170,7 +202,7 @@ def createMDtranslation(sourceFile, destPath, name, language):
           if not headerCompleted:
             if line.startswith('title: '):               
               englishTitle = line[7:]
-              translated = GoogleTranslator(source='en', target=language).translate(text=englishTitle)
+              translated = translateBlock(englishTitle, language)
               line = line[:7] + translated + '\n'
               translationBlock += line
             else:
@@ -181,17 +213,24 @@ def createMDtranslation(sourceFile, destPath, name, language):
                 blockLength = 0
               translationBlock += line
               blockLength += lineLen
+          elif line.startswith('!['): # image
+            translated = translateBlock(translationBlock, language)
+            translation.write(translated)
+            translation.write(line)
+            translationBlock = ''
+            blockLength = 0;
           elif blockLength + lineLen < 4000:
             translationBlock += line
             blockLength += lineLen
           else:
-            translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
+            translated = translateBlock(translationBlock, language)
             print(translated[:10])
             translation.write(translated)
-            translationBlock = ''
-            blockLength = 0;
-        translated = GoogleTranslator(source='en', target=language).translate(text=translationBlock)
-        translation.write(translated)
+            translationBlock = line
+            blockLength = lineLen;
+        if len(translationBlock) > 0:
+          translated = translateBlock(translationBlock, language)
+          translation.write(translated)
         translation.close()
         tempName.replace(destFile)
 
@@ -204,8 +243,7 @@ def updateWebsite(webRootPath):
   subprocess.run([Git, *ParmsCommit], shell=False, cwd=webRootPath)
   subprocess.run([Git, *ParmsPush], shell=False, cwd=webRootPath)
 
-def deleteRemovedFiles(sourceRootPath, languages):
-  mdRootPath = Path.cwd().parent / "content"
+def deleteRemovedFiles(sourceRootPath, mdRootPath, languages):
   itemsToDelete = []
   for lang in languages:
     mdLangPath = mdRootPath / lang
@@ -250,7 +288,19 @@ def checkForUpdatedFiles():
   #sourceLanguagePDFfolder = pdfRootPath / sourceLanguage
   sourceRootStart = len(str(sourceRootPath)) + 1
   sourceRootPath = Path(sourceRootPath)
-  deleteRemovedFiles(sourceRootPath, languages)
+  deleteRemovedFiles(sourceRootPath, mdRootPath, languages)
+  docsToConvert = False;
+  for sourceDoc in sourceRootPath.rglob('*.doc'):
+    if sourceDoc.stem.startswith('~'): continue
+    if not docsToConvert:
+      docsToConvert = True;
+      word = win32com.client.Dispatch("Word.Application")
+      word.visible = 0
+    save_as_docx(word, sourceDoc)
+  
+  if docsToConvert:
+    word.Quit()
+
   for sourceDoc in sourceRootPath.rglob('*.docx'):
     docName = sourceDoc.stem
     if docName.startswith('~'): continue

@@ -86,6 +86,4 @@ Here are some additional tips:
     it means. The point is to see what it means to you and to see what
     God might be saying to you as you read and think about it.
 
-We would love to hear from you. You can leave an anonymous note via our contact form.
-If you would like to discuss anything or would like a volunteer to pray for you,
-just ask.
+We would love to hear from you. You can leave an anonymous note, ask a question, request prayer or request a meeting with a volunteer. Just fill in the online contact form.
