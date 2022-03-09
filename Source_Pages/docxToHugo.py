@@ -34,9 +34,9 @@ def readINI() :
         for line in iniFile:
           line = line.strip()
           if line == "[Hugo Website Root]":
-            webRootPath = iniFile.readline().strip('\t\n "\'')
+            webRootPath = Path(iniFile.readline().strip('\t\n "\''))
           if line == "[Docx Root]":
-            docxRoot = iniFile.readline().strip('\t\n "\'')
+            docxRoot = Path(iniFile.readline().strip('\t\n "\''))
           if line == "[Docx Language]":
             sourceLanguage = iniFile.readline().strip('\t\n "\'')
           if line == "[Languages]":
@@ -108,18 +108,95 @@ def fileNeedsUpdating(sourceFile, convertedFile):
     fileOutOfDate = True
   return fileOutOfDate
 
-def createMDfile(sourcePath, destPath, name):
+def correctImagePaths(mdFile):
+  with mdFile.open('r', encoding="utf-8") as originalfile:
+    tempFile = mdFile.parent / 'tempFile.txt'
+    with tempFile.open('w', encoding="utf-8") as temp:    
+      gotUnclosedImageName = False
+      startImageTag = -1
+      for line in originalfile:
+        if startImageTag == -1: 
+          startImageTag = line.find('![')
+          if startImageTag >= 0: gotUnclosedImageName = True
+
+        while startImageTag >= 0 :
+          if gotUnclosedImageName:
+            closeImageName = line.find(']',startImageTag) + 1
+            if closeImageName >= 1:
+              temp.write(line[:closeImageName].strip('\n'))
+              line = line[closeImageName:]            
+              gotUnclosedImageName = False
+              gotUnclosedBrace = False
+              imgPath = ''
+            else:
+              line = line.strip('\n')
+              break
+          
+          if imgPath == '':
+            startImagePath = line.find('(')
+            if startImagePath >= 0:
+              temp.write(line[:startImagePath].strip('\n'))
+              imgPath = '('
+              gotUnclosedParen = True
+            else:
+              line = line.strip('\n')
+              break
+          
+          if gotUnclosedParen:
+            startPos = line.find('\\static\\')
+            if startPos >= 0:
+              startPos += len('\\static')
+            else: startPos = 0
+            endpos = line.find(')') + 1
+            if endpos >= 1:
+              imgPath += line[startPos:endpos]
+              imgPath = imgPath.replace('\\','/')
+              temp.write(imgPath.strip('\n'))
+              gotUnclosedParen = False
+              line = line[endpos:]
+            else:
+              imgPath += line[startPos:].strip('\n')
+              line = ''
+              break
+
+          if line.find('{') >= 0 : 
+            gotUnclosedBrace = True
+          else:
+            startImageTag = line.find('![')
+            if startImageTag >= 0: gotUnclosedImageName = True
+
+          if gotUnclosedBrace:
+            endBrace = line.find('}') + 1
+            if endBrace >= 1: 
+              gotUnclosedBrace = False
+              line = line[endBrace:]
+              startImageTag = line.find('![')  
+              if startImageTag >= 0: gotUnclosedImageName = True          
+            else:
+              line = ''
+              break
+        # end while
+        temp.write(line)
+    originalfile.close()
+    mdFile.unlink()
+    temp.close()
+    tempFile.replace(mdFile)
+
+def createMDfile(sourcePath, destPath, name, mediaPath):
   file = destPath / (name + ".md")
+  mediaPath = str(mediaPath/name).replace(' ','_')
   if fileNeedsUpdating(sourcePath, file):
-    #parms = ("-s", "-f", "docx", sourcePath,"-t", "markdown", "-o", file)
+    parms = ("-s", "-f", "docx", sourcePath,"-t", "markdown", f"--extract-media={mediaPath}", "-o", file)
     print("Created:", name + ".md")
-    result = mammoth.convert_to_markdown(sourcePath)
-    with file.open('w', encoding="utf-8") as outFile:
-      outFile.write(result.value);
-    outFile.close()
-    #pypandoc.convert_file(str(sourcePath), 'markdown', outputfile=str(file)) 
-    #subprocess.run([pandocCmd, *parms], shell=False)
+    #result = mammoth.convert_to_markdown(sourcePath)
+    #with file.open('w', encoding="utf-8") as outFile:
+      #outFile.write(result.value);
+    #outFile.close()
+    #pypandoc.convert_file(str(sourcePath), 'markdown', extra_args = f"--extract-media={mediaPath}", outputfile=str(file)) 
+    subprocess.run([pandocCmd, *parms], shell=False)
     if not file.exists(): file = False
+    else:
+      correctImagePaths(file)
   else:
     file = False
   return file
@@ -199,12 +276,19 @@ def createMDtranslation(sourceFile, destPath, name, language):
         headerCompleted = False;
         for line in original:
           lineLen = len(line)
+          if blockLength + lineLen > 4000:
+            translated = translateBlock(translationBlock, language)
+            print(translated[:10])
+            translation.write(translated)
+            translationBlock = ""
+            blockLength = 0
+
+          imagePos = line.find('![')
           if not headerCompleted:
             if line.startswith('title: '):               
               englishTitle = line[7:]
               translated = translateBlock(englishTitle, language)
-              line = line[:7] + translated + '\n'
-              translationBlock += line
+              translationBlock += line[:7] + translated + '\n'
             else:
               if blockLength > 5 and line == '---\n' :
                 headerCompleted = True
@@ -213,21 +297,22 @@ def createMDtranslation(sourceFile, destPath, name, language):
                 blockLength = 0
               translationBlock += line
               blockLength += lineLen
-          elif line.startswith('!['): # image
-            translated = translateBlock(translationBlock, language)
-            translation.write(translated)
-            translation.write(line)
-            translationBlock = ''
-            blockLength = 0;
-          elif blockLength + lineLen < 4000:
+          elif imagePos >= 0: # image
+            while imagePos >= 0:
+              translationBlock += line[:imagePos]
+              translated = translateBlock(translationBlock, language)
+              translationBlock = ""
+              translation.write(translated)
+              imageEnd = line.find(')',imagePos) + 1
+              translation.write(line[imagePos:imageEnd])
+              line = line[imageEnd:]
+              imagePos = line.find('![')
+            translationBlock = line
+            blockLength = len(line);
+          else:
             translationBlock += line
             blockLength += lineLen
-          else:
-            translated = translateBlock(translationBlock, language)
-            print(translated[:10])
-            translation.write(translated)
-            translationBlock = line
-            blockLength = lineLen;
+
         if len(translationBlock) > 0:
           translated = translateBlock(translationBlock, language)
           translation.write(translated)
@@ -281,13 +366,12 @@ def checkForUpdatedFiles():
     msg += f"\n\nEdit {ini_file.name} to make changes"
     response = Msgbox("docxToHugo_ini.toml", msg, 1)
   
-  mdRootPath = Path(webRootPath) / "content"
+  mdRootPath = webRootPath / "content"
   #pdfRootPath = webRootPath / "static/pdf"
 
   sourceLanguageMDfolder = mdRootPath / sourceLanguage
   #sourceLanguagePDFfolder = pdfRootPath / sourceLanguage
   sourceRootStart = len(str(sourceRootPath)) + 1
-  sourceRootPath = Path(sourceRootPath)
   deleteRemovedFiles(sourceRootPath, mdRootPath, languages)
   docsToConvert = False;
   for sourceDoc in sourceRootPath.rglob('*.doc'):
@@ -300,7 +384,7 @@ def checkForUpdatedFiles():
   
   if docsToConvert:
     word.Quit()
-
+  mediaRoot = webRootPath / "static/media"
   for sourceDoc in sourceRootPath.rglob('*.docx'):
     docName = sourceDoc.stem
     if docName.startswith('~'): continue
@@ -308,7 +392,7 @@ def checkForUpdatedFiles():
     # Create sourceLanguage .md files
     sourceLanguageMDpath = sourceLanguageMDfolder / docFolder
     createMDfolder(sourceLanguageMDpath, sourceLanguage)
-    mdFile = createMDfile(sourceDoc, sourceLanguageMDpath, docName)
+    mdFile = createMDfile(sourceDoc, sourceLanguageMDpath, docName, mediaRoot/docFolder)
     if mdFile:
       title = getDocTitle(mdFile)
       if title[0] == '¬':
