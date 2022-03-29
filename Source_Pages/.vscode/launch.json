@@ -5,12 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "PowerShell: Launch Current File",
-            "type": "PowerShell",
+            "name": "Python: Current File",
+            "type": "python",
             "request": "launch",
-            "script": "${file}",
-            "cwd": "${file}",
-            "args": ["\"C:\\Users\\Stephen\\Documents\\Church_Teaching\\Organic Church\""]
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }

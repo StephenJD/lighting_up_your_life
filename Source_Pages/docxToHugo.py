@@ -1,5 +1,6 @@
+from ast import If
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 import subprocess
 # Install deep_translator with: 
 # python.exe -m pip install --upgrade pip
@@ -27,9 +28,10 @@ def readINI() :
 
   sourceLanguage = 'en'
   languages = ['en']
-  dateChanged = True
+  iniFileHasChanged = True
   if iniPath.exists() :
       iniFileDate = datetime.fromtimestamp(iniPath.stat().st_mtime)
+      dateChanged = iniFileDate  - timedelta(seconds=1)
       with iniPath.open('r', encoding="utf-8") as iniFile:
         for line in iniFile:
           line = line.strip()
@@ -42,13 +44,16 @@ def readINI() :
           if line == "[Languages]":
             languages = iniFile.readline().strip('[] \t\n').replace(' ', '').split(',')
           if line == "[DateChanged]":
-            dateChanged = datetime.fromisoformat(iniFile.readline().strip(' \t\n'))     
+            try:
+              dateChanged = datetime.fromisoformat(iniFile.readline().strip(' \t\n'))
+            except Exception:
+              pass;     
       iniFile.close()
       if (iniFileDate - dateChanged).total_seconds() > 0:
-        dateChanged = True
-      else:  dateChanged = False              
-  if dateChanged: updateINI(iniPath, webRootPath, docxRoot, sourceLanguage, languages)
-  return iniPath, webRootPath, docxRoot, sourceLanguage, languages, dateChanged
+        iniFileHasChanged = True
+      else:  iniFileHasChanged = False              
+  if iniFileHasChanged: updateINI(iniPath, webRootPath, docxRoot, sourceLanguage, languages)
+  return iniPath, webRootPath, docxRoot, sourceLanguage, languages, iniFileHasChanged
 
 def updateINI(iniFile, webRoot, docxRoot, sourceLanguage, languages):
   with iniFile.open('w', encoding="utf-8") as ini: 
